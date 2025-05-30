@@ -1,0 +1,809 @@
+@import '../mixins';
+
+.mhub-col-lg-12 {
+  margin-top: 30px;
+}
+
+.mhub-locked{
+  opacity: .5;
+  cursor: pointer;
+}
+
+.mhub-jitsi-meeting-form,
+.mhub-zoom-meeting-form, .mhub-googlem-meeting-form {
+  margin-top: 60px;
+
+  &.jitsi-settings-api {
+    margin-top: 0;
+  }
+}
+
+.mhub-form-group {
+  display: flex;
+  width: 100%;
+
+  label {
+    width: 30% !important;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    color: #1c2025;
+    display: block;
+    margin-right: 25px;
+
+    small {
+      font-size: 13px;
+      font-weight: 400;
+      display: block;
+      color: #888;
+    }
+  }
+
+  .input-wrapper {
+    width: 70%;
+    position: relative;
+    .mhub_disabled{
+      width: 400px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      background: 0 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      border-radius: 3px;
+    }
+
+    &.zoom-recurrence-repeat {
+
+      select {
+        max-width: 150px;
+      }
+
+    }
+
+    .react-time-picker__inputGroup {
+      display: flex;
+      align-items: center;
+      width: 400px;
+    }
+
+    input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__hour,
+    input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__minute,
+    select.react-time-picker__inputGroup__input.react-time-picker__inputGroup__amPm {
+      width: 118px !important;
+    }
+
+    span.react-time-picker__inputGroup__leadingZero {
+      display: none;
+    }
+
+    .react-time-picker__inputGroup__divider {
+      font-size: 20px;
+      font-weight: 700;
+      margin: 0 10px;
+    }
+
+
+    button.react-time-picker__clear-button.react-time-picker__button {
+      display: none;
+    }
+
+    input[type="text"],
+    input[type="datetime-local"],
+    input[type="time"],
+    input[type="number"],
+    input[type="password"],
+    input[type="email"] {
+      max-width: 400px;
+      width: 100%;
+      border-radius: 8px;
+      background-color: #fff;
+      transition: all 0.3s ease;
+      border: 1px solid #d1dbe8;
+      box-sizing: border-box;
+      font-size: 15px;
+      line-height: 24px;
+      outline: none;
+      padding: 8px;
+      margin: 0;
+      height: 40px;
+
+      &:focus {
+        outline: none;
+        box-shadow: none;
+        border: 1px solid #997eff;
+      }
+    }
+
+    .react-datepicker-wrapper {
+      .react-datepicker__input-container {
+        input[type="text"] {
+          width: 400px;
+        }
+      }
+    }
+
+    .react-datepicker__month-container {
+      width: 400px;
+
+      .react-datepicker__day-name,
+      .react-datepicker__day,
+      .react-datepicker__time-name {
+        width: 2.7rem;
+        line-height: 2.7rem;
+      }
+    }
+
+    select {
+      font-size: 14px;
+      line-height: 2;
+      color: #2c3338;
+      border: 1px solid #d1dbe8;
+      box-shadow: none;
+      border-radius: 8px;
+      padding: 0 24px 0 8px;
+      max-width: 400px;
+      width: 100%;
+      height: 40px;
+      -webkit-appearance: none;
+      background: #fff url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E) no-repeat right 5px top 55%;
+      background-size: 16px 16px;
+      cursor: pointer;
+      vertical-align: middle;
+      outline: none;
+
+      &:focus {
+        outline: none;
+        box-shadow: none;
+        border: 1px solid #997eff;
+      }
+    }
+
+    &.duration-select {
+      select {
+        max-width: 130px;
+      }
+    }
+
+    .select-right-label {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1c2025;
+      margin-left: 10px;
+
+      &.right-space {
+        margin-right: 10px;
+      }
+    }
+
+    .mhub-switch-field {
+      display: block;
+
+      input[type="checkbox"] {
+        display: none !important;
+
+        &:checked+label {
+          background-color: #7856fb;
+        }
+
+        &:checked+label:after {
+          left: 33px;
+        }
+      }
+
+      label {
+        transition: all 200ms ease-in-out;
+        display: inline-block;
+        position: relative;
+        height: 35px;
+        width: 65px !important;
+        border-radius: 40px;
+        cursor: pointer;
+        background-color: #ddd;
+        color: transparent;
+
+        &:after {
+          transition: all 200ms ease-in-out;
+          content: ' ';
+          position: absolute;
+          height: 29px;
+          width: 29px;
+          border-radius: 50%;
+          background-color: white;
+          top: 3px;
+          left: 3px;
+          right: auto;
+          box-shadow: 1px 1px 1px gray;
+        }
+      }
+    }
+
+    textarea {
+      max-width: 400px;
+      width: 100%;
+      border-radius: 8px;
+      background-color: #fff;
+      transition: all 0.3s ease;
+      border: 1px solid #d1dbe8;
+      box-sizing: border-box;
+      font-size: 15px;
+      line-height: 24px;
+      outline: none;
+      padding: 8px;
+      margin: 0;
+      min-height: 100px;
+      /* Adjust as needed */
+
+      &:focus {
+        outline: none;
+        box-shadow: none;
+        border: 1px solid #997eff;
+      }
+    }
+
+    .rdtPicker {
+      min-width: 390px;
+    }
+  }
+
+  .editor-wrapper{
+    width: 70%;
+    .rsw-editor{
+      width: 400px;
+      min-height: 120px;
+    }
+    .rsw-ce{
+      background: #fff;
+    }
+  }
+
+  .thumbnail-wrapper{
+    width: 70%;
+    .meeting-thumbnail{
+      display: flex;
+      align-items: center;
+
+      img{
+        width: 100px;
+        height: 60px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+      }
+
+      .upload-thumbnail{
+        background-color: #7856fb;
+        box-shadow: rgba(10, 10, 10, 0.12) 0px 2px 4px 0px;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        transition: opacity 0.3s ease 0s;
+        border-radius: 8px;
+        padding: 6px 14px;
+        border: 0;
+        cursor: pointer;
+        span{
+          margin-right: 5px;
+        }
+        &:hover{
+          background-color: #4f21ff;
+        }
+      }
+
+      .reset-thumbnail{
+        background-color: rgb(205, 92, 92);
+        box-shadow: rgba(10, 10, 10, 0.12) 0px 2px 4px 0px;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        transition: opacity 0.3s ease 0s;
+        border-radius: 8px;
+        padding: 6px 14px;
+        border: 0;
+        margin-left: 20px;
+        cursor: pointer;
+        &:hover{
+          background-color: rgb(211 58 58);
+        }
+      }
+
+    }
+
+  }
+
+  .multi-checkbox-wrapper {
+    width: 70%;
+    display: grid;
+    grid-template-columns: repeat(2, 17rem);
+
+    .single-checkbox {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      label {
+        margin-left: 5px;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+.reports-mhub-form-group {
+  align-items: center;
+
+  label {
+    width: unset !important;
+    margin-right: 20px;
+    font-size: 18px;
+
+    &.mrl-10 {
+      margin-right: 10px;
+      margin-left: 10px;
+    }
+  }
+
+  .input-wrapper {
+    width: unset;
+  }
+
+  .react-datepicker-wrapper {
+    .react-datepicker__input-container {
+      input[type="text"] {
+        width: 220px !important;
+      }
+    }
+  }
+
+  .react-datepicker__month-container {
+    width: unset !important;
+  }
+
+}
+
+.mhub-form-actions {
+  display: block;
+
+  &.sticky-save-btn {
+    margin-top: 0;
+    position: fixed;
+    right: 30px;
+    top: 15%;
+    z-index: 99999;
+    .save-meeting{
+      margin-top: 0;
+    }
+    @include respond-to('four_hundread') {
+      &{
+        display: none;
+      }
+    }
+  }
+
+  .save-meeting {
+    background-color: #7856fb;
+    box-shadow: rgba(10, 10, 10, 0.12) 0px 2px 4px 0px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    transition: opacity 0.3s ease 0s;
+    border-radius: 8px;
+    padding: 13px 16px;
+    border: 0;
+    width: 150px;
+    cursor: pointer;
+    margin-top: 40px;
+
+    &:hover {
+      box-shadow: rgba(10, 10, 10, 0.2) 0px 2px 4px 0px;
+      background: #4f21ff;
+    }
+  }
+}
+
+.mhub-save-actions {
+  text-align: left;
+  display: block;
+
+  .setting-save-button {
+    padding: 13px 16px;
+    /* Adjusted padding for better spacing */
+    font-size: 16px;
+    background-color: #7856fb;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 150px;
+    margin-top: 40px;
+
+    &:hover {
+      background-color: #4f21ff;
+    }
+  }
+
+  .setting-save-button.saved {
+    background-color: rgba(183, 183, 183, 0.5098039216);
+    color: #333;
+  }
+}
+
+.mhub-pro-tag {
+  padding: 5px 15px;
+  background-color: rgb(253 230 138);
+  color: rgb(180 83 9)  ;
+  font-size: 13px;
+  border-radius: .375rem;
+  font-weight: 700;
+  cursor: pointer;
+
+  &.input-pro,
+  &.select-pro {
+    margin-left: 25px;
+  }
+
+  &.mhub-tag-addon{
+    margin-left: 10px;
+  }
+}
+
+.mhub-upcomming-tag {
+  padding: 5px 15px;
+  background-color: rgb(187 247 208);
+  color: rgb(21 128 61);
+  font-size: 13px;
+  border-radius: .375rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.mhub-field_right_dec {
+  line-height: 1;
+  color: #888;
+  margin-top: 5px;
+}
+
+.mhub-hint-wrapper {
+  .hint {
+    line-height: 20px;
+    color: #6c6969;
+    ;
+    font-size: 14px;
+    padding: 0;
+    margin: 8px 0;
+  }
+}
+
+.mhub_zoom_error, .mhub_googlem_error {
+  border: 1px solid #c3c4c7;
+  position: relative;
+
+  &.error {
+    background: #fff;
+    border-left-color: #d30c5c;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    padding: 15px 10px;
+    border-radius: 8px;
+    margin: 40px 0 0 0;
+  }
+
+  &.recording-error {
+    margin: 0px 0 50px 0;
+  }
+
+  h3 {
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+
+  .close-icon {
+    position: absolute;
+    right: 2%;
+    top: 30%;
+    color: #d30c5c;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+
+    &:hover {
+      color: red;
+    }
+  }
+}
+
+.mhub_warning {
+  border: 1px solid #c3c4c7;
+  position: relative;
+
+  &.warning {
+    background: #fff;
+    border-left-color: #e08104;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    padding: 15px 10px;
+    border-radius: 8px;
+    margin: 40px 0 0 0;
+  }
+
+  h3 {
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+
+  .close-icon {
+    position: absolute;
+    right: 2%;
+    top: 30%;
+    color: #d30c5c;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+
+    &:hover {
+      color: red;
+    }
+  }
+}
+
+.mhub-zoom-user-dec {
+  font-size: 14px;
+  font-weight: 500;
+
+  a {
+    color: #7856fb;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+
+    &:hover {
+      color: #4f21ff;
+      text-decoration: underline;
+    }
+
+    &:focus {
+      outline: none;
+      box-shadow: none;
+    }
+  }
+
+}
+
+@include respond-to('small') {
+  .mhub-form-group {
+    display: inline-block;
+    width: 100%;
+  
+    label {
+      width: 100% !important;
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+  
+    .input-wrapper {
+      width: 100%;
+      &.zoom-recurrence-repeat {
+  
+        select {
+          max-width: 150px;
+        }
+  
+      }
+  
+      .react-time-picker__inputGroup {
+        width: 100%;
+      }
+
+      .rdtPicker {
+        min-width: 98%;
+      }
+  
+      input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__hour,
+      input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__minute,
+      select.react-time-picker__inputGroup__input.react-time-picker__inputGroup__amPm {
+        width: 100%;
+      }
+  
+      span.react-time-picker__inputGroup__leadingZero {
+        display: none;
+      }
+  
+      input[type="text"],
+      input[type="datetime-local"],
+      input[type="time"],
+      input[type="number"],
+      input[type="password"],
+      input[type="email"] {
+        max-width: unset !important;
+        height: 50px;
+      }
+  
+      .react-datepicker-wrapper {
+        width: 100%;
+        .react-datepicker__input-container {
+          input[type="text"] {
+            width: 100%;
+          }
+        }
+      }
+  
+      .react-datepicker__month-container {
+        width: 100%;
+      }
+  
+      select {
+        max-width: unset;
+        height: 50px;
+      }
+
+      textarea {
+        max-width: unset  !important;
+      }
+    }
+
+    .mhub-select2 {
+      .css-1l9zu8y-control{
+        width: 100% !important;
+      }
+    
+      .css-2z8c8a-control{
+        width: 100% !important;
+      }
+  
+      .css-142jlnw-menu{
+        width: 100% !important;
+      }
+    
+    }
+    
+    .editor-wrapper{
+      width: 100%;
+      .rsw-editor{
+        width: 100%;
+      }
+    }
+  
+    .thumbnail-wrapper{
+      width: 100%;
+    }
+  
+    .multi-checkbox-wrapper {
+      width: 100%;
+      .single-checkbox{
+        align-items: flex-start;
+      }
+    }
+  }
+
+  .mhub-field_right_dec {
+    line-height: 20px;
+  }
+
+  .mhub-pro-tag {
+    float: right;
+    &.input-pro,
+    &.select-pro {
+      margin-top: 10px;
+    }
+  }
+}
+
+
+@include respond-to('medium') {
+  .reports-mhub-form-group {
+    display: inline-block;
+    width: 100%;
+    label {
+      width: 100% !important;
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+  
+    .input-wrapper {
+      width: 100%;
+      &.zoom-recurrence-repeat {
+        select {
+          max-width: 150px;
+        }
+  
+      }
+  
+      .react-time-picker__inputGroup {
+        width: 100%;
+      }
+
+      .rdtPicker {
+        min-width: 98%;
+      }
+  
+      input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__hour,
+      input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__minute,
+      select.react-time-picker__inputGroup__input.react-time-picker__inputGroup__amPm {
+        width: 100%;
+      }
+  
+      span.react-time-picker__inputGroup__leadingZero {
+        display: none;
+      }
+  
+      input[type="text"],
+      input[type="datetime-local"],
+      input[type="time"],
+      input[type="number"],
+      input[type="password"],
+      input[type="email"] {
+        max-width: unset !important;
+        height: 50px;
+      }
+  
+      .react-datepicker-wrapper {
+        width: 100%;
+        .react-datepicker__input-container {
+          input[type="text"] {
+            width: 100%;
+          }
+        }
+      }
+  
+      .react-datepicker__month-container {
+        width: 100%;
+      }
+  
+      select {
+        max-width: unset;
+        height: 50px;
+      }
+
+      textarea {
+        max-width: unset  !important;
+      }
+    }
+
+    .react-datepicker-wrapper {
+      .react-datepicker__input-container {
+        input[type="text"] {
+          width: 100% !important;
+        }
+      }
+    }
+
+    label {
+     text-align: left;
+  
+      &.mrl-10 {
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+    }
+  }
+}
+
+
+@include respond-to('four_hundread') {
+  .mhub-save-actions {
+    .setting-save-button {
+      width: 100%;
+    }
+  }
+
+  .mhub-form-actions {
+    .save-meeting {
+      width: 100%;
+    }
+
+    &.sticky-save-btn {
+      top: 9%;
+      right: 15px;
+    }
+  }
+}

@@ -1,0 +1,116 @@
+// jitsi-settings.scss
+
+.jitsi-settings-container {
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+  }
+  
+  .back-button {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #7856fb;
+    font-weight: 500;
+  
+    &:hover {
+        color: #4f21ff;
+    }
+    &:focus{
+        box-shadow: none;
+        outline: none;
+    }
+  }
+  
+  .main-wrapper {
+    padding: 20px 0px;
+    
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  
+    .title {
+      font-size: 28px;
+      font-weight: 700;
+      margin-left: 5px;
+    }
+  }
+  
+  .space {
+    height: 20px;
+  }
+  
+  .select-domain-section {
+    margin-bottom: 20px;
+    padding: 40px 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: fit-content;
+  
+    .select-domain-title {
+        h3{
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #3c434a;
+            padding-top: 0;
+            margin-top: 0;
+        }
+     
+    }
+  
+    .select-domain-description {
+      color: #777777;
+      margin-bottom: 20px;
+    }
+  
+    .radio-field {
+      margin-bottom: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      color: #3c434a;
+      &.disabled{
+        color: #777777bd;
+      }
+  
+      input {
+        margin-right: 10px;
+      }
+  
+      .mhub-pro-tag {
+        margin-left: 1rem;
+        padding: 5px 15px;
+        background-color: rgb(253 230 138);
+        color: rgb(180 83 9)  ;
+        font-size: 13px;
+        border-radius: .375rem;
+        font-weight: 700;
+        cursor: pointer;
+      }
+    }
+  }
+  
+  .save-button {
+    padding: 10px 16px;
+    background-color: #7856fb;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 16px;
+    width: 140px;
+  
+    &:hover {
+      background-color: #4f21ff;
+    }
+  }
+
+  .save-button.saved {
+    background-color: rgba(183, 183, 183, 0.5098039216);
+    color: #333;
+  }
+  

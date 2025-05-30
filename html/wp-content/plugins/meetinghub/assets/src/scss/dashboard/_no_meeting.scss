@@ -1,0 +1,66 @@
+.meetinghub-no-meeting, .mhub-has-no-data {
+    border-radius: 8px;
+    border: 2px dashed #979090cf;
+    padding: 2rem 4rem;
+    margin-top: 2rem;
+
+    .empty-meeting-wrapper, .empty-user-wrapper {
+      h1 {
+        font-size: 30px;
+        text-align: center;
+        color: #7a7a7a;
+        font-weight: 400;
+        line-height: 10px;
+      }
+
+      @include respond-to('small') {
+        h1{
+          line-height: 40px;
+          margin-top: 0;
+        }
+      }
+
+      .btn-wrapper {
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+
+        .create-meeting-btn {
+          text-decoration: none;
+          margin-left: 20px;
+          border: 2px solid #9790907a;
+          padding: 5px 15px;
+          border-radius: 8px;
+          color: #7a7a7a;
+          transition: 0.3s;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: fit-content;
+
+          span {
+            margin-right: 8px;
+            margin-top: -1px;
+          }
+
+          &:hover {
+            background: #7a7a7a;
+            color: #fff;
+          }
+        }
+
+        @include respond-to('small') {
+          .create-meeting-btn{
+            margin-left: 0;
+          }
+        }
+
+      }
+    }
+  }
+
+  @include respond-to('small') {
+    .mhub-has-no-data{
+      padding: 2rem 0rem;
+    }
+  }

@@ -1,0 +1,116 @@
+
+  #meetinghub_meeting p {
+    margin: 10px 0 0;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+  
+  #meetinghub_meeting span.label {
+    font-weight: bold;
+    color: #e74c3c;
+  }
+  
+  #meetinghub_meeting p span.label {
+    margin-right: 5px;
+    color: #7856fb;
+  }
+  
+
+  #meetinghub_meeting .notice {
+    margin-top: 50px;
+    font-size: 14px;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #f8d7da; 
+  }
+
+  #meetinghub_meeting .notice p{
+    margin: 10px;
+  }
+
+
+/* ZoomBlockEdit.css */
+.mhub-table {
+  width: 100%;
+  margin: 20px 0;
+  font-size: 1em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+}
+
+.mhub-table thead tr {
+  background-color: #7856fb;
+  color: #ffffff;
+  text-align: center;
+}
+
+.mhub-table th, .mhub-table td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  border-width: 0 1px 1px 0;
+  text-align: center;
+}
+
+.mhub-table th:first-child,
+.mhub-table td:first-child {
+  border-left: 0;
+}
+
+.mhub-table th:first-child {
+  border-bottom: 0;
+}
+
+.mhub-table th:last-child,
+.mhub-table td:last-child {
+  border-right: 0;
+}
+
+.mhub-table tbody tr:nth-of-type(odd) {
+  background-color: #f3f3f3;
+}
+
+.mhub-table tbody tr.active-row {
+  font-weight: bold;
+  color: #7856fb;
+}
+
+.mhub-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.mhub-table a {
+  color: #7856fb;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+.mhub-table a:hover {
+  text-decoration: underline !important;
+  color: #4f21ff;
+}
+
+.mhub_join_btn {
+  border-radius: 8px;
+  background-color: #7856fb;
+  padding: 10px 30px;
+  color: #ffffff !important;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  text-decoration: none !important;
+}
+
+.mhub_join_btn:hover {
+  background-color: #4f21ff;
+  color: #ffffff !important;
+}

@@ -1,0 +1,3799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PPV Live Webcams - Paid Videochat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-26 10:46+0300\n"
+"PO-Revision-Date: 2021-06-26 10:46+0300\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ppv-live-webcams.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/buddypress.php:38
+#, fuzzy
+msgid ""
+"To setup and update room or access as performer, go to Admin - Webcams after "
+"setting up group."
+msgstr ""
+"Para configurar y actualizar la sala o el acceso como ejecutante, vaya a "
+"Admin - Webcams después de configurar el grupo."
+
+#: inc/buddypress.php:86
+#, fuzzy
+#| msgid "Performer account was created"
+msgid "Group room was created."
+msgstr "Se creó una cuenta de Anfitrión"
+
+#: inc/buddypress.php:108
+#, fuzzy
+msgid "Group room is ready and you have been added to performer list."
+msgstr ""
+"La sala de grupo está lista y se le ha añadido a la lista de artistas "
+"intérpretes o ejecutantes."
+
+#: inc/buddypress.php:113 inc/buddypress.php:162 inc/buddypress.php:186
+#, fuzzy
+#| msgid "Room Page"
+msgid "Access Room Page"
+msgstr "Página de \"Live\""
+
+#: inc/buddypress.php:115
+#, fuzzy
+#| msgid "Performer Dashboard"
+msgid "Access Performer Dashboard"
+msgstr "Panel de Anfitrión"
+
+#: inc/buddypress.php:138
+msgid "There was an error saving, please try again"
+msgstr "Hubo un error al guardar, por favor intenta nuevamente"
+
+#: inc/buddypress.php:140
+msgid "Settings saved successfully"
+msgstr "Plugin activado correctamente"
+
+#: inc/buddypress.php:157 inc/buddypress.php:181
+#, fuzzy
+msgid ""
+"Webcams room was not setup, yet. Group administrator can set it up from "
+"Manage - Webcams."
+msgstr ""
+"Webcams habitación no estaba configurado, todavía. El administrador del "
+"grupo puede configurarlo desde Administrar - Webcams."
+
+#: inc/h5videochat.php:24
+msgid "Login is required to access your own videochat room!"
+msgstr ""
+"¡Es necesario iniciar sesión para acceder a su propia sala de video chat!"
+
+#: inc/h5videochat.php:24 inc/h5videochat.php:190 inc/h5videochat.php:254
+#: inc/h5videochat.php:259 inc/options.php:5173 inc/shortcodes.php:529
+#: inc/shortcodes.php:773 inc/shortcodes.php:891 inc/shortcodes.php:986
+#: inc/shortcodes.php:1001 inc/shortcodes.php:1314 inc/shortcodes.php:1315
+#: inc/shortcodes.php:1941 inc/shortcodes.php:5839 inc/shortcodes.php:7497
+#: ppv-live-webcams.php:861
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: inc/h5videochat.php:24 inc/h5videochat.php:190 inc/h5videochat.php:254
+#: inc/h5videochat.php:259 inc/h5videochat.php:1879 inc/options.php:5175
+#: inc/options.php:5176 inc/options.php:5177 inc/shortcodes.php:1014
+#: inc/shortcodes.php:1016 inc/shortcodes.php:1018 inc/shortcodes.php:1404
+#: inc/shortcodes.php:5839 ppv-live-webcams.php:861
+msgid "Register"
+msgstr "Registrarse"
+
+#: inc/h5videochat.php:30 inc/shortcodes.php:1714 inc/shortcodes.php:2266
+msgid ""
+"Your account is not currently enabled. Update your account records and wait "
+"for site admins to approve your account."
+msgstr ""
+"Su cuenta no está habilitada actualmente. Actualice los registros de su "
+"cuenta y espere a que los administradores del sitio aprueben su cuenta."
+
+#: inc/h5videochat.php:34 inc/shortcodes.php:2271
+msgid ""
+"Studio disabled your account: dashboard access is forbidden. Contact studio "
+"or site administrator!"
+msgstr ""
+"Studio deshabilitó su cuenta: el acceso al tablero está prohibido. Póngase "
+"en contacto con el estudio o administrador del sitio!"
+
+#: inc/h5videochat.php:72
+msgid "No random cam room found with current criteria!"
+msgstr ""
+"¡No se encontró una \"Live\" activo aleatoria con los criterios actuales!"
+
+#: inc/h5videochat.php:190
+msgid "Login is required to access private calls."
+msgstr "Se requiere iniciar sesión para acceder a llamadas privadas."
+
+#: inc/h5videochat.php:200
+msgid "This private call was closed."
+msgstr "Esta llamada privada fue cerrada."
+
+#: inc/h5videochat.php:201
+msgid "Private call is only available to performer and client, as setup."
+msgstr ""
+"La llamada privada solo está disponible para el Anfitrión y el afiliado, "
+"según la configuración."
+
+#: inc/h5videochat.php:207
+msgid "This private call does not exist."
+msgstr "Esta llamada privada no existe."
+
+#: inc/h5videochat.php:212
+msgid "This room can only be used for locked calls, with call link."
+msgstr ""
+"Este \"Live\" solo se puede utilizar para llamadas bloqueadas, con enlace de "
+"llamada."
+
+#: inc/h5videochat.php:236 inc/h5videochat.php:1888 inc/h5videochat.php:2151
+#: ppv-live-webcams.php:1983
+msgid "You are banned from accessing this room!"
+msgstr "¡Tienes prohibido acceder a este \"Live\"!"
+
+#: inc/h5videochat.php:254 inc/h5videochat.php:259
+msgid "Login is required to access."
+msgstr "Se requiere iniciar sesión para acceder."
+
+#: inc/h5videochat.php:260
+msgid "You are not in the allowed participant list."
+msgstr "No estás en la lista de participantes permitidos."
+
+#: inc/h5videochat.php:268
+msgid ""
+"This room is restricted by access list. You are not in room access list."
+msgstr ""
+"Este \"Live\" está restringido por la lista de acceso. No estás en la lista "
+"de acceso a el \"Live\"."
+
+#: inc/h5videochat.php:331
+#, fuzzy
+#| msgid ""
+#| "Group chat is disabled. This room can only be used for instant or locked "
+#| "calls."
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls (with call link)."
+msgstr ""
+"El chat grupal está deshabilitado. Este \"Live\" solo se puede usar para "
+"llamadas instantáneas o bloqueadas."
+
+#: inc/h5videochat.php:405
+msgid "Open in Full Page"
+msgstr "Abrir en página completa"
+
+#: inc/h5videochat.php:537
+msgid "ago"
+msgstr "hace"
+
+#: inc/h5videochat.php:569 inc/shortcodes.php:844
+msgid "Send"
+msgstr "Enviar"
+
+#: inc/h5videochat.php:570
+msgid "Type your message"
+msgstr "Escribe tu mensaje"
+
+#: inc/h5videochat.php:572 inc/h5videochat.php:1884 inc/shortcodes.php:5070
+#: ppv-live-webcams.php:855
+msgid "Wallet"
+msgstr "Billetera"
+
+#: inc/h5videochat.php:573 inc/shortcodes.php:1941
+msgid "Balance"
+msgstr "Balance"
+
+#: inc/h5videochat.php:574
+#, fuzzy
+#| msgid "Pending balance"
+msgid "Pending Balance"
+msgstr "Balance pendiente"
+
+#: inc/h5videochat.php:575
+#, fuzzy
+#| msgid "session in"
+msgid "Session Time"
+msgstr "en sesión"
+
+#: inc/h5videochat.php:576
+#, fuzzy
+#| msgid "Session Logs"
+msgid "Session Cost"
+msgstr "Costo de la evento grupal"
+
+#: inc/h5videochat.php:578
+msgid "Record"
+msgstr "Grabar"
+
+#: inc/h5videochat.php:579
+msgid "Start"
+msgstr "Inicio"
+
+#: inc/h5videochat.php:580
+msgid "Stop"
+msgstr "Detener"
+
+#: inc/h5videochat.php:581
+msgid "Discard"
+msgstr "Descartar"
+
+#: inc/h5videochat.php:582
+msgid "Download"
+msgstr "Descargar"
+
+#: inc/h5videochat.php:583 inc/h5videochat.php:635
+msgid "Uploading. Please wait..."
+msgstr "Cargando  Por favor espera..."
+
+#: inc/h5videochat.php:585
+msgid "Chat"
+msgstr "Chat"
+
+#: inc/h5videochat.php:586
+msgid "Camera"
+msgstr "Cámara"
+
+#: inc/h5videochat.php:587
+msgid "Users"
+msgstr "Usuarios"
+
+#: inc/h5videochat.php:588
+msgid "Options"
+msgstr "Opciones"
+
+#: inc/h5videochat.php:589
+msgid "Files"
+msgstr "Archivos"
+
+#: inc/h5videochat.php:590
+msgid "Presentation"
+msgstr "Presentación"
+
+#: inc/h5videochat.php:592
+msgid "Tap for Sound"
+msgstr "Toque para sonido"
+
+#: inc/h5videochat.php:593
+msgid "Enable Audio"
+msgstr "Habilitar audio"
+
+#: inc/h5videochat.php:594
+msgid "Mute"
+msgstr "Modo silencio"
+
+#: inc/h5videochat.php:595 inc/shortcodes.php:7134
+msgid "Reload"
+msgstr "Recargar"
+
+#: inc/h5videochat.php:596
+msgid "Ignore"
+msgstr "Ignorar"
+
+#: inc/h5videochat.php:598
+#, fuzzy
+msgid "Packet Loss: Download Connection Issue"
+msgstr "Pérdida de paquetes: Descargar problema de conexión"
+
+#: inc/h5videochat.php:599
+#, fuzzy
+msgid "Packet Loss: Upload Connection Issue"
+msgstr "Pérdida de paquetes: Problema de conexión de carga"
+
+#: inc/h5videochat.php:601
+msgid "Broadcast"
+msgstr "Transmitir"
+
+#: inc/h5videochat.php:602
+msgid "Stop Broadcast"
+msgstr "Detener transmission"
+
+#: inc/h5videochat.php:603
+msgid "Make a selection to start!"
+msgstr "¡Haz una selección para comenzar!"
+
+#: inc/h5videochat.php:605
+msgid "Gift"
+msgstr "Regalo"
+
+#: inc/h5videochat.php:606 inc/h5videochat.php:840
+msgid "Gifts"
+msgstr "Regalos"
+
+#: inc/h5videochat.php:608
+msgid "Lights On"
+msgstr "Luces encendidas"
+
+#: inc/h5videochat.php:609 inc/h5videochat.php:852
+msgid "Dark Mode"
+msgstr "Modo oscuro"
+
+#: inc/h5videochat.php:610 inc/h5videochat.php:853
+msgid "Picture in Picture"
+msgstr "Picture in Picture"
+
+#: inc/h5videochat.php:612
+msgid "Enter Fullscreen"
+msgstr "Ingrese a pantalla completa"
+
+#: inc/h5videochat.php:613
+msgid "Exit Fullscreen"
+msgstr "Salir de pantalla completa"
+
+#: inc/h5videochat.php:615
+msgid "Site Menu"
+msgstr "Menú del sitio"
+
+#: inc/h5videochat.php:617
+msgid "Request Private"
+msgstr "Solicitar sesion privada"
+
+#: inc/h5videochat.php:618
+msgid "Private"
+msgstr "Privado"
+
+#: inc/h5videochat.php:619
+#, fuzzy
+#| msgid "Request Private"
+msgid "Request Private Session"
+msgstr "Solicitar sesion privada"
+
+#: inc/h5videochat.php:620
+msgid "Performer Disabled Private Requests"
+msgstr "Anfitrión deshabilitado solicitudes privadas"
+
+#: inc/h5videochat.php:621
+msgid "Performer is Busy in Private"
+msgstr "El Anfitrión está ocupado en una seccion privada"
+
+#: inc/h5videochat.php:622
+msgid "Performer is Not Online"
+msgstr "El Anfitrión no está en línea"
+
+#: inc/h5videochat.php:623
+msgid "Nevermind"
+msgstr "No importa"
+
+#: inc/h5videochat.php:624
+msgid "Accept"
+msgstr "Aceptar"
+
+#: inc/h5videochat.php:625
+msgid "Decline"
+msgstr "Rechazado"
+
+#: inc/h5videochat.php:626
+msgid "Close Private"
+msgstr "Cerrar privado"
+
+#: inc/h5videochat.php:628 inc/shortcodes.php:7612
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/h5videochat.php:629
+msgid "Next: Random Videochat Room"
+msgstr "Siguiente: Sala de chat de video aleatorio"
+
+#: inc/h5videochat.php:631 inc/shortcodes.php:7125
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/h5videochat.php:632
+msgid "Size"
+msgstr "Tamaño"
+
+#: inc/h5videochat.php:633
+msgid "Age"
+msgstr "Edad"
+
+#: inc/h5videochat.php:634
+msgid "Upload: Drag and drop files here, or click to select files"
+msgstr ""
+"Cargar: arrastre y suelte archivos aquí, o haga clic para seleccionar "
+"archivos"
+
+#: inc/h5videochat.php:636 inc/shortcodes.php:5595
+msgid "Open"
+msgstr "Abierto"
+
+#: inc/h5videochat.php:637 inc/shortcodes.php:6023
+msgid "Delete"
+msgstr "Eliminar"
+
+#: inc/h5videochat.php:639
+msgid "Media Displayed"
+msgstr "Medios mostrados"
+
+#: inc/h5videochat.php:640
+msgid "Remove"
+msgstr "Remover"
+
+#: inc/h5videochat.php:641 inc/shortcodes.php:3464 inc/shortcodes.php:3497
+#: inc/shortcodes.php:3585 inc/shortcodes.php:3640
+msgid "Default"
+msgstr "Defecto"
+
+#: inc/h5videochat.php:642
+msgid "Empty"
+msgstr "Vacío"
+
+#: inc/h5videochat.php:644 inc/shortcodes.php:3726 inc/shortcodes.php:7573
+#: inc/shortcodes.php:8146
+msgid "Profile"
+msgstr "Perfil"
+
+#: inc/h5videochat.php:645 inc/shortcodes.php:3537
+msgid "Show"
+msgstr "Mosotrar"
+
+#: inc/h5videochat.php:647
+msgid "Private Call"
+msgstr "Llamada privada"
+
+#: inc/h5videochat.php:648 inc/h5videochat.php:1433
+msgid "Exit"
+msgstr "Salida"
+
+#: inc/h5videochat.php:650 inc/h5videochat.php:832 inc/shortcodes.php:257
+msgid "External Broadcast"
+msgstr "Difusión Externa"
+
+#: inc/h5videochat.php:651
+msgid "Not Available"
+msgstr "No disponible"
+
+#: inc/h5videochat.php:652
+msgid "Streaming"
+msgstr "Streaming"
+
+#: inc/h5videochat.php:653 inc/shortcodes.php:5594 inc/shortcodes.php:6026
+msgid "Closed"
+msgstr "Cerrado"
+
+#: inc/h5videochat.php:654
+#, fuzzy
+msgid ""
+"Use after ending external broadcast, to faster restore web based webcam "
+"interface."
+msgstr ""
+"Utilice después de finalizar la emisión externa, para restaurar más "
+"rápidamente la interfaz web basada en la cámara web."
+
+#: inc/h5videochat.php:656 inc/shortcodes.php:352
+msgid "Add"
+msgstr "Añadir"
+
+#: inc/h5videochat.php:657
+msgid "Complete"
+msgstr "Completo"
+
+#: inc/h5videochat.php:700
+msgid "New"
+msgstr "Nuevo"
+
+#: inc/h5videochat.php:768
+msgid "Disable Call Requests"
+msgstr "Deshabilitar solicitudes de llamadas"
+
+#: inc/h5videochat.php:768
+msgid "Disable users from sending private call requests to room owner."
+msgstr ""
+"Impida que los usuarios envíen solicitudes de llamadas privadas al "
+"propietario del \"Live\"."
+
+#: inc/h5videochat.php:769
+msgid "Private Room"
+msgstr "\"Live\" privada"
+
+#: inc/h5videochat.php:769
+msgid "Hide room from public listings. Can be accessed by room link."
+msgstr ""
+"Ocultar \"Live\" de los listados públicos. Se puede acceder por enlace a "
+"este \"Live\""
+
+#: inc/h5videochat.php:771
+msgid "Calls Only"
+msgstr "Sólo llamadas"
+
+#: inc/h5videochat.php:771
+msgid "Call Only mode: can only be used for calls."
+msgstr "Modo de solo llamada: solo se puede usar para llamadas."
+
+#: inc/h5videochat.php:772
+msgid "Group Chat Disabled"
+msgstr "Chat grupal deshabilitado"
+
+#: inc/h5videochat.php:772
+msgid "Use room only for instant or locked calls."
+msgstr "Use el \"Live\" solo para llamadas instantáneas o bloqueadas."
+
+#: inc/h5videochat.php:774 inc/h5videochat.php:857 inc/shortcodes.php:3475
+msgid "Audio Only"
+msgstr "Solo audio"
+
+#: inc/h5videochat.php:774
+msgid ""
+"Audio only room mode: Only microphone, no webcam video, for all "
+"participants. Applies both to group and private calls."
+msgstr ""
+"Modo de \"Live\" de solo audio: solo micrófono, sin video de cámara, para "
+"todos los participantes. Se aplica tanto a llamadas grupales como privadas."
+
+#: inc/h5videochat.php:776 inc/shortcodes.php:3484
+msgid "Text Only"
+msgstr "Texto Solamente"
+
+#: inc/h5videochat.php:776
+#, fuzzy
+#| msgid ""
+#| "Audio only room mode: Only microphone, no webcam video, for all "
+#| "participants. Applies both to group and private calls."
+msgid ""
+"Text only room mode: Only text, for all participants. Applies both to group "
+"and private calls."
+msgstr ""
+"Modo de \"Live\" de solo audio: solo micrófono, sin video de cámara, para "
+"todos los participantes. Se aplica tanto a llamadas grupales como privadas."
+
+#: inc/h5videochat.php:779
+msgid "Conference Mode"
+msgstr "Modo de conferencia"
+
+#: inc/h5videochat.php:779
+msgid ""
+"Enable owner to show multiple users streams at same time in split view. All "
+"users can publish webcam."
+msgstr ""
+"Permita que el propietario muestre múltiples transmisiones de usuarios al "
+"mismo tiempo en vista dividida. Todos los usuarios pueden publicar cámara."
+
+#: inc/h5videochat.php:781
+msgid "Conference Auto Display"
+msgstr "Conferencia Auto Display"
+
+#: inc/h5videochat.php:781
+msgid ""
+"Display users automatically in available conference slots when they start "
+"their camera, in conference mode."
+msgstr ""
+"Muestre a los usuarios automáticamente en las conecciones de conferencia "
+"disponibles cuando inicien su cámara, en modo conferencia."
+
+#: inc/h5videochat.php:789
+msgid "Display Slots"
+msgstr "Mostrar conector"
+
+#: inc/h5videochat.php:789
+msgid "Split display to show multiple media items, in conference mode."
+msgstr ""
+"Pantalla dividida para mostrar múltiples elementos multimedia, en modo "
+"conferencia."
+
+#: inc/h5videochat.php:815
+msgid "Collaboration Mode"
+msgstr "Modo de colaboración"
+
+#: inc/h5videochat.php:815
+msgid "Enable collaboration mode with multiple media, files, presentation."
+msgstr ""
+"Habilite el modo de colaboración con múltiples medios, archivos, "
+"presentaciones."
+
+#: inc/h5videochat.php:821
+#, fuzzy
+msgid "Party Mode in Random Chat"
+msgstr "Modo fiesta en el chat aleatorio"
+
+#: inc/h5videochat.php:821
+#, fuzzy
+#| msgid ""
+#| "In party mode, all users that join room are added to party squad. Entire "
+#| "party moves to different room with Next button."
+msgid ""
+"In party mode, all users that join your room are added to party squad. "
+"Entire party moves to different room with Next button, in random chat. "
+msgstr ""
+"En el modo \"Actividad\", todos los usuarios que se unen a el \"Live\" se "
+"agregan al equipo de la \"Actividad\". Todo el grupo se mueve a otro \"LIve"
+"\"con el botón Siguiente."
+
+#: inc/h5videochat.php:824
+msgid "Party Reserved"
+msgstr "\"Actividad\" Reservada"
+
+#: inc/h5videochat.php:824
+msgid ""
+"Number of reserved party video slots, needs to be available in other room, "
+"to travel."
+msgstr ""
+"Número de espacios de video reservados para \"Actividad\", debe estar "
+"disponible en otro \"Live\"para viajar."
+
+#: inc/h5videochat.php:832
+#, fuzzy
+msgid ""
+"Broadcast with external RTMP encoder: Show a broadcast tab with settings to "
+"configure an external RTMP encoder."
+msgstr ""
+"Difusión con codificador RTMP externo: muestre una pestaña de difusión con "
+"ajustes para configurar un codificador RTMP externo."
+
+#: inc/h5videochat.php:836 inc/shortcodes.php:3968
+#, fuzzy
+#| msgid "Add Performer"
+msgid "Record Perfomer"
+msgstr "Agregar Anfitrión"
+
+#: inc/h5videochat.php:836 inc/shortcodes.php:3968
+#, fuzzy
+#| msgid "Active performer (stream):"
+msgid "Record performer stream."
+msgstr "Anfitrión activo (transmisión):"
+
+#: inc/h5videochat.php:837 inc/shortcodes.php:3969
+#, fuzzy
+#| msgid "Request Private"
+msgid "Record Private"
+msgstr "Solicitar sesion privada"
+
+#: inc/h5videochat.php:837 inc/shortcodes.php:3969
+#, fuzzy
+#| msgid "You closed private call."
+msgid "Record in private calls."
+msgstr "Cerraste la llamada privada."
+
+#: inc/h5videochat.php:838 inc/shortcodes.php:3971
+#, fuzzy
+msgid "Record All"
+msgstr "Grabar todo"
+
+#: inc/h5videochat.php:838 inc/shortcodes.php:3971
+#, fuzzy
+msgid "Record streams from all users."
+msgstr "Grabar secuencias de todos los usuarios."
+
+#: inc/h5videochat.php:840
+#, fuzzy
+msgid ""
+"Enable Gifts button in Actions bar. Gifts apply to current room goal when "
+"enabled. Disable to hide current room goal from text chat."
+msgstr ""
+"Active el botón Regalos en la barra Acciones. Los regalos se aplican a la "
+"meta actual de la habitación cuando se habilitan. Deshabilite para ocultar "
+"el objetivo actual de la habitación del chat de texto."
+
+#: inc/h5videochat.php:841
+#, fuzzy
+msgid "Goals Panel"
+msgstr "Objetivo iniciado"
+
+#: inc/h5videochat.php:841
+#, fuzzy
+msgid ""
+"Show goals panel for participants to see all goals. Users can donate to any "
+"Independent goal."
+msgstr ""
+"Mostrar panel de objetivos para que los participantes vean todos los "
+"objetivos. Los usuarios pueden donar a cualquier objetivo independiente."
+
+#: inc/h5videochat.php:842
+#, fuzzy
+msgid "Goals Sort"
+msgstr "Objetivo iniciado"
+
+#: inc/h5videochat.php:842
+#, fuzzy
+msgid "Sort goals by current donations, descending."
+msgstr "Ordene los objetivos por donaciones actuales, descendiendo."
+
+#: inc/h5videochat.php:845
+msgid "Room Preferences"
+msgstr "Preferencias de \"Live\""
+
+#: inc/h5videochat.php:851
+msgid "Sound Effects"
+msgstr "Efectos de sonido"
+
+#: inc/h5videochat.php:851
+msgid "Sound effects (on actions)."
+msgstr "Efectos de sonido (en acciones)."
+
+#: inc/h5videochat.php:852
+msgid "Dark interface mode."
+msgstr "Modo de interfaz oscura."
+
+#: inc/h5videochat.php:853
+#, fuzzy
+msgid "Picture in picture mode with camera over video."
+msgstr "Imagen en modo imagen con cámara sobre vídeo."
+
+#: inc/h5videochat.php:854
+msgid "Minimalist"
+msgstr "Minimalista"
+
+#: inc/h5videochat.php:854
+#, fuzzy
+msgid "Show less buttons, features and interface elements."
+msgstr "Mostrar menos botones, características y elementos de interfaz."
+
+#: inc/h5videochat.php:857
+msgid ""
+"Audio only user mode: Publish only microphone, no webcam video. Applies both "
+"to group and private calls."
+msgstr ""
+"Modo de usuario de solo audio: solo micrófono de publicación, sin video de "
+"cámara . Se aplica tanto a llamadas grupales como privadas."
+
+#: inc/h5videochat.php:858
+msgid "Reveal Mode"
+msgstr "Modo de revelar"
+
+#: inc/h5videochat.php:858
+msgid ""
+"Webcam reveal mode: hide webcam in private calls and use a Reveal button to "
+"enable on request."
+msgstr ""
+"Modo de revelación de la cámara: oculte la cámara en llamadas privadas y use "
+"un botón Revelar para habilitarla a pedido."
+
+#: inc/h5videochat.php:865
+msgid "Reveal Warmup"
+msgstr "Revelar warmupo"
+
+#: inc/h5videochat.php:865
+msgid "Time in seconds required before revealing webcam is possible."
+msgstr "Tiempo en segundos requerido antes de revelar la cámara es posible."
+
+#: inc/h5videochat.php:877
+msgid "User Preferences"
+msgstr "Preferencias del usuario"
+
+#: inc/h5videochat.php:992
+#, fuzzy
+#| msgid "You are room performer."
+msgid "You are room provider."
+msgstr "Eres Anfitrión de un \"Live\""
+
+#: inc/h5videochat.php:994 inc/h5videochat.php:995
+#, fuzzy
+#| msgid "Chat"
+msgid "Chat Type"
+msgstr "Chat"
+
+#: inc/h5videochat.php:994
+#, fuzzy
+#| msgid "Audio Call"
+msgid "Audio chat"
+msgstr "Llamada de audio"
+
+#: inc/h5videochat.php:995
+#, fuzzy
+#| msgid "Video Chat"
+msgid "Text chat"
+msgstr "Video Chat"
+
+#: inc/h5videochat.php:1001
+#, fuzzy
+#| msgid "This is a paid room:"
+msgid "This is a paid private session:"
+msgstr "Esta es un \"Live\" de pago:"
+
+#: inc/h5videochat.php:1002
+msgid "Cost"
+msgstr "Costo"
+
+#: inc/h5videochat.php:1003 inc/h5videochat.php:1198 inc/h5videochat.php:1227
+#: inc/h5videochat.php:1256 ppv-live-webcams.php:5561 ppv-live-webcams.php:5628
+msgid "Charging starts after a grace time:"
+msgstr "Se le comenzará a cobrar después de un tiempo de gracia:"
+
+#: inc/h5videochat.php:1172
+msgid "You are room performer."
+msgstr "Eres Anfitrión de un \"Live\""
+
+#: inc/h5videochat.php:1175
+msgid "This is a private room (not listed)."
+msgstr "Esta es una habitación privada (no incluida en la lista)."
+
+#: inc/h5videochat.php:1178
+msgid ""
+"This room can only be used for predefined locked calls. Participants need a "
+"private call link."
+msgstr ""
+"Esta sala solo se puede usar para llamadas bloqueadas predefinidas. Los "
+"participantes necesitan un enlace de llamada privada."
+
+#: inc/h5videochat.php:1181
+msgid ""
+"Group chat is disabled. Participants can only access this room for instant "
+"or locked calls."
+msgstr ""
+"El chat grupal está deshabilitado. Los participantes solo pueden acceder a "
+"este \"Live\"  para llamadas instantáneas o bloqueadas."
+
+#: inc/h5videochat.php:1195
+msgid "This is a paid room:"
+msgstr "Esta es un \"Live\" de pago:"
+
+#: inc/h5videochat.php:1196 ppv-live-webcams.php:5650
+msgid "Group Mode"
+msgstr "Modo grupal"
+
+#: inc/h5videochat.php:1197 ppv-live-webcams.php:5651
+msgid "Group session cost"
+msgstr "Costo de la evento grupal"
+
+#: inc/h5videochat.php:1199
+msgid ""
+"All participants pay during this session: Private calls are not available."
+msgstr ""
+"Todos los participantes pagan durante esta sesión: las llamadas privadas no "
+"están disponibles."
+
+#: inc/h5videochat.php:1210
+msgid ""
+"You are in Voyeur mode: hidden from user list. Participants will not be "
+"aware of your presence unless you write in text chat."
+msgstr ""
+"Estás en modo Espiador: oculto de la lista de usuarios. Los participantes no "
+"serán conscientes de tu presencia a menos que  escribas en el chat de texto."
+
+#: inc/h5videochat.php:1211
+msgid "Voyeur cost"
+msgstr "Costo de espiador"
+
+#: inc/h5videochat.php:1225
+msgid ""
+"Registered users can request private calls during free presale chat and you "
+"can accept:"
+msgstr ""
+"Los usuarios registrados pueden solicitar llamadas privadas durante el chat "
+"de preventa gratuito y usted puede aceptar:"
+
+#: inc/h5videochat.php:1226
+msgid "Private show cost per minute, for client:"
+msgstr "Costo de evento privado por minuto, para el cliente:"
+
+#: inc/h5videochat.php:1228
+msgid "Private call earning per minute, for performer:"
+msgstr "Ganancia de llamadas privadas por minuto, para Anfitrión:"
+
+#: inc/h5videochat.php:1248 ppv-live-webcams.php:5557
+msgid "You do not have enough credits to request a private show."
+msgstr "No tienes suficientes créditos para solicitar un evento privado."
+
+#: inc/h5videochat.php:1253
+msgid "You can request private session from room performer when available:"
+msgstr ""
+"Puede solicitar una sesión privada con el Anfitrión de el \"Live\" cuando "
+"esté disponible:"
+
+#: inc/h5videochat.php:1255 ppv-live-webcams.php:5525
+msgid "Private show cost per minute:"
+msgstr "Costo por minute de evento privado:"
+
+#: inc/h5videochat.php:1269
+#, fuzzy
+#| msgid ""
+#| "This room is in party mode and all users join the party squad. Entire "
+#| "party can be moved to other rooms by host."
+msgid ""
+"This room is in party mode and all users join the party squad. Entire party "
+"can be moved to other rooms by host, using Next button."
+msgstr ""
+"Este \"Live\" está en modo \"Actividad\" y todos los usuarios se unen al "
+"equipo de \"Actividad\". Toda la \"Actividad\" puede ser trasladada a otros "
+"\"Lives\" por el anfitrión."
+
+#: inc/h5videochat.php:1278
+msgid "You are in a party"
+msgstr "Estas en una \"Actividad\""
+
+#: inc/h5videochat.php:1281
+msgid ""
+"You are a party host. You can move party with Next and manage party users."
+msgstr ""
+"Eres un anfitrión de la \"Actividad\" Puede mover la \"Actividad\" con "
+"Siguiente y administrar los usuarios de la \"Actividad\"."
+
+#: inc/h5videochat.php:1316
+msgid "Room is in collaboration mode, with a Files panel."
+msgstr "El \"Live\" está en modo de colaboración, con un panel de archivos."
+
+#: inc/h5videochat.php:1380
+#, fuzzy
+msgid ""
+"WebRTC broadcasting may not be supported or provide good quality on certain "
+"devices, browser versions, connections or network conditions. \n"
+" - Use best network available if you have the option: 5GHz on WiFi instead "
+"of 2.4 GHz, LTE/4G on mobile instead of 3G, wired instead of wireless.\n"
+" - For increased streaming quality and reliability, you can broadcast "
+"directly to streaming server with an application like OBS for desktop or "
+"GoCoder for mobile. Advanced desktop encoders also enable advanced "
+"compositions, screen sharing, effects and transitions. See Broadcast tab "
+"next to Cam tab."
+msgstr ""
+"Para aumentar la calidad y fiabilidad de la transmisión, puede transmitir "
+"directamente al servidor de streaming con una aplicación como OBS para "
+"escritorio o GoCoder para dispositivos móviles. Los codificadores de "
+"escritorio avanzados también permiten composiciones avanzadas, uso "
+"compartido de pantalla, efectos y transiciones. Consulte la pestaña Difusión "
+"junto a la pestaña Cam."
+
+#: inc/h5videochat.php:1444
+#, fuzzy
+#| msgid "Current Cam"
+msgid "Current gifts goal"
+msgstr "Cámara actual"
+
+#: inc/h5videochat.php:1445
+#, fuzzy
+#| msgid "Description"
+msgid "Goal description"
+msgstr "Descripción"
+
+#: inc/h5videochat.php:1446
+#, fuzzy
+msgid "Goal started"
+msgstr "Objetivo iniciado"
+
+#: inc/h5videochat.php:1447
+#, fuzzy
+msgid "Cumulated gifts (including previous goals)"
+msgstr "Regalos acumulados (incluyendo goles anteriores)"
+
+#: inc/h5videochat.php:1516 inc/shortcodes.php:261
+#, fuzzy
+msgid "Download OBS"
+msgstr "Descargar OBS"
+
+#: inc/h5videochat.php:1516 inc/shortcodes.php:261
+#, fuzzy
+msgid ""
+"OBS Studio is free desktop application for live streaming from Linux, Mac "
+"and Windows. Includes advanced composition features, screen sharing, scenes, "
+"transitions, filters, media input options."
+msgstr ""
+"OBS Studio es una aplicación de escritorio gratuita para la transmisión en "
+"vivo desde Linux, Mac y Windows. Incluye funciones avanzadas de composición, "
+"uso compartido de pantalla, escenas, transiciones, filtros, opciones de "
+"entrada de medios."
+
+#: inc/h5videochat.php:1517 inc/shortcodes.php:277
+msgid "Stream URL"
+msgstr "URL del Streaming"
+
+#: inc/h5videochat.php:1517 inc/shortcodes.php:277
+msgid ""
+"RTMP Address / OBS Stream URL: full streaming address. Contains: server, "
+"port if different than default 1935, application and control parameters, "
+"key. For OBS Settings: Stream > Server."
+msgstr ""
+"Dirección RTMP / URL de transmisión OBS: dirección de transmisión completa. "
+"Contiene: servidor, puerto si es diferente al valor predeterminado de 1935, "
+"parámetros de aplicación y control, clave. Para la configuración de OBS: "
+"Stream> Servidor."
+
+#: inc/h5videochat.php:1518 inc/shortcodes.php:279
+#, fuzzy
+msgid "Stream Key"
+msgstr "Stream Key"
+
+#: inc/h5videochat.php:1518 inc/shortcodes.php:279
+#, fuzzy
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key."
+msgstr ""
+"Nombre de la secuencia / Clave de secuencia OBS: nombre de la secuencia. "
+"Para la configuración de OBS: Stream > Stream Key."
+
+#: inc/h5videochat.php:1532 inc/shortcodes.php:293
+msgid "Maximum Video Bitrate"
+msgstr "Velocidad de bits de video máxima"
+
+#: inc/h5videochat.php:1532 inc/shortcodes.php:293
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution. A static "
+"background and less motion requires less bitrate than movies, sports, games. "
+"For OBS Settings: Output > Streaming > Video Bitrate. Warning: Trying to "
+"broadcast higher bitrate than allowed by streaming server will result in "
+"disconnects/failures."
+msgstr ""
+"Use este valor o menor para la tasa de bits de video, dependiendo de la "
+"resolución. Un fondo estático y menos movimiento requiere menos bitrate que "
+"películas, deportes, juegos. Para la configuración de OBS: Salida> "
+"Transmisión> Velocidad de bits de video. Advertencia: Intentar transmitir "
+"una tasa de bits más alta que la permitida por el servidor de transmisión "
+"resultará en desconexiones / fallas."
+
+#: inc/h5videochat.php:1534 inc/shortcodes.php:295
+msgid "Maximum Audio Bitrate"
+msgstr "Velocidad de bits de audio máxima"
+
+#: inc/h5videochat.php:1534 inc/shortcodes.php:295
+msgid ""
+"Use this value or lower for audio bitrate. If you want to use higher Audio "
+"Bitrate, lower Video Bitrate to compensate for higher audio. For OBS "
+"Settings: Output > Streaming > Audio Bitrate. Warning: Trying to broadcast "
+"higher bitrate than allowed by streaming server will result in disconnects/"
+"failures."
+msgstr ""
+"Use este valor o menos para la tasa de bits de audio. Si desea utilizar una "
+"tasa de bits de audio más alta, una tasa de bits de video más baja para "
+"compensar el audio más alto. Para la configuración de OBS: Salida> "
+"Transmisión> Velocidad de bits de audio. Advertencia: Intentar transmitir "
+"una tasa de bits más alta que la permitida por el servidor de transmisión "
+"resultará en desconexiones / fallas."
+
+#: inc/h5videochat.php:1540 inc/shortcodes.php:302
+#, fuzzy
+msgid "Download GoCoder for iOS"
+msgstr "Descargar GoCoder para iOS"
+
+#: inc/h5videochat.php:1540 inc/shortcodes.php:302
+#, fuzzy
+msgid ""
+"The Wowza GoCoder™ app from Wowza Media Systems™ is a live audio and video "
+"capture and encoding application for iOS 8 and newer. Use the Wowza GoCoder "
+"app to broadcast HD-quality live events on the go from any location to any "
+"screen using H.264 adaptive bitrate streaming."
+msgstr ""
+"La aplicación Wowza GoCoder™ de Wowza Media Systems™ es una aplicación de "
+"captura y codificación de audio y vídeo en vivo para iOS 8 y versiones "
+"posteriores. Utilice la aplicación Wowza GoCoder para transmitir eventos en "
+"directo de calidad HD sobre la marcha desde cualquier ubicación a cualquier "
+"pantalla mediante la transmisión de velocidad de bits adaptable H.264."
+
+#: inc/h5videochat.php:1542 inc/shortcodes.php:304
+#, fuzzy
+msgid "Download GoCoder for Android"
+msgstr "Descargar GoCoder para Android"
+
+#: inc/h5videochat.php:1542 inc/shortcodes.php:304
+#, fuzzy
+msgid ""
+"The Wowza GoCoder™ app from Wowza Media Systems™ is a live audio and video "
+"capture and encoding application for Android 4.4 and later. Use the Wowza "
+"GoCoder app to broadcast HD-quality live events on the go from any location "
+"to any screen using H.264 adaptive bitrate streaming."
+msgstr ""
+"La aplicación Wowza GoCoder™ de Wowza Media Systems™ es una aplicación de "
+"captura y codificación de audio y vídeo en vivo para Android 4.4 y versiones "
+"posteriores. Utilice la aplicación Wowza GoCoder para transmitir eventos en "
+"directo de calidad HD sobre la marcha desde cualquier ubicación a cualquier "
+"pantalla mediante la transmisión de velocidad de bits adaptable H.264."
+
+#: inc/h5videochat.php:1547
+#, fuzzy
+msgid "RTMP Encoder: OBS / GoCoder Settings"
+msgstr "Ajustes del codificador RTMP / OBS"
+
+#: inc/h5videochat.php:1547
+#, fuzzy
+#| msgid ""
+#| "Use these settings to broadcast with a RTMP encoder app like OBS, "
+#| "GoCoder, Snap Camera."
+msgid ""
+"Use these settings to broadcast with a RTMP encoder app like OBS, iOS/"
+"Android GoCoder, xSplit, Zoom Meetings Webinars."
+msgstr ""
+"Use esta configuración para transmitir con una aplicación de codificador "
+"RTMP como OBS, GoCoder, Snap Camera."
+
+#: inc/h5videochat.php:1549
+#, fuzzy
+#| msgid ""
+#| "Broadcast with external apps for advanced compositions, scenes, effects "
+#| "or reliability compared to web based interface and protocols. External "
+#| "broadcasts have higher latency and improved capacity, reliability "
+#| "specific to HLS delivery method. New broadcasts show in about 10 seconds "
+#| "and unavailability updates after 1 minute."
+msgid ""
+"Broadcast with external apps for advanced compositions, scenes, effects, "
+"higher streaming quality and reliability compared to browser based interface "
+"and protocols. External broadcasts have higher latency and improved "
+"capacity, reliability specific to HLS delivery method. New broadcasts show "
+"in about 10 seconds and unavailability updates after 1 minute."
+msgstr ""
+"Transmita con aplicaciones externas para composiciones avanzadas, escenas, "
+"efectos o confiabilidad en comparación con la interfaz y los protocolos "
+"basados en la web. Las transmisiones externas tienen una latencia más alta y "
+"una capacidad mejorada, confiabilidad específica del método de entrega HLS. "
+"Las nuevas transmisiones se muestran en aproximadamente 10 segundos y las "
+"actualizaciones de indisponibilidad después de 1 minuto."
+
+#: inc/h5videochat.php:1869
+#, fuzzy
+msgid ""
+"Session invalid or closed. Usually occurs if browser tab gets paused in "
+"background or room type changes. Please RELOAD!"
+msgstr ""
+"Sesión no válida o cerrada. Por lo general, se produce si la pestaña del "
+"navegador se detiene en segundo plano o cambia el tipo de habitación. ¡Por "
+"favor, RELOAD!"
+
+#: inc/h5videochat.php:1877 inc/shortcodes.php:8552 ppv-live-webcams.php:2023
+#: ppv-live-webcams.php:5483
+msgid ""
+"Free chat daily visitor time limit reached: Register and login for more chat "
+"time today!"
+msgstr ""
+"Se alcanzó el límite de tiempo de visitas diarias por chat gratis: "
+"¡regístrese e inicie sesión para obtener más tiempo de chat hoy!"
+
+#: inc/h5videochat.php:1878 ppv-live-webcams.php:2000
+msgid "Only registered and logged in users can access paid sessions."
+msgstr ""
+"Solo los usuarios registrados e iniciados pueden acceder a los eventos de "
+"pago."
+
+#: inc/h5videochat.php:1883 ppv-live-webcams.php:1998
+#, fuzzy
+#| msgid ""
+#| "Not enough funds left for client to continue group chat session. Minimum "
+#| "required: "
+msgid "Not enough funds left for client to continue group chat session."
+msgstr ""
+"No quedan suficientes fondos para que el afiliado continúe la sesión de chat "
+"grupal. Mínimo requerido:"
+
+#: inc/h5videochat.php:1889 inc/shortcodes.php:8551 ppv-live-webcams.php:2022
+#: ppv-live-webcams.php:5482
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today!"
+msgstr ""
+"Tiempo límite diario de chat gratuito alcanzado: ¡Solo puede acceder a "
+"\"Lives\" de grupo pagas hoy!"
+
+#: inc/h5videochat.php:1892 inc/options.php:5164 ppv-live-webcams.php:639
+msgid "Webcams"
+msgstr "Cámaras"
+
+#: inc/h5videochat.php:2205
+#, fuzzy
+#| msgid "You Were Disconnected from Chat Room"
+msgid "Disconnected from private:"
+msgstr "Usted fue desconectado de la sala de chat"
+
+#: inc/h5videochat.php:2374
+msgid "Only room owner can edit room options."
+msgstr ""
+"Solo el propietario de el \"Live\" puede editar las opciones de el \"Live\"."
+
+#: inc/h5videochat.php:2427 inc/h5videochat.php:2482
+msgid "Only performer can moderate."
+msgstr "Solo el Anfitrión puede moderar."
+
+#: inc/h5videochat.php:2535 inc/h5videochat.php:2585 inc/h5videochat.php:2611
+msgid "Only performer can moderate presentation."
+msgstr "Solo el Anfitrión puede moderar la presentación."
+
+#: inc/h5videochat.php:2568
+msgid "User not found to display:"
+msgstr "Usuario no encontrado para mostrar:"
+
+#: inc/h5videochat.php:2570
+msgid "User is visitor. User needs to login to broadcast camera."
+msgstr ""
+"El usuario es visitante. El usuario debe iniciar sesión para transmitir la "
+"cámara."
+
+#: inc/h5videochat.php:2647
+msgid "File not found to display:"
+msgstr "Archivo no encontrado para mostrar:"
+
+#: inc/h5videochat.php:2662
+msgid "Only performer can delete files."
+msgstr "Solo el Anfitrión puede eliminar archivos."
+
+#: inc/h5videochat.php:2678
+msgid "File not found:"
+msgstr "Archivo no encontrado:"
+
+#: inc/h5videochat.php:2816
+msgid "Returned to party start room."
+msgstr "Regresó a el \"Live\" de inicio de la \"Actividad\"."
+
+#: inc/h5videochat.php:2880
+msgid "Your party moves with you."
+msgstr "Tu \"Actividad\" se mueve contigo."
+
+#: inc/h5videochat.php:2895
+msgid "You can move a different room using Next button again."
+msgstr "Puede moverte un \"Live\" diferente con el botón Siguiente nuevamente."
+
+#: inc/h5videochat.php:2901
+msgid "No next room found with current criteria!"
+msgstr "¡No se encontró la siguiente \"Live\"con los criterios actuales!"
+
+#: inc/h5videochat.php:3038 inc/h5videochat.php:3085 inc/h5videochat.php:3111
+#: inc/h5videochat.php:3145
+#, fuzzy
+#| msgid "Only performer can moderate."
+msgid "Only performer"
+msgstr "Solo el Anfitrión puede moderar la presentación."
+
+#: inc/h5videochat.php:3127
+#, fuzzy
+#| msgid "Performer account was created"
+msgid "Performer marked goal as complete"
+msgstr "Se creó una cuenta de Anfitrión"
+
+#: inc/h5videochat.php:3175
+#, fuzzy
+msgid "Only users can tip!"
+msgstr "Sólo los usuarios pueden dar propina!"
+
+#: inc/h5videochat.php:3182
+#, fuzzy
+msgid "Cooldown Required: Already sent tip recently. Try again in few seconds!"
+msgstr ""
+"Tiempo de reutilización requerido: Ya se ha enviado la propina "
+"recientemente. ¡Inténtalo de nuevo en unos segundos!"
+
+#: inc/h5videochat.php:3236
+msgid "Tip in"
+msgstr "Donación en"
+
+#: inc/h5videochat.php:3252
+msgid "checked in"
+msgstr "registrado"
+
+#: inc/h5videochat.php:3260 inc/h5videochat.php:3268 ppv-live-webcams.php:6222
+msgid "Tip from"
+msgstr "Donación de"
+
+#: inc/h5videochat.php:3298
+#, fuzzy
+msgid "Completed goal"
+msgstr "Objetivo completado"
+
+#: inc/h5videochat.php:3298
+#, fuzzy
+msgid "Starting new goal"
+msgstr "Inicio de un nuevo objetivo"
+
+#: inc/h5videochat.php:3344
+msgid "You closed private call."
+msgstr "Cerraste la llamada privada."
+
+#: inc/h5videochat.php:3688 inc/h5videochat.php:3689
+msgid "Private call was closed."
+msgstr "La llamada privada fue cerrada."
+
+#: inc/h5videochat.php:3715
+msgid "Following party to different room."
+msgstr "Siguiendo la actividad a un \"Live\" diferente."
+
+#: inc/h5videochat.php:3739
+msgid "Moved to different room with party."
+msgstr "Se mudó a otra \"Live\" con Actividad."
+
+#: inc/options.php:1863
+msgid "Customize Features/Labels by Site Type"
+msgstr "Personalizar características / etiquetas por tipo de sitio"
+
+#: inc/options.php:1967 inc/shortcodes.php:3415
+msgid "Paid Questions and Messages"
+msgstr "Preguntas y mensajes pagados"
+
+#: inc/options.php:2011
+msgid "Random Video Chat"
+msgstr "Video Chat Aleatorio"
+
+#: inc/options.php:2054
+msgid "Setup Pages"
+msgstr "Configurar páginas"
+
+#: inc/options.php:2063
+msgid "Update Pages"
+msgstr "Actualizar páginas"
+
+#: inc/options.php:2131
+msgid "Setup Overview"
+msgstr "Descripción general de la configuración"
+
+#: inc/options.php:2141
+msgid "Setup Checkpoints"
+msgstr "Configurar Checkpoints"
+
+#: inc/options.php:2332 inc/options.php:2528
+msgid "Client IP"
+msgstr "IP de cliente"
+
+#: inc/options.php:2335 inc/options.php:2531
+msgid ""
+"ERROR: Can not detect location. GeoIP extension is required on host for this "
+"functionality."
+msgstr ""
+"ERROR: no se puede detectar la ubicación. Se requiere la extensión GeoIP en "
+"el host para esta funcionalidad."
+
+#: inc/options.php:2339 inc/options.php:2535
+msgid "Continent"
+msgstr "Continente"
+
+#: inc/options.php:2340 inc/options.php:2536
+msgid "Country"
+msgstr "País"
+
+#: inc/options.php:2341 inc/options.php:2537
+msgid "Region"
+msgstr "Región"
+
+#: inc/options.php:2342 inc/options.php:2538
+msgid "City"
+msgstr "Ciudad"
+
+#: inc/options.php:2618
+msgid "Import Options"
+msgstr "Opciones de importación"
+
+#: inc/options.php:2656
+msgid "Reset Options"
+msgstr "Restablecer opciones"
+
+#: inc/options.php:5165 inc/options.php:5675
+msgid "Client Dashboard"
+msgstr "Tablero de usuario"
+
+#: inc/options.php:5166 inc/options.php:5666
+msgid "Performer Dashboard"
+msgstr "Panel de Anfitrión"
+
+#: inc/options.php:5167 inc/options.php:5684
+msgid "Studio Dashboard"
+msgstr "Panel de estudio"
+
+#: inc/options.php:5168
+msgid "Chat Logout"
+msgstr "Salir del chat"
+
+#: inc/options.php:5169
+msgid "Random Cam"
+msgstr "Cámara al aleatoria"
+
+#: inc/options.php:5170 inc/shortcodes.php:628 inc/shortcodes.php:852
+#: inc/shortcodes.php:1023
+msgid "Terms of Use"
+msgstr "Términos de uso"
+
+#: inc/options.php:5171 inc/shortcodes.php:629 inc/shortcodes.php:853
+#: inc/shortcodes.php:1024 inc/shortcodes.php:1339
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: inc/options.php:5179
+#, fuzzy
+#| msgid "Register"
+msgid "Register Activate"
+msgstr "Registrarse"
+
+#: inc/options.php:5180 inc/shortcodes.php:564 inc/shortcodes.php:691
+#: inc/shortcodes.php:771 inc/shortcodes.php:788
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: inc/options.php:5557
+msgid "Add Plugins"
+msgstr "Agregar complementos"
+
+#: inc/options.php:5564
+msgid "Contact Support"
+msgstr "Contactar Soporte"
+
+#: inc/options.php:5582
+msgid "Approve Users"
+msgstr "Aprobar usuarios"
+
+#: inc/options.php:5589
+msgid "Session Logs"
+msgstr "Registros de sesión"
+
+#: inc/options.php:5596
+#, fuzzy
+msgid "Stream Sessions"
+msgstr "Sesiones de transmisión"
+
+#: inc/options.php:5603
+msgid "RTMP Admin"
+msgstr "RTMP Administrador"
+
+#: inc/options.php:5610
+msgid "Webcam Posts"
+msgstr "Publicaciones de  cámara"
+
+#: inc/options.php:5618
+#, fuzzy
+#| msgid "Settings"
+msgid "Settings Setup"
+msgstr "Configuraciones"
+
+#: inc/options.php:5625
+msgid "Page Setup"
+msgstr "Configuración de Página"
+
+#: inc/options.php:5633
+#, fuzzy
+#| msgid "Billing"
+msgid "Billing Setup"
+msgstr "Facturación"
+
+#: inc/options.php:5640
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/options.php:5647
+#, fuzzy
+#| msgid "Streaming"
+msgid "Streaming Hosting"
+msgstr "Streaming"
+
+#: inc/options.php:5654
+#, fuzzy
+msgid "Turnkey Plans"
+msgstr "Planes llave en mano"
+
+#: inc/shortcodes.php:208
+#, fuzzy
+#| msgid "Login to manage calls!"
+msgid "Login to Call"
+msgstr "¡Inicia sesión para gestionar llamadas!"
+
+#: inc/shortcodes.php:220
+msgid "Call Now"
+msgstr "Llamar Ahora"
+
+#: inc/shortcodes.php:221
+msgid "Join"
+msgstr "Unirse"
+
+#: inc/shortcodes.php:312
+#, fuzzy
+#| msgid "Streaming"
+msgid "Push Stream"
+msgstr "Streaming"
+
+#: inc/shortcodes.php:313
+#, fuzzy
+msgid "Push performer stream to external RTMP server or platform."
+msgstr ""
+"Inserte la secuencia de ejecutante al servidor o plataforma RTMP externo."
+
+#: inc/shortcodes.php:340
+#, fuzzy
+#| msgid "Description"
+msgid "Add Destination"
+msgstr "Descripción"
+
+#: inc/shortcodes.php:342
+msgid "Destination Address"
+msgstr "Dirección de destino"
+
+#: inc/shortcodes.php:343
+#, fuzzy
+msgid "rtmp://[server]/[app]/[stream_key]"
+msgstr "rtmp://[servidor]/[app]/[stream_key]"
+
+#: inc/shortcodes.php:429 inc/shortcodes.php:724 inc/shortcodes.php:1073
+#, fuzzy
+msgid "A password is required."
+msgstr "Se requiere una contraseña."
+
+#: inc/shortcodes.php:430 inc/shortcodes.php:1075
+#, fuzzy
+msgid "A login (username) is required."
+msgstr "Se requiere un inicio de sesión (nombre de usuario)."
+
+#: inc/shortcodes.php:432
+#, fuzzy
+msgid "Nonce incorrect for login."
+msgstr "Nonce incorrecto para el inicio de sesión."
+
+#: inc/shortcodes.php:528 inc/shortcodes.php:890
+#, fuzzy
+msgid "Frontend login is disabled from settings."
+msgstr "¡El registro de frontend está desactivado!"
+
+#: inc/shortcodes.php:549
+#, fuzzy
+msgid "Password change request code missing. Already changed?"
+msgstr "Falta código de solicitud de cambio de contraseña. ¿Ya has cambiado?"
+
+#: inc/shortcodes.php:550 inc/shortcodes.php:721
+#, fuzzy
+msgid ""
+"Code does not match. Make sure you use link from last email if you tried "
+"multiple times."
+msgstr ""
+"El código no coincide. Asegúrese de usar el enlace del último correo "
+"electrónico si lo intentó varias veces."
+
+#: inc/shortcodes.php:553 inc/shortcodes.php:698 inc/shortcodes.php:760
+#: inc/shortcodes.php:826
+#, fuzzy
+msgid "Error"
+msgstr "Hubo un error al guardar, por favor intenta nuevamente"
+
+#: inc/shortcodes.php:603 inc/shortcodes.php:604 inc/shortcodes.php:991
+#: inc/shortcodes.php:1319 inc/shortcodes.php:1320 inc/shortcodes.php:1877
+msgid "Password"
+msgstr "Contraseña"
+
+#: inc/shortcodes.php:608 inc/shortcodes.php:609 inc/shortcodes.php:1324
+#: inc/shortcodes.php:1325
+msgid "Password Verification"
+msgstr "Verificación de contraseña"
+
+#: inc/shortcodes.php:621 inc/shortcodes.php:5609
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/shortcodes.php:643 inc/shortcodes.php:728
+#, fuzzy
+msgid "Nonce incorrect for password reset."
+msgstr "Nonce incorrecto para el restablecimiento de contraseña."
+
+#: inc/shortcodes.php:676 inc/shortcodes.php:1074
+msgid "A valid email address is required."
+msgstr "Se requiere una dirección válida de correo."
+
+#: inc/shortcodes.php:681
+#, fuzzy
+msgid ""
+"No user found for that email. Try a different email or register a new "
+"account!"
+msgstr ""
+"No se encontró ningún usuario para ese correo electrónico. Pruebe un correo "
+"electrónico diferente o registrar una nueva cuenta!"
+
+#: inc/shortcodes.php:692
+#, fuzzy
+msgid "Email was sent. Use link from email to change password."
+msgstr ""
+"Se envió un correo electrónico. Utilice el enlace del correo electrónico "
+"para cambiar la contraseña."
+
+#: inc/shortcodes.php:725 inc/shortcodes.php:1077
+#, fuzzy
+msgid "Password verification does not match."
+msgstr "Verificación de contraseña"
+
+#: inc/shortcodes.php:772
+#, fuzzy
+msgid "Password was changed."
+msgstr "Se ha cambiado la contraseña."
+
+#: inc/shortcodes.php:834 inc/shortcodes.php:835 inc/shortcodes.php:1329
+#: inc/shortcodes.php:1330 inc/shortcodes.php:1877 inc/shortcodes.php:1941
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/shortcodes.php:836
+#, fuzzy
+msgid "Provide account email to request password change."
+msgstr ""
+"Proporcione correo electrónico de la cuenta para solicitar el cambio de "
+"contraseña."
+
+#: inc/shortcodes.php:900
+#, fuzzy
+msgid "You logged out."
+msgstr "Has salido."
+
+#: inc/shortcodes.php:909
+msgid "You are currently logged in as"
+msgstr "Conectado como"
+
+#: inc/shortcodes.php:910 inc/shortcodes.php:1506 inc/shortcodes.php:5641
+msgid "Log Out"
+msgstr "Cerrar sesión"
+
+#: inc/shortcodes.php:978
+msgid "Login Failed"
+msgstr "Error al iniciar sesión"
+
+#: inc/shortcodes.php:1020
+msgid "Lost Password"
+msgstr "Contraseña perdida"
+
+#: inc/shortcodes.php:1054
+#, fuzzy
+msgid "Frontend registration is disabled!"
+msgstr "¡El registro de frontend está desactivado!"
+
+#: inc/shortcodes.php:1055
+#, fuzzy
+msgid "Studio registration is disabled!"
+msgstr "¡El registro en el estudio está inhabilitado!"
+
+#: inc/shortcodes.php:1076
+#, fuzzy
+#| msgid "I accept the Terms of Use"
+msgid "Accepting Terms of Use is required."
+msgstr "Acepto los Términos de Uso"
+
+#: inc/shortcodes.php:1079
+#, fuzzy
+msgid "Nonce incorrect for registration."
+msgstr "No se pudo enviar el registro"
+
+#: inc/shortcodes.php:1089
+#, fuzzy
+#| msgid "Performers limit reached!"
+msgid "Registration per IP limit reached."
+msgstr "¡Límite de Anfitriónes alcanzado!"
+
+#: inc/shortcodes.php:1152
+#, fuzzy
+msgid ""
+"Your account was registered. Use link sent to your email to activate it!"
+msgstr ""
+"Tu cuenta estaba registrada. Utilice el enlace enviado a su correo "
+"electrónico para activarlo!"
+
+#: inc/shortcodes.php:1235
+#, fuzzy
+msgid ""
+"Some error occurred related to uploads. After email confirmation and login "
+"you can retry from Account Records section in Dashboard."
+msgstr ""
+"Se ha producido algún error relacionado con las cargas. Después de la "
+"confirmación por correo electrónico y el inicio de sesión, puede reintentar "
+"desde la sección Registros de cuenta en panel."
+
+#: inc/shortcodes.php:1257
+msgid "Registration"
+msgstr "Registro"
+
+#: inc/shortcodes.php:1299
+#, fuzzy
+msgid "Could not submit registration"
+msgstr "No se pudo enviar el registro"
+
+#: inc/shortcodes.php:1306 inc/shortcodes.php:1307
+msgid "First Name"
+msgstr "Nombre"
+
+#: inc/shortcodes.php:1310 inc/shortcodes.php:1311
+msgid "Last Name"
+msgstr "Apellido"
+
+#: inc/shortcodes.php:1337
+#, fuzzy
+#| msgid "Account Administrative Records"
+msgid "Administrative Records"
+msgstr "Registros administrativos de cuenta"
+
+#: inc/shortcodes.php:1339
+#, fuzzy
+#| msgid ""
+#| "These details are required by administrators for account approval and "
+#| "administrative operations."
+msgid ""
+"Administrative records are only accessible to site administrators for "
+"approval and administrative use."
+msgstr ""
+"Los administradores requieren estos detalles para la aprobación de la cuenta "
+"y las operaciones administrativas."
+
+#: inc/shortcodes.php:1362 inc/shortcodes.php:1544 ppv-live-webcams.php:7862
+msgid "Available"
+msgstr "Disponible"
+
+#: inc/shortcodes.php:1398
+msgid "I accept the Terms of Use"
+msgstr "Acepto los Términos de Uso"
+
+#: inc/shortcodes.php:1400
+msgid "Review"
+msgstr "Reseña"
+
+#: inc/shortcodes.php:1407
+#, fuzzy
+msgid ""
+"After registration, you will receive a confirmation email with activation "
+"link."
+msgstr ""
+"Después del registro, recibirá un correo electrónico de confirmación con el "
+"enlace de activación."
+
+#: inc/shortcodes.php:1448
+#, fuzzy
+#| msgid "Performer account was created"
+msgid "Your account was activated."
+msgstr "Se creó una cuenta de Anfitrión"
+
+#: inc/shortcodes.php:1466
+#, fuzzy
+msgid ""
+"<strong>ERROR</strong>: User is not activated. Use activation link from "
+"registration email!"
+msgstr ""
+"<strong>ERROR</strong>: El usuario no está activado. ¡Utilice el enlace de "
+"activación del correo electrónico de registro!"
+
+#: inc/shortcodes.php:1480
+msgid "Login Required"
+msgstr "Necesario iniciar sesión"
+
+#: inc/shortcodes.php:1496
+msgid "Account Status"
+msgstr "Estado de la cuenta"
+
+#: inc/shortcodes.php:1496 ppv-live-webcams.php:7834
+msgid "Verified"
+msgstr "Verificado"
+
+#: inc/shortcodes.php:1496
+msgid "Not Verified"
+msgstr "No verificado"
+
+#: inc/shortcodes.php:1496
+msgid "Suspended by Admin"
+msgstr "Suspendido por administrador"
+
+#: inc/shortcodes.php:1497
+msgid "Update Account Records"
+msgstr "Actualizar registros de cuenta"
+
+#: inc/shortcodes.php:1503 inc/shortcodes.php:5185
+msgid "Your current balance"
+msgstr "Su saldo actual"
+
+#: inc/shortcodes.php:1516
+msgid "Account Administrative Records"
+msgstr "Registros administrativos de cuenta"
+
+#: inc/shortcodes.php:1516
+msgid ""
+"These details are required by administrators for account approval and "
+"administrative operations."
+msgstr ""
+"Los administradores requieren estos detalles para la aprobación de la cuenta "
+"y las operaciones administrativas."
+
+#: inc/shortcodes.php:1520
+msgid "No record fields defined by administrator!"
+msgstr "No hay campos de registro definidos por el administrador!"
+
+#: inc/shortcodes.php:1575 inc/shortcodes.php:1833 inc/shortcodes.php:2052
+#: inc/shortcodes.php:2350 inc/shortcodes.php:3889 inc/shortcodes.php:5609
+msgid "Save"
+msgstr "Guardar"
+
+#: inc/shortcodes.php:1660
+#, fuzzy
+#| msgid "Update Account Records"
+msgid "Updated administrative account records."
+msgstr "Actualizar registros de cuenta"
+
+#: inc/shortcodes.php:1681
+msgid "Login to manage studio!"
+msgstr "¡Inicia sesión para administrar el estudio!"
+
+#: inc/shortcodes.php:1695 inc/shortcodes.php:2238
+msgid "Login is required to access this section!"
+msgstr "¡Es necesario iniciar sesión para acceder a esta sección!"
+
+#: inc/shortcodes.php:1706
+msgid "User role does not allow managing studio!"
+msgstr "¡El rol del usuario no permite administrar el estudio!"
+
+#: inc/shortcodes.php:1742 inc/shortcodes.php:1744 inc/shortcodes.php:2349
+msgid "Performers"
+msgstr "Anfitriónes"
+
+#: inc/shortcodes.php:1744
+#, fuzzy
+#| msgid "Studio has no performer accounts, yet."
+msgid "Studio manages multiple performer accounts."
+msgstr "Studio aún no tiene cuentas de Anfitriónes."
+
+#: inc/shortcodes.php:1772
+#, fuzzy
+msgid "Collected user ballance."
+msgstr "Saldo de usuario recogido."
+
+#: inc/shortcodes.php:1774
+#, fuzzy
+msgid "No balance to collect!"
+msgstr "¡No hay saldo que recoger!"
+
+#: inc/shortcodes.php:1777
+#, fuzzy
+#| msgid "You are not allowed to view transactions for this user!"
+msgid "You are not allowed to collect for this user!"
+msgstr "¡No tiene permiso para ver las transacciones de este usuario!"
+
+#: inc/shortcodes.php:1796
+msgid "Performer Transactions"
+msgstr "Transacciones de Anfitriónes"
+
+#: inc/shortcodes.php:1811
+msgid "Transactions"
+msgstr "Transacciones"
+
+#: inc/shortcodes.php:1818
+msgid "You are not allowed to view transactions for this user!"
+msgstr "¡No tiene permiso para ver las transacciones de este usuario!"
+
+#: inc/shortcodes.php:1828
+msgid "Create Performer Account"
+msgstr "Crear cuenta de Anfitrión"
+
+#: inc/shortcodes.php:1832
+msgid ""
+"After setting up performer account you will also receive password to "
+"communicate to performer for quick access. Account password should be "
+"changed by performer. Warning: Make sure you fill details correctly. Only "
+"administrator can delete incorrect accounts."
+msgstr ""
+"Después de configurar la cuenta del Anfitrión, también recibirá una "
+"contraseña para comunicarse con el Anfitrión para un acceso rápido. La "
+"contraseña de la cuenta debe ser cambiada por el Anfitrión. Advertencia: "
+"asegúrese de completar los detalles correctamente. Solo el administrador "
+"puede eliminar cuentas incorrectas."
+
+#: inc/shortcodes.php:1849
+msgid "Adding Performer Account"
+msgstr "Agregar cuenta de Anfitrión"
+
+#: inc/shortcodes.php:1856
+msgid "Username already in use!"
+msgstr "¡Nombre de usuario ya está en uso!"
+
+#: inc/shortcodes.php:1857
+msgid "Email already in use!"
+msgstr "Correo electrónico ya en uso!"
+
+#: inc/shortcodes.php:1868
+msgid "Performers limit reached!"
+msgstr "¡Límite de Anfitriónes alcanzado!"
+
+#: inc/shortcodes.php:1870
+msgid "Could not create performer account: "
+msgstr "No se pudo crear una cuenta de Anfitrión:"
+
+#: inc/shortcodes.php:1877
+msgid "Performer account was created"
+msgstr "Se creó una cuenta de Anfitrión"
+
+#: inc/shortcodes.php:1913
+msgid "That performer is not assigned to this studio!"
+msgstr "¡Ese Anfitrión no está asignado a este estudio!"
+
+#: inc/shortcodes.php:1937
+msgid "Performers List"
+msgstr "Lista de Anfitriónes"
+
+#: inc/shortcodes.php:1941
+msgid "Collected"
+msgstr "recogido"
+
+#: inc/shortcodes.php:1941
+msgid "Last"
+msgstr "Último"
+
+#: inc/shortcodes.php:1941
+msgid "Total"
+msgstr "Total"
+
+#: inc/shortcodes.php:1941 inc/shortcodes.php:6893 ppv-live-webcams.php:7833
+msgid "Status"
+msgstr "Estado"
+
+#: inc/shortcodes.php:1941
+#, fuzzy
+#| msgid "Current Cam"
+msgid "Current Room"
+msgstr "Cámara actual"
+
+#: inc/shortcodes.php:1950
+msgid "Collect"
+msgstr "Colecta"
+
+#: inc/shortcodes.php:1962 inc/shortcodes.php:3641 inc/shortcodes.php:3968
+#: inc/shortcodes.php:3969 inc/shortcodes.php:3971
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: inc/shortcodes.php:1963 inc/shortcodes.php:3642 inc/shortcodes.php:3968
+#: inc/shortcodes.php:3969 inc/shortcodes.php:3971
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: inc/shortcodes.php:1968
+msgid "Original Password"
+msgstr "Contraseña original"
+
+#: inc/shortcodes.php:1978
+msgid "Studio has no performer accounts, yet."
+msgstr "Studio aún no tiene cuentas de Anfitriónes."
+
+#: inc/shortcodes.php:1981
+msgid "Add Performer"
+msgstr "Agregar Anfitrión"
+
+#: inc/shortcodes.php:1981
+msgid "Create a new performer account."
+msgstr "Crea una nueva cuenta de Anfitrión."
+
+#: inc/shortcodes.php:1983
+#, fuzzy
+#| msgid "View Your Performers List"
+msgid "View  Performers List"
+msgstr "Ver su lista de Anfitriónes"
+
+#: inc/shortcodes.php:2011 ppv-live-webcams.php:653
+msgid "Rooms"
+msgstr "Habitaciones"
+
+#: inc/shortcodes.php:2013
+#, fuzzy
+#| msgid "Webcam Room"
+msgid "Webcam Rooms"
+msgstr "\"Live\" de cámara"
+
+#: inc/shortcodes.php:2013
+#, fuzzy
+#| msgid "Manage webcam listings for studio performers."
+msgid "Manage webcam room listings for studio performers."
+msgstr "Gestionar listados de cámaras para Anfitriónes de estudio."
+
+#: inc/shortcodes.php:2024
+#, fuzzy
+#| msgid "Create Webcam Listing"
+msgid "Create Webcam Room Listing"
+msgstr "Crear listado de cámara web"
+
+#: inc/shortcodes.php:2051 inc/shortcodes.php:2351
+msgid ""
+"Warning: Make sure webcam listing name is correct. Only administrator can "
+"delete webcams."
+msgstr ""
+"Advertencia: asegúrese de que el nombre de la lista de la cámara sea "
+"correcto. Solo el administrador puede eliminar cámaras."
+
+#: inc/shortcodes.php:2097 inc/shortcodes.php:2413
+msgid "Webcam listing with that name already exists."
+msgstr "La lista de cámaras con ese nombre ya existe."
+
+#: inc/shortcodes.php:2101 inc/shortcodes.php:2417
+msgid "Webcam listing was successfully created!"
+msgstr "¡La lista de cámaras se creó correctamente!"
+
+#: inc/shortcodes.php:2181
+msgid "WooCommerce Wallet"
+msgstr "Monedero WooCommerce"
+
+#: inc/shortcodes.php:2183
+#, fuzzy
+msgid "TeraWallet WooCommerce"
+msgstr "TeraWallet (WooCommerce)"
+
+#: inc/shortcodes.php:2193 inc/shortcodes.php:4851
+msgid "MyCred"
+msgstr "MyCred"
+
+#: inc/shortcodes.php:2195
+#, fuzzy
+#| msgid "Manage Wallet"
+msgid "MyCred Wallet"
+msgstr "Administrar billetera"
+
+#: inc/shortcodes.php:2226
+#, fuzzy
+#| msgid "Login to access as client!"
+msgid "Login to access dashboard!"
+msgstr "¡Inicia sesión para acceder como usuario!"
+
+#: inc/shortcodes.php:2251
+msgid "User role does not allow publishing webcams!"
+msgstr "¡El rol del usuario no permite publicar cámaras!"
+
+#: inc/shortcodes.php:2313
+msgid "Selected webcam listing is invalid."
+msgstr "La lista de cámaras seleccionada no es válida."
+
+#: inc/shortcodes.php:2342
+msgid "Create Webcam Listing"
+msgstr "Crear listado de cámara web"
+
+#: inc/shortcodes.php:2346
+msgid ""
+"Partner performers that can also go live in this room: Comma separated list "
+"of performer usernames or emails."
+msgstr ""
+"Socios Anfitriónes que también pueden ir \"Live\" en este \"Live\": lista "
+"separada por comas de nombres de usuario o correos electrónicos de "
+"Anfitriónes."
+
+#: inc/shortcodes.php:2348
+msgid "Webcam Listing Name"
+msgstr "Nombre de listado de cámara"
+
+#: inc/shortcodes.php:2367
+msgid "Adding Webcam Listing"
+msgstr "Agregar listado de cámara"
+
+#: inc/shortcodes.php:2407
+msgid "Warning: Performer not found: use a valid username (login) or email!"
+msgstr ""
+"Advertencia: Anfitrión no encontrado: ¡use un nombre de usuario válido "
+"(inicio de sesión) o un correo electrónico!"
+
+#: inc/shortcodes.php:2416
+msgid "Could not create webcam listing:"
+msgstr "No se pudo crear la lista de cámaras web:"
+
+#: inc/shortcodes.php:2458
+msgid "Select Room Listing"
+msgstr "Seleccionar listado de \"Lives\""
+
+#: inc/shortcodes.php:2459
+#, fuzzy
+msgid "Select a room to enter, manage, operate."
+msgstr "Seleccione una habitación para entrar, administrar, operar."
+
+#: inc/shortcodes.php:2464
+msgid ""
+"Rooms (webcam venue listings) you created or were granted access to "
+"broadcast:"
+msgstr ""
+"\"Lives\" (listados de lugares de cámaras) que creó o se le otorgó acceso "
+"para transmitir:"
+
+#: inc/shortcodes.php:2479
+msgid "Selected"
+msgstr "Seleccionado"
+
+#: inc/shortcodes.php:2484
+#, fuzzy
+#| msgid ""
+#| "You do not have any active webcam listings: one will be setup for you and "
+#| "selected."
+msgid ""
+"You do not have any active webcam room: one will be setup for you and "
+"selected."
+msgstr ""
+"No tiene ninguna lista de cámaras activas: se configurará una para usted y "
+"se seleccionará."
+
+#: inc/shortcodes.php:2502
+msgid "Add Room"
+msgstr "Añadir habitación"
+
+#: inc/shortcodes.php:2502
+#, fuzzy
+#| msgid "Create a new webcam listing."
+msgid "Create a new webcam room listing."
+msgstr "Crea una nueva lista de cámaras."
+
+#: inc/shortcodes.php:2505
+#, fuzzy
+#| msgid "View Your Webcams List"
+msgid "View Your Room List"
+msgstr "Ver su lista de cámaras"
+
+#: inc/shortcodes.php:2538 inc/shortcodes.php:2553 inc/shortcodes.php:2568
+msgid "Custom CPM out of range: removed."
+msgstr "CPM personalizado fuera de rango: eliminado."
+
+#: inc/shortcodes.php:2587
+msgid "Custom group CPM out of range: removed."
+msgstr "Grupo personalizado CPM fuera de rango: eliminado."
+
+#: inc/shortcodes.php:2668
+#, fuzzy
+msgid "ERROR: Missing "
+msgstr "ERROR: Falta"
+
+#: inc/shortcodes.php:2719
+msgid "Picture Updated."
+msgstr "Imagen actualizada."
+
+#: inc/shortcodes.php:2721
+msgid "ERROR: Cound not create JPG thumb file "
+msgstr "ERROR: no se pudo crear el archivo JPG Thumb "
+
+#: inc/shortcodes.php:2724
+msgid "ERROR: Cound not create temporary image!"
+msgstr "ERROR: ¡No se pudo crear una imagen temporal!"
+
+#: inc/shortcodes.php:2727
+msgid "ERROR: Failed loading image data "
+msgstr "ERROR: error al cargar datos de imagen "
+
+#: inc/shortcodes.php:2734
+#, fuzzy
+#| msgid "ERROR: File does not exist "
+msgid "ERROR: Upload copy failed. File does not exist "
+msgstr "ERROR: el archivo no existe "
+
+#: inc/shortcodes.php:2736
+msgid "ERROR: Could not retrieve image size for "
+msgstr "ERROR: no se pudo recuperar el tamaño de la imagen para "
+
+#: inc/shortcodes.php:2936
+msgid "Room Name"
+msgstr "Nombre de \"Live\""
+
+#: inc/shortcodes.php:2937 inc/shortcodes.php:4934
+msgid "Room ID"
+msgstr "ID de el \"Live\""
+
+#: inc/shortcodes.php:2963
+msgid "Setting webcam group mode to"
+msgstr "Establecer el modo de grupo de cámara en"
+
+#: inc/shortcodes.php:2984 inc/shortcodes.php:5964 inc/shortcodes.php:5965
+#: inc/shortcodes.php:5966
+msgid "Free"
+msgstr "Gratuito"
+
+#: inc/shortcodes.php:3074
+msgid "Warning: Performer"
+msgstr "Advertencia: Anfitrión"
+
+#: inc/shortcodes.php:3074
+msgid "not found: use a valid username (login) or email!"
+msgstr ""
+"no encontrado: ¡use un nombre de usuario válido (inicio de sesión) o correo "
+"electrónico!"
+
+#: inc/shortcodes.php:3083
+msgid "Room Interface"
+msgstr "Interface de el \"Live\""
+
+#: inc/shortcodes.php:3085
+msgid "Checked in performers"
+msgstr "Anfitriónes iniciados"
+
+#: inc/shortcodes.php:3087
+msgid "Assigning you"
+msgstr "Asignandote"
+
+#: inc/shortcodes.php:3087
+msgid ""
+"as room performer (streamer) and redirecting to webcam room page. Please "
+"wait..."
+msgstr ""
+"como Anfitrión de \"Live\"(streamer) y redirigiendo a la página de \"Live\" "
+"de cámara. Por favor espera..."
+
+#: inc/shortcodes.php:3093
+msgid "Click here"
+msgstr "Haga clic aquí"
+
+#: inc/shortcodes.php:3093
+msgid "to access your webcam room if you do not get automatically redirected"
+msgstr "para acceder a su sala de cámaras si no se le redirige automáticamente"
+
+#: inc/shortcodes.php:3102
+msgid "Webcam Room"
+msgstr "\"Live\" de cámara"
+
+#: inc/shortcodes.php:3110 inc/shortcodes.php:3151 inc/shortcodes.php:3157
+#, fuzzy
+msgid "My Rooms"
+msgstr "Mis habitaciones"
+
+#: inc/shortcodes.php:3124
+msgid "Custom cost per minute in paid group chat:"
+msgstr "Costo personalizado por minuto en el chat grupal pago:"
+
+#: inc/shortcodes.php:3142 inc/shortcodes.php:3184
+msgid "Paid Mode"
+msgstr "Modo pago"
+
+#: inc/shortcodes.php:3149 inc/shortcodes.php:3194
+msgid "This room is currently private, hidden from room list."
+msgstr "Este \"Live\" es actualmente privada, oculto de la lista de \"Lives\"."
+
+#: inc/shortcodes.php:3151 inc/shortcodes.php:3157
+msgid ""
+"Switch to different room / listing. Your account can setup and manage "
+"multiple room profiles."
+msgstr "Estudio no encontrado:"
+
+#: inc/shortcodes.php:3188
+msgid "Room Mode"
+msgstr "Modo de \"Live\""
+
+#: inc/shortcodes.php:3188
+msgid ""
+"Select group mode presets for your new session in this room, before going "
+"live."
+msgstr ""
+"Seleccione los ajustes preestablecidos del modo de grupo para su nueva "
+"sesión en este \"Live\", antes de lanzarla."
+
+#: inc/shortcodes.php:3192
+msgid "This room is currently in presentation/collaboration mode."
+msgstr ""
+"Este \"Live\" se encuentra actualmente en modo presentación / colaboración."
+
+#: inc/shortcodes.php:3215
+msgid "HTML5"
+msgstr "HTML5"
+
+#: inc/shortcodes.php:3215
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/shortcodes.php:3216
+msgid ""
+"HTML5 Videochat works in mobile and PC browsers, providing streaming with "
+"group chat, private 2 way video calls, tips, conferencing, collaboration, "
+"external broadcasts. Recommended."
+msgstr ""
+"HTML5 Video Chat funciona en navegadores móviles y de PC, proporcionando "
+"transmisión con chat grupal, videollamadas privadas de 2 vías, consejos, "
+"conferencias, colaboración, transmisiones externas. Recomendado."
+
+#: inc/shortcodes.php:3235
+msgid "Flash"
+msgstr "Flash"
+
+#: inc/shortcodes.php:3236
+msgid ""
+"Flash PC interface is and older legacy app that supports presentation mode, "
+"streaming with group chat, 2 way videochat, tips. Mobile users will get the "
+"HTML5 Streaming interface, with extra latency, if transcoding is available. "
+"Does not support latest chat modes and options available in HTML5 app."
+msgstr ""
+"La interfaz de Flash PC es una aplicación heredada más antigua que admite el "
+"modo de presentación, transmisión con chat grupal, videochat de 2 vías, "
+"consejos. Los usuarios móviles obtendrán la interfaz HTML5 Streaming, con "
+"latencia adicional, si la transcodificación está disponible. No es "
+"compatible con los últimos modos de chat y opciones disponibles en la "
+"aplicación HTML5."
+
+#: inc/shortcodes.php:3241
+msgid "Select room interface before going live. Also applies to clients."
+msgstr ""
+"Seleccione la interfaz de el \"Live\" antes de comenzar También se aplica a "
+"los usuarios."
+
+#: inc/shortcodes.php:3257
+msgid "CheckIn Options"
+msgstr "Opciones de registro"
+
+#: inc/shortcodes.php:3257
+msgid "Tag other performers present in session."
+msgstr "Etiqueta a otros Anfitriónes presentes en sesión."
+
+#: inc/shortcodes.php:3260 inc/shortcodes.php:3277
+msgid "Checkin Performers"
+msgstr "Registro de Anfitriónes"
+
+#: inc/shortcodes.php:3260
+msgid ""
+"You can select partner performers or specify other performers that are "
+"present in session."
+msgstr ""
+"Puede seleccionar Anfitrión asociado o especificar otros Anfitriónes que "
+"están presentes en la sesión."
+
+#: inc/shortcodes.php:3261
+msgid ""
+"If paid group chat is enabled, earnings will be shared equally between "
+"checked in performers."
+msgstr ""
+"Si el chat grupal de pago está habilitado, las ganancias se compartirán por "
+"igual entre los Anfitriónes registrados."
+
+#: inc/shortcodes.php:3267
+msgid "Partner Performers"
+msgstr "Socios Anfitriónes"
+
+#: inc/shortcodes.php:3277
+msgid "Comma separated list of performer usernames or emails."
+msgstr ""
+"Lista separada por comas de nombres de usuario o correos electrónicos de los "
+"Anfitriónes."
+
+#: inc/shortcodes.php:3299
+msgid "Go Live"
+msgstr "Ir en Vivo"
+
+#: inc/shortcodes.php:3310
+#, fuzzy
+msgid ""
+"This room can not currently show in room list as it does not have a snapshot "
+"or picture. Rooms show in list after first broadcast only with a listing "
+"image. Broadcast camera for about a minute to generate a snapshot or upload "
+"a room picture!"
+msgstr ""
+"Esta habitación no puede aparecer actualmente en la lista de habitaciones, "
+"ya que no tiene una instantánea o una imagen. Las habitaciones se muestran "
+"en la lista después de la primera emisión solo con una imagen de lista. "
+"Cámara de difusión durante aproximadamente un minuto para generar una "
+"instantánea o subir una imagen de la habitación!"
+
+#: inc/shortcodes.php:3380
+msgid "Calls"
+msgstr "Llamadas"
+
+#: inc/shortcodes.php:3382
+msgid "Locked Private Calls"
+msgstr "Llamadas privadas bloqueadas"
+
+#: inc/shortcodes.php:3413 inc/shortcodes.php:8106 inc/shortcodes.php:8162
+msgid "Messages"
+msgstr "Mensajes"
+
+#: inc/shortcodes.php:3450 inc/shortcodes.php:3686
+msgid "Setup"
+msgstr "Configurar"
+
+#: inc/shortcodes.php:3466 inc/shortcodes.php:3475 inc/shortcodes.php:3484
+msgid "Cost Per Minute"
+msgstr "Costo por minuto"
+
+#: inc/shortcodes.php:3466
+msgid "Cost per minute for private shows (set 0 to use default)."
+msgstr ""
+"Costo por minuto para eventos privados (configure 0 para usar el "
+"predeterminado)."
+
+#: inc/shortcodes.php:3499
+msgid "Cost Per Minute in Group Mode"
+msgstr "Costo por minuto en modo de grupo"
+
+#: inc/shortcodes.php:3499
+msgid ""
+"Cost per minute for group shows. Replaces paid group CPM (set 0 to use "
+"default)."
+msgstr ""
+"Costo por minuto para eventos grupales. Reemplaza el CPM grupal pagado "
+"(establezca 0 para usar el valor predeterminado)."
+
+#: inc/shortcodes.php:3506
+msgid "2 Way Slots"
+msgstr "Espacio de 2 vías"
+
+#: inc/shortcodes.php:3506
+msgid ""
+"2 way slots in room. Replaces default group mode slots (set 0 to use "
+"default)."
+msgstr ""
+"Espacio de 2 vías en el \"Live\". Reemplaza los espacios del modo de grupo "
+"predeterminado (establezca 0 para usar el predeterminado)."
+
+#: inc/shortcodes.php:3520 inc/shortcodes.php:3538
+msgid "Picture"
+msgstr "Imagen"
+
+#: inc/shortcodes.php:3520
+msgid "Update room picture to use instead of live snapshot."
+msgstr ""
+"Actualice la imagen de l\"Live\" para usarla en lugar de la instantánea en "
+"vivo."
+
+#: inc/shortcodes.php:3539
+msgid "Live Snapshot"
+msgstr "Captura en vivo"
+
+#: inc/shortcodes.php:3540
+#, fuzzy
+#| msgid "Performer Dashboard"
+msgid "Performer Avatar"
+msgstr "Panel de Anfitrión"
+
+#: inc/shortcodes.php:3541
+#, fuzzy
+#| msgid "Select what to show in webcam listings."
+msgid "Select image to show in webcam listings and HTML5 Videochat room."
+msgstr "Seleccione qué mostrar en las listas de cámaras."
+
+#: inc/shortcodes.php:3551
+msgid "Label"
+msgstr "Etiqueta"
+
+#: inc/shortcodes.php:3551
+msgid "Shows in room listings instead of name."
+msgstr "Se muestra en las listas de \"Lives\" en lugar del nombre."
+
+#: inc/shortcodes.php:3560 inc/shortcodes.php:6865
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/shortcodes.php:3560
+msgid "Webcam category."
+msgstr "Categoría de cámara."
+
+#: inc/shortcodes.php:3566 inc/shortcodes.php:4984 inc/shortcodes.php:8223
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/shortcodes.php:3566
+msgid ""
+"Room description: profile, schedule. Shows on room page and full row list "
+"layout."
+msgstr ""
+"Descripción de el \"Live\": perfil, horario. Se muestra en la página de la "
+"\"Live\" y en el diseño de la lista de filas completas."
+
+#: inc/shortcodes.php:3575
+msgid "Brief"
+msgstr "Breve"
+
+#: inc/shortcodes.php:3575
+msgid "Room brief info: profile, schedule. Shows in room listings."
+msgstr ""
+"Breve información del \"Live\": perfil, horario. Mostrar en listado de "
+"\"Lives\"."
+
+#: inc/shortcodes.php:3584
+msgid "Private Videochat Mode"
+msgstr "Modo de videochat privado"
+
+#: inc/shortcodes.php:3586
+msgid "1 Way"
+msgstr "1 vía"
+
+#: inc/shortcodes.php:3587 inc/shortcodes.php:7559
+msgid "2 Way"
+msgstr "2 vías"
+
+#: inc/shortcodes.php:3589
+msgid "Allow clients to start their cams for 2 way videochat."
+msgstr "Permitir a los afiliados iniciar sus cámaras para videochat de 2 vías."
+
+#: inc/shortcodes.php:3607
+msgid "Detected IP"
+msgstr "IP detectada"
+
+#: inc/shortcodes.php:3609
+msgid "Detected Continent, Country, Region, City"
+msgstr "Continente detectado, país, región, ciudad"
+
+#: inc/shortcodes.php:3612
+msgid "ERROR: GeoIP extension is required on host for this functionality."
+msgstr ""
+"ERROR: se requiere la extensión GeoIP en el host para esta funcionalidad."
+
+#: inc/shortcodes.php:3614
+msgid "Ban Countries"
+msgstr "Países prohibidos"
+
+#: inc/shortcodes.php:3614
+msgid ""
+"You may want to ban your location for privacy reasons. Or countries and "
+"regions where your content is not legal or well received. List of locations "
+"(country, region, city or continent code, separated by comma) that can not "
+"access webcam room."
+msgstr ""
+"Es posible que desee prohibir su ubicación por razones de privacidad. O "
+"países y regiones donde su contenido no es legal o bien recibido. Lista de "
+"ubicaciones (código de país, región, ciudad o continente, separadas por "
+"comas) que no pueden acceder a la sala de la cámara web."
+
+#: inc/shortcodes.php:3630 inc/shortcodes.php:7119
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/shortcodes.php:3630
+msgid "Tags separated by comma. Show in room listings."
+msgstr "Etiquetas separadas por comas. Mostrar en las listas de habitaciones."
+
+#: inc/shortcodes.php:3639
+msgid "Presentation Mode"
+msgstr "Modo presentación"
+
+#: inc/shortcodes.php:3640 inc/shortcodes.php:4939 inc/shortcodes.php:4953
+#: inc/shortcodes.php:4959 inc/shortcodes.php:4980 ppv-live-webcams.php:1052
+#: ppv-live-webcams.php:7834
+msgid "Yes"
+msgstr "Si"
+
+#: inc/shortcodes.php:3640 inc/shortcodes.php:4939 inc/shortcodes.php:4953
+#: inc/shortcodes.php:4959 inc/shortcodes.php:4980 ppv-live-webcams.php:1052
+#: ppv-live-webcams.php:7834
+msgid "No"
+msgstr "No"
+
+#: inc/shortcodes.php:3644
+msgid ""
+"Enables presentations mode with presentation screen, annotations, "
+"whiteboard, file sharing."
+msgstr ""
+"Habilita el modo de presentaciones con pantalla de presentación, "
+"anotaciones, pizarra, uso compartido de archivos."
+
+#: inc/shortcodes.php:3651
+msgid "Logo Image"
+msgstr "Imagen de Logotipo"
+
+#: inc/shortcodes.php:3651
+msgid ""
+"Floating logo URL (preferably a transparent PNG image). Leave blank to hide."
+msgstr ""
+"URL de logotipo flotante (preferiblemente una imagen PNG transparente). "
+"Déjalo en blanco para esconderte."
+
+#: inc/shortcodes.php:3653
+msgid "Logo Link"
+msgstr "Enlace de logotipo"
+
+#: inc/shortcodes.php:3653
+msgid "URL to open on logo click."
+msgstr "URL para abrir al hacer clic en el logotipo."
+
+#: inc/shortcodes.php:3663
+msgid "Access List"
+msgstr "Lista de acceso"
+
+#: inc/shortcodes.php:3663
+msgid ""
+"User roles, logins, emails separated by comma. Leave empty to allow "
+"everybody to access."
+msgstr ""
+"Roles de usuario, inicios de sesión, correos electrónicos separados por "
+"comas. Deje en blanco para permitir que todos tengan acceso."
+
+#: inc/shortcodes.php:3672
+msgid "Webcam room access price. Leave 0 for free access."
+msgstr "Precio de acceso a la cámara. Deje 0 para acceso libre."
+
+#: inc/shortcodes.php:3685
+msgid "Webcam Profile Setup"
+msgstr "Configuración de perfil de cámara"
+
+#: inc/shortcodes.php:3741
+msgid "Webcam Room Listing Profile"
+msgstr "Listado de \"Live\" de cámara"
+
+#: inc/shortcodes.php:3741
+msgid ""
+"These details will show on webcam room page (under videochat interface)."
+msgstr ""
+"Estos detalles se mostrarán en la página de \"Live\" de la cámara  (en la "
+"interfaz de videochat)."
+
+#: inc/shortcodes.php:3908
+#, fuzzy
+#| msgid "Streaming"
+msgid "Streams"
+msgstr "Streaming"
+
+#: inc/shortcodes.php:3939 inc/shortcodes.php:4953 inc/shortcodes.php:8147
+#: inc/shortcodes.php:8244
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/shortcodes.php:3959
+msgid ""
+"Multiple profile videos can show on webcam listing page. Each listing has "
+"own videos."
+msgstr ""
+"Se pueden mostrar varios videos de perfil en la página de listado de la "
+"cámara. Cada listado tiene sus propios videos."
+
+#: inc/shortcodes.php:3965
+#, fuzzy
+msgid "Recorded live streams can be published using Import."
+msgstr "Las transmisiones en vivo grabadas se pueden publicar mediante Import."
+
+#: inc/shortcodes.php:3999 inc/shortcodes.php:8182
+msgid "Teaser"
+msgstr "Teaser"
+
+#: inc/shortcodes.php:4009
+msgid "Teaser Video"
+msgstr "Video teaser"
+
+#: inc/shortcodes.php:4012
+msgid ""
+"Teaser video (featured video) plays shortly as preview in listings, in room "
+"when performer is offline in HTML5 Videochat interface and shows on profile "
+"page. Can be selected from all videos of user."
+msgstr ""
+"El video teaser (video destacado) se reproduce brevemente como vista previa "
+"en los listados, en el \"Live\" cuando el Anfitrión está desconectado en la "
+"interfaz HTML5 Videochat y se muestra en la página de perfil. Se puede "
+"seleccionar de todos los videos del usuario."
+
+#: inc/shortcodes.php:4061
+msgid "Playlist"
+msgstr "Lista de reproducción"
+
+#: inc/shortcodes.php:4169
+msgid "Playlist is enabled and room stream updated to"
+msgstr ""
+"La lista de reproducción está habilitada y la transmisión de Live "
+"actualizada a"
+
+#: inc/shortcodes.php:4240
+msgid "No videos found! Please add some videos first."
+msgstr "¡No se encontraron vídeos! Por favor agregue algunos videos primero."
+
+#: inc/shortcodes.php:4245
+msgid "Quick Loop Setup"
+msgstr "Configuración de loop rápido"
+
+#: inc/shortcodes.php:4246
+msgid ""
+"Video will play in loop while playlist is active. Warning: Going live (with "
+"real webcam) will stop video loop (needs to be setup again). Can also be "
+"disabled by setting Playlist Status as Inactive."
+msgstr ""
+"El video se reproducirá en \"Loop\" mientras la lista de reproducción esté "
+"activa. Advertencia: la puesta en marcha (con cámara real) detendrá el \"Loop"
+"\" de video (debe configurarse nuevamente). También se puede deshabilitar "
+"configurando el estado de lista de reproducción como inactivo."
+
+#: inc/shortcodes.php:4247
+msgid "Set Video Loop"
+msgstr "Configurar video loop"
+
+#: inc/shortcodes.php:4265
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: inc/shortcodes.php:4266
+msgid "Active"
+msgstr "Activo"
+
+#: inc/shortcodes.php:4281
+msgid "Advanced Playlist Editor"
+msgstr "Editor de listas de reproducción avanzado"
+
+#: inc/shortcodes.php:4282
+msgid ""
+"After editing playlist contents below, update it to apply changes. Last "
+"Updated:"
+msgstr ""
+"Después de editar el contenido de la lista de reproducción a continuación, "
+"actualícelo para aplicar los cambios. Última actualización:"
+
+#: inc/shortcodes.php:4283
+msgid ""
+"Playlist is loaded with web application (on access) and reloaded if "
+"necessary when users access"
+msgstr ""
+"La lista de reproducción se carga con la aplicación web (al acceder) y se "
+"vuelve a cargar si es necesario cuando los usuarios acceden"
+
+#: inc/shortcodes.php:4284
+msgid ""
+"First create a Schedule (Add new record), then Edit Videos (Add new record "
+"under Videos):"
+msgstr ""
+"Primero cree un Horario (Agregar nuevo registro), luego edite videos "
+"(Agregue un nuevo registro en Videos):"
+
+#: inc/shortcodes.php:4285
+msgid "videochat interface"
+msgstr "interfaz de videochat"
+
+#: inc/shortcodes.php:4286
+msgid "last time reloaded"
+msgstr "última vez recargado"
+
+#: inc/shortcodes.php:4413
+msgid ""
+"Schedule playlist items as: Year-Month-Day Hours:Minutes:Seconds in "
+"scheduling server timezone. In example, current server OS time"
+msgstr ""
+"Programe elementos de la lista de reproducción como: Año-Mes-Día Horas: "
+"Minutos: Segundos en la programación de la zona horaria del servidor. Por "
+"ejemplo, la hora actual del sistema operativo del servidor"
+
+#: inc/shortcodes.php:4413
+msgid "in timezone"
+msgstr "en zona horaria"
+
+#: inc/shortcodes.php:4413
+msgid "default timezone was"
+msgstr "la zona horaria predeterminada era"
+
+#: inc/shortcodes.php:4415
+msgid ""
+"If the schedule time is in the past, each video is loaded in order and "
+"immediately replaces the previous video for the stream. Repeat will cause "
+"that videos to repeat in loop."
+msgstr ""
+"Si el tiempo de programación está en el pasado, cada video se carga en orden "
+"e inmediatamente reemplaza el video anterior para la transmisión. La "
+"repetición hará que los videos se repitan en loop."
+
+#: inc/shortcodes.php:4422
+msgid ""
+"Scheduled videos play instead of performer live stream in videochat "
+"interface. Can be selected from all videos of user."
+msgstr ""
+"Los videos programados se reproducen en lugar de la transmisión en vivo del "
+"Anfitrión en la interfaz de videochat. Se puede seleccionar de todos los "
+"videos del usuario."
+
+#: inc/shortcodes.php:4440
+msgid "Assets"
+msgstr "Activos"
+
+#: inc/shortcodes.php:4442
+#, fuzzy
+msgid "Select digital assets to show on room profile page."
+msgstr ""
+"Seleccione los activos digitales que desea mostrar en la página de perfil de "
+"la sala."
+
+#: inc/shortcodes.php:4532 inc/shortcodes.php:4651
+#, fuzzy
+#| msgid "Update Webcam"
+msgid "Update Selection"
+msgstr "Actualizar Cámara"
+
+#: inc/shortcodes.php:4534 inc/shortcodes.php:4653
+msgid "Previous Page"
+msgstr "Página anterior"
+
+#: inc/shortcodes.php:4535 inc/shortcodes.php:4654
+msgid "Next Page"
+msgstr "Siguiente página"
+
+#: inc/shortcodes.php:4559 inc/shortcodes.php:8160
+msgid "Products"
+msgstr "Productos"
+
+#: inc/shortcodes.php:4561
+#, fuzzy
+msgid "Select products to show on room profile page."
+msgstr "Seleccione los productos que deben mostrarse para esta habitación."
+
+#: inc/shortcodes.php:4686 inc/shortcodes.php:4959 inc/shortcodes.php:8148
+#: inc/shortcodes.php:8262
+msgid "Pictures"
+msgstr "Imágenes"
+
+#: inc/shortcodes.php:4699
+msgid ""
+"Multiple profile pictures can show on webcam listing page. Each listing has "
+"own pictures."
+msgstr ""
+"Se pueden mostrar varias imágenes de perfil en la página de listado de la "
+"cámara. Cada listado tiene sus propias imágenes."
+
+#: inc/shortcodes.php:4740 inc/shortcodes.php:4774
+msgid "Bans"
+msgstr "Prohibiciones"
+
+#: inc/shortcodes.php:4753
+msgid "Cleared ban for"
+msgstr "Prohibición autorizada para"
+
+#: inc/shortcodes.php:4756
+msgid "Not found!"
+msgstr "No encontrado!"
+
+#: inc/shortcodes.php:4780
+msgid "There are no bans for this room."
+msgstr "No hay prohibiciones para este \"Live\"."
+
+#: inc/shortcodes.php:4782
+msgid ""
+"Bans occur when performer kicks or bans users from videochat interface. "
+"Kicks result in short bans (15 minutes) and full bans have longer cooldown "
+"(1 week). Bans prevent viewers from accessing or remaining in chat room."
+msgstr ""
+"Las prohibiciones ocurren cuando el Anfitrión expulsa o prohíbe a los "
+"usuarios desde la interfaz de videochat. Las expulsiones resultan en "
+"prohibiciones cortas (15 minutos) y las prohibiciones completas tienen un "
+"tiempo de reutilización más largo (1 semana). Las prohibiciones evitan que "
+"los espectadores accedan o permanezcan en la sala de chat."
+
+#: inc/shortcodes.php:4817
+#, fuzzy
+msgid "TeraWallet"
+msgstr "TeraWallet"
+
+#: inc/shortcodes.php:4819
+#, fuzzy
+msgid "TeraWallet (WooCommerce)"
+msgstr "TeraWallet (WooCommerce)"
+
+#: inc/shortcodes.php:4823 inc/shortcodes.php:4858 inc/shortcodes.php:8213
+msgid "Logged days"
+msgstr "Días registrados"
+
+#: inc/shortcodes.php:4824 inc/shortcodes.php:4859
+msgid "Logged private sessions billed"
+msgstr "Sesiones privadas registradas facturadas"
+
+#: inc/shortcodes.php:4825 inc/shortcodes.php:4860
+msgid "Logged group sessions billed"
+msgstr "Sesiones grupales registradas facturadas"
+
+#: inc/shortcodes.php:4826 inc/shortcodes.php:4861
+msgid "Session logs are kept for limited time and transaction logs forever."
+msgstr ""
+"Los registros de sesión se mantienen por tiempo limitado y los registros de "
+"transacciones para siempre."
+
+#: inc/shortcodes.php:4853
+msgid "My Credits"
+msgstr "Mis créditos"
+
+#: inc/shortcodes.php:4885
+msgid "Overview"
+msgstr "Visión general"
+
+#: inc/shortcodes.php:4904
+msgid "Webcam Room Listing Overview"
+msgstr "Descripción general del listado de \"Lives\" de cámara"
+
+#: inc/shortcodes.php:4926
+msgid "Listing (Room) Name"
+msgstr "Nombre de listado (\"Live\")"
+
+#: inc/shortcodes.php:4927
+msgid "Current Room Performer"
+msgstr "Anfitrión de \"Live\" actual"
+
+#: inc/shortcodes.php:4928
+msgid "Current Room Performer ID"
+msgstr "Identificación actual del Anfitrión"
+
+#: inc/shortcodes.php:4929
+msgid "Your Performer Name"
+msgstr "Tu nombre de Anfitrión"
+
+#: inc/shortcodes.php:4930
+msgid "Room Label"
+msgstr "Etiqueta de el \"Live\""
+
+#: inc/shortcodes.php:4931
+msgid "Room Status"
+msgstr "Estatus de el \"Live\""
+
+#: inc/shortcodes.php:4932
+msgid "Room URL"
+msgstr "URL de el \"Live\""
+
+#: inc/shortcodes.php:4933
+msgid "Room Slug"
+msgstr "Coneccion de el \"Live\""
+
+#: inc/shortcodes.php:4939 inc/shortcodes.php:7471
+msgid "Featured"
+msgstr "Destacados"
+
+#: inc/shortcodes.php:4945
+msgid "Client CPM"
+msgstr "CPM del cliente"
+
+#: inc/shortcodes.php:4946
+msgid "Earning Ratio"
+msgstr "Ratio de ganancia"
+
+#: inc/shortcodes.php:4980
+msgid "Scheduled Playlist"
+msgstr "Lista de reproducción programada"
+
+#: inc/shortcodes.php:5030
+msgid "Login to send questions or messages!"
+msgstr "¡Inicia sesión para enviar preguntas o mensajes!"
+
+#: inc/shortcodes.php:5062
+#, fuzzy
+#| msgid "You are currently logged in as"
+msgid "Messages are currently closed."
+msgstr "Conectado como"
+
+#: inc/shortcodes.php:5070
+msgid "You need cost of message in balance to send it."
+msgstr "Necesita el costo del mensaje en su balance para enviarlo."
+
+#: inc/shortcodes.php:5116 inc/shortcodes.php:5419
+#, fuzzy
+msgid "This attachment extension is not allowed:"
+msgstr "Esta extensión de datos adjuntos no está permitida:"
+
+#: inc/shortcodes.php:5116 inc/shortcodes.php:5419
+#, fuzzy
+msgid "Allowed attachment extensions:"
+msgstr "Extensiones de datos adjuntos permitidas:"
+
+#: inc/shortcodes.php:5116 inc/shortcodes.php:5122 inc/shortcodes.php:5419
+#: inc/shortcodes.php:5428
+#, fuzzy
+msgid "Try again:"
+msgstr "Vuelve a intentarlo:"
+
+#: inc/shortcodes.php:5122 inc/shortcodes.php:5428
+#, fuzzy
+msgid "This attachment is too big:"
+msgstr "Este archivo adjunto es demasiado grande:"
+
+#: inc/shortcodes.php:5122 inc/shortcodes.php:5428
+#, fuzzy
+msgid "Allowed attachment size:"
+msgstr "Tamaño de archivo adjunto permitido:"
+
+#: inc/shortcodes.php:5154
+msgid "Paid Message to"
+msgstr "Mensaje pagado a"
+
+#: inc/shortcodes.php:5159
+msgid "Your message was sent."
+msgstr "Tu mensaje fue enviado."
+
+#: inc/shortcodes.php:5160 inc/shortcodes.php:5568 inc/shortcodes.php:5818
+msgid "View Message"
+msgstr "Ver mensaje"
+
+#: inc/shortcodes.php:5173
+msgid "Your Question or Message"
+msgstr "Tu pregunta o mensaje"
+
+#: inc/shortcodes.php:5176 inc/shortcodes.php:5515
+#, fuzzy
+msgid "Attachments (Optional)"
+msgstr "Datos adjuntos (opcional)"
+
+#: inc/shortcodes.php:5181
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: inc/shortcodes.php:5186
+msgid "Cost per question or message"
+msgstr "Costo por pregunta o mensaje"
+
+#: inc/shortcodes.php:5260 inc/shortcodes.php:5578 inc/shortcodes.php:5826
+msgid "No Messages"
+msgstr "Ningún mensaje"
+
+#: inc/shortcodes.php:5274 inc/shortcodes.php:5743
+msgid "Login to manage messages and replies!"
+msgstr "¡Inicia sesión para gestionar mensajes y respuestas!"
+
+#: inc/shortcodes.php:5482
+msgid "Paid Message Earning from "
+msgstr "Mensaje de pago obtenido de"
+
+#: inc/shortcodes.php:5483
+msgid "Your reply was sent and you got paid."
+msgstr "tu respuesta fue enviada y te pagaron.."
+
+#: inc/shortcodes.php:5485
+msgid "Your reply was sent."
+msgstr "Su respuesta fue enviada."
+
+#: inc/shortcodes.php:5506 inc/shortcodes.php:5521
+msgid "Send Reply"
+msgstr "Enviar respuesta"
+
+#: inc/shortcodes.php:5565 inc/shortcodes.php:5805
+msgid "Replied"
+msgstr "Replied"
+
+#: inc/shortcodes.php:5573
+msgid ""
+"You receive payment for paid messages on reply. Clients can access their "
+"messages and replies from client dashboard and in messages section from "
+"webcam profile."
+msgstr ""
+"Recibirá el pago por los mensajes pagados en respuesta. Los usuarios pueden "
+"acceder a sus mensajes y respuestas desde el panel del usuario y en la "
+"sección de mensajes desde el perfil de la cámara."
+
+#: inc/shortcodes.php:5593
+msgid "Questions"
+msgstr "Preguntas"
+
+#: inc/shortcodes.php:5600
+#, fuzzy
+#| msgid "Question"
+msgid "Price per Question"
+msgstr "Pregunta"
+
+#: inc/shortcodes.php:5629
+#, fuzzy
+#| msgid "Login to access as client!"
+msgid "Login to access client features!"
+msgstr "¡Inicia sesión para acceder como usuario!"
+
+#: inc/shortcodes.php:5646
+msgid "Active balance"
+msgstr "Balance activo"
+
+#: inc/shortcodes.php:5647
+msgid "All Balances"
+msgstr "Todos los balances"
+
+#: inc/shortcodes.php:5648
+msgid "Manage Wallet"
+msgstr "Administrar billetera"
+
+#: inc/shortcodes.php:5655
+msgid "My Questions and Messages"
+msgstr "Mis preguntas y mensajes"
+
+#: inc/shortcodes.php:5661
+msgid "My Calls"
+msgstr "Mis llamadas"
+
+#: inc/shortcodes.php:5667 inc/shortcodes.php:5729
+msgid "Add Role"
+msgstr "Agregar Rol"
+
+#: inc/shortcodes.php:5681
+#, fuzzy
+#| msgid "Login to manage calls!"
+msgid "Login to manage role!"
+msgstr "¡Inicia sesión para gestionar llamadas!"
+
+#: inc/shortcodes.php:5712 ppv-live-webcams.php:3557
+msgid "Role"
+msgstr "Role"
+
+#: inc/shortcodes.php:5839
+msgid "Login to manage calls!"
+msgstr "¡Inicia sesión para gestionar llamadas!"
+
+#: inc/shortcodes.php:5935
+msgid "New call was setup"
+msgstr "Nueva llamada fue configurada"
+
+#: inc/shortcodes.php:5941
+msgid ""
+"Error: Client was not found by email or username! User needs to register to "
+"be able to login and access the private call."
+msgstr ""
+"Error: ¡No se encontró el usuario por correo electrónico o nombre de "
+"usuario! El usuario debe registrarse para poder iniciar sesión y acceder a "
+"la llamada privada."
+
+#: inc/shortcodes.php:5955 inc/shortcodes.php:5958 inc/shortcodes.php:5961
+msgid "Paid"
+msgstr "Pagado"
+
+#: inc/shortcodes.php:5955 inc/shortcodes.php:5964
+#, fuzzy
+#| msgid "Video Chat"
+msgid "Videochat"
+msgstr "Siguiente: Sala de chat de video aleatorio"
+
+#: inc/shortcodes.php:5958 inc/shortcodes.php:5965
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/shortcodes.php:5961 inc/shortcodes.php:5966
+msgid "Text"
+msgstr "Texto"
+
+#: inc/shortcodes.php:5973
+#, fuzzy
+#| msgid "Private Videochat Mode"
+msgid "Private Call Chat Mode"
+msgstr "Modo de videochat privado"
+
+#: inc/shortcodes.php:5974
+msgid "Client"
+msgstr "Usuario"
+
+#: inc/shortcodes.php:5974
+msgid "Username or Email"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: inc/shortcodes.php:5975
+msgid "Setup Call"
+msgstr "Configurar llamada"
+
+#: inc/shortcodes.php:5978
+msgid ""
+"Setup locked private calls that can only be accessed by client using "
+"dedicated call link. Clients can access their persistent calls list in "
+"client dashboard.  "
+msgstr ""
+"Configure llamadas privadas bloqueadas a las que solo el afiliado puede "
+"acceder mediante un enlace de llamada dedicado. Los afiliados pueden acceder "
+"a su lista de llamadas persistentes en el tablero del afiliado."
+
+#: inc/shortcodes.php:6025
+msgid "Access"
+msgstr "Acceso"
+
+#: inc/shortcodes.php:6033
+msgid "No Calls"
+msgstr "Sin llamadas"
+
+#: inc/shortcodes.php:6659
+msgid "Loading Live Webcams"
+msgstr "Cargando cámaras  en vivo"
+
+#: inc/shortcodes.php:6870 inc/shortcodes.php:6876
+#, fuzzy
+#| msgid "in Category"
+msgid "Loading category"
+msgstr "en la categoría"
+
+#: inc/shortcodes.php:6870 inc/shortcodes.php:7041
+msgid "All Categories"
+msgstr "Todas las categorias"
+
+#: inc/shortcodes.php:6899 inc/shortcodes.php:6901 inc/shortcodes.php:6902
+#: inc/shortcodes.php:6904 inc/shortcodes.php:6905 inc/shortcodes.php:6907
+#: inc/shortcodes.php:6908 inc/shortcodes.php:6910 inc/shortcodes.php:6911
+#, fuzzy
+#| msgid "Live Webcams"
+msgid "Filtering Webcams"
+msgstr "\"Live\" Cámara"
+
+#: inc/shortcodes.php:6899 inc/shortcodes.php:7050
+msgid "All"
+msgstr "Todos"
+
+#: inc/shortcodes.php:6901 inc/shortcodes.php:7052
+msgid "Online"
+msgstr "En linea"
+
+#: inc/shortcodes.php:6902 inc/shortcodes.php:7054
+msgid "Online, Available"
+msgstr "En línea, disponible"
+
+#: inc/shortcodes.php:6904 inc/shortcodes.php:7057
+msgid "All, Paid"
+msgstr "Todo pagado"
+
+#: inc/shortcodes.php:6905 inc/shortcodes.php:7059
+msgid "All, Free"
+msgstr "Todo gratis"
+
+#: inc/shortcodes.php:6907 inc/shortcodes.php:7062
+msgid "Available, Paid"
+msgstr "Disponible, pagado"
+
+#: inc/shortcodes.php:6908 inc/shortcodes.php:7064
+msgid "Available, Free"
+msgstr "Disponible, gratis"
+
+#: inc/shortcodes.php:6910 inc/shortcodes.php:7067
+msgid "Online, In Private"
+msgstr "En línea, público"
+
+#: inc/shortcodes.php:6911 inc/shortcodes.php:7069
+msgid "Offline"
+msgstr "Desconectado"
+
+#: inc/shortcodes.php:6923 inc/shortcodes.php:7081
+msgid "Default Order"
+msgstr "Pedido predeterminado"
+
+#: inc/shortcodes.php:6924 inc/shortcodes.php:7083
+msgid "Current Viewers"
+msgstr "Espectadores actuales"
+
+#: inc/shortcodes.php:6925 inc/shortcodes.php:7085
+msgid "Broadcast Recently"
+msgstr "Transmitido recientemente"
+
+#: inc/shortcodes.php:6926 inc/shortcodes.php:7086
+msgid "Created Recently"
+msgstr "Creado recientemente"
+
+#: inc/shortcodes.php:6927 inc/shortcodes.php:7088
+msgid "Maximum Viewers"
+msgstr "Máximo de espectadores"
+
+#: inc/shortcodes.php:6928 inc/shortcodes.php:7090
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/shortcodes.php:6933 inc/shortcodes.php:6939 inc/shortcodes.php:7095
+#: inc/shortcodes.php:7101
+msgid "Rating"
+msgstr "Clasificación"
+
+#: inc/shortcodes.php:6934 inc/shortcodes.php:6940 inc/shortcodes.php:7096
+#: inc/shortcodes.php:7102
+msgid "Ratings Number"
+msgstr "Número de clasificaciones"
+
+#: inc/shortcodes.php:6935 inc/shortcodes.php:6941 inc/shortcodes.php:7097
+#: inc/shortcodes.php:7103
+msgid "Rate Popularity"
+msgstr "Calificación popularidad"
+
+#: inc/shortcodes.php:6939 inc/shortcodes.php:6940 inc/shortcodes.php:6941
+#: inc/shortcodes.php:7101 inc/shortcodes.php:7102 inc/shortcodes.php:7103
+msgid "in Category"
+msgstr "en la categoría"
+
+#: inc/shortcodes.php:6950 inc/shortcodes.php:7079
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: inc/shortcodes.php:6957
+#, fuzzy
+#| msgid "Current Cam"
+msgid "Ordering Rooms"
+msgstr "Cámara actual"
+
+#: inc/shortcodes.php:7007 inc/shortcodes.php:7010
+#, fuzzy
+msgid "Filtering Rooms"
+msgstr "Salas de filtrado"
+
+#: inc/shortcodes.php:7007
+msgid "Any"
+msgstr "Ninguna"
+
+#: inc/shortcodes.php:7133
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/shortcodes.php:7377
+msgid "Ban This Webcam"
+msgstr "Prohibir esta cámara"
+
+#: inc/shortcodes.php:7486
+msgid "Enter"
+msgstr "Entrar"
+
+#: inc/shortcodes.php:7492
+msgid "Call"
+msgstr "Llamada"
+
+#: inc/shortcodes.php:7513
+msgid "Login for More"
+msgstr "Inicia sesión para más"
+
+#: inc/shortcodes.php:7522 inc/shortcodes.php:7523
+msgid "Video Call"
+msgstr "Videollamada"
+
+#: inc/shortcodes.php:7529
+msgid "Audio Call"
+msgstr "Llamada de audio"
+
+#: inc/shortcodes.php:7535
+#, fuzzy
+#| msgid "Video Chat"
+msgid "Text Chat"
+msgstr "Video Chat"
+
+#: inc/shortcodes.php:7541 inc/shortcodes.php:7543
+msgid "Question"
+msgstr "Pregunta"
+
+#: inc/shortcodes.php:7567
+msgid "Voyeur"
+msgstr "Espiador"
+
+#: inc/shortcodes.php:7608
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/shortcodes.php:7610
+msgid "Page"
+msgstr "Página"
+
+#: inc/shortcodes.php:7804
+msgid "Broadcasting not allowed: Only logged in users can broadcast!"
+msgstr ""
+"No se permite la transmisión: ¡solo los usuarios registrados pueden "
+"transmitir!"
+
+#: inc/shortcodes.php:8102
+msgid "Room Page"
+msgstr "Página de \"Live\""
+
+#: inc/shortcodes.php:8103
+msgid "Room Profile Content"
+msgstr "Contenido del perfil de el \"Live\""
+
+#: inc/shortcodes.php:8104
+msgid "Room Profile Info"
+msgstr "Información del perfil de el \"Live\""
+
+#: inc/shortcodes.php:8149 inc/shortcodes.php:8283
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: inc/shortcodes.php:8155
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/shortcodes.php:8192
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/shortcodes.php:8202
+msgid "Maximum viewers"
+msgstr "Máximo de espectadores"
+
+#: inc/shortcodes.php:8213
+msgid "Paid sessions"
+msgstr "Sesiones pagas"
+
+#: inc/shortcodes.php:8213
+msgid "private"
+msgstr "privado"
+
+#: inc/shortcodes.php:8213
+msgid "group"
+msgstr "grupo"
+
+#: inc/shortcodes.php:8221
+msgid "Profile Info"
+msgstr "Información de perfil"
+
+#: inc/shortcodes.php:8279
+#, fuzzy
+msgid "My Review"
+msgstr "Mi opinión"
+
+#: inc/shortcodes.php:8299
+#, fuzzy
+#| msgid "Room Profile Content"
+msgid "Room Content"
+msgstr "Contenido del perfil de el \"Live\""
+
+#: inc/shortcodes.php:8317
+#, fuzzy
+#| msgid "Room Mode"
+msgid "Room Products"
+msgstr "Modo de \"Live\""
+
+#: inc/shortcodes.php:8357
+msgid "Send Question or Message"
+msgstr "Enviar pregunta o mensaje"
+
+#: inc/shortcodes.php:8359
+msgid "My Previous Questions and Messages"
+msgstr "Mis preguntas y mensajes anteriores"
+
+#: inc/shortcodes.php:8562
+#, fuzzy
+msgid "This is a BuddyPress group room and you are not a member!"
+msgstr "Esta es una sala de grupo BuddyPress y usted no es miembro!"
+
+#: inc/shortcodes.php:8630
+#, fuzzy
+#| msgid "Login to access as client!"
+msgid "Login to access special chat mode!"
+msgstr "¡Inicia sesión para acceder como usuario!"
+
+#: inc/shortcodes.php:8639
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls."
+msgstr ""
+"El chat grupal está deshabilitado. Este \"Live\" solo se puede usar para "
+"llamadas instantáneas o bloqueadas."
+
+#: inc/shortcodes.php:8830
+msgid "Try HTML5 Videochat"
+msgstr "Prueba HTML5 Videochat"
+
+#: inc/streams.php:36
+#, fuzzy
+msgid "is live"
+msgstr "es en vivo"
+
+#: inc/streams.php:489 ppv-live-webcams.php:7614
+msgid "LIVE"
+msgstr "LIVE"
+
+#: ppv-live-webcams.php:637
+msgctxt "Post Type General Name"
+msgid "Webcams"
+msgstr "Cámara"
+
+#: ppv-live-webcams.php:638
+msgctxt "Post Type Singular Name"
+msgid "Webcam"
+msgstr "Cámara"
+
+#: ppv-live-webcams.php:640
+msgid "Parent Webcam:"
+msgstr "Cámara Matriz:"
+
+#: ppv-live-webcams.php:641
+msgid "All Webcams"
+msgstr "Todas las Cámaras"
+
+#: ppv-live-webcams.php:642
+msgid "View Webcam"
+msgstr "Ver Cámara"
+
+#: ppv-live-webcams.php:643
+msgid "Add New Webcam"
+msgstr "Añadir nueva cámara"
+
+#: ppv-live-webcams.php:644
+msgid "New Webcam"
+msgstr "Nueva Cámara"
+
+#: ppv-live-webcams.php:645
+msgid "Edit Webcam"
+msgstr "Editar Cámara"
+
+#: ppv-live-webcams.php:646
+msgid "Update Webcam"
+msgstr "Actualizar Cámara"
+
+#: ppv-live-webcams.php:647
+msgid "Search Webcams"
+msgstr "Buscar Cámara"
+
+#: ppv-live-webcams.php:648
+msgid "No webcams found"
+msgstr "No se han encontrado Cámara"
+
+#: ppv-live-webcams.php:649
+msgid "No webcams found in Trash"
+msgstr "No se han encontrado Cámara en la basura"
+
+#: ppv-live-webcams.php:652
+#, fuzzy
+msgid "New room created"
+msgstr "Nueva habitación creada"
+
+#: ppv-live-webcams.php:654
+#, fuzzy, php-format
+msgid "%1$s created a new <a href=\"%2$s\">room</a>"
+msgstr "%1$s creó una nueva <a href=\"%2$s\">habitación</a>"
+
+#: ppv-live-webcams.php:655
+#, fuzzy, php-format
+msgid "%1$s created a new <a href=\"%2$s\">room</a>, on the site %3$s"
+msgstr "%1$s creó una nueva <a href=\"%2$s\">habitación,</a>en el sitio %3$s"
+
+#: ppv-live-webcams.php:662
+msgid "webcam"
+msgstr "cámara"
+
+#: ppv-live-webcams.php:663
+msgid "Live Webcams"
+msgstr "\"Live\" Cámara"
+
+#: ppv-live-webcams.php:756
+msgid "Access Forbidden!"
+msgstr "¡Acceso Prohibido!"
+
+#: ppv-live-webcams.php:855
+msgid "This is a paid room. A minimum balance required to access."
+msgstr "Esta es un \"Live\" pagado. Un saldo mínimo requerido para acceder."
+
+#: ppv-live-webcams.php:861
+msgid "This is a paid room. Login is required to access a paid room."
+msgstr ""
+"Esta es un\"Live\" pagada. Se requiere iniciar sesión para acceder a una "
+"habitación paga."
+
+#: ppv-live-webcams.php:1611 ppv-live-webcams.php:6361
+msgid ""
+"Not enough funds left for client to continue session. Minimum required: "
+msgstr ""
+"No quedan fondos suficientes para que el afiliado continúe la evento. Mínimo "
+"requerido "
+
+#: ppv-live-webcams.php:1624 ppv-live-webcams.php:6368
+msgid "Session was already ended."
+msgstr "La sesión ya había finalizado."
+
+#: ppv-live-webcams.php:3345
+msgid "You Were Disconnected from Chat Room"
+msgstr "Usted fue desconectado de la sala de chat"
+
+#: ppv-live-webcams.php:3349
+msgid "You have been disconnected from server."
+msgstr "Has sido desconectado del servidor."
+
+#: ppv-live-webcams.php:3350
+msgid "Free daily time limit reached: Check paid rooms!"
+msgstr "Límite de tiempo diario gratuito alcanzado: ¡Consulte \"lives\" pagas!"
+
+#: ppv-live-webcams.php:3351
+msgid "Free daily visitor time limit reached: Register for more!"
+msgstr ""
+"Límite de tiempo diario gratuito para visitantes alcanzado: ¡Regístrese para "
+"obtener más!"
+
+#: ppv-live-webcams.php:4241
+msgid "PPM group"
+msgstr "Grupo PPM"
+
+#: ppv-live-webcams.php:4241
+msgid "session in"
+msgstr "en sesión"
+
+#: ppv-live-webcams.php:4263
+msgid "Earning from PPM group"
+msgstr "Ganancias del grupo PPM"
+
+#: ppv-live-webcams.php:4263
+msgid " session with "
+msgstr " en sesión con"
+
+#: ppv-live-webcams.php:4346
+#, fuzzy
+#| msgid "Earning from PPM private session with "
+msgid "Earning from PPM private session #"
+msgstr "Ganancias de sesión privada PPM con "
+
+#: ppv-live-webcams.php:4350
+#, fuzzy
+#| msgid "Performer cost for PPM private session with "
+msgid "Performer cost for PPM private session #"
+msgstr "Coste de Anfitrión para sesión privada PPM con "
+
+#: ppv-live-webcams.php:5406 ppv-live-webcams.php:6138
+msgid "You are banned from accessing this room! By"
+msgstr "¡Tienes prohibido acceder a este \"Live\"! Por"
+
+#: ppv-live-webcams.php:5423
+msgid ""
+"You are NOT logged in. Only registered users can request private show or "
+"send tips!"
+msgstr ""
+"NO has iniciado sesión. ¡Solo los usuarios registrados pueden solicitar un "
+"evento privado o enviar sugerencias!"
+
+#: ppv-live-webcams.php:5430
+msgid ""
+"Please login first or register an account if you do not have one! Click here "
+"to return to website."
+msgstr ""
+"¡Inicie sesión primero o registre una cuenta si no tiene una! Haga clic aquí "
+"para volver al sitio web."
+
+#: ppv-live-webcams.php:5436
+msgid "you are not in the allowed watchers list."
+msgstr "no estás en la lista de espectadores permitidos."
+
+#: ppv-live-webcams.php:5437
+msgid "Please login first or register an account if you do not have one!"
+msgstr "¡Inicie sesión primero o registre una cuenta si no tiene una!"
+
+#: ppv-live-webcams.php:5453
+msgid "Paid group session: login to access!"
+msgstr "Sesión grupal de pago: ¡inicia sesión para acceder!"
+
+#: ppv-live-webcams.php:5458
+msgid "Minimum balance required for paid session:"
+msgstr "Saldo mínimo requerido para la sesión de pago:"
+
+#: ppv-live-webcams.php:5501
+msgid "Your are not in room access list."
+msgstr "No estás en la lista de acceso a este \"Live\"."
+
+#: ppv-live-webcams.php:5509
+msgid ""
+"Password Protected: Room can be accessed after filling password from room "
+"page."
+msgstr ""
+"Protegido con contraseña: se puede acceder a el \"Live\" después de "
+"completar la contraseña desde la página de el \"Live\"."
+
+#: ppv-live-webcams.php:5521 ppv-live-webcams.php:5617
+msgid "Your current balance:"
+msgstr "Su saldo actual:"
+
+#: ppv-live-webcams.php:5523 ppv-live-webcams.php:6219
+msgid "Pending balance"
+msgstr "Balance pendiente"
+
+#: ppv-live-webcams.php:5538
+msgid "2 way slots:"
+msgstr "Espacios de 2 vías:"
+
+#: ppv-live-webcams.php:5620
+msgid "Private show cost per minute for performer is:"
+msgstr "El costo del evento privado por minuto para el Anfitrión es:"
+
+#: ppv-live-webcams.php:5626
+msgid "Private show cost per minute for client:"
+msgstr "Costo por minute del evento privado para el afiliado:"
+
+#: ppv-live-webcams.php:5630
+msgid "Private show earning per minute for performer:"
+msgstr "Ganancia del evento privado por minuto para el Anfitrión:"
+
+#: ppv-live-webcams.php:5642
+msgid "You are in room"
+msgstr "Estás en el \"Live\""
+
+#: ppv-live-webcams.php:5644
+msgid "Active performer (stream):"
+msgstr "Anfitrión activo (transmisión):"
+
+#: ppv-live-webcams.php:5737
+msgid ""
+"Warning: HTTPS not detected. Some browsers like Chrome will not permit "
+"webcam access when accessing without SSL!"
+msgstr ""
+"Advertencia: HTTPS no detectado. ¡Algunos navegadores como Chrome no "
+"permitirán el acceso a la cámara al acceder sin SSL!"
+
+#: ppv-live-webcams.php:6207
+msgid "Tip from "
+msgstr "Donación de "
+
+#: ppv-live-webcams.php:6216
+msgid "After tip, your balance is"
+msgstr "Después de la donación, su saldo es"
+
+#: ppv-live-webcams.php:6224
+msgid "Tip"
+msgstr "Donación"
+
+#: ppv-live-webcams.php:6956 ppv-live-webcams.php:7472
+msgid "Comment added successfully!"
+msgstr "¡Comentario agregado con éxito!"
+
+#: ppv-live-webcams.php:6963
+msgid "Not implemented, yet!"
+msgstr "¡Aún sin implementar!"
+
+#: ppv-live-webcams.php:7020
+msgid "Comment deleted successfully!"
+msgstr "¡Comentario eliminado con éxito!"
+
+#: ppv-live-webcams.php:7281
+msgid "Whiteboard elements added successfully!"
+msgstr "¡Elementos de pizarra añadidos con éxito!"
+
+#: ppv-live-webcams.php:7285
+msgid "No whiteboard elements to add!"
+msgstr "No hay elementos de pizarra para agregar!"
+
+#: ppv-live-webcams.php:7671
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: ppv-live-webcams.php:7706
+msgid "User not found by email or login: "
+msgstr "Usuario no encontrado por correo electrónico o inicio de sesión:"
+
+#: ppv-live-webcams.php:7713
+msgid "User not found by ID: "
+msgstr "Usuario no encontrado por ID:"
+
+#: ppv-live-webcams.php:7732
+msgid "Studio not found: "
+msgstr "Estudio no encontrado:"
+
+#: ppv-live-webcams.php:7805
+msgid "User not found: "
+msgstr "Usuario no encontrado "
+
+#: ppv-live-webcams.php:7835
+msgid "Toggle Verified"
+msgstr "Alternar verificado"
+
+#: ppv-live-webcams.php:7837
+msgid "Suspended"
+msgstr "Suspendido"
+
+#: ppv-live-webcams.php:7838
+msgid "Toggle Suspended"
+msgstr "Toggle suspendido"
+
+#: ppv-live-webcams.php:7840
+msgid "Records Updated"
+msgstr "Registros actualizados"
+
+#: ppv-live-webcams.php:7841
+msgid "Last Verified"
+msgstr "Último verificado"
+
+#: ppv-live-webcams.php:7843
+#, fuzzy
+#| msgid "Register"
+msgid "Registration IP"
+msgstr "Registrarse"
+
+#: template-app.php:19
+msgid "Video Chat"
+msgstr "Video Chat"
+
+#: template-webcam.php:40
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
+"No pudimos encontrar ninguna publicación que coincida con su consulta. "
+"Inténtalo de nuevo."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Paid Videochat Turnkey Site - HTML5 PPV Live Webcams"
+msgstr "Sitio llave en mano videochat de pago - Webcams en vivo HTML5 PPV"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://paidvideochat.com"
+msgstr "https://paidvideochat.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"<strong>Paid Videochat Turnkey Site - HTML5 PPV Live Webcams</strong>: pay "
+"per view / minute (PPV/PPM) videochat sites.  Includes custom registration "
+"(performers, clients, studios), live webcams list, public lobby for each "
+"performer with live stream, mult-performer in show checkin, custom tips/"
+"gifts with notification, pay per minute private 2 way calls and group "
+"videochat shows, HTML5 WebRTC live video streaming, adaptive interface for "
+"mobile browsers, snapshots/pictures and videos profile, video conference "
+"mode with split view streaming, presentation/collaboration mode with file "
+"sharing and image/video display, paid questions/messages.  <a href='https://"
+"videowhisper.com/tickets_submit.php?topic=PPV-Live-Webcams'>Contact Support</"
+"a> | <a href='admin.php?page=live-webcams&tab=setup'>Setup</a>"
+msgstr ""
+"Sitio llave en mano videochat de pago <strong>- Cámaras web en vivo HTML5 "
+"PPV</strong>: pago por vista / minuto (PPV / PPM) sitios de videochat.  "
+"Incluye registro personalizado (performers, clientes, estudios), lista de "
+"webcams en vivo, lobby público para cada artista con transmisión en vivo, "
+"mult-performer en el check-in en el espectáculo, consejos/regalos "
+"personalizados con notificación, pago por minuto de llamadas privadas de 2 "
+"vías y programas de videochat grupales, transmisión de video en vivo HTML5 "
+"WebRTC, interfaz adaptable para navegadores móviles, instantáneas/imágenes y "
+"videos perfil, modo de videoconferencia con transmisión de vista dividida, "
+"modo de presentación/colaboración con intercambio de archivos y "
+"visualización de imágenes/vídeos, preguntas de pago.  <a href='https://"
+"videowhisper.com/tickets_submit.php?topic=PPV-Live-Webcams'>Contactar con el "
+"equipo de soporte técnico</a> de la página de <a href='admin.php?page=live-"
+"webcams&tab=setup'>Configuración</a>"
+
+#. Author of the plugin/theme
+msgid "VideoWhisper.com"
+msgstr "VideoWhisper.com"
+
+#. Author URI of the plugin/theme
+msgid "https://videowhisper.com/"
+msgstr "https://videowhisper.com/"
+
+#. Template Name of the plugin/theme
+msgid "VideoWhisper App - Full Page"
+msgstr "Aplicación VideoWhisper - Página completa"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper Full"
+msgstr "VideoWhisper Completo"
+
+#~ msgid "Login to manage webcams!"
+#~ msgstr "¡Inicia sesión para administrar cámaras!"
+
+#~ msgid "HTML5 Transcoding"
+#~ msgstr "HTML5 Transcoding"
+
+#~ msgid "Multiple Cameras"
+#~ msgstr "Múltiples cámaras"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Manage studio performer accounts."
+#~ msgstr "Gestionar cuentas de Anfitriónes de estudio."
+
+#~ msgid "Request Private 2 Way Videochat Show"
+#~ msgstr "Solicitar evento privado de videochat de 2 vías"
+
+#~ msgid "Party Mode"
+#~ msgstr "Modo \"Actividad\""
+
+#~ msgid "Add Webcam"
+#~ msgstr "Agregar cámara"
+
+#~ msgid "Select/Manage Rooms"
+#~ msgstr "Seleccionar / administrar \"Lives\""

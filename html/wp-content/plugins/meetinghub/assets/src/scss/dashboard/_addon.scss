@@ -1,0 +1,120 @@
+.mhub-grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 55px 40px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 0px;
+    
+    @media (max-width: 1024px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    @media (max-width: 768px) {
+      grid-template-columns: 1fr;
+    }
+}
+  
+.mhub-card {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 90%; // Ensures equal height for all cards
+    flex-grow: 1;
+    border: 1px solid #c6cde175;
+
+    .shortcode-copy {
+        cursor: pointer;
+        margin-left: 10px;
+        
+        i {
+            color: #7856fb;
+        }
+    }
+}
+
+.mhub-ct-wrapper{
+    display: flex;
+    align-items: center;
+}
+  
+.mhub-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    img {
+      width: 30px;
+      height: 30px;
+    }
+
+    i::before {
+        font-size: 40px;
+        width: 40px;
+        height: 40px;
+        color: #8c64d4;
+    }
+}
+  
+.mhub-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    margin-left: 10px;
+}
+  
+.mhub-description {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.5;
+    min-height: 60px; // Ensures equal description height
+}
+  
+.mhub-toggle-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    border-top: 1px solid #eee;
+    margin-top: auto; // Pushes it to the bottom of the card
+}
+  
+.mhub-toggle-text {
+    color: #666;
+    font-size: 14px;
+}
+  
+.mhub-toggle {
+    width: 44px;
+    height: 24px;
+    background: #ddd;
+    border-radius: 12px;
+    position: relative;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      background: white;
+      border-radius: 50%;
+      top: 2px;
+      left: 2px;
+      transition: transform 0.3s;
+    }
+    
+    &.active {
+        background-color: #7856fb;
+      
+        &::after {
+            transform: translateX(20px);
+        }
+    }
+}

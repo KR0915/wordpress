@@ -1,0 +1,32 @@
+// ZoomForm.scss
+.zoom-form-container {
+    max-width: 600px; 
+    padding: 20px;
+    margin-top: 50px;
+  
+    .upcoming-feature-banner {
+      background-color: #f8d7da;
+      color: #721c24;
+      padding: 10px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  
+      .upcoming-feature-text {
+        margin: 0;
+        font-weight: bold;
+        text-align: center;
+      }
+    }
+  
+    .form-content {
+      h3 {
+        margin-top: 0;
+      }
+  
+      .feature-description {
+        margin-bottom: 20px;
+        color: #495057; 
+      }
+    }
+  }
+  

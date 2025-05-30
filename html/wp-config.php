@@ -115,6 +115,12 @@ $table_prefix = getenv_docker('WORDPRESS_TABLE_PREFIX', 'wp_');
  */
 define( 'WP_DEBUG', !!getenv_docker('WORDPRESS_DEBUG', '') );
 
+// 既存の define( 'WP_DEBUG', !!getenv_docker('WORDPRESS_DEBUG', '') );
+define( 'WP_DEBUG', true );            // デバッグモード有効
+define( 'WP_DEBUG_LOG', true );        // /wp-content/debug.log にログを残す
+define( 'WP_DEBUG_DISPLAY', false );   // 画面にはエラーを表示しない
+@ini_set( 'display_errors', 0 );
+
 /* Add any custom values between this line and the "stop editing" line. */
 
 // If we're behind a proxy server and using HTTPS, we need to alert WordPress of that fact

@@ -1,0 +1,322 @@
+
+@import '../mixins';
+
+.jitsi-api-settings-container {
+  font-family: 'Arial', sans-serif;
+
+  .jitsi-section-pannel {
+    padding: 20px 0;
+    width: 65%;
+
+    .select-domain-title {
+      h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+        color: #3c434a;
+        padding-top: 0;
+        margin-top: 0;
+      }
+
+    }
+
+    .select-domain-description {
+      color: #777777;
+      margin-bottom: 20px;
+    }
+
+    .radio-field {
+      margin-bottom: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      color: #3c434a;
+      &.disabled {
+        color: #777777bd;
+      }
+
+      input {
+        margin-right: 10px;
+      }
+
+      label{
+        cursor: pointer;
+      }
+
+      .mhub-pro-tag {
+        margin-left: 1rem;
+        padding: 5px 15px;
+        background-color: rgb(253 230 138);
+        color: rgb(180 83 9)  ;
+        font-size: 13px;
+        border-radius: .375rem;
+        font-weight: 700;
+        cursor: pointer;
+      }
+    }
+
+  }
+
+  .input-container {
+    .input-field {
+      display: flex;
+      align-items: center;
+
+      label {
+        display: block;
+        font-size: 16px;
+        margin-bottom: 8px;
+        width: 25%;
+        font-weight: 600;
+      }
+
+      input {
+        padding: 7px 10px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        width: 75%;
+        &:focus{
+          box-shadow: none;
+          outline: none;
+          border: 1px solid #997eff;
+        }
+      }
+
+      .toggle-trigger {
+        display: block;
+        margin-left: 5px;
+        color: #7856fb;
+        text-decoration: none;
+        font-size: 16px;
+
+        &:focus {
+          outline: none;
+          box-shadow: none;
+        }
+
+        &:hover {
+          text-decoration: underline;
+          color:#4f21ff;
+        }
+      }
+    }
+  }
+
+  .mhub-info{
+    background: #7856fb;
+    border-radius: 100%;
+    color: #fff;
+    font-size: 12px;
+    line-height: 0;
+    padding: 2px 6px;
+    margin-left: 5px;
+  }
+
+  .textarea-field{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    &:first-child {
+      margin-top: 0;
+    }
+
+    label {
+      display: block;
+      font-size: 16px;
+      margin-bottom: 8px;
+      width: 25%;
+      font-weight: 600;
+    }
+
+    textarea {
+      padding: 7px 10px;
+      font-size: 14px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      width: 70%;
+    }
+
+  }
+
+  .input-container {
+    margin-top: 40px;
+    &:first-child {
+      margin-top: 0;
+    }
+
+    .input-field {
+      display: flex;
+      align-items: center;
+
+      label {
+        display: block;
+        font-size: 16px;
+        margin-bottom: 8px;
+        width: 25%;
+        font-weight: 600;
+      }
+
+      input {
+        padding: 7px 10px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        width: 70%;
+        &:focus{
+            box-shadow: none;
+            outline: none;
+            border: 1px solid #997eff;
+        }
+      }
+
+      .toggle-trigger {
+        display: block;
+        margin-left: 5px;
+        color: #7856fb;
+        text-decoration: none;
+        font-size: 16px;
+
+        &:focus {
+          outline: none;
+          box-shadow: none;
+        }
+
+        &:hover {
+          text-decoration: underline;
+          color:#4f21ff;
+        }
+      }
+    }
+  }
+
+  .mhub-save-actions{
+    text-align: left;
+    .setting-save-button{
+      margin-top: 20px;
+    }
+  }
+
+  .jass-wrapper, .sefl-hosted-wrapper{
+    margin-top: 40px;
+    .description {
+      font-size: 14px;
+      color: #000000;
+      margin-bottom: 10px;
+
+      a {
+        color: #7856fb;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 16px;
+        &:hover{
+           color: #4f21ff;
+           text-decoration: underline;
+        }
+        &:focus{
+          outline: none;
+          box-shadow:none;
+        }
+      }
+    }
+    .field-wrapper{
+      background: #fff;
+      border-radius: 15px;
+      padding: 40px 30px 40px 30px;
+      &.sefl-hosted{
+        padding: 40px 30px 40px 30px;
+      }
+    }
+  }
+
+  .sefl-hosted-wrapper{
+    width: 70%;
+  }
+
+  .save-button.saved {
+    background-color: rgba(183, 183, 183, 0.5098039216);
+    color: #333;
+  }
+
+  @include respond-to('seventeen_hundread') {
+    .jitsi-section-pannel{
+      width: 75%;
+    }
+  }
+
+  @include respond-to('xlarge') {
+    .jitsi-section-pannel{
+      width: 90%;
+    }
+  }
+
+  @include respond-to('large') {
+    .jitsi-section-pannel{
+      width: 100%;
+    }
+
+    .input-container {
+      .input-field {
+        label {
+          width: 35%;
+        }
+  
+        input {
+          width: 65%;
+        }
+      }
+    }
+
+    .textarea-field{
+      width: 100%;
+      label {
+        width: 35%;
+      }
+  
+      textarea {
+        width: 65%;
+        margin-right: 45px;
+      }
+  
+    }
+  }
+
+  @include respond-to('medium') {
+    .sefl-hosted-wrapper{
+      width: 100%;
+    }
+  }
+
+  @include respond-to('xsmall') {
+    .input-container {
+      .input-field {
+        display: inline-block;
+        width: 100%;
+        label {
+          width: 100%;
+        }
+  
+        input {
+          width: 100%;
+        }
+        .toggle-trigger{
+          margin-top: 10px;
+        }
+      }
+    }
+
+    .textarea-field{
+      display: inline-block;
+      width: 100%;
+      label {
+        width: 100%;
+      }
+  
+      textarea {
+        width: 100%;
+      }
+  
+    }
+
+  }
+
+}
+

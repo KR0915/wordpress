@@ -1,0 +1,332 @@
+@import '../mixins';
+
+.meetinghub-meeting-list, .mhub-has-data-lists {
+  
+    .table-container {
+      margin: 20px;
+    }
+
+    @include respond-to('small') {
+      .table-container{
+        margin: 20px 0;
+      }
+    }
+
+    .action-wrapper {
+      display: flex;
+      justify-content: center;
+      .action-btn {
+        //display: inline-flex;
+        align-items: center;
+        //justify-content: center;
+        padding: 10px 15px;
+        background-color: #4f94d42e;
+        border-radius: 8px;
+        width: 45px;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+
+        i {
+          font-size: 16px;
+          color: #7856fb; /* Different color for each icon */
+        }
+
+        &:hover {
+          background-color: #349dff52; /* Change color on hover */
+        }
+
+        &.view-action-btn {
+          i {
+            color: #27ae60; /* Different color for the view icon */
+          }
+        }
+
+        &.trash-action-btn{
+          i {
+              color: rgb(252, 119, 159);
+          }
+        }
+
+        & + .action-btn {
+            margin-left: 10px; /* Add margin between buttons */
+        }
+      }
+    }
+
+    .action-text-btn{
+      background:#7856fb;
+      margin: 0;
+      font-size: 14px;
+      padding: 10px;
+      color: #ffff;
+      &:hover{
+        background:#4f21ffed;
+      }
+    }
+
+    @include respond-to('small') {
+        .action-wrapper{
+          flex-wrap: wrap;
+          .action-btn{
+            & + .action-btn {
+              margin-left: 0;
+              margin-top: 5px;
+          }
+          }
+      }
+    }
+
+    .meeting-hub-table {
+      width: 100%;
+      margin: 20px 0;
+      font-size: 15px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      border: 1px solid #ddd;
+      border-collapse: separate;
+      border-spacing: 0;
+      overflow: hidden;
+
+      tbody{
+        font-size: 14px;
+      }
+
+      th,
+      td {
+        padding: 15px;
+        text-align: left;
+        border: 1px solid #ddd;
+        border-width: 0 1px 1px 0;
+        &:first-child {
+          border-left: 0;
+        }
+        
+        &:last-child {
+          border-right: 0;
+        }
+
+        .shortcode-copy{
+          margin-left: 10px;
+          cursor: pointer;
+          i{
+            color: #7856fb;
+          }
+        }
+      }
+
+      @include respond-to('small') {
+        th,td{
+          padding: 15px 5px;
+        }
+      }
+
+      thead {
+        background-color: #7856fb !important;
+        /* Header color */
+        color: #fff;
+
+        /* Header text color */
+        th {
+          background-color: #7856fb !important;
+          font-size: 15px;
+          text-align: center;
+        }
+ 
+      }
+
+      tbody {
+        background-color: #fff;
+        tr{
+          td{
+              text-align: center;
+          }
+        }
+
+        /* Body color */
+        tr:nth-child(even) {
+          background-color: #f2f2f2;
+          /* Alternate row color */
+        }
+
+        th:first-child {
+          border-bottom: 0;
+        }
+        
+        tr:last-child {
+          td {
+            border-bottom: 0;
+          }
+        }
+      }
+    }
+
+    @include respond-to('xsmall') {
+      .mhub-meeting-dashboard-table {
+        thead {
+          th:nth-child(1), th:nth-child(3),th:nth-child(4){
+              display: none;
+            }
+        }
+  
+        tbody {
+          td:nth-child(1), td:nth-child(3), td:nth-child(4){
+            display: none;
+          }
+        }
+      }
+    }
+
+}
+
+/* Add these styles for sorting arrows */
+.sortable {
+  cursor: pointer;
+  position: relative; /* Add relative positioning to create a positioning context for absolute positioning */
+}
+
+.sortable:hover::after {
+  content: " ⇅";
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 5%;
+}
+
+.sortable.asc::after {
+  content: " ↑";
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right:  5%;
+  font-size: 20px; 
+  font-weight: bolder;
+}
+
+.sortable.desc::after {
+  content: " ↓";
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right:  5%;
+  font-size: 20px; 
+  font-weight: bolder;
+}
+
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.page-link {
+  cursor: pointer;
+  padding: 8px 16px;
+  margin: 0 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: #f0f0f0;
+  }
+
+  &.active {
+    background-color: #7856fb;
+    color: #fff;
+    border-color: #7856fb;
+  }
+
+  &.disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+}
+
+.search-container {
+  margin: 20px;
+
+  .search-input {
+    padding: 5px 15px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+    float: right;
+    margin-bottom: 10px;
+  
+    &:focus{
+      outline: none;
+      box-shadow: none;
+      border: 1px solid #997eff;
+    }
+  }
+}
+
+@include respond-to('mobile') {
+  .search-container{
+    margin: 40px 0px 0px 0px;
+    width: 100%;
+    display: inline-block;
+    .search-input{
+      width: 100%;
+    }
+  }
+  .page-link{
+    padding: 5px 10px;
+  }
+}
+
+.empty-meeting-wrapper{
+  text-align: center;
+  margin-bottom: 20px;
+  p{
+    font-size: 18px;
+  }
+}
+
+.mhub-table-wrapper{
+  position: relative;
+}
+
+.selected-meetings {
+  display: flex;
+  padding: 8px 20px;
+  background: rgba(25, 118, 210, 0.12);
+  margin: 20px;
+  justify-content: space-between;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  top: -12px;
+  left: 0;
+  right: 0;
+  width: 200px;
+  .delete-wrapper{
+    position: relative;
+  }
+
+  i{
+    color: rgb(252, 119, 159);
+    font-size: 20px;
+    cursor: pointer;
+    &:hover{
+     color: rgb(221 68 114);
+    }
+  }
+
+}
+
+@include respond-to('small') {
+  .selected-meetings{
+    margin-left: 0;
+  }
+}
+
+

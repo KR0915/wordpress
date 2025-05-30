@@ -1,0 +1,4211 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PPV Live Webcams - Paid Videochat\n"
+"POT-Creation-Date: 2024-03-08 17:45+0200\n"
+"PO-Revision-Date: 2024-03-08 17:51+0200\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ppv-live-webcams.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/buddypress.php:41
+#, fuzzy
+msgid ""
+"To setup and update room or access as performer, go to Admin - Webcams after "
+"setting up group."
+msgstr ""
+"Om de ruimte of toegang als performer in te stellen en bij te werken, ga je "
+"naar Admin - Webcams na het instellen van de groep."
+
+#: inc/buddypress.php:83
+#, fuzzy
+msgid "Group room was created."
+msgstr "Er werd een groepsruimte gecreëerd."
+
+#: inc/buddypress.php:106
+#, fuzzy
+msgid "Group room is ready and you have been added to performer list."
+msgstr "De groepsruimte is klaar en je bent toegevoegd aan de artiestenlijst."
+
+#: inc/buddypress.php:111 inc/buddypress.php:161 inc/buddypress.php:182
+#, fuzzy
+msgid "Access Room Page"
+msgstr "Toegang tot de kamerpagina"
+
+#: inc/buddypress.php:114
+#, fuzzy
+msgid "Access Performer Dashboard"
+msgstr "Toegang tot het Performer Dashboard"
+
+#: inc/buddypress.php:140
+msgid "There was an error saving, please try again"
+msgstr "Er is een fout opgetreden bij het opslaan, probeer het opnieuw"
+
+#: inc/buddypress.php:142
+msgid "Settings saved successfully"
+msgstr "Instellingen opgeslagen"
+
+#: inc/buddypress.php:158 inc/buddypress.php:179
+#, fuzzy
+msgid ""
+"Webcams room was not setup, yet. Group administrator can set it up from "
+"Manage - Webcams."
+msgstr ""
+"Webcams kamer was nog niet ingesteld. Groepsbeheerder kan het instellen via "
+"Beheren - Webcams."
+
+#: inc/h5videochat.php:62 inc/shortcodes.php:7552
+#, fuzzy
+msgid "Your current balance"
+msgstr "Uw huidige saldo"
+
+#: inc/h5videochat.php:62
+#, fuzzy
+msgid "Not enough funds to enter a matchmaking call. Minimum required: "
+msgstr ""
+"Niet genoeg geld om deel te nemen aan een matchmaking-gesprek. Minimaal "
+"vereist: "
+
+#: inc/h5videochat.php:85
+#, fuzzy
+msgid "Found active booth. Resuming"
+msgstr "Actieve stand gevonden. Hervatten"
+
+#: inc/h5videochat.php:113
+#, fuzzy
+msgid "No random call match found with current criteria!"
+msgstr ""
+"Geen willekeurige oproep gevonden die overeenkomt met de huidige criteria!"
+
+#: inc/h5videochat.php:553 inc/h5videochat.php:2250
+#, fuzzy
+msgid "You are room provider."
+msgstr "U bent kameraanbieder."
+
+#: inc/h5videochat.php:557 inc/h5videochat.php:560 inc/h5videochat.php:2254
+#: inc/h5videochat.php:2257
+#, fuzzy
+msgid "Chat Type"
+msgstr "Soort chat"
+
+#: inc/h5videochat.php:557 inc/h5videochat.php:2254
+#, fuzzy
+msgid "Audio chat"
+msgstr "Audiochat"
+
+#: inc/h5videochat.php:560 inc/h5videochat.php:2257
+#, fuzzy
+msgid "Text chat"
+msgstr "Sms chatten"
+
+#: inc/h5videochat.php:566 inc/h5videochat.php:2263
+#, fuzzy
+msgid "This is a paid private session:"
+msgstr "Dit is een betaalde privésessie:"
+
+#: inc/h5videochat.php:567 inc/h5videochat.php:2264
+msgid "Cost"
+msgstr "Kosten"
+
+#: inc/h5videochat.php:572 inc/h5videochat.php:2269 inc/h5videochat.php:2644
+msgid "You get"
+msgstr "Je krijgt"
+
+#: inc/h5videochat.php:576 inc/h5videochat.php:2273 inc/h5videochat.php:2647
+#: inc/h5videochat.php:2713 inc/h5videochat.php:2747
+#, fuzzy
+msgid "Charging starts after a grace time:"
+msgstr "Het opladen begint na een respijttijd:"
+
+#: inc/h5videochat.php:582
+#, fuzzy
+msgid "Waiting for a client to match."
+msgstr "Wachten op een klant die past."
+
+#: inc/h5videochat.php:677
+msgid "Next Match"
+msgstr "Volgende overeenkomst"
+
+#: inc/h5videochat.php:701
+#, fuzzy
+msgid "Login is required to access your own videochat room!"
+msgstr "Inloggen is vereist om toegang te krijgen tot uw eigen videochatroom!"
+
+#: inc/h5videochat.php:701 inc/h5videochat.php:926 inc/h5videochat.php:1010
+#: inc/h5videochat.php:1017 inc/shortcodes.php:1477 inc/shortcodes.php:1780
+#: inc/shortcodes.php:1890 inc/shortcodes.php:2008 inc/shortcodes.php:3666
+#: inc/shortcodes.php:8416 inc/shortcodes.php:10603 inc/shortcodes.php:11808
+#: ppv-live-webcams.php:1174
+msgid "Login"
+msgstr "Inloggen"
+
+#: inc/h5videochat.php:701 inc/h5videochat.php:926 inc/h5videochat.php:1010
+#: inc/h5videochat.php:1017 inc/h5videochat.php:3759 inc/shortcodes.php:2020
+#: inc/shortcodes.php:2024 inc/shortcodes.php:2029 inc/shortcodes.php:2788
+#: inc/shortcodes.php:8416 inc/shortcodes.php:11808 ppv-live-webcams.php:1174
+msgid "Register"
+msgstr "Registreren"
+
+#: inc/h5videochat.php:709 inc/shortcodes.php:3410 inc/shortcodes.php:4095
+#, fuzzy
+msgid ""
+"Your account is not currently enabled. Update your account records and wait "
+"for site admins to approve your account."
+msgstr ""
+"Uw account is momenteel niet ingeschakeld. Werk uw accountgegevens bij en "
+"wacht tot sitebeheerders uw account goedkeuren."
+
+#: inc/h5videochat.php:715 inc/shortcodes.php:4101
+#, fuzzy
+msgid ""
+"Studio disabled your account: dashboard access is forbidden. Contact studio "
+"or site administrator!"
+msgstr ""
+"Studio heeft uw account uitgeschakeld: toegang tot het dashboard is "
+"verboden. Neem contact op met de studio- of sitebeheerder!"
+
+#: inc/h5videochat.php:766
+#, fuzzy
+msgid "No random cam room found with current criteria!"
+msgstr "Geen willekeurige camroom gevonden met de huidige criteria!"
+
+#: inc/h5videochat.php:926
+#, fuzzy
+msgid "Login is required to access private calls."
+msgstr "Inloggen is vereist om toegang te krijgen tot privégesprekken."
+
+#: inc/h5videochat.php:937
+#, fuzzy
+msgid "This private call was closed."
+msgstr "Dit privégesprek is gesloten."
+
+#: inc/h5videochat.php:940
+#, fuzzy
+msgid "Private call is only available to performer and client, as setup."
+msgstr ""
+"Privégesprekken zijn alleen beschikbaar voor de uitvoerder en de klant, "
+"zoals ingesteld."
+
+#: inc/h5videochat.php:950
+#, fuzzy
+msgid "This private call does not exist."
+msgstr "Dit privégesprek bestaat niet."
+
+#: inc/h5videochat.php:956
+#, fuzzy
+msgid "This room can only be used for locked calls, with call link."
+msgstr ""
+"Deze ruimte kan alleen worden gebruikt voor vergrendelde oproepen, met "
+"oproeplink."
+
+#: inc/h5videochat.php:980 inc/h5videochat.php:3768 inc/h5videochat.php:4284
+#: ppv-live-webcams.php:2469
+#, fuzzy
+msgid "You are banned from accessing this room!"
+msgstr "U wordt de toegang tot deze kamer ontzegd!"
+
+#: inc/h5videochat.php:987
+#, fuzzy
+msgid "This room is currently suspended."
+msgstr "Deze kamer is momenteel geschorst."
+
+#: inc/h5videochat.php:996
+#, fuzzy
+msgid "Your role can not access other rooms."
+msgstr "Je rol heeft geen toegang tot andere kamers."
+
+#: inc/h5videochat.php:1010 inc/h5videochat.php:1017
+#, fuzzy
+msgid "Login is required to access."
+msgstr "Login is vereist om toegang te krijgen."
+
+#: inc/h5videochat.php:1020
+#, fuzzy
+msgid ""
+"You are not in the allowed client list configured from backend settings."
+msgstr ""
+"U bevindt zich niet in de lijst met toegestane clients die is geconfigureerd "
+"via de back-endinstellingen."
+
+#: inc/h5videochat.php:1028
+#, fuzzy
+msgid ""
+"This room is restricted by access list. You are not in room access list."
+msgstr ""
+"Deze kamer is beperkt door een toegangslijst. U staat niet in de lijst met "
+"kamertoegangen."
+
+#: inc/h5videochat.php:1107
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls (with call link)."
+msgstr ""
+"Groepsgesprekken zijn uitgeschakeld. Er kunnen alleen 1 op 1 gesprekken "
+"plaatsvinden."
+
+#: inc/h5videochat.php:1294
+#, fuzzy
+msgid "Open in Full Page"
+msgstr "Openen op volledige pagina"
+
+#: inc/h5videochat.php:1466
+msgid "ago"
+msgstr "geleden"
+
+#: inc/h5videochat.php:1495 inc/shortcodes.php:1846
+msgid "Send"
+msgstr "Verzenden"
+
+#: inc/h5videochat.php:1496
+msgid "Type your message"
+msgstr "Typ jouw bericht"
+
+#: inc/h5videochat.php:1498 inc/h5videochat.php:3764 inc/shortcodes.php:7325
+#: ppv-live-webcams.php:1168
+msgid "Wallet"
+msgstr "Portomonee"
+
+#: inc/h5videochat.php:1499 inc/shortcodes.php:3666
+msgid "Balance"
+msgstr "Balans"
+
+#: inc/h5videochat.php:1500
+#, fuzzy
+msgid "Pending Balance"
+msgstr "In behandeling zijnd saldo"
+
+#: inc/h5videochat.php:1501
+#, fuzzy
+msgid "Session Time"
+msgstr "Sessie tijd"
+
+#: inc/h5videochat.php:1502
+#, fuzzy
+msgid "Session Cost"
+msgstr "Sessie kosten"
+
+#: inc/h5videochat.php:1504
+msgid "Record"
+msgstr "Record"
+
+#: inc/h5videochat.php:1505
+msgid "Start"
+msgstr "Start"
+
+#: inc/h5videochat.php:1506
+msgid "Stop"
+msgstr "Stop"
+
+#: inc/h5videochat.php:1507
+msgid "Discard"
+msgstr "Negeer"
+
+#: inc/h5videochat.php:1508
+msgid "Download"
+msgstr "Download"
+
+#: inc/h5videochat.php:1509 inc/h5videochat.php:1561
+#, fuzzy
+msgid "Uploading. Please wait..."
+msgstr "Uploaden. Een ogenblik geduld..."
+
+#: inc/h5videochat.php:1511
+msgid "Chat"
+msgstr "Chat"
+
+#: inc/h5videochat.php:1512
+msgid "Camera"
+msgstr "Camera"
+
+#: inc/h5videochat.php:1513
+msgid "Users"
+msgstr "Gebruikers"
+
+#: inc/h5videochat.php:1514
+msgid "Options"
+msgstr "Opties"
+
+#: inc/h5videochat.php:1515
+msgid "Files"
+msgstr "Bestanden"
+
+#: inc/h5videochat.php:1516
+msgid "Presentation"
+msgstr "Presentatie"
+
+#: inc/h5videochat.php:1518
+#, fuzzy
+msgid "Tap for Sound"
+msgstr "Tik voor geluid"
+
+#: inc/h5videochat.php:1519
+#, fuzzy
+msgid "Enable Audio"
+msgstr "Audio inschakelen"
+
+#: inc/h5videochat.php:1520
+msgid "Mute"
+msgstr "Dempen"
+
+#: inc/h5videochat.php:1521 inc/shortcodes.php:10019
+msgid "Reload"
+msgstr "Ververs"
+
+#: inc/h5videochat.php:1522
+msgid "Ignore"
+msgstr "Negeer"
+
+#: inc/h5videochat.php:1524
+#, fuzzy
+msgid "Packet Loss: Download Connection Issue"
+msgstr "Packet Loss: probleem met downloadverbinding"
+
+#: inc/h5videochat.php:1525
+#, fuzzy
+msgid "Packet Loss: Upload Connection Issue"
+msgstr "Packet Loss: Probleem met uploadverbinding"
+
+#: inc/h5videochat.php:1527
+msgid "Broadcast"
+msgstr "Bericht"
+
+#: inc/h5videochat.php:1528
+#, fuzzy
+msgid "Stop Broadcast"
+msgstr "Uitzending stoppen"
+
+#: inc/h5videochat.php:1529
+#, fuzzy
+msgid "Make a selection to start!"
+msgstr "Maak een selectie om te beginnen!"
+
+#: inc/h5videochat.php:1531
+msgid "Gift"
+msgstr "Cadeau"
+
+#: inc/h5videochat.php:1532 inc/h5videochat.php:1956
+msgid "Gifts"
+msgstr "Cadeaus"
+
+#: inc/h5videochat.php:1534
+#, fuzzy
+msgid "Lights On"
+msgstr "Lichten aan"
+
+#: inc/h5videochat.php:1535 inc/h5videochat.php:2012
+msgid "Dark Mode"
+msgstr "Donkere modus"
+
+#: inc/h5videochat.php:1536 inc/h5videochat.php:2019
+msgid "Picture in Picture"
+msgstr "Beeld in beeldmodus"
+
+#: inc/h5videochat.php:1538
+#, fuzzy
+msgid "Enter Fullscreen"
+msgstr "Volledig scherm openen"
+
+#: inc/h5videochat.php:1539
+msgid "Exit Fullscreen"
+msgstr "Sluit Volledige"
+
+#: inc/h5videochat.php:1541
+msgid "Site Menu"
+msgstr "WEBSITE MENU"
+
+#: inc/h5videochat.php:1543
+#, fuzzy
+msgid "Request Private"
+msgstr "Privé aanvragen"
+
+#: inc/h5videochat.php:1544
+msgid "Private"
+msgstr "Privé"
+
+#: inc/h5videochat.php:1545
+#, fuzzy
+msgid "Request Private Session"
+msgstr "Privésessie aanvragen"
+
+#: inc/h5videochat.php:1546
+#, fuzzy
+msgid "Performer Disabled Private Requests"
+msgstr "Uitvoerder heeft privéverzoeken uitgeschakeld"
+
+#: inc/h5videochat.php:1547
+#, fuzzy
+msgid "Performer is Busy in Private"
+msgstr "Performer is privé bezig"
+
+#: inc/h5videochat.php:1548
+#, fuzzy
+msgid "Performer is Not Online"
+msgstr "Performer is niet online"
+
+#: inc/h5videochat.php:1549
+#, fuzzy
+msgid "Nevermind"
+msgstr "Nevermind"
+
+#: inc/h5videochat.php:1550
+msgid "Accept"
+msgstr "Accepteer"
+
+#: inc/h5videochat.php:1551
+msgid "Decline"
+msgstr "Afwijzen"
+
+#: inc/h5videochat.php:1552
+#, fuzzy
+msgid "Close Private"
+msgstr "Sluiten Privé"
+
+#: inc/h5videochat.php:1554 inc/shortcodes.php:10800
+msgid "Next"
+msgstr "Volgende"
+
+#: inc/h5videochat.php:1555
+#, fuzzy
+msgid "Next: Random Videochat Room"
+msgstr "Volgende: Willekeurige videochatroom"
+
+#: inc/h5videochat.php:1557 inc/shortcodes.php:10010
+msgid "Name"
+msgstr "Naam"
+
+#: inc/h5videochat.php:1558
+msgid "Size"
+msgstr "Grootte"
+
+#: inc/h5videochat.php:1559
+msgid "Age"
+msgstr "Leeftijd"
+
+#: inc/h5videochat.php:1560
+#, fuzzy
+msgid "Upload: Drag and drop files here, or click to select files"
+msgstr ""
+"Uploaden: Sleep bestanden hierheen en zet ze neer, of klik om bestanden te "
+"selecteren"
+
+#: inc/h5videochat.php:1562 inc/shortcodes.php:8124
+msgid "Open"
+msgstr "Open"
+
+#: inc/h5videochat.php:1563 inc/shortcodes.php:8651
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: inc/h5videochat.php:1565
+#, fuzzy
+msgid "Media Displayed"
+msgstr "Weergegeven media"
+
+#: inc/h5videochat.php:1566
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/h5videochat.php:1567 inc/shortcodes.php:5438 inc/shortcodes.php:5506
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/h5videochat.php:1568
+msgid "Empty"
+msgstr "Leeg"
+
+#: inc/h5videochat.php:1570 inc/shortcodes.php:5849 inc/shortcodes.php:10715
+#: inc/shortcodes.php:11376
+msgid "Profile"
+msgstr "Profiel"
+
+#: inc/h5videochat.php:1571 inc/shortcodes.php:5670
+msgid "Show"
+msgstr "Toon"
+
+#: inc/h5videochat.php:1573
+#, fuzzy
+msgid "Private Call"
+msgstr "Privé-oproep"
+
+#: inc/h5videochat.php:1574 inc/h5videochat.php:3023
+#, fuzzy
+msgid "Exit"
+msgstr "Beenden"
+
+#: inc/h5videochat.php:1576 inc/h5videochat.php:1916 inc/shortcodes.php:1148
+#, fuzzy
+msgid "External Broadcast"
+msgstr "Externe uitzending"
+
+#: inc/h5videochat.php:1577 inc/shortcodes.php:9805 ppv-live-webcams.php:280
+msgid "Not Available"
+msgstr "Niet beschikbaar"
+
+#: inc/h5videochat.php:1578
+msgid "Streaming"
+msgstr "Streaming"
+
+#: inc/h5videochat.php:1579 inc/shortcodes.php:8123 inc/shortcodes.php:8656
+msgid "Closed"
+msgstr "Gesloten"
+
+#: inc/h5videochat.php:1580
+#, fuzzy
+msgid ""
+"Use after ending external broadcast, to faster restore web based webcam "
+"interface."
+msgstr ""
+"Gebruik na het beëindigen van externe uitzending om de webgebaseerde "
+"webcaminterface sneller te herstellen."
+
+#: inc/h5videochat.php:1582 inc/shortcodes.php:1069 inc/shortcodes.php:1135
+msgid "Add"
+msgstr "Toevoegen"
+
+#: inc/h5videochat.php:1583
+msgid "Complete"
+msgstr "Voltooid"
+
+#: inc/h5videochat.php:1633
+msgid "New"
+msgstr "Nieuw"
+
+#: inc/h5videochat.php:1704
+#, fuzzy
+msgid "Chat Language"
+msgstr "Chat Taal"
+
+#: inc/h5videochat.php:1705
+#, fuzzy
+msgid "Language you will be writing in chat and would prefer to read."
+msgstr "Taal die je in de chat gaat schrijven en die je liever leest."
+
+#: inc/h5videochat.php:1747
+#, fuzzy
+msgid "Disable Call Requests"
+msgstr "Oproepverzoeken uitschakelen"
+
+#: inc/h5videochat.php:1748
+#, fuzzy
+msgid "Disable users from sending private call requests to room owner."
+msgstr ""
+"Schakel gebruikers uit om privé-oproepverzoeken naar de eigenaar van de "
+"ruimte te sturen."
+
+#: inc/h5videochat.php:1754
+msgid "Not Public"
+msgstr "Publieke API-sleutel"
+
+#: inc/h5videochat.php:1755
+#, fuzzy
+msgid "Hide room from public listings. Can be accessed by room link."
+msgstr ""
+"Verberg een ruimte voor openbare vermeldingen. Toegankelijk via kamerlink."
+
+#: inc/h5videochat.php:1762
+#, fuzzy
+msgid "Calls Only"
+msgstr "Alleen bellen"
+
+#: inc/h5videochat.php:1763
+#, fuzzy
+msgid "Call Only mode: can only be used for calls."
+msgstr "Alleen bellen-modus: kan alleen worden gebruikt voor oproepen."
+
+#: inc/h5videochat.php:1770
+#, fuzzy
+msgid "Random Calls"
+msgstr "Willekeurige oproepen"
+
+#: inc/h5videochat.php:1771
+#, fuzzy
+msgid "Random 2 way calls mode."
+msgstr "Willekeurige 2-weg oproepmodus."
+
+#: inc/h5videochat.php:1778
+#, fuzzy
+msgid "Group Chat Disabled"
+msgstr "Groepschat uitgeschakeld"
+
+#: inc/h5videochat.php:1779
+#, fuzzy
+msgid "Use room only for instant or locked calls."
+msgstr "Gebruik de ruimte alleen voor directe of vergrendelde gesprekken."
+
+#: inc/h5videochat.php:1786 inc/h5videochat.php:2034 inc/shortcodes.php:5461
+#, fuzzy
+msgid "Audio Only"
+msgstr "Alleen audio"
+
+#: inc/h5videochat.php:1787
+#, fuzzy
+msgid ""
+"Audio only room mode: Only microphone, no webcam video, for all "
+"participants. Applies both to group and private calls. Disables video calls."
+msgstr ""
+"Kamermodus met alleen audio: alleen microfoon, geen webcamvideo, voor alle "
+"deelnemers. Geldt zowel voor groeps- als privégesprekken. Hiermee schakelt u "
+"videogesprekken uit."
+
+#: inc/h5videochat.php:1794 inc/shortcodes.php:5483
+msgid "Text Only"
+msgstr "Alleen tekst"
+
+#: inc/h5videochat.php:1795
+#, fuzzy
+msgid ""
+"Text only room mode: Only text, for all participants. Applies both to group "
+"and private calls. Disables video and audio calls."
+msgstr ""
+"Ruimtemodus Alleen tekst: Alleen tekst, voor alle deelnemers. Geldt zowel "
+"voor groeps- als privégesprekken. Hiermee schakelt u video- en "
+"audiogesprekken uit."
+
+#: inc/h5videochat.php:1802
+#, fuzzy
+msgid "Conference Mode"
+msgstr "Conferentie-modus"
+
+#: inc/h5videochat.php:1803
+#, fuzzy
+msgid ""
+"Enable owner to show multiple users streams at same time in split view. All "
+"users can publish webcam."
+msgstr ""
+"Stel de eigenaar in staat om streams van meerdere gebruikers tegelijkertijd "
+"weer te geven in een gesplitste weergave. Alle gebruikers kunnen webcam "
+"publiceren."
+
+#: inc/h5videochat.php:1810
+#, fuzzy
+msgid "Conference Auto Display"
+msgstr "Automatische weergave van conferenties"
+
+#: inc/h5videochat.php:1811
+#, fuzzy
+msgid ""
+"Display users automatically in available conference slots when they start "
+"their camera, in conference mode."
+msgstr ""
+"Geef gebruikers automatisch weer in beschikbare conferentieslots wanneer ze "
+"hun camera starten, in de conferentiemodus."
+
+#: inc/h5videochat.php:1827
+#, fuzzy
+msgid "Display Slots"
+msgstr "Sleuven weergeven"
+
+#: inc/h5videochat.php:1828
+#, fuzzy
+msgid "Split display to show multiple media items, in conference mode."
+msgstr ""
+"Gesplitste weergave om meerdere media-items weer te geven, in "
+"conferentiemodus."
+
+#: inc/h5videochat.php:1866
+#, fuzzy
+msgid "Collaboration Mode"
+msgstr "Samenwerkingsmodus"
+
+#: inc/h5videochat.php:1867
+#, fuzzy
+msgid "Enable collaboration mode with multiple media, files, presentation."
+msgstr ""
+"Schakel de samenwerkingsmodus in met meerdere media, bestanden en "
+"presentaties."
+
+#: inc/h5videochat.php:1876
+#, fuzzy
+msgid "Party Mode in Random Chat"
+msgstr "Party-modus in willekeurige chat"
+
+#: inc/h5videochat.php:1877
+#, fuzzy
+msgid ""
+"In party mode, all users that join your room are added to party squad. "
+"Entire party moves to different room with Next button, in random chat. "
+msgstr ""
+"In de partymodus worden alle gebruikers die lid worden van je kamer "
+"toegevoegd aan de party-squad. Het hele gezelschap verhuist naar een andere "
+"kamer met de knop Volgende, in willekeurige chat. "
+
+#: inc/h5videochat.php:1885
+#, fuzzy
+msgid "Party Reserved"
+msgstr "Feest gereserveerd"
+
+#: inc/h5videochat.php:1886
+#, fuzzy
+msgid ""
+"Number of reserved party video slots, needs to be available in other room, "
+"to travel."
+msgstr ""
+"Aantal gereserveerde videoslots voor feesten, moet beschikbaar zijn in een "
+"andere kamer om te reizen."
+
+#: inc/h5videochat.php:1917
+#, fuzzy
+msgid ""
+"Broadcast with external RTMP encoder: Show a broadcast tab with settings to "
+"configure an external RTMP encoder."
+msgstr ""
+"Uitzenden met externe RTMP-encoder: Geef een uitzendtabblad weer met "
+"instellingen om een externe RTMP-encoder te configureren."
+
+#: inc/h5videochat.php:1929 inc/shortcodes.php:6110
+#, fuzzy
+msgid "Record Perfomer"
+msgstr "Record Perfomer"
+
+#: inc/h5videochat.php:1930 inc/shortcodes.php:6110
+#, fuzzy
+msgid "Record performer stream."
+msgstr "Neem de stream van de artiest op."
+
+#: inc/h5videochat.php:1937 inc/shortcodes.php:6111
+#, fuzzy
+msgid "Record Private"
+msgstr "Privé opnemen"
+
+#: inc/h5videochat.php:1938 inc/shortcodes.php:6111
+#, fuzzy
+msgid "Record in private calls."
+msgstr "Opnemen in privégesprekken."
+
+#: inc/h5videochat.php:1945 inc/shortcodes.php:6113
+#, fuzzy
+msgid "Record All"
+msgstr "Alles opnemen"
+
+#: inc/h5videochat.php:1946 inc/shortcodes.php:6113
+#, fuzzy
+msgid "Record streams from all users."
+msgstr "Neem streams van alle gebruikers op."
+
+#: inc/h5videochat.php:1957
+#, fuzzy
+msgid ""
+"Enable Gifts button in Actions bar. Gifts apply to current room goal when "
+"enabled. Disable to hide current room goal from text chat."
+msgstr ""
+"De knop Geschenken inschakelen in de actiebalk. Geschenken zijn van "
+"toepassing op het huidige kamerdoel wanneer deze is ingeschakeld. Schakel "
+"uit om het huidige kamerdoel te verbergen voor tekstchat."
+
+#: inc/h5videochat.php:1965
+#, fuzzy
+msgid "Goals Panel"
+msgstr "Deelvenster Doelen"
+
+#: inc/h5videochat.php:1966
+#, fuzzy
+msgid ""
+"Show goals panel for participants to see all goals. Users can donate to any "
+"Independent goal."
+msgstr ""
+"Het deelvenster Doelen weergeven zodat deelnemers alle doelen kunnen zien. "
+"Gebruikers kunnen doneren aan elk onafhankelijk doel."
+
+#: inc/h5videochat.php:1974
+#, fuzzy
+msgid "Goals Sort"
+msgstr "Doelen sorteren"
+
+#: inc/h5videochat.php:1975
+#, fuzzy
+msgid "Sort goals by current donations, descending."
+msgstr "Sorteer doelen op huidige donaties, aflopend."
+
+#: inc/h5videochat.php:1984
+#, fuzzy
+msgid "Messages Closed"
+msgstr "Berichten gesloten"
+
+#: inc/h5videochat.php:1985
+#, fuzzy
+msgid "Close paid questions/messages."
+msgstr "Sluit betaalde vragen/berichten."
+
+#: inc/h5videochat.php:1992
+#, fuzzy
+msgid "Room Preferences"
+msgstr "Kamervoorkeuren"
+
+#: inc/h5videochat.php:2005
+#, fuzzy
+msgid "Sound Effects"
+msgstr "Geluidseffecten"
+
+#: inc/h5videochat.php:2006
+#, fuzzy
+msgid "Sound effects (on actions)."
+msgstr "Geluidseffecten (op acties)."
+
+#: inc/h5videochat.php:2013
+#, fuzzy
+msgid "Dark interface mode."
+msgstr "Donkere interface-modus."
+
+#: inc/h5videochat.php:2020
+#, fuzzy
+msgid "Picture in picture mode with camera over video."
+msgstr "Beeld-in-beeld-modus met camera over video."
+
+#: inc/h5videochat.php:2026
+msgid "Minimalist"
+msgstr "Minimalistisch"
+
+#: inc/h5videochat.php:2027
+#, fuzzy
+msgid "Show less buttons, features and interface elements."
+msgstr "Toon minder knoppen, functies en interface-elementen."
+
+#: inc/h5videochat.php:2035
+#, fuzzy
+msgid ""
+"Audio only user mode: Publish only microphone, no webcam video. Applies both "
+"to group and private calls."
+msgstr ""
+"Gebruikersmodus alleen audio: Publiceer alleen microfoon, geen webcamvideo. "
+"Geldt zowel voor groeps- als privégesprekken."
+
+#: inc/h5videochat.php:2041
+msgid "Reveal Mode"
+msgstr "Reveal-modus"
+
+#: inc/h5videochat.php:2042
+#, fuzzy
+msgid ""
+"Webcam reveal mode: hide webcam in private calls and use a Reveal button to "
+"enable on request."
+msgstr ""
+"Webcam-onthullingsmodus: verberg de webcam in privégesprekken en gebruik een "
+"onthullingsknop om op verzoek in te schakelen."
+
+#: inc/h5videochat.php:2055
+#, fuzzy
+msgid "Reveal Warmup"
+msgstr "Opwarmen onthullen"
+
+#: inc/h5videochat.php:2056
+#, fuzzy
+msgid "Time in seconds required before revealing webcam is possible."
+msgstr ""
+"Tijd in seconden die nodig is voordat de webcam wordt onthuld, is mogelijk."
+
+#: inc/h5videochat.php:2093
+#, fuzzy
+msgid "User Preferences"
+msgstr "Voorkeuren van de gebruiker"
+
+#: inc/h5videochat.php:2343 inc/h5videochat.php:2805 inc/streams.php:1035
+#: inc/streams.php:1097 inc/streams.php:1123 ppv-live-webcams.php:6355
+msgid "LIVE"
+msgstr "Live"
+
+#: inc/h5videochat.php:2569
+#, fuzzy
+msgid "You are room performer."
+msgstr "Je bent een kamerartiest."
+
+#: inc/h5videochat.php:2574
+#, fuzzy
+msgid "This is a private room (not listed)."
+msgstr "Dit is een privékamer (niet vermeld)."
+
+#: inc/h5videochat.php:2579
+#, fuzzy
+msgid ""
+"This room can only be used for predefined locked calls. Participants need a "
+"private call link."
+msgstr ""
+"Deze ruimte kan alleen worden gebruikt voor vooraf gedefinieerde "
+"vergrendelde oproepen. Deelnemers hebben een privé-oproeplink nodig."
+
+#: inc/h5videochat.php:2584
+msgid ""
+"Group chat is disabled. Participants can only access this room for instant "
+"or locked calls."
+msgstr ""
+"Groepsgesprekken zijn uitgeschakeld. Er kunnen alleen 1 op 1 gesprekken "
+"plaatsvinden."
+
+#: inc/h5videochat.php:2640
+#, fuzzy
+msgid "This is a paid room:"
+msgstr "Dit is een betaalde kamer:"
+
+#: inc/h5videochat.php:2641
+#, fuzzy
+msgid "Group Mode"
+msgstr "Groepsmodus"
+
+#: inc/h5videochat.php:2642
+#, fuzzy
+msgid "Group session cost"
+msgstr "Kosten groepssessie"
+
+#: inc/h5videochat.php:2649
+#, fuzzy
+msgid ""
+"All participants pay during this session: Private calls are not available."
+msgstr ""
+"Alle deelnemers betalen tijdens deze sessie: Privégesprekken zijn niet "
+"beschikbaar."
+
+#: inc/h5videochat.php:2693
+#, fuzzy
+msgid ""
+"You are in Voyeur mode: hidden from user list. Participants will not be "
+"aware of your presence unless you write in text chat."
+msgstr ""
+"U bevindt zich in de Voyeur-modus: verborgen in de gebruikerslijst. "
+"Deelnemers zullen zich niet bewust zijn van uw aanwezigheid, tenzij u in "
+"tekstchat schrijft."
+
+#: inc/h5videochat.php:2695
+#, fuzzy
+msgid "Voyeur cost"
+msgstr "Voyeur kosten"
+
+#: inc/h5videochat.php:2700
+#, fuzzy
+msgid ""
+"You are a moderator. You will not show in user list or generate client "
+"charges."
+msgstr ""
+"Je bent een moderator. U wordt niet weergegeven in de gebruikerslijst en "
+"genereert geen klantkosten."
+
+#: inc/h5videochat.php:2708
+msgid ""
+"Registered users can request private calls during free presale chat and you "
+"can accept:"
+msgstr ""
+"Geregistreerde gebruikers kunnen privégesprekken aanvragen, de tarieven zijn "
+"als volgt:"
+
+#: inc/h5videochat.php:2710
+msgid "Private show cost per minute, for client:"
+msgstr "Prijs per minuut voor de klant:"
+
+#: inc/h5videochat.php:2716
+msgid "Private call earning per minute, for performer:"
+msgstr "Verdiensten per minuut:"
+
+#: inc/h5videochat.php:2738
+#, fuzzy
+msgid "You do not have enough credits to request a private show."
+msgstr "Je hebt niet genoeg credits om een privéshow aan te vragen."
+
+#: inc/h5videochat.php:2741
+#, fuzzy
+msgid "You can request private session from room performer when available:"
+msgstr ""
+"U kunt een privésessie aanvragen bij de acteur in de zaal, indien "
+"beschikbaar:"
+
+#: inc/h5videochat.php:2744
+#, fuzzy
+msgid "Private show cost per minute:"
+msgstr "Kosten privéshow per minuut:"
+
+#: inc/h5videochat.php:2763
+#, fuzzy
+msgid ""
+"This room is in party mode and all users join the party squad. Entire party "
+"can be moved to other rooms by host, using Next button."
+msgstr ""
+"Deze kamer is in party-modus en alle gebruikers sluiten zich aan bij de "
+"party-squad. Het hele gezelschap kan door de gastheer naar andere kamers "
+"worden verplaatst met behulp van de knop Volgende."
+
+#: inc/h5videochat.php:2775
+#, fuzzy
+msgid "You are in a party"
+msgstr "Je bent in een feestje"
+
+#: inc/h5videochat.php:2777
+#, fuzzy
+msgid ""
+"You are a party host. You can move party with Next and manage party users."
+msgstr ""
+"Je bent een feestgastheer. U kunt party's verplaatsen met Next en "
+"partygebruikers beheren."
+
+#: inc/h5videochat.php:2833
+#, fuzzy
+msgid "Room is in collaboration mode, with a Files panel."
+msgstr ""
+"De ruimte bevindt zich in de samenwerkingsmodus met een deelvenster "
+"Bestanden."
+
+#: inc/h5videochat.php:2905
+#, fuzzy
+msgid ""
+"WebRTC broadcasting may not be supported or provide good quality on certain "
+"devices, browser versions, connections or network conditions. \n"
+" - Use best network available if you have the option: 5GHz on WiFi instead "
+"of 2.4 GHz, LTE/4G on mobile instead of 3G, wired instead of wireless.\n"
+" - For increased streaming quality and reliability, you can broadcast "
+"directly to streaming server with an application like OBS for desktop or "
+"GoCoder for mobile. Advanced desktop encoders also enable advanced "
+"compositions, screen sharing, effects and transitions. See Broadcast tab "
+"next to Cam tab."
+msgstr ""
+"WebRTC-uitzendingen worden mogelijk niet ondersteund of bieden geen goede "
+"kwaliteit op bepaalde apparaten, browserversies, verbindingen of "
+"netwerkomstandigheden. \n"
+" - Gebruik het beste beschikbare netwerk als je de optie hebt: 5 GHz op wifi "
+"in plaats van 2,4 GHz, LTE/4G op mobiel in plaats van 3G, bedraad in plaats "
+"van draadloos.\n"
+" - Voor een betere streamingkwaliteit en betrouwbaarheid kunt u rechtstreeks "
+"uitzenden naar de streamingserver met een applicatie zoals OBS voor desktop "
+"of GoCoder voor mobiel. Geavanceerde desktop-encoders maken ook geavanceerde "
+"composities, schermdeling, effecten en overgangen mogelijk. Zie het tabblad "
+"Uitzending naast het tabblad Cam."
+
+#: inc/h5videochat.php:2953
+#, fuzzy
+msgid "Room owner accepts questions."
+msgstr "De eigenaar van de kamer accepteert vragen."
+
+#: inc/h5videochat.php:2954
+#, fuzzy
+msgid "When you send a question, you pay this amount:"
+msgstr "Wanneer je een vraag stuurt, betaal je dit bedrag:"
+
+#: inc/h5videochat.php:2958
+#, fuzzy
+msgid "Room owner can click to select a paid question and write replies."
+msgstr ""
+"De eigenaar van de ruimte kan klikken om een betaalde vraag te selecteren en "
+"antwoorden te schrijven."
+
+#: inc/h5videochat.php:3035
+#, fuzzy
+msgid "Current gifts goal"
+msgstr "Huidig doel voor geschenken"
+
+#: inc/h5videochat.php:3036
+#, fuzzy
+msgid "Goal description"
+msgstr "Beschrijving van het doel"
+
+#: inc/h5videochat.php:3037
+#, fuzzy
+msgid "Goal started"
+msgstr "Doel gestart"
+
+#: inc/h5videochat.php:3038
+#, fuzzy
+msgid "Cumulated gifts (including previous goals)"
+msgstr "Gecumuleerde giften (inclusief eerdere doelen)"
+
+#: inc/h5videochat.php:3122 inc/shortcodes.php:1152
+#, fuzzy
+msgid "Download OBS"
+msgstr "OBS downloaden"
+
+#: inc/h5videochat.php:3123 inc/shortcodes.php:1152
+#, fuzzy
+msgid ""
+"OBS Studio is free desktop application for live streaming from Linux, Mac "
+"and Windows. Includes advanced composition features, screen sharing, scenes, "
+"transitions, filters, media input options."
+msgstr ""
+"OBS Studio is een gratis desktop-applicatie voor livestreaming vanaf Linux, "
+"Mac en Windows. Bevat geavanceerde compositiefuncties, scherm delen, scènes, "
+"overgangen, filters, media-invoeropties."
+
+#: inc/h5videochat.php:3131 inc/shortcodes.php:1173
+#, fuzzy
+msgid "Stream URL"
+msgstr "Stream URL"
+
+#: inc/h5videochat.php:3132 inc/shortcodes.php:1173
+#, fuzzy
+msgid ""
+"RTMP Address / OBS Stream URL: full streaming address. Contains: server, "
+"port if different than default 1935, application and control parameters, "
+"key. For OBS Settings: Stream > Server."
+msgstr ""
+"RTMP-adres / OBS-stream-URL: volledig streamingadres. Bevat: server, poort "
+"indien afwijkend van standaard 1935, toepassings- en besturingsparameters, "
+"sleutel. Voor OBS-instellingen: Stream > server."
+
+#: inc/h5videochat.php:3138 inc/shortcodes.php:1175
+#, fuzzy
+msgid "Stream Key"
+msgstr "Stream-toets"
+
+#: inc/h5videochat.php:3139
+#, fuzzy
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key."
+msgstr ""
+"Streamnaam / OBS-streamsleutel: naam van stream. Voor OBS-instellingen: "
+"Stream > Stream-toets."
+
+#: inc/h5videochat.php:3156 inc/shortcodes.php:1186
+#, fuzzy
+msgid "Maximum Video Bitrate"
+msgstr "Maximale videobitsnelheid"
+
+#: inc/h5videochat.php:3157
+#, fuzzy
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution. A static "
+"background and less motion requires less bitrate than movies, sports, games. "
+"For OBS Settings: Output > Streaming > Video Bitrate. Warning: Trying to "
+"broadcast higher bitrate than allowed by streaming server will result in "
+"disconnects/failures."
+msgstr ""
+"Gebruik deze waarde of lager voor de bitsnelheid van video's, afhankelijk "
+"van de resolutie. Een statische achtergrond en minder beweging vereisen "
+"minder bitrate dan films, sport en games. Voor OBS-instellingen: Uitvoer > "
+"streaming > videobitsnelheid. Waarschuwing: Als u probeert een hogere "
+"bitsnelheid uit te zenden dan is toegestaan door de streamingserver, wordt "
+"de verbinding verbroken/mislukt."
+
+#: inc/h5videochat.php:3164 inc/shortcodes.php:1188
+#, fuzzy
+msgid "Maximum Audio Bitrate"
+msgstr "Maximale audiobitsnelheid"
+
+#: inc/h5videochat.php:3165 inc/shortcodes.php:1188
+#, fuzzy
+msgid ""
+"Use this value or lower for audio bitrate. If you want to use higher Audio "
+"Bitrate, lower Video Bitrate to compensate for higher audio. For OBS "
+"Settings: Output > Streaming > Audio Bitrate. Warning: Trying to broadcast "
+"higher bitrate than allowed by streaming server will result in disconnects/"
+"failures."
+msgstr ""
+"Gebruik deze waarde of lager voor de audiobitsnelheid. Als u een hogere "
+"audiobitsnelheid wilt gebruiken, verlaagt u de videobitsnelheid om te "
+"compenseren voor hogere audio. Voor OBS-instellingen: Uitvoer > streaming > "
+"audiobitsnelheid. Waarschuwing: Als u probeert een hogere bitsnelheid uit te "
+"zenden dan is toegestaan door de streamingserver, wordt de verbinding "
+"verbroken/mislukt."
+
+#: inc/h5videochat.php:3176 inc/shortcodes.php:1194
+#, fuzzy
+msgid "Larix Broadcaster for iOS"
+msgstr "Larix Broadcaster voor iOS"
+
+#: inc/h5videochat.php:3177
+#, fuzzy
+msgid ""
+"Larix Broadcaster free iOS app uses full power of mobile devices cameras to "
+"stream live content.."
+msgstr ""
+"De gratis iOS-app van Larix Broadcaster maakt gebruik van de volledige "
+"kracht van camera's van mobiele apparaten om live inhoud te streamen."
+
+#: inc/h5videochat.php:3186 inc/shortcodes.php:1196
+#, fuzzy
+msgid "Larix Broadcaster for Android"
+msgstr "Larix Broadcaster voor Android"
+
+#: inc/h5videochat.php:3187 inc/shortcodes.php:1194
+#, fuzzy
+msgid ""
+"Larix Broadcaster free iOS app uses full power of mobile devices cameras to "
+"stream live content."
+msgstr ""
+"De gratis iOS-app van Larix Broadcaster maakt gebruik van de volledige "
+"kracht van camera's van mobiele apparaten om live inhoud te streamen."
+
+#: inc/h5videochat.php:3196
+#, fuzzy
+msgid "RTMP URL"
+msgstr "RTMP-URL"
+
+#: inc/h5videochat.php:3197
+#, fuzzy
+msgid ""
+"Full RTMP URL / Larix URL: full streaming address. Contains: server, port if "
+"different than default 1935, application and control parameters, key, stream "
+"name. For Larix Broadcaster: Connections > URL."
+msgstr ""
+"Volledige RTMP-URL / Larix-URL: volledig streamingadres. Bevat: server, "
+"poort indien afwijkend van standaard 1935, toepassings- en "
+"besturingsparameters, sleutel, streamnaam. Voor Larix Broadcaster: "
+"Verbindingen > URL."
+
+#: inc/h5videochat.php:3227
+#, fuzzy
+msgid "Download Lovense"
+msgstr "Lovense downloaden"
+
+#: inc/h5videochat.php:3228
+#, fuzzy
+msgid ""
+"If you have a Lovense toy, download the Lovense browser or extension to "
+"integrate with site."
+msgstr ""
+"Als je een Lovense-speeltje hebt, download dan de Lovense-browser of -"
+"extensie om te integreren met de site."
+
+#: inc/h5videochat.php:3236
+#, fuzzy
+msgid "RTMP Encoder: OBS / Larix Broadcaster Settings"
+msgstr "RTMP-encoder: OBS/Larix-zenderinstellingen"
+
+#: inc/h5videochat.php:3237
+#, fuzzy
+msgid ""
+"Use these settings to broadcast with a RTMP encoder app like OBS, iOS/"
+"Android Larix Broadcaster, xSplit, Zoom Meetings Webinars."
+msgstr ""
+"Gebruik deze instellingen om uit te zenden met een RTMP-coderingsapp zoals "
+"OBS, iOS/Android Larix Broadcaster, xSplit, Zoom Meetings Webinars."
+
+#: inc/h5videochat.php:3243
+#, fuzzy
+msgid ""
+"Broadcast with external apps for advanced compositions, scenes, effects, "
+"higher streaming quality and reliability compared to browser based interface "
+"and protocols. External broadcasts have higher latency and improved "
+"capacity, reliability specific to HLS delivery method. New broadcasts show "
+"in about 10 seconds and unavailability updates after 1 minute."
+msgstr ""
+"Zend uit met externe apps voor geavanceerde composities, scènes, effecten, "
+"hogere streamingkwaliteit en betrouwbaarheid in vergelijking met "
+"browsergebaseerde interfaces en protocollen. Externe uitzendingen hebben een "
+"hogere latentie en verbeterde capaciteit, betrouwbaarheid die specifiek is "
+"voor de HLS-leveringsmethode. Nieuwe uitzendingen worden in ongeveer 10 "
+"seconden weergegeven en updates over onbeschikbaarheid na 1 minuut."
+
+#: inc/h5videochat.php:3749
+#, fuzzy
+msgid ""
+"Invalid Session. Occurs if browser tab gets paused in background or room "
+"type changes and new terms apply. Reload to start a new session!"
+msgstr ""
+"Ongeldige sessie. Treedt op als het browsertabblad wordt onderbroken bij "
+"wijzigingen op de achtergrond of in het kamertype en er nieuwe voorwaarden "
+"van toepassing zijn. Herlaad om een nieuwe sessie te starten!"
+
+#: inc/h5videochat.php:3757 inc/shortcodes.php:11842 ppv-live-webcams.php:2525
+#, fuzzy
+msgid ""
+"Free chat daily visitor time limit reached: Register and login for more chat "
+"time today!"
+msgstr ""
+"Dagelijkse bezoekerslimiet voor gratis chat bereikt: Registreer en log "
+"vandaag nog in voor meer chattijd!"
+
+#: inc/h5videochat.php:3758 ppv-live-webcams.php:2492
+#, fuzzy
+msgid "Only registered and logged in users can access paid sessions."
+msgstr ""
+"Alleen geregistreerde en ingelogde gebruikers hebben toegang tot betaalde "
+"sessies."
+
+#: inc/h5videochat.php:3763 ppv-live-webcams.php:2487
+#, fuzzy
+msgid "Not enough funds left for client to continue group chat session."
+msgstr ""
+"Er is niet genoeg geld over voor de klant om de groepschatsessie voort te "
+"zetten."
+
+#: inc/h5videochat.php:3769
+#, fuzzy
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today!"
+msgstr ""
+"Dagelijkse tijdslimiet voor gratis chatten bereikt: Je hebt vandaag alleen "
+"toegang tot betaalde groepsruimtes!"
+
+#: inc/h5videochat.php:3771 ppv-live-webcams.php:911
+#, fuzzy
+msgid "Webcams"
+msgstr "Webcams"
+
+#: inc/h5videochat.php:3860
+#, fuzzy
+msgid "Booth was closed: matched with a new performer."
+msgstr "Booth was gesloten: gekoppeld aan een nieuwe artiest."
+
+#: inc/h5videochat.php:4344
+#, fuzzy
+msgid "Disconnected from private:"
+msgstr "Verbinding met privé verbroken:"
+
+#: inc/h5videochat.php:4376 inc/h5videochat.php:4879 inc/h5videochat.php:4932
+#: inc/h5videochat.php:4961
+#, fuzzy
+msgid "Only performer can moderate presentation."
+msgstr "Alleen de uitvoerder kan de presentatie modereren."
+
+#: inc/h5videochat.php:4434
+#, fuzzy
+msgid "Same mode."
+msgstr "Zelfde modus."
+
+#: inc/h5videochat.php:4493
+#, fuzzy
+msgid "Room mode changed:"
+msgstr "Kamermodus gewijzigd:"
+
+#: inc/h5videochat.php:4712
+#, fuzzy
+msgid "Only room owner can edit room options."
+msgstr "Alleen de eigenaar van de ruimte kan kameropties bewerken."
+
+#: inc/h5videochat.php:4761 inc/h5videochat.php:4820
+#, fuzzy
+msgid "Only performer can moderate."
+msgstr "Alleen de artiest kan modereren."
+
+#: inc/h5videochat.php:4912
+#, fuzzy
+msgid "User not found to display:"
+msgstr "Gebruiker niet gevonden om weer te geven:"
+
+#: inc/h5videochat.php:4916
+#, fuzzy
+msgid "User is visitor. User needs to login to broadcast camera."
+msgstr ""
+"Gebruiker is bezoeker. De gebruiker moet inloggen om de uitzendcamera uit te "
+"zenden."
+
+#: inc/h5videochat.php:5000
+#, fuzzy
+msgid "File not found to display:"
+msgstr "Bestand niet gevonden om weer te geven:"
+
+#: inc/h5videochat.php:5016
+#, fuzzy
+msgid "Only performer can delete files."
+msgstr "Alleen de acteur/actrice kan bestanden verwijderen."
+
+#: inc/h5videochat.php:5035
+#, fuzzy
+msgid "File not found:"
+msgstr "Bestand niet gevonden:"
+
+#: inc/h5videochat.php:5098
+#, fuzzy
+msgid "New file upload."
+msgstr "Nieuw bestand uploaden."
+
+#: inc/h5videochat.php:5160
+#, fuzzy
+msgid "Returned to party start room."
+msgstr "Keerde terug naar de startkamer van het feest."
+
+#: inc/h5videochat.php:5210
+#, fuzzy
+msgid "Moved to a new booth, to match with a new client."
+msgstr "Verhuisd naar een nieuwe stand, om te matchen met een nieuwe klant."
+
+#: inc/h5videochat.php:5266
+#, fuzzy
+msgid "Moved to a new booth, to match with a new performer."
+msgstr "Verhuisd naar een nieuwe cabine, om te matchen met een nieuwe artiest."
+
+#: inc/h5videochat.php:5340
+#, fuzzy
+msgid "Your party moves with you."
+msgstr "Uw gezelschap beweegt met u mee."
+
+#: inc/h5videochat.php:5356
+#, fuzzy
+msgid "You can move a different room using Next button again."
+msgstr "U kunt een andere kamer verplaatsen met de knop Volgende opnieuw."
+
+#: inc/h5videochat.php:5362
+#, fuzzy
+msgid "No next room found with current criteria!"
+msgstr "Geen volgende kamer gevonden met de huidige criteria!"
+
+#: inc/h5videochat.php:5631 inc/h5videochat.php:5683 inc/h5videochat.php:5708
+#: inc/h5videochat.php:5744
+#, fuzzy
+msgid "Only performer"
+msgstr "Enige uitvoerder"
+
+#: inc/h5videochat.php:5723
+#, fuzzy
+msgid "Performer marked goal as complete"
+msgstr "Uitvoerder markeerde doel als voltooid"
+
+#: inc/h5videochat.php:5787
+#, fuzzy
+msgid "Only users can tip!"
+msgstr "Alleen gebruikers kunnen een fooi geven!"
+
+#: inc/h5videochat.php:5790
+#, fuzzy
+msgid "Moderators can not tip!"
+msgstr "Moderators kunnen geen fooi geven!"
+
+#: inc/h5videochat.php:5792
+#, fuzzy
+msgid "Your role is not allowed to donate!"
+msgstr "Jouw rol is niet toegestaan om te doneren!"
+
+#: inc/h5videochat.php:5802
+#, fuzzy
+msgid "Cooldown Required: Already sent tip recently. Try again in few seconds!"
+msgstr ""
+"Cooldown vereist: Onlangs al een tip verzonden. Probeer het over een paar "
+"seconden opnieuw!"
+
+#: inc/h5videochat.php:5858
+#, fuzzy
+msgid "Tip in"
+msgstr "Tip in"
+
+#: inc/h5videochat.php:5878
+msgid "checked in"
+msgstr "ingecheckt"
+
+#: inc/h5videochat.php:5887 inc/h5videochat.php:5900
+#, fuzzy
+msgid "Tip from"
+msgstr "Tip van"
+
+#: inc/h5videochat.php:5934
+#, fuzzy
+msgid "Completed goal"
+msgstr "Voltooid doel"
+
+#: inc/h5videochat.php:5934
+#, fuzzy
+msgid "Starting new goal"
+msgstr "Starten met een nieuw doel"
+
+#: inc/h5videochat.php:5979
+#, fuzzy
+msgid "You closed private call."
+msgstr "U hebt een privégesprek gesloten."
+
+#: inc/h5videochat.php:6106 inc/shortcodes.php:7325
+#, fuzzy
+msgid "You need cost of message in balance to send it."
+msgstr "U hebt kosten van het bericht in balans nodig om het te verzenden."
+
+#: inc/h5videochat.php:6114
+#, fuzzy
+msgid "You just sent a paid message. Try again after 10s."
+msgstr ""
+"Je hebt zojuist een betaald bericht gestuurd. Probeer het na 10 seconden "
+"opnieuw."
+
+#: inc/h5videochat.php:6143 inc/shortcodes.php:7502
+msgid "Paid Message to"
+msgstr "Bericht versturen naar"
+
+#: inc/h5videochat.php:6220 inc/shortcodes.php:7990
+msgid "Paid Message Earning from "
+msgstr "Bericht van "
+
+#: inc/h5videochat.php:6516 inc/h5videochat.php:6517
+#, fuzzy
+msgid "Private call was closed."
+msgstr "Privégesprek is gesloten."
+
+#: inc/h5videochat.php:6545
+#, fuzzy
+msgid "Following party to different room."
+msgstr "Volgend feest naar een andere kamer."
+
+#: inc/h5videochat.php:6570
+#, fuzzy
+msgid "Moved to different room with party."
+msgstr "Verplaatst naar andere kamer met feest."
+
+#: inc/shortcodes.php:169 inc/shortcodes.php:215 inc/shortcodes.php:3206
+#: inc/shortcodes.php:3529 inc/shortcodes.php:3833 inc/shortcodes.php:4186
+#: inc/shortcodes.php:6025 inc/shortcodes.php:8137
+msgid "Save"
+msgstr "Opslaan"
+
+#: inc/shortcodes.php:211
+#, fuzzy
+msgid "SMS Mobile Number"
+msgstr "SMS mobiel nummer"
+
+#: inc/shortcodes.php:215 inc/shortcodes.php:413 inc/shortcodes.php:414
+#: inc/shortcodes.php:1576 inc/shortcodes.php:8137
+msgid "Update"
+msgstr "Bijwerken"
+
+#: inc/shortcodes.php:248
+#, fuzzy
+msgid "Current Earning Rate"
+msgstr "Huidig verdienpercentage"
+
+#: inc/shortcodes.php:259
+#, fuzzy
+msgid "Bonus Earning Rate"
+msgstr "Bonus Verdien Tarief"
+
+#: inc/shortcodes.php:376
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: inc/shortcodes.php:386
+msgid "End Date"
+msgstr "Einddatum"
+
+#: inc/shortcodes.php:396
+msgid "Group"
+msgstr "Groep"
+
+#: inc/shortcodes.php:398
+msgid "Monthly"
+msgstr "Maandelijks"
+
+#: inc/shortcodes.php:399
+msgid "Weekly"
+msgstr "Wekelijks"
+
+#: inc/shortcodes.php:400
+msgid "Daily"
+msgstr "Dagelijks"
+
+#: inc/shortcodes.php:405 inc/shortcodes.php:3071
+msgid "Type"
+msgstr "Type"
+
+#: inc/shortcodes.php:407 inc/shortcodes.php:614
+msgid "Time"
+msgstr "Tijd"
+
+#: inc/shortcodes.php:408 inc/shortcodes.php:614
+msgid "Value"
+msgstr "Waarde"
+
+#: inc/shortcodes.php:849
+#, fuzzy
+msgid "Login to Call"
+msgstr "Log in om te bellen"
+
+#: inc/shortcodes.php:864
+msgid "Call Now"
+msgstr "Bel nu"
+
+#: inc/shortcodes.php:866
+msgid "Join"
+msgstr "Lid worden"
+
+#: inc/shortcodes.php:917
+#, fuzzy
+msgid "ReStream RTSP/RTMP"
+msgstr "RTSP/RTMP opnieuw streamen"
+
+#: inc/shortcodes.php:920
+#, fuzzy
+msgid ""
+"Add external streams to room (re-stream), from RTSP IP cameras or similar "
+"sources."
+msgstr ""
+"Voeg externe streams toe aan de kamer (re-stream), van RTSP IP-camera's of "
+"vergelijkbare bronnen."
+
+#: inc/shortcodes.php:1051
+#, fuzzy
+msgid "Add Source"
+msgstr "Bron toevoegen"
+
+#: inc/shortcodes.php:1054
+#, fuzzy
+msgid "Stream Name"
+msgstr "Naam van de stream"
+
+#: inc/shortcodes.php:1059
+#, fuzzy
+msgid "Source Address"
+msgstr "Bron Adres"
+
+#: inc/shortcodes.php:1060
+#, fuzzy
+msgid "rtsp://{server}[:port]/{path}"
+msgstr "rtsp://{server}[:p ort]/{path}"
+
+#: inc/shortcodes.php:1084
+#, fuzzy
+msgid "Push RTMP Stream"
+msgstr "Druk op RTMP-stream"
+
+#: inc/shortcodes.php:1088
+#, fuzzy
+msgid "Push performer stream to external RTMP server or platform."
+msgstr ""
+"Push de stream van de uitvoerder naar een externe RTMP-server of -platform."
+
+#: inc/shortcodes.php:1123
+msgid "Add Destination"
+msgstr "Bestemming Toevoegen"
+
+#: inc/shortcodes.php:1125
+#, fuzzy
+msgid "Destination Address"
+msgstr "Adres van bestemming"
+
+#: inc/shortcodes.php:1126
+#, fuzzy
+msgid "rtmp[s]://{server}[:port]/{app}/{stream_key}"
+msgstr "rtmp[s]://{server}[:p ort]/{app}/{stream_key}"
+
+#: inc/shortcodes.php:1175
+#, fuzzy
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key. For GoCoder top right W Settings: Wowza Streaming Engine > "
+"Application > Stream Name"
+msgstr ""
+"Streamnaam / OBS-streamsleutel: naam van stream. Voor OBS-instellingen: "
+"Stream > Stream-toets. Voor GoCoder rechtsboven W Instellingen: Wowza "
+"Streaming Engine > Applicatie > Streamnaam"
+
+#: inc/shortcodes.php:1186
+#, fuzzy
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution and audio "
+"bitrate. A static background and less motion requires less bitrate than "
+"movies, sports, games. For OBS Settings: Output > Streaming > Video Bitrate. "
+"For GoCoder bottom left bitrate. Warning: Trying to broadcast higher bitrate "
+"than allowed by streaming server will result in disconnects/failures."
+msgstr ""
+"Gebruik deze waarde of lager voor de bitsnelheid van video's, afhankelijk "
+"van de resolutie en de bitsnelheid van het audiogeluid. Een statische "
+"achtergrond en minder beweging vereisen minder bitrate dan films, sport en "
+"games. Voor OBS-instellingen: Uitvoer > streaming > videobitsnelheid. Voor "
+"GoCoder bitrate linksonder. Waarschuwing: Als u probeert een hogere "
+"bitsnelheid uit te zenden dan is toegestaan door de streamingserver, wordt "
+"de verbinding verbroken/mislukt."
+
+#: inc/shortcodes.php:1196
+#, fuzzy
+msgid ""
+"Larix Broadcaster free Android app uses full power of mobile devices cameras "
+"to stream live content."
+msgstr ""
+"De gratis Android-app van Larix Broadcaster maakt gebruik van de volledige "
+"kracht van camera's van mobiele apparaten om live inhoud te streamen."
+
+#: inc/shortcodes.php:1198
+msgid "URL"
+msgstr "URL"
+
+#: inc/shortcodes.php:1198
+#, fuzzy
+msgid ""
+"RTMP URL / Larix URL: full streaming address with stream name. Contains: "
+"server, port if different than default 1935, application and control "
+"parameters, key, stream name. For Larix Connections > URL."
+msgstr ""
+"RTMP URL / Larix URL: volledig streamingadres met streamnaam. Bevat: server, "
+"poort indien afwijkend van standaard 1935, toepassings- en "
+"besturingsparameters, sleutel, streamnaam. Voor Larix Connections > URL."
+
+#: inc/shortcodes.php:1301
+#, fuzzy
+msgid "Nonce incorrect for logout. Could be cache related: Try again!"
+msgstr ""
+"Nonce onjuist voor uitloggen. Kan cache-gerelateerd zijn: probeer het "
+"opnieuw!"
+
+#: inc/shortcodes.php:1331 inc/shortcodes.php:1724 inc/shortcodes.php:2107
+#, fuzzy
+msgid "A password is required."
+msgstr "Een wachtwoord is vereist."
+
+#: inc/shortcodes.php:1334 inc/shortcodes.php:2100
+#, fuzzy
+msgid "A login (username) is required."
+msgstr "Een login (gebruikersnaam) is vereist."
+
+#: inc/shortcodes.php:1338
+#, fuzzy
+msgid "Nonce incorrect for login. Could be cache related: Try again!"
+msgstr ""
+"Nonce onjuist voor inloggen. Kan cache-gerelateerd zijn: probeer het opnieuw!"
+
+#: inc/shortcodes.php:1476 inc/shortcodes.php:1889
+#, fuzzy
+msgid "Frontend login is disabled from settings."
+msgstr "Frontend-aanmelding is uitgeschakeld via instellingen."
+
+#: inc/shortcodes.php:1502
+#, fuzzy
+msgid "Password change request code missing. Already changed?"
+msgstr "De code voor het wijzigen van het wachtwoord ontbreekt. Al veranderd?"
+
+#: inc/shortcodes.php:1506 inc/shortcodes.php:1719
+#, fuzzy
+msgid ""
+"Code does not match. Make sure you use link from last email if you tried "
+"multiple times."
+msgstr ""
+"Code komt niet overeen. Zorg ervoor dat je de link van de laatste e-mail "
+"gebruikt als je het meerdere keren hebt geprobeerd."
+
+#: inc/shortcodes.php:1512 inc/shortcodes.php:1693 inc/shortcodes.php:1767
+#: inc/shortcodes.php:1827
+msgid "Error"
+msgstr "Fout"
+
+#: inc/shortcodes.php:1522 inc/shortcodes.php:1685 inc/shortcodes.php:1777
+#: inc/shortcodes.php:1791
+msgid "Change Password"
+msgstr "Wachtwoord wijzigen"
+
+#: inc/shortcodes.php:1558 inc/shortcodes.php:1559 inc/shortcodes.php:1998
+#: inc/shortcodes.php:2527 inc/shortcodes.php:2529 inc/shortcodes.php:3576
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: inc/shortcodes.php:1563 inc/shortcodes.php:1564 inc/shortcodes.php:2533
+#: inc/shortcodes.php:2535
+#, fuzzy
+msgid "Password Verification"
+msgstr "Wachtwoord verificatie"
+
+#: inc/shortcodes.php:1583 inc/shortcodes.php:1853 inc/shortcodes.php:2037
+msgid "Terms of Use"
+msgstr "Algemene voorwaarden"
+
+#: inc/shortcodes.php:1584 inc/shortcodes.php:1854 inc/shortcodes.php:2038
+#: inc/shortcodes.php:2549
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: inc/shortcodes.php:1596 inc/shortcodes.php:1732
+#, fuzzy
+msgid "Nonce incorrect for password reset."
+msgstr "Nonce onjuist voor het opnieuw instellen van het wachtwoord."
+
+#: inc/shortcodes.php:1637 inc/shortcodes.php:2115
+msgid "A valid email address is required."
+msgstr "Een geldig e-mailadres is vereist."
+
+#: inc/shortcodes.php:1643
+#, fuzzy
+msgid ""
+"No user found for that email. Try a different email or register a new "
+"account!"
+msgstr ""
+"Geen gebruiker gevonden voor dat e-mailadres. Probeer een ander e-mailadres "
+"of registreer een nieuw account!"
+
+#: inc/shortcodes.php:1686
+#, fuzzy
+msgid "Email was sent. Use link from email to change password."
+msgstr ""
+"Er is een e-mail verzonden. Gebruik de link uit de e-mail om het wachtwoord "
+"te wijzigen."
+
+#: inc/shortcodes.php:1727 inc/shortcodes.php:2111
+#, fuzzy
+msgid "Password verification does not match."
+msgstr "Wachtwoordverificatie komt niet overeen."
+
+#: inc/shortcodes.php:1778
+#, fuzzy
+msgid "Password was changed."
+msgstr "Wachtwoord is gewijzigd."
+
+#: inc/shortcodes.php:1836 inc/shortcodes.php:1837 inc/shortcodes.php:2539
+#: inc/shortcodes.php:2541 inc/shortcodes.php:3576 inc/shortcodes.php:3666
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/shortcodes.php:1838
+#, fuzzy
+msgid "Provide account email to request password change."
+msgstr ""
+"Geef het e-mailadres van uw account op om een wachtwoordwijziging aan te "
+"vragen."
+
+#: inc/shortcodes.php:1897
+#, fuzzy
+msgid "You logged out."
+msgstr "Je bent uitgelogd."
+
+#: inc/shortcodes.php:1908
+#, fuzzy
+msgid "You are currently logged in as"
+msgstr "U bent momenteel ingelogd als"
+
+#: inc/shortcodes.php:1909 inc/shortcodes.php:3019 inc/shortcodes.php:8168
+msgid "Log Out"
+msgstr "Uitloggen"
+
+#: inc/shortcodes.php:1980
+msgid "Login Failed"
+msgstr "Login mislukt"
+
+#: inc/shortcodes.php:1993 inc/shortcodes.php:2521 inc/shortcodes.php:2523
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: inc/shortcodes.php:2034
+msgid "Lost Password"
+msgstr "Wachtwoord vergeten"
+
+#: inc/shortcodes.php:2070
+#, fuzzy
+msgid "Frontend registration is disabled!"
+msgstr "Frontend-registratie is uitgeschakeld!"
+
+#: inc/shortcodes.php:2073
+#, fuzzy
+msgid "Studio registration is disabled!"
+msgstr "Studioregistratie is uitgeschakeld!"
+
+#: inc/shortcodes.php:2083
+#, fuzzy
+msgid "Nonce incorrect for registration."
+msgstr "Nonce onjuist voor registratie."
+
+#: inc/shortcodes.php:2086
+#, fuzzy
+msgid "You are already have an account and are logged in."
+msgstr "Je hebt al een account en bent ingelogd."
+
+#: inc/shortcodes.php:2103
+#, fuzzy
+msgid "Accepting Terms of Use is required."
+msgstr "Het accepteren van de gebruiksvoorwaarden is vereist."
+
+#: inc/shortcodes.php:2129
+#, fuzzy
+msgid "Registration per IP limit reached."
+msgstr "Registratie per IP-limiet bereikt."
+
+#: inc/shortcodes.php:2183 inc/shortcodes.php:2215
+#, fuzzy
+msgid "Required file is missing!"
+msgstr "Vereist bestand ontbreekt!"
+
+#: inc/shortcodes.php:2202 inc/shortcodes.php:2234
+#, fuzzy
+msgid "Required field is missing!"
+msgstr "Verplicht veld ontbreekt!"
+
+#: inc/shortcodes.php:2283
+#, fuzzy
+msgid "Your account was registered."
+msgstr "Uw account is geregistreerd."
+
+#: inc/shortcodes.php:2396
+#, fuzzy
+msgid ""
+"Some error occurred related to uploads. After email confirmation and login "
+"you can retry from Account Records section in Dashboard."
+msgstr ""
+"Er is een fout opgetreden met betrekking tot uploads. Na bevestiging per e-"
+"mail en aanmelding kunt u het opnieuw proberen via het gedeelte "
+"Accountrecords in Dashboard."
+
+#: inc/shortcodes.php:2465
+msgid "Registration"
+msgstr "Registratie"
+
+#: inc/shortcodes.php:2503
+#, fuzzy
+msgid "Could not submit registration"
+msgstr "Registratie kan niet worden ingediend"
+
+#: inc/shortcodes.php:2512 inc/shortcodes.php:2513
+msgid "First Name"
+msgstr "Voornaam"
+
+#: inc/shortcodes.php:2516 inc/shortcodes.php:2517
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: inc/shortcodes.php:2521 inc/shortcodes.php:2527 inc/shortcodes.php:2533
+#: inc/shortcodes.php:2539 inc/shortcodes.php:2560 inc/shortcodes.php:2726
+#: inc/shortcodes.php:2783 inc/shortcodes.php:2849 inc/shortcodes.php:3088
+#: inc/shortcodes.php:3155
+msgid "Required"
+msgstr "Verplicht"
+
+#: inc/shortcodes.php:2547
+#, fuzzy
+msgid "Administrative Records"
+msgstr "Administratieve gegevens"
+
+#: inc/shortcodes.php:2549
+#, fuzzy
+msgid ""
+"Administrative records are only accessible to site administrators for "
+"approval and administrative use."
+msgstr ""
+"Administratieve gegevens zijn alleen toegankelijk voor sitebeheerders voor "
+"goedkeuring en administratief gebruik."
+
+#: inc/shortcodes.php:2604
+#, fuzzy
+msgid "Account Persons"
+msgstr "Account Personen"
+
+#: inc/shortcodes.php:2638
+#, fuzzy
+msgid ""
+"Specify persons that will be using this account and then use button below to "
+"load personal forms."
+msgstr ""
+"Geef de personen op die dit account gaan gebruiken en gebruik vervolgens de "
+"onderstaande knop om persoonlijke formulieren te laden."
+
+#: inc/shortcodes.php:2640
+#, fuzzy
+msgid "Fill Personal Records"
+msgstr "Persoonlijke records invullen"
+
+#: inc/shortcodes.php:2716
+#, fuzzy
+msgid "Common Account Records"
+msgstr "Algemene accountrecords"
+
+#: inc/shortcodes.php:2781
+#, fuzzy
+msgid "I accept the Terms of Use"
+msgstr "Ik ga akkoord met de Gebruiksvoorwaarden"
+
+#: inc/shortcodes.php:2784
+msgid "Review"
+msgstr "Beoordeling"
+
+#: inc/shortcodes.php:2793
+#, fuzzy
+msgid ""
+"After registration, you will receive a confirmation email with activation "
+"link."
+msgstr "Na registratie ontvang je een bevestigingsmail met activatielink."
+
+#: inc/shortcodes.php:2836 inc/shortcodes.php:3143
+#, fuzzy
+msgid "Account Records"
+msgstr "Account Records"
+
+#: inc/shortcodes.php:2942
+#, fuzzy
+msgid "Your account was activated."
+msgstr "Uw account is geactiveerd."
+
+#: inc/shortcodes.php:2970
+#, fuzzy
+msgid ""
+"<strong>ERROR</strong>: User is not activated. Use activation link from "
+"registration email!"
+msgstr ""
+"<strong>FOUT:</strong> Gebruiker is niet geactiveerd. Gebruik de "
+"activeringslink uit de registratie-e-mail!"
+
+#: inc/shortcodes.php:2984
+msgid "Login Required"
+msgstr "Inloggen verplicht"
+
+#: inc/shortcodes.php:3002
+msgid "Account Status"
+msgstr "Accountstatus"
+
+#: inc/shortcodes.php:3002
+msgid "Verified"
+msgstr "Geverifieerd"
+
+#: inc/shortcodes.php:3002
+msgid "Rejected"
+msgstr "Afgewezen"
+
+#: inc/shortcodes.php:3002
+msgid "Not Verified"
+msgstr "Niet geverifieerd"
+
+#: inc/shortcodes.php:3002
+#, fuzzy
+msgid "Suspended by Admin"
+msgstr "Opgeschort door beheerder"
+
+#: inc/shortcodes.php:3007
+#, fuzzy
+msgid "Update Account Records"
+msgstr "Accountrecords bijwerken"
+
+#: inc/shortcodes.php:3014
+#, fuzzy
+msgid "Your active balance"
+msgstr "Je actieve balans"
+
+#: inc/shortcodes.php:3031
+#, fuzzy
+msgid "Account Administrative Records"
+msgstr "Administratieve gegevens van accounts"
+
+#: inc/shortcodes.php:3031
+#, fuzzy
+msgid ""
+"These details are required by administrators for account approval and "
+"administrative operations."
+msgstr ""
+"Deze gegevens zijn vereist door beheerders voor accountgoedkeuring en "
+"administratieve bewerkingen."
+
+#: inc/shortcodes.php:3034
+#, fuzzy
+msgid "No record fields defined by administrator!"
+msgstr "Geen recordvelden gedefinieerd door de beheerder!"
+
+#: inc/shortcodes.php:3060
+msgid "Persons"
+msgstr "Personen"
+
+#: inc/shortcodes.php:3061
+msgid "Add New Person"
+msgstr "Nieuw persoon toevoegen"
+
+#: inc/shortcodes.php:3066
+#, fuzzy
+msgid "Personal Records"
+msgstr "Persoonlijke records"
+
+#: inc/shortcodes.php:3100 inc/shortcodes.php:3167
+#, fuzzy
+msgid "Required field is empty!"
+msgstr "Verplicht veld is leeg!"
+
+#: inc/shortcodes.php:3107 inc/shortcodes.php:3174 inc/shortcodes.php:9803
+msgid "Available"
+msgstr "Beschikbaar"
+
+#: inc/shortcodes.php:3140
+#, fuzzy
+msgid "Remove Last Person"
+msgstr "Laatste persoon verwijderen"
+
+#: inc/shortcodes.php:3305
+#, fuzzy
+msgid "Required file missing!"
+msgstr "Vereist bestand ontbreekt!"
+
+#: inc/shortcodes.php:3314
+#, fuzzy
+msgid "Required field missing!"
+msgstr "Verplicht veld ontbreekt!"
+
+#: inc/shortcodes.php:3325
+#, fuzzy
+msgid "Updated administrative account records."
+msgstr "Bijgewerkte administratieve accountrecords."
+
+#: inc/shortcodes.php:3343
+#, fuzzy
+msgid "Administrative Records Incomplete"
+msgstr "Administratieve gegevens onvolledig"
+
+#: inc/shortcodes.php:3346
+#, fuzzy
+msgid "Account can not be verified without required records."
+msgstr "Account kan niet worden geverifieerd zonder vereiste gegevens."
+
+#: inc/shortcodes.php:3368
+#, fuzzy
+msgid "Login to manage studio!"
+msgstr "Log in om studio te beheren!"
+
+#: inc/shortcodes.php:3386 inc/shortcodes.php:4062
+#, fuzzy
+msgid "Login is required to access this section!"
+msgstr "Inloggen is vereist om toegang te krijgen tot deze sectie!"
+
+#: inc/shortcodes.php:3398
+#, fuzzy
+msgid "User role does not allow managing studio!"
+msgstr "Gebruikersrol staat het beheren van studio niet toe!"
+
+#: inc/shortcodes.php:3445 inc/shortcodes.php:3447 inc/shortcodes.php:4185
+msgid "Performers"
+msgstr "Uitvoerders"
+
+#: inc/shortcodes.php:3447
+#, fuzzy
+msgid "Studio manages multiple performer accounts."
+msgstr "Studio beheert meerdere artiestenaccounts."
+
+#: inc/shortcodes.php:3471
+#, fuzzy
+msgid "Collected user ballance."
+msgstr "Verzameld gebruikerssaldo."
+
+#: inc/shortcodes.php:3473
+#, fuzzy
+msgid "No balance to collect!"
+msgstr "Geen saldo om te innen!"
+
+#: inc/shortcodes.php:3476
+#, fuzzy
+msgid "You are not allowed to collect for this user!"
+msgstr "Het is niet toegestaan om voor deze gebruiker te incasseren!"
+
+#: inc/shortcodes.php:3490
+#, fuzzy
+msgid "Performer Transactions"
+msgstr "Performer Transacties"
+
+#: inc/shortcodes.php:3506
+msgid "Transactions"
+msgstr "Transacties"
+
+#: inc/shortcodes.php:3512
+#, fuzzy
+msgid "You are not allowed to view transactions for this user!"
+msgstr "Het is niet toegestaan om transacties voor deze gebruiker te bekijken!"
+
+#: inc/shortcodes.php:3518
+#, fuzzy
+msgid "Create Performer Account"
+msgstr "Maak een Performer-account aan"
+
+#: inc/shortcodes.php:3528
+#, fuzzy
+msgid ""
+"After setting up performer account you will also receive password to "
+"communicate to performer for quick access. Account password should be "
+"changed by performer. Warning: Make sure you fill details correctly. Only "
+"administrator can delete incorrect accounts."
+msgstr ""
+"Na het aanmaken van een performer-account ontvangt u ook een wachtwoord om "
+"met de performer te communiceren voor snelle toegang. Het wachtwoord van het "
+"account moet door de uitvoerder worden gewijzigd. Waarschuwing: Zorg ervoor "
+"dat u de gegevens correct invult. Alleen de beheerder kan onjuiste accounts "
+"verwijderen."
+
+#: inc/shortcodes.php:3544
+#, fuzzy
+msgid "Adding Performer Account"
+msgstr "Performer-account toevoegen"
+
+#: inc/shortcodes.php:3552
+#, fuzzy
+msgid "Username already in use!"
+msgstr "Gebruikersnaam al in gebruik!"
+
+#: inc/shortcodes.php:3555
+#, fuzzy
+msgid "Email already in use!"
+msgstr "E-mail al in gebruik!"
+
+#: inc/shortcodes.php:3567
+#, fuzzy
+msgid "Performers limit reached!"
+msgstr "Limiet voor artiesten bereikt!"
+
+#: inc/shortcodes.php:3571
+#, fuzzy
+msgid "Could not create performer account: "
+msgstr "Er kan geen account voor een acteur/actrice worden aangemaakt: "
+
+#: inc/shortcodes.php:3576
+#, fuzzy
+msgid "Performer account was created"
+msgstr "Er is een performer-account aangemaakt"
+
+#: inc/shortcodes.php:3627 inc/shortcodes.php:3637
+#, fuzzy
+msgid "That performer is not assigned to this studio!"
+msgstr "Die artiest is niet toegewezen aan deze studio!"
+
+#: inc/shortcodes.php:3663
+#, fuzzy
+msgid "Performers List"
+msgstr "Lijst met uitvoerders"
+
+#: inc/shortcodes.php:3666
+msgid "Collected"
+msgstr "Ontvangen"
+
+#: inc/shortcodes.php:3666
+msgid "Last"
+msgstr "Laatste"
+
+#: inc/shortcodes.php:3666
+msgid "Total"
+msgstr "Totaal"
+
+#: inc/shortcodes.php:3666 inc/shortcodes.php:9764
+msgid "Status"
+msgstr "Status"
+
+#: inc/shortcodes.php:3666
+#, fuzzy
+msgid "Current Room"
+msgstr "Huidige kamer"
+
+#: inc/shortcodes.php:3690
+msgid "Collect"
+msgstr "Verzamel"
+
+#: inc/shortcodes.php:3708 inc/shortcodes.php:5686 inc/shortcodes.php:6110
+#: inc/shortcodes.php:6111 inc/shortcodes.php:6113
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: inc/shortcodes.php:3716 inc/shortcodes.php:5685 inc/shortcodes.php:6110
+#: inc/shortcodes.php:6111 inc/shortcodes.php:6113
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: inc/shortcodes.php:3723
+#, fuzzy
+msgid "Original Password"
+msgstr "Origineel wachtwoord"
+
+#: inc/shortcodes.php:3748
+#, fuzzy
+msgid "Studio has no performer accounts, yet."
+msgstr "Studio heeft nog geen artiestenaccounts."
+
+#: inc/shortcodes.php:3758
+msgid "Add Performer"
+msgstr "Uitvoerder toevoegen"
+
+#: inc/shortcodes.php:3758
+#, fuzzy
+msgid "Create a new performer account."
+msgstr "Maak een nieuw performer-account aan."
+
+#: inc/shortcodes.php:3761
+#, fuzzy
+msgid "View  Performers List"
+msgstr "Lijst met artiesten bekijken"
+
+#: inc/shortcodes.php:3789 inc/shortcodes.php:3791 ppv-live-webcams.php:204
+#: ppv-live-webcams.php:261 ppv-live-webcams.php:925
+msgid "Rooms"
+msgstr "Kamers"
+
+#: inc/shortcodes.php:3791
+#, fuzzy
+msgid "Manage room listings for studio performers."
+msgstr "Beheer kamervermeldingen voor studioartiesten."
+
+#: inc/shortcodes.php:3799
+#, fuzzy
+msgid "Create Webcam Room Listing"
+msgstr "Webcamkamervermelding maken"
+
+#: inc/shortcodes.php:3832 inc/shortcodes.php:4187
+#, fuzzy
+msgid ""
+"Warning: Make sure webcam listing name is correct. Only administrator can "
+"delete webcams."
+msgstr ""
+"Waarschuwing: Zorg ervoor dat de naam van de webcamvermelding correct is. "
+"Alleen de beheerder kan webcams verwijderen."
+
+#: inc/shortcodes.php:3879 inc/shortcodes.php:4255
+#, fuzzy
+msgid "Room listing with that name already exists."
+msgstr "Er bestaat al een kamervermelding met die naam."
+
+#: inc/shortcodes.php:3885 inc/shortcodes.php:4261
+#, fuzzy
+msgid "Room listing was successfully created!"
+msgstr "De kamervermelding is succesvol aangemaakt!"
+
+#: inc/shortcodes.php:3979 inc/shortcodes.php:3981
+#, fuzzy
+msgid "MicroPayments Wallet"
+msgstr "MicroPayments Portemonnee"
+
+#: inc/shortcodes.php:3995
+msgid "WooCommerce Wallet"
+msgstr "WooCommerce Wallet"
+
+#: inc/shortcodes.php:3997
+#, fuzzy
+msgid "TeraWallet WooCommerce"
+msgstr "TeraWallet WooCommerce"
+
+#: inc/shortcodes.php:4011 inc/shortcodes.php:7063
+#, fuzzy
+msgid "MyCred"
+msgstr "Mijn Cred"
+
+#: inc/shortcodes.php:4013
+#, fuzzy
+msgid "MyCred Wallet"
+msgstr "MyCred Portemonnee"
+
+#: inc/shortcodes.php:4045
+#, fuzzy
+msgid "Login to access dashboard!"
+msgstr "Log in om toegang te krijgen tot het dashboard!"
+
+#: inc/shortcodes.php:4076
+#, fuzzy
+msgid "User role does not allow publishing webcams!"
+msgstr "Gebruikersrol staat het publiceren van webcams niet toe!"
+
+#: inc/shortcodes.php:4147
+#, fuzzy
+msgid "Selected webcam listing is invalid."
+msgstr "De geselecteerde webcamvermelding is ongeldig."
+
+#: inc/shortcodes.php:4172
+#, fuzzy
+msgid "Create Webcam Listing"
+msgstr "Webcamvermelding maken"
+
+#: inc/shortcodes.php:4182
+#, fuzzy
+msgid ""
+"Partner performers that can also go live in this room: Comma separated list "
+"of performer usernames or emails."
+msgstr ""
+"Partneracteurs die ook live kunnen gaan in deze ruimte: Door komma's "
+"gescheiden lijst met gebruikersnamen of e-mailadressen van acteurs/actrices."
+
+#: inc/shortcodes.php:4184
+#, fuzzy
+msgid "Room Listing Name"
+msgstr "Naam van de kameradvertentie"
+
+#: inc/shortcodes.php:4202
+#, fuzzy
+msgid "Adding Webcam Listing"
+msgstr "Webcamvermelding toevoegen"
+
+#: inc/shortcodes.php:4243
+#, fuzzy
+msgid "Warning: Performer not found: use a valid username (login) or email!"
+msgstr ""
+"Waarschuwing: Performer niet gevonden: gebruik een geldige gebruikersnaam "
+"(login) of e-mailadres!"
+
+#: inc/shortcodes.php:4259
+#, fuzzy
+msgid "Could not create webcam listing:"
+msgstr "Kan geen webcamvermelding maken:"
+
+#: inc/shortcodes.php:4300
+#, fuzzy
+msgid "Select Room Listing"
+msgstr "Selecteer Kamervermelding"
+
+#: inc/shortcodes.php:4301
+#, fuzzy
+msgid "Select a room to enter, manage, operate."
+msgstr "Selecteer een ruimte om binnen te gaan, te beheren, te bedienen."
+
+#: inc/shortcodes.php:4305
+#, fuzzy
+msgid ""
+"Rooms (webcam venue listings) you created or were granted access to "
+"broadcast:"
+msgstr ""
+"Kamers (advertenties met webcamlocaties) die je hebt gemaakt of waarvoor je "
+"toegang hebt gekregen om uit te zenden:"
+
+#: inc/shortcodes.php:4324
+msgid "Selected"
+msgstr "Geselecteerd"
+
+#: inc/shortcodes.php:4328
+#, fuzzy
+msgid ""
+"You do not have any active webcam room: one will be setup for you and "
+"selected."
+msgstr ""
+"Je hebt geen actieve webcamruimte: er wordt er een voor je opgezet en "
+"geselecteerd."
+
+#: inc/shortcodes.php:4354
+msgid "Add Room"
+msgstr "Kamer Toevoegen"
+
+#: inc/shortcodes.php:4354
+#, fuzzy
+msgid "Create a new webcam room listing."
+msgstr "Maak een nieuwe vermelding voor een webcamruimte."
+
+#: inc/shortcodes.php:4358
+#, fuzzy
+msgid "View Your Room List"
+msgstr "Bekijk uw kamerlijst"
+
+#: inc/shortcodes.php:4374
+#, fuzzy
+msgid "Room Suspended"
+msgstr "Kamer geschorst"
+
+#: inc/shortcodes.php:4402 inc/shortcodes.php:4419 inc/shortcodes.php:4436
+#, fuzzy
+msgid "Custom CPM out of range: removed."
+msgstr "Aangepaste CPM buiten bereik: verwijderd."
+
+#: inc/shortcodes.php:4455
+#, fuzzy
+msgid "Custom group CPM out of range: removed."
+msgstr "Aangepaste groep CPM buiten bereik: verwijderd."
+
+#: inc/shortcodes.php:4549
+#, fuzzy
+msgid "ERROR: Missing "
+msgstr "FOUT: Ontbreekt "
+
+#: inc/shortcodes.php:4602
+#, fuzzy
+msgid "Picture Updated."
+msgstr "Afbeelding bijgewerkt."
+
+#: inc/shortcodes.php:4604
+#, fuzzy
+msgid "ERROR: Cound not create JPG thumb file "
+msgstr "FOUT: Cound maakt geen JPG-duimbestand "
+
+#: inc/shortcodes.php:4607
+#, fuzzy
+msgid "ERROR: Cound not create temporary image!"
+msgstr "FOUT: Cound maakt geen tijdelijke afbeelding!"
+
+#: inc/shortcodes.php:4610
+#, fuzzy
+msgid "ERROR: Failed loading image data "
+msgstr "FOUT: Het laden van afbeeldingsgegevens is mislukt "
+
+#: inc/shortcodes.php:4613
+#, fuzzy
+msgid "ERROR: Upload copy failed. File does not exist "
+msgstr "FOUT: Uploaden mislukt. Bestand bestaat niet "
+
+#: inc/shortcodes.php:4616
+#, fuzzy
+msgid "ERROR: Could not retrieve image size for "
+msgstr "FOUT: Kan de afbeeldingsgrootte niet ophalen voor "
+
+#: inc/shortcodes.php:4837
+msgid "Room Name"
+msgstr "Ruimte naam"
+
+#: inc/shortcodes.php:4838 inc/shortcodes.php:7173
+msgid "Room ID"
+msgstr "Kamer ID"
+
+#: inc/shortcodes.php:4872
+#, fuzzy
+msgid "Setting webcam group mode to"
+msgstr "De groepsmodus van de webcam instellen op"
+
+#: inc/shortcodes.php:4898 inc/shortcodes.php:8578 inc/shortcodes.php:8581
+#: inc/shortcodes.php:8585
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/shortcodes.php:4996
+#, fuzzy
+msgid "Warning: Performer"
+msgstr "Waarschuwing: Uitvoerder"
+
+#: inc/shortcodes.php:4996
+msgid "not found: use a valid username (login) or email!"
+msgstr ""
+"niet gevonden: gebruik een geldige gebruikersnaam (login) of e-mailadres!"
+
+#: inc/shortcodes.php:5017
+#, fuzzy
+msgid "Room Interface"
+msgstr "Kamer-interface"
+
+#: inc/shortcodes.php:5020
+#, fuzzy
+msgid "Checked in performers"
+msgstr "Ingecheckte artiesten"
+
+#: inc/shortcodes.php:5023
+#, fuzzy
+msgid "Assigning you"
+msgstr "U toewijzen"
+
+#: inc/shortcodes.php:5023
+#, fuzzy
+msgid ""
+"as room performer (streamer) and redirecting to webcam room page. Please "
+"wait..."
+msgstr ""
+"als room performer (streamer) en redirecting naar webcam room pagina. Een "
+"ogenblik geduld..."
+
+#: inc/shortcodes.php:5031
+msgid "Click here"
+msgstr "Klik hier"
+
+#: inc/shortcodes.php:5031
+#, fuzzy
+msgid "to access your webcam room if you do not get automatically redirected"
+msgstr ""
+"om toegang te krijgen tot uw webcamkamer als u niet automatisch wordt "
+"doorgestuurd"
+
+#: inc/shortcodes.php:5057 inc/shortcodes.php:5075 inc/shortcodes.php:5116
+#: inc/shortcodes.php:5123
+#, fuzzy
+msgid "My Rooms"
+msgstr "Mijn Kamers"
+
+#: inc/shortcodes.php:5065
+msgid "Room"
+msgstr "Kamer"
+
+#: inc/shortcodes.php:5089
+#, fuzzy
+msgid "Custom cost per minute in paid group chat:"
+msgstr "Aangepaste kosten per minuut in betaalde groepschat:"
+
+#: inc/shortcodes.php:5103 inc/shortcodes.php:5148
+#, fuzzy
+msgid "Paid Mode"
+msgstr "Betaalde modus"
+
+#: inc/shortcodes.php:5112 inc/shortcodes.php:5162
+#, fuzzy
+msgid "This room is currently private, hidden from room list."
+msgstr "Deze kamer is momenteel privé, verborgen voor de kamerlijst."
+
+#: inc/shortcodes.php:5116 inc/shortcodes.php:5123
+#, fuzzy
+msgid ""
+"Switch to different room / listing. Your account can setup and manage "
+"multiple room profiles."
+msgstr ""
+"Schakel over naar een andere kamer / advertentie. Uw account kan meerdere "
+"kamerprofielen instellen en beheren."
+
+#: inc/shortcodes.php:5152
+#, fuzzy
+msgid "Room Mode"
+msgstr "Ruimte modus"
+
+#: inc/shortcodes.php:5152
+#, fuzzy
+msgid ""
+"Select group mode presets for your new session in this room, before going "
+"live."
+msgstr ""
+"Selecteer de voorinstellingen voor de groepsmodus voor uw nieuwe sessie in "
+"deze ruimte, voordat u live gaat."
+
+#: inc/shortcodes.php:5158
+#, fuzzy
+msgid "This room is currently in presentation/collaboration mode."
+msgstr ""
+"Deze ruimte bevindt zich momenteel in de presentatie-/samenwerkingsmodus."
+
+#: inc/shortcodes.php:5185
+msgid "HTML5"
+msgstr "HTML5"
+
+#: inc/shortcodes.php:5185
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: inc/shortcodes.php:5186
+#, fuzzy
+msgid ""
+"HTML5 Videochat works in mobile and PC browsers, providing streaming with "
+"group chat, private 2 way video calls, tips, conferencing, collaboration, "
+"external broadcasts. Recommended."
+msgstr ""
+"HTML5 Videochat werkt in mobiele en pc-browsers en biedt streaming met "
+"groepschat, privé 2-weg videogesprekken, tips, conferenties, samenwerking, "
+"externe uitzendingen. Aanbevolen."
+
+#: inc/shortcodes.php:5205
+msgid "Flash"
+msgstr "Flash"
+
+#: inc/shortcodes.php:5206
+#, fuzzy
+msgid ""
+"Flash PC interface is and older legacy app that supports presentation mode, "
+"streaming with group chat, 2 way videochat, tips. Mobile users will get the "
+"HTML5 Streaming interface, with extra latency, if transcoding is available. "
+"Does not support latest chat modes and options available in HTML5 app."
+msgstr ""
+"Flash PC-interface is een oudere legacy-app die presentatiemodus, streaming "
+"met groepschat, 2-weg videochat, tips ondersteunt. Mobiele gebruikers "
+"krijgen de HTML5 Streaming-interface, met extra latentie, als transcodering "
+"beschikbaar is. Ondersteunt niet de nieuwste chatmodi en opties die "
+"beschikbaar zijn in de HTML5-app."
+
+#: inc/shortcodes.php:5212
+#, fuzzy
+msgid "Select room interface before going live. Also applies to clients."
+msgstr ""
+"Selecteer de ruimte-interface voordat u live gaat. Geldt ook voor klanten."
+
+#: inc/shortcodes.php:5226
+#, fuzzy
+msgid "CheckIn Options"
+msgstr "CheckIn Opties"
+
+#: inc/shortcodes.php:5226
+#, fuzzy
+msgid "Tag other performers present in session."
+msgstr "Tag andere acteurs/actrices die aanwezig zijn in de sessie."
+
+#: inc/shortcodes.php:5229 inc/shortcodes.php:5246
+#, fuzzy
+msgid "Checkin Performers"
+msgstr "Checkin Performers"
+
+#: inc/shortcodes.php:5229
+#, fuzzy
+msgid ""
+"You can select partner performers or specify other performers that are "
+"present in session."
+msgstr ""
+"U kunt partneracteurs selecteren of andere uitvoerders opgeven die in de "
+"sessie aanwezig zijn."
+
+#: inc/shortcodes.php:5230
+#, fuzzy
+msgid ""
+"If paid group chat is enabled, earnings will be shared equally between "
+"checked in performers."
+msgstr ""
+"Als betaalde groepschat is ingeschakeld, worden de inkomsten gelijkelijk "
+"verdeeld tussen ingecheckte acteurs/actrices."
+
+#: inc/shortcodes.php:5236
+#, fuzzy
+msgid "Partner Performers"
+msgstr "Partner-artiesten"
+
+#: inc/shortcodes.php:5246
+#, fuzzy
+msgid "Comma separated list of performer usernames or emails."
+msgstr ""
+"Door komma's gescheiden lijst met gebruikersnamen of e-mailadressen van "
+"artiesten."
+
+#: inc/shortcodes.php:5266 ppv-live-webcams.php:296
+msgid "Go Live"
+msgstr "Ga live"
+
+#: inc/shortcodes.php:5278
+#, fuzzy
+msgid ""
+"This room can not currently show in room list as it does not have a snapshot "
+"or picture. Rooms show in list after first broadcast only with a listing "
+"image. Broadcast camera for about a minute to generate a snapshot or upload "
+"a room picture!"
+msgstr ""
+"Deze ruimte kan momenteel niet worden weergegeven in de lijst met kamers "
+"omdat deze geen momentopname of afbeelding heeft. Kamers worden na de eerste "
+"uitzending alleen in de lijst weergegeven met een aanbiedingsafbeelding. "
+"Zend de camera ongeveer een minuut uit om een momentopname te genereren of "
+"een kamerfoto te uploaden!"
+
+#: inc/shortcodes.php:5336
+msgid "Calls"
+msgstr "Bellen"
+
+#: inc/shortcodes.php:5338
+#, fuzzy
+msgid "Locked Private Calls"
+msgstr "Vergrendelde privégesprekken"
+
+#: inc/shortcodes.php:5374 inc/shortcodes.php:7543 inc/shortcodes.php:11337
+#: inc/shortcodes.php:11415
+msgid "Messages"
+msgstr "Berichten"
+
+#: inc/shortcodes.php:5376
+msgid "Paid Questions and Messages"
+msgstr "Afspraak berichten"
+
+#: inc/shortcodes.php:5411 inc/shortcodes.php:5792
+msgid "Setup"
+msgstr "Setup"
+
+#: inc/shortcodes.php:5416
+#, fuzzy
+msgid "Room Access & Monetization"
+msgstr "Toegang tot de ruimte en het genereren van inkomsten"
+
+#: inc/shortcodes.php:5440 inc/shortcodes.php:5461 inc/shortcodes.php:5483
+#, fuzzy
+msgid "Cost Per Minute"
+msgstr "Kosten per minuut"
+
+#: inc/shortcodes.php:5440
+#, fuzzy
+msgid "Cost per minute for private shows (set 0 to use default)."
+msgstr ""
+"Kosten per minuut voor privéshows (stel 0 in om standaard te gebruiken)."
+
+#: inc/shortcodes.php:5508
+#, fuzzy
+msgid "Group Show Cost Per Minute"
+msgstr "Groepsvoorstellingskosten per minuut"
+
+#: inc/shortcodes.php:5508
+#, fuzzy
+msgid ""
+"Cost per minute for group shows. Replaces paid group CPM (set 0 to use "
+"default)."
+msgstr ""
+"Kosten per minuut voor groepsvoorstellingen. Vervangt betaalde groeps-CPM "
+"(stel 0 in om standaard te gebruiken)."
+
+#: inc/shortcodes.php:5522
+#, fuzzy
+msgid "Setup Subscriptions"
+msgstr "Abonnementen instellen"
+
+#: inc/shortcodes.php:5527 inc/shortcodes.php:5536
+#, fuzzy
+msgid "Subscription Tier"
+msgstr "Abonnement Niveau"
+
+#: inc/shortcodes.php:5529
+msgid "None"
+msgstr "Geen"
+
+#: inc/shortcodes.php:5534
+#, fuzzy
+msgid ""
+"Users that buy configured subscription tier or higher can participate in "
+"paid group shows for free."
+msgstr ""
+"Gebruikers die een geconfigureerd abonnementsniveau of hoger kopen, kunnen "
+"gratis deelnemen aan betaalde groepsshows."
+
+#: inc/shortcodes.php:5536
+#, fuzzy
+msgid "You do not have any subscriptions setup, yet."
+msgstr "Je hebt nog geen abonnementen ingesteld."
+
+#: inc/shortcodes.php:5536
+#, fuzzy
+msgid ""
+"Users that buy configured subscription tier or higher can participate in "
+"group sessions for free."
+msgstr ""
+"Gebruikers die een geconfigureerd abonnementsniveau of hoger kopen, kunnen "
+"gratis deelnemen aan groepssessies."
+
+#: inc/shortcodes.php:5562
+#, fuzzy
+msgid "Setup Monetization"
+msgstr "Inkomsten genereren instellen"
+
+#: inc/shortcodes.php:5564 inc/shortcodes.php:5567
+#, fuzzy
+msgid ">Access Price"
+msgstr "> toegangsprijs"
+
+#: inc/shortcodes.php:5567
+#, fuzzy
+msgid "Room access price. Leave 0 for free access."
+msgstr "Prijs voor toegang tot de kamer. Laat 0 staan voor vrije toegang."
+
+#: inc/shortcodes.php:5580
+#, fuzzy
+msgid "Access List"
+msgstr "Toegangslijst"
+
+#: inc/shortcodes.php:5580
+#, fuzzy
+msgid ""
+"User roles, logins, emails separated by comma. Leave empty to allow "
+"everybody to access."
+msgstr ""
+"Gebruikersrollen, logins, e-mails gescheiden door komma's. Laat leeg om "
+"iedereen toegang te geven."
+
+#: inc/shortcodes.php:5608
+#, fuzzy
+msgid "Detected IP"
+msgstr "Gedetecteerd IP-adres"
+
+#: inc/shortcodes.php:5612
+#, fuzzy
+msgid "Detected Location"
+msgstr "Gedetecteerde locatie"
+
+#: inc/shortcodes.php:5612
+#, fuzzy
+msgid "Not detected."
+msgstr "Niet gedetecteerd."
+
+#: inc/shortcodes.php:5615
+#, fuzzy
+msgid "ERROR: GeoIP extension is required on web host for this functionality."
+msgstr "FOUT: GeoIP-extensie is vereist op webhost voor deze functionaliteit."
+
+#: inc/shortcodes.php:5618
+#, fuzzy
+msgid "Ban Countries"
+msgstr "Landen verbieden"
+
+#: inc/shortcodes.php:5618
+#, fuzzy
+msgid ""
+"You may want to ban your location for privacy reasons. Or restrict countries "
+"and regions where your content is not legal or well received. Room will not "
+"be listed and room page will not be accessible from banned location. This "
+"functionality is not 100% accurate and may be bypassed with VPNs. Specify "
+"list of locations (country, region, city or continent code, separated by "
+"comma) that can not access webcam room. "
+msgstr ""
+"Misschien wilt u uw locatie om privacyredenen blokkeren. Of beperk landen en "
+"regio's waar je content niet legaal is of niet goed wordt ontvangen. De "
+"kamer wordt niet vermeld en de kamerpagina is niet toegankelijk vanaf een "
+"geblokkeerde locatie. Deze functionaliteit is niet 100% accurate en kan "
+"worden omzeild met VPN's. Geef een lijst op met locaties (land-, regio-, "
+"stads- of continentcode, gescheiden door komma's) die geen toegang hebben "
+"tot de webcamruimte. "
+
+#: inc/shortcodes.php:5623
+msgid "Room Details"
+msgstr "Accomodatie details"
+
+#: inc/shortcodes.php:5644 inc/shortcodes.php:5673
+msgid "Picture"
+msgstr "Foto"
+
+#: inc/shortcodes.php:5644
+#, fuzzy
+msgid "Update room picture to use instead of live snapshot."
+msgstr ""
+"Werk de afbeelding van de ruimte bij om te gebruiken in plaats van een live "
+"momentopname."
+
+#: inc/shortcodes.php:5671
+msgid "Auto"
+msgstr "Automatisch"
+
+#: inc/shortcodes.php:5672 inc/shortcodes.php:6144 inc/shortcodes.php:11435
+msgid "Teaser"
+msgstr "Teaser"
+
+#: inc/shortcodes.php:5674
+#, fuzzy
+msgid "Live Snapshot"
+msgstr "Live momentopname"
+
+#: inc/shortcodes.php:5675
+#, fuzzy
+msgid "Performer Avatar"
+msgstr "Avatar van de acteur"
+
+#: inc/shortcodes.php:5676
+#, fuzzy
+msgid ""
+"Select preview to show in webcam listings and HTML5 Videochat room while not "
+"streaming. Auto shows picture or teaser when offline and snapshot when "
+"online."
+msgstr ""
+"Selecteer voorbeeld om weer te geven in webcamlijsten en HTML5-"
+"videochatruimte terwijl u niet streamt. Toont automatisch een afbeelding of "
+"teaser wanneer u offline bent en een momentopname wanneer u online bent."
+
+#: inc/shortcodes.php:5684
+#, fuzzy
+msgid "Lovense Toy"
+msgstr "Lovense Speelgoed"
+
+#: inc/shortcodes.php:5687
+#, fuzzy
+msgid "Show in listings that Lovense toy is active for this room."
+msgstr "Toon in aanbiedingen dat Lovense speelgoed actief is voor deze kamer."
+
+#: inc/shortcodes.php:5699
+msgid "Label"
+msgstr "Label"
+
+#: inc/shortcodes.php:5699
+#, fuzzy
+msgid "Shows in room listings instead of name."
+msgstr "Wordt weergegeven in kamervermeldingen in plaats van op naam."
+
+#: inc/shortcodes.php:5711 inc/shortcodes.php:9739
+msgid "Category"
+msgstr "Categorie"
+
+#: inc/shortcodes.php:5711
+msgid "Category."
+msgstr "Categorie."
+
+#: inc/shortcodes.php:5716 inc/shortcodes.php:7222 inc/shortcodes.php:11480
+msgid "Description"
+msgstr "Omschrijving"
+
+#: inc/shortcodes.php:5716
+#, fuzzy
+msgid ""
+"Room description: profile, schedule. Shows on room page and full row list "
+"layout."
+msgstr ""
+"Beschrijving van de kamer: profiel, schema. Wordt weergegeven op de "
+"kamerpagina en de volledige lay-out van de rijenlijst."
+
+#: inc/shortcodes.php:5727
+#, fuzzy
+msgid "Brief"
+msgstr "Kort"
+
+#: inc/shortcodes.php:5727
+#, fuzzy
+msgid "Room brief info: profile, schedule. Shows in room listings."
+msgstr ""
+"Beknopte informatie over de kamer: profiel, schema. Wordt weergegeven in "
+"kamerlijsten."
+
+#: inc/shortcodes.php:5760 inc/shortcodes.php:10005
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/shortcodes.php:5760
+#, fuzzy
+msgid "Tags separated by comma. Show in room listings."
+msgstr "Tags gescheiden door komma's. Weergeven in kamerlijsten."
+
+#: inc/shortcodes.php:5791
+#, fuzzy
+msgid "Room Setup"
+msgstr "Opstelling van de ruimte"
+
+#: inc/shortcodes.php:5824
+msgid "Match"
+msgstr "Wedstrijd"
+
+#: inc/shortcodes.php:5825
+#, fuzzy
+msgid "Define criteria for random 2 way video call matches."
+msgstr "Definieer criteria voor willekeurige 2-weg videogesprekovereenkomsten."
+
+#: inc/shortcodes.php:5863
+#, fuzzy
+msgid "Room Listing Profile"
+msgstr "Profiel van de kamervermelding"
+
+#: inc/shortcodes.php:5863
+#, fuzzy
+msgid ""
+"These details will show on webcam room page (under videochat interface)."
+msgstr ""
+"Deze details worden weergegeven op de pagina van de webcamkamer (onder de "
+"videochat-interface)."
+
+#: inc/shortcodes.php:6045
+msgid "Streams"
+msgstr "Streams"
+
+#: inc/shortcodes.php:6075 inc/shortcodes.php:7190 inc/shortcodes.php:11379
+#: inc/shortcodes.php:11503
+msgid "Videos"
+msgstr "Video's"
+
+#: inc/shortcodes.php:6101
+#, fuzzy
+msgid ""
+"Multiple profile videos can show on webcam listing page. Each listing has "
+"own videos."
+msgstr ""
+"Er kunnen meerdere profielvideo's worden weergegeven op de advertentiepagina "
+"van de webcam. Elke advertentie heeft zijn eigen video's."
+
+#: inc/shortcodes.php:6107
+#, fuzzy
+msgid "Recorded live streams can be published using Import."
+msgstr ""
+"Opgenomen livestreams kunnen worden gepubliceerd met behulp van Importeren."
+
+#: inc/shortcodes.php:6156
+#, fuzzy
+msgid ""
+"Teaser video (featured video) plays shortly as preview in listings, in room "
+"when performer is offline in HTML5 Videochat interface and shows on profile "
+"page. Can be selected from all videos of user."
+msgstr ""
+"Teaser video (featured video) wordt binnenkort afgespeeld als preview in "
+"listings, in de kamer wanneer de performer offline is in de HTML5 Videochat "
+"interface en wordt getoond op de profielpagina. Kan worden geselecteerd uit "
+"alle video's van de gebruiker."
+
+#: inc/shortcodes.php:6561
+msgid "Assets"
+msgstr "Middelen"
+
+#: inc/shortcodes.php:6563
+#, fuzzy
+msgid "Select digital assets to show on room profile page."
+msgstr ""
+"Selecteer digitale middelen om weer te geven op de profielpagina van de "
+"ruimte."
+
+#: inc/shortcodes.php:6674 inc/shortcodes.php:6814
+#, fuzzy
+msgid "Update Selection"
+msgstr "Selectie bijwerken"
+
+#: inc/shortcodes.php:6677 inc/shortcodes.php:6817
+msgid "Previous Page"
+msgstr "Vorige pagina"
+
+#: inc/shortcodes.php:6680 inc/shortcodes.php:6820
+msgid "Next Page"
+msgstr "Volgende pagina"
+
+#: inc/shortcodes.php:6705 inc/shortcodes.php:11409
+msgid "Products"
+msgstr "Producten"
+
+#: inc/shortcodes.php:6707
+#, fuzzy
+msgid "Select products to show on room profile page."
+msgstr ""
+"Selecteer de producten die u wilt weergeven op de pagina met het "
+"kamerprofiel."
+
+#: inc/shortcodes.php:6855 inc/shortcodes.php:7197 inc/shortcodes.php:11382
+#: inc/shortcodes.php:11523
+msgid "Pictures"
+msgstr "Foto’s"
+
+#: inc/shortcodes.php:6868
+#, fuzzy
+msgid ""
+"Multiple profile pictures can show on webcam listing page. Each listing has "
+"own pictures."
+msgstr ""
+"Er kunnen meerdere profielfoto's worden weergegeven op de advertentiepagina "
+"van de webcam. Elke aanbieding heeft zijn eigen foto's."
+
+#: inc/shortcodes.php:6911 inc/shortcodes.php:6955
+msgid "Bans"
+msgstr "Verboden"
+
+#: inc/shortcodes.php:6925
+#, fuzzy
+msgid "Cleared ban for"
+msgstr "Verbod gewist voor"
+
+#: inc/shortcodes.php:6931
+msgid "Not found!"
+msgstr "Niet gevonden!"
+
+#: inc/shortcodes.php:6961
+#, fuzzy
+msgid "There are no bans for this room."
+msgstr "Er zijn geen verboden voor deze kamer."
+
+#: inc/shortcodes.php:6964
+#, fuzzy
+msgid ""
+"Bans occur when performer kicks or bans users from videochat interface. "
+"Kicks result in short bans (15 minutes) and full bans have longer cooldown "
+"(1 week). Bans prevent viewers from accessing or remaining in chat room."
+msgstr ""
+"Bans treden op wanneer de acteur/actrice gebruikers schopt of verbiedt van "
+"de videochat-interface. Kicks resulteren in korte bans (15 minuten) en "
+"volledige bans hebben een langere afkoelperiode (1 week). Bans voorkomen dat "
+"kijkers toegang krijgen tot of in de chatroom blijven."
+
+#: inc/shortcodes.php:6992
+#, fuzzy
+msgid "MicroPayments"
+msgstr "Microbetalingen"
+
+#: inc/shortcodes.php:6994
+#, fuzzy
+msgid "MicroPayments Transactions"
+msgstr "MicroPayments-transacties"
+
+#: inc/shortcodes.php:6998 inc/shortcodes.php:7032 inc/shortcodes.php:7070
+#: inc/shortcodes.php:11466
+#, fuzzy
+msgid "Logged days"
+msgstr "Gelogde dagen"
+
+#: inc/shortcodes.php:6999 inc/shortcodes.php:7033 inc/shortcodes.php:7071
+#, fuzzy
+msgid "Logged private sessions billed"
+msgstr "Gelogde privésessies gefactureerd"
+
+#: inc/shortcodes.php:7000 inc/shortcodes.php:7034 inc/shortcodes.php:7072
+#, fuzzy
+msgid "Logged group sessions billed"
+msgstr "Gefactureerde gelogde groepssessies"
+
+#: inc/shortcodes.php:7001 inc/shortcodes.php:7035 inc/shortcodes.php:7073
+#, fuzzy
+msgid "Session logs are kept for limited time and transaction logs forever."
+msgstr ""
+"Sessielogboeken worden voor beperkte tijd bewaard en transactielogboeken "
+"voor altijd."
+
+#: inc/shortcodes.php:7026
+msgid "TeraWallet"
+msgstr "TeraWallet"
+
+#: inc/shortcodes.php:7028
+#, fuzzy
+msgid "TeraWallet (WooCommerce)"
+msgstr "TeraWallet (WooCommerce)"
+
+#: inc/shortcodes.php:7065
+#, fuzzy
+msgid "My Credits"
+msgstr "Mijn Credits"
+
+#: inc/shortcodes.php:7094 inc/shortcodes.php:7095
+msgid "Reports"
+msgstr "Rapporten"
+
+#: inc/shortcodes.php:7116
+msgid "Overview"
+msgstr "Overzicht"
+
+#: inc/shortcodes.php:7139
+#, fuzzy
+msgid "Room Listing Overview"
+msgstr "Overzicht van de kamerlijst"
+
+#: inc/shortcodes.php:7165
+#, fuzzy
+msgid "Listing (Room) Name"
+msgstr "Advertentie (kamer) Naam"
+
+#: inc/shortcodes.php:7166
+#, fuzzy
+msgid "Current Room Performer"
+msgstr "Huidige Room Performer"
+
+#: inc/shortcodes.php:7167
+#, fuzzy
+msgid "Current Room Performer ID"
+msgstr "Huidige artiest-ID van de kamer"
+
+#: inc/shortcodes.php:7168
+#, fuzzy
+msgid "Your Performer Name"
+msgstr "De naam van uw acteur/actrice"
+
+#: inc/shortcodes.php:7169
+#, fuzzy
+msgid "Room Label"
+msgstr "Ruimte Label"
+
+#: inc/shortcodes.php:7170
+#, fuzzy
+msgid "Room Status"
+msgstr "Status van de kamer"
+
+#: inc/shortcodes.php:7171
+msgid "Room URL"
+msgstr "Ruimte-URL"
+
+#: inc/shortcodes.php:7172
+#, fuzzy
+msgid "Room Slug"
+msgstr "Kamer Slak"
+
+#: inc/shortcodes.php:7174
+#, fuzzy
+msgid "Room Owner ID"
+msgstr "ID van de eigenaar van de ruimte"
+
+#: inc/shortcodes.php:7180 inc/shortcodes.php:10564
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: inc/shortcodes.php:7180 inc/shortcodes.php:7190 inc/shortcodes.php:7197
+#: inc/shortcodes.php:7218 ppv-live-webcams.php:1347
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/shortcodes.php:7180 inc/shortcodes.php:7190 inc/shortcodes.php:7197
+#: inc/shortcodes.php:7218 ppv-live-webcams.php:1347
+msgid "No"
+msgstr "Nee"
+
+#: inc/shortcodes.php:7183
+#, fuzzy
+msgid "Client CPM"
+msgstr "CPM van de klant"
+
+#: inc/shortcodes.php:7184
+#, fuzzy
+msgid "Earning Ratio"
+msgstr "Verdien Ratio"
+
+#: inc/shortcodes.php:7218
+#, fuzzy
+msgid "Scheduled Playlist"
+msgstr "Geplande afspeellijst"
+
+#: inc/shortcodes.php:7274
+#, fuzzy
+msgid "Login to send questions or messages!"
+msgstr "Log in om vragen of berichten te sturen!"
+
+#: inc/shortcodes.php:7318
+#, fuzzy
+msgid "Messages are currently closed."
+msgstr "Berichten zijn momenteel gesloten."
+
+#: inc/shortcodes.php:7379 inc/shortcodes.php:7840
+#, fuzzy
+msgid "This attachment extension is not allowed:"
+msgstr "Deze bijlageverlenging is niet toegestaan:"
+
+#: inc/shortcodes.php:7379 inc/shortcodes.php:7840
+#, fuzzy
+msgid "Allowed attachment extensions:"
+msgstr "Toegestane uitbreidingen van bijlagen:"
+
+#: inc/shortcodes.php:7379 inc/shortcodes.php:7388 inc/shortcodes.php:7840
+#: inc/shortcodes.php:7851
+#, fuzzy
+msgid "Try again:"
+msgstr "Probeer het opnieuw:"
+
+#: inc/shortcodes.php:7388 inc/shortcodes.php:7851
+#, fuzzy
+msgid "This attachment is too big:"
+msgstr "Deze bijlage is te groot:"
+
+#: inc/shortcodes.php:7388 inc/shortcodes.php:7851
+#, fuzzy
+msgid "Allowed attachment size:"
+msgstr "Toegestane grootte van bijlagen:"
+
+#: inc/shortcodes.php:7513
+msgid "Your message was sent."
+msgstr "Je bericht is succesvol verzonden."
+
+#: inc/shortcodes.php:7514 inc/shortcodes.php:8095 inc/shortcodes.php:8395
+msgid "View Message"
+msgstr "Bekijk bericht"
+
+#: inc/shortcodes.php:7530
+#, fuzzy
+msgid "Your Question or Message"
+msgstr "Uw vraag of bericht"
+
+#: inc/shortcodes.php:7533 inc/shortcodes.php:8035
+#, fuzzy
+msgid "Attachments (Optional)"
+msgstr "Bijlagen (optioneel)"
+
+#: inc/shortcodes.php:7534 inc/shortcodes.php:8036
+msgid "Supports"
+msgstr "Ondersteunt"
+
+#: inc/shortcodes.php:7543
+#, fuzzy
+msgid "Open in full view to add video recordings:"
+msgstr "Open in volledige weergave om video-opnamen toe te voegen:"
+
+#: inc/shortcodes.php:7548
+msgid "Send Message"
+msgstr "Verstuur bericht"
+
+#: inc/shortcodes.php:7553
+#, fuzzy
+msgid "Cost per question or message"
+msgstr "Kosten per vraag of bericht"
+
+#: inc/shortcodes.php:7656 inc/shortcodes.php:8105 inc/shortcodes.php:8403
+#, fuzzy
+msgid "No Messages"
+msgstr "Geen berichten"
+
+#: inc/shortcodes.php:7671 inc/shortcodes.php:8301
+#, fuzzy
+msgid "Login to manage messages and replies!"
+msgstr "Log in om berichten en antwoorden te beheren!"
+
+#: inc/shortcodes.php:7991
+#, fuzzy
+msgid "Your reply was sent and you got paid."
+msgstr "Je antwoord is verzonden en je bent betaald."
+
+#: inc/shortcodes.php:7994
+#, fuzzy
+msgid "Your reply was sent."
+msgstr "Uw antwoord is verzonden."
+
+#: inc/shortcodes.php:8018 inc/shortcodes.php:8044
+msgid "Send Reply"
+msgstr "Antwoord versturen"
+
+#: inc/shortcodes.php:8092 inc/shortcodes.php:8379
+msgid "Replied"
+msgstr "Gereageerd"
+
+#: inc/shortcodes.php:8100
+#, fuzzy
+msgid ""
+"You receive payment for paid messages on reply. Clients can access their "
+"messages and replies from client dashboard and in messages section from "
+"webcam profile."
+msgstr ""
+"U ontvangt de betaling voor betaalde berichten bij antwoord. Klanten hebben "
+"toegang tot hun berichten en antwoorden via het klantendashboard en in het "
+"berichtengedeelte van het webcamprofiel."
+
+#: inc/shortcodes.php:8122
+msgid "Questions"
+msgstr "Vragen"
+
+#: inc/shortcodes.php:8128
+#, fuzzy
+msgid "Price per Question"
+msgstr "Prijs per vraag"
+
+#: inc/shortcodes.php:8156
+#, fuzzy
+msgid "Login to access client features!"
+msgstr "Log in om toegang te krijgen tot clientfuncties!"
+
+#: inc/shortcodes.php:8172
+#, fuzzy
+msgid "Active balance"
+msgstr "Actieve balans"
+
+#: inc/shortcodes.php:8173
+#, fuzzy
+msgid "All Balances"
+msgstr "Alle saldi"
+
+#: inc/shortcodes.php:8174
+#, fuzzy
+msgid "Manage Wallet"
+msgstr "Portemonnee beheren"
+
+#: inc/shortcodes.php:8182
+#, fuzzy
+msgid "Random Mathmaking"
+msgstr "Willekeurig rekenen"
+
+#: inc/shortcodes.php:8183
+#, fuzzy
+msgid "Match Criteria"
+msgstr "Overeenkomen met criteria"
+
+#: inc/shortcodes.php:8184
+#, fuzzy
+msgid "Random Match"
+msgstr "Willekeurige overeenkomst"
+
+#: inc/shortcodes.php:8189
+#, fuzzy
+msgid "My Questions and Messages"
+msgstr "Mijn vragen en berichten"
+
+#: inc/shortcodes.php:8194
+msgid "My Calls"
+msgstr "Mijn oproepen"
+
+#: inc/shortcodes.php:8199 inc/shortcodes.php:8286
+msgid "Add Role"
+msgstr "Rol toevoegen"
+
+#: inc/shortcodes.php:8211
+msgid "My Subscriptions"
+msgstr "Mijn abonnementen"
+
+#: inc/shortcodes.php:8233
+#, fuzzy
+msgid "Login to manage role!"
+msgstr "Log in om de rol te beheren!"
+
+#: inc/shortcodes.php:8267
+#, fuzzy
+msgid "Your role(s)"
+msgstr "Jouw rol(len)"
+
+#: inc/shortcodes.php:8271 ppv-live-webcams.php:4218
+msgid "Role"
+msgstr "Rol"
+
+#: inc/shortcodes.php:8416
+#, fuzzy
+msgid "Login to manage calls!"
+msgstr "Log in om oproepen te beheren!"
+
+#: inc/shortcodes.php:8540
+#, fuzzy
+msgid "New call was setup"
+msgstr "Er is een nieuw gesprek ingesteld"
+
+#: inc/shortcodes.php:8544
+#, fuzzy
+msgid ""
+"Error: Client was not found by email or username! User needs to register to "
+"be able to login and access the private call."
+msgstr ""
+"Fout: Client is niet gevonden via e-mail of gebruikersnaam! De gebruiker "
+"moet zich registreren om in te loggen en toegang te krijgen tot het "
+"privégesprek."
+
+#: inc/shortcodes.php:8560 inc/shortcodes.php:8566 inc/shortcodes.php:8573
+msgid "Paid"
+msgstr "Betaald"
+
+#: inc/shortcodes.php:8560 inc/shortcodes.php:8578
+#, fuzzy
+msgid "Videochat"
+msgstr "Videochatten"
+
+#: inc/shortcodes.php:8566 inc/shortcodes.php:8581
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/shortcodes.php:8573 inc/shortcodes.php:8585
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/shortcodes.php:8593
+#, fuzzy
+msgid "Private Call Chat Mode"
+msgstr "Chatmodus voor privégesprekken"
+
+#: inc/shortcodes.php:8594
+msgid "Client"
+msgstr "Klant"
+
+#: inc/shortcodes.php:8594
+msgid "Username or Email"
+msgstr "Gebruikersnaam of e-mail"
+
+#: inc/shortcodes.php:8595
+#, fuzzy
+msgid "Setup Call"
+msgstr "Gesprek instellen"
+
+#: inc/shortcodes.php:8598
+#, fuzzy
+msgid "Warning: Room in audio only mode restricts call options."
+msgstr ""
+"Waarschuwing: Ruimte in de modus Alleen audio beperkt de gespreksopties."
+
+#: inc/shortcodes.php:8599
+#, fuzzy
+msgid "Warning: Room in text only mode restricts call options."
+msgstr ""
+"Waarschuwing: Ruimte in de modus Alleen tekst beperkt de gespreksopties."
+
+#: inc/shortcodes.php:8601
+#, fuzzy
+msgid ""
+"Setup locked private calls that can only be accessed by client using "
+"dedicated call link. Clients can access their persistent calls list in "
+"client dashboard.  "
+msgstr ""
+"Stel vergrendelde privégesprekken in die alleen toegankelijk zijn voor de "
+"klant met behulp van een speciale oproeplink. Klanten hebben toegang tot hun "
+"lijst met permanente oproepen in het klantendashboard.  "
+
+#: inc/shortcodes.php:8618
+#, fuzzy
+msgid "Call deleted."
+msgstr "Oproep verwijderd."
+
+#: inc/shortcodes.php:8654
+msgid "Access"
+msgstr "Toegang"
+
+#: inc/shortcodes.php:8664
+#, fuzzy
+msgid "No Calls"
+msgstr "Geen oproepen"
+
+#: inc/shortcodes.php:9472
+msgid "Loading Live Webcams"
+msgstr "Live consulentes laden"
+
+#: inc/shortcodes.php:9744 inc/shortcodes.php:9748
+msgid "Loading category"
+msgstr "Categorieën laden"
+
+#: inc/shortcodes.php:9744 inc/shortcodes.php:9936
+msgid "All Categories"
+msgstr "Alle categorieën"
+
+#: inc/shortcodes.php:9770 inc/shortcodes.php:9772 inc/shortcodes.php:9773
+#: inc/shortcodes.php:9775 inc/shortcodes.php:9776 inc/shortcodes.php:9778
+#: inc/shortcodes.php:9779 inc/shortcodes.php:9781 inc/shortcodes.php:9782
+#: inc/shortcodes.php:9801 inc/shortcodes.php:9803 inc/shortcodes.php:9805
+#, fuzzy
+msgid "Filtering Webcams"
+msgstr "Webcams filteren"
+
+#: inc/shortcodes.php:9770 inc/shortcodes.php:9944
+msgid "All"
+msgstr "Alle"
+
+#: inc/shortcodes.php:9772 inc/shortcodes.php:9946
+msgid "Online"
+msgstr "Online"
+
+#: inc/shortcodes.php:9773 inc/shortcodes.php:9948
+#, fuzzy
+msgid "Online, Available"
+msgstr "Online, Beschikbaar"
+
+#: inc/shortcodes.php:9775 inc/shortcodes.php:9950
+#, fuzzy
+msgid "All, Paid"
+msgstr "Alle, betaald"
+
+#: inc/shortcodes.php:9776 inc/shortcodes.php:9952
+#, fuzzy
+msgid "All, Free"
+msgstr "Alle, gratis"
+
+#: inc/shortcodes.php:9778 inc/shortcodes.php:9954
+#, fuzzy
+msgid "Available, Paid"
+msgstr "Beschikbaar, Betaald"
+
+#: inc/shortcodes.php:9779 inc/shortcodes.php:9956
+#, fuzzy
+msgid "Available, Free"
+msgstr "Beschikbaar, Gratis"
+
+#: inc/shortcodes.php:9781 inc/shortcodes.php:9958
+#, fuzzy
+msgid "Online, In Private"
+msgstr "Online, Privé"
+
+#: inc/shortcodes.php:9782 inc/shortcodes.php:9960
+msgid "Offline"
+msgstr "Offline"
+
+#: inc/shortcodes.php:9795
+#, fuzzy
+msgid "Lovense"
+msgstr "Kanton Lovense"
+
+#: inc/shortcodes.php:9801 inc/shortcodes.php:9903
+msgid "Any"
+msgstr "Elke"
+
+#: inc/shortcodes.php:9815 inc/shortcodes.php:9971
+msgid "Default Order"
+msgstr "Standaard"
+
+#: inc/shortcodes.php:9816 inc/shortcodes.php:9973
+#, fuzzy
+msgid "Current Viewers"
+msgstr "Huidige kijkers"
+
+#: inc/shortcodes.php:9817 inc/shortcodes.php:9975
+#, fuzzy
+msgid "Broadcast Recently"
+msgstr "Onlangs uitgezonden"
+
+#: inc/shortcodes.php:9818 inc/shortcodes.php:9976
+#, fuzzy
+msgid "Created Recently"
+msgstr "Recent gemaakt"
+
+#: inc/shortcodes.php:9819 inc/shortcodes.php:9978
+#, fuzzy
+msgid "Maximum Viewers"
+msgstr "Maximum aantal kijkers"
+
+#: inc/shortcodes.php:9820 inc/shortcodes.php:9980
+msgid "Random"
+msgstr "Willekeurig"
+
+#: inc/shortcodes.php:9824 inc/shortcodes.php:9984
+msgid "Votes"
+msgstr "Stemmen"
+
+#: inc/shortcodes.php:9825 inc/shortcodes.php:9829 inc/shortcodes.php:9986
+#: inc/shortcodes.php:9991
+msgid "Rating"
+msgstr "Beoordeling"
+
+#: inc/shortcodes.php:9826 inc/shortcodes.php:9830 inc/shortcodes.php:9987
+#: inc/shortcodes.php:9992
+#, fuzzy
+msgid "Ratings Number"
+msgstr "Waarderingen Nummer"
+
+#: inc/shortcodes.php:9827 inc/shortcodes.php:9831 inc/shortcodes.php:9988
+#: inc/shortcodes.php:9993
+#, fuzzy
+msgid "Rate Popularity"
+msgstr "Beoordeel populariteit"
+
+#: inc/shortcodes.php:9829 inc/shortcodes.php:9830 inc/shortcodes.php:9831
+#: inc/shortcodes.php:9991 inc/shortcodes.php:9992 inc/shortcodes.php:9993
+#, fuzzy
+msgid "in Category"
+msgstr "Categorie"
+
+#: inc/shortcodes.php:9840 inc/shortcodes.php:9969
+msgid "Order By"
+msgstr "Sorteer op"
+
+#: inc/shortcodes.php:9847
+#, fuzzy
+msgid "Ordering Rooms"
+msgstr "Kamers bestellen"
+
+#: inc/shortcodes.php:9903 inc/shortcodes.php:9906
+#, fuzzy
+msgid "Filtering Rooms"
+msgstr "Kamers filteren"
+
+#: inc/shortcodes.php:10018
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/shortcodes.php:10408
+#, fuzzy
+msgid "Ban This Webcam"
+msgstr "Verbied deze webcam"
+
+#: inc/shortcodes.php:10594
+msgid "Enter"
+msgstr "Enter"
+
+#: inc/shortcodes.php:10599
+msgid "Call"
+msgstr "Bel"
+
+#: inc/shortcodes.php:10628
+#, fuzzy
+msgid "Login for More"
+msgstr "Login voor meer"
+
+#: inc/shortcodes.php:10640 inc/shortcodes.php:10641
+msgid "Video Call"
+msgstr "Videogesprek"
+
+#: inc/shortcodes.php:10647 inc/shortcodes.php:10649
+msgid "Audio Call"
+msgstr "Audio-oproep"
+
+#: inc/shortcodes.php:10657 inc/shortcodes.php:10659
+#, fuzzy
+msgid "Text Chat"
+msgstr "Tekst Chat"
+
+#: inc/shortcodes.php:10671 inc/shortcodes.php:10673
+msgid "Question"
+msgstr "Vraag"
+
+#: inc/shortcodes.php:10690
+#, fuzzy
+msgid "2 Way"
+msgstr "2 Manier"
+
+#: inc/shortcodes.php:10699
+#, fuzzy
+msgid "Voyeur"
+msgstr "Voyeur"
+
+#: inc/shortcodes.php:10745 inc/shortcodes.php:10749
+msgid ""
+"No rooms match current criteria. A room requires a picture or snapshot from "
+"live broadcast to get listed."
+msgstr ""
+"Geen enkele kamer voldoet aan de huidige criteria. Een ruimte vereist een "
+"foto of momentopname van live-uitzending om in de lijst te worden opgenomen."
+
+#: inc/shortcodes.php:10794
+msgid "Previous"
+msgstr "Vorige"
+
+#: inc/shortcodes.php:10797
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/shortcodes.php:10810
+msgid "Grid"
+msgstr "Raster"
+
+#: inc/shortcodes.php:10813
+#, fuzzy
+msgid "Full Row List"
+msgstr "Volledige rijenlijst"
+
+#: inc/shortcodes.php:10816
+msgid "Horizontal Slider"
+msgstr "Horizontale Slider"
+
+#: inc/shortcodes.php:11020
+#, fuzzy
+msgid "Broadcasting not allowed: Only logged in users can broadcast!"
+msgstr ""
+"Uitzenden niet toegestaan: Alleen ingelogde gebruikers kunnen uitzenden!"
+
+#: inc/shortcodes.php:11330 ppv-live-webcams.php:310
+#, fuzzy
+msgid "Room Page"
+msgstr "Kamer Pagina"
+
+#: inc/shortcodes.php:11331
+#, fuzzy
+msgid "Room Profile Content"
+msgstr "Inhoud van ruimteprofiel"
+
+#: inc/shortcodes.php:11333
+#, fuzzy
+msgid "Room Profile Info"
+msgstr "Informatie over kamerprofiel"
+
+#: inc/shortcodes.php:11385 inc/shortcodes.php:11548
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+#: inc/shortcodes.php:11396
+msgid "Content"
+msgstr "Inhoud"
+
+#: inc/shortcodes.php:11445
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/shortcodes.php:11453
+#, fuzzy
+msgid "Maximum viewers"
+msgstr "Maximum aantal kijkers"
+
+#: inc/shortcodes.php:11466
+#, fuzzy
+msgid "Paid sessions"
+msgstr "Betaalde sessies"
+
+#: inc/shortcodes.php:11466
+msgid "private"
+msgstr "privé"
+
+#: inc/shortcodes.php:11466
+msgid "group"
+msgstr "groep"
+
+#: inc/shortcodes.php:11475
+msgid "Profile Info"
+msgstr "Profielinfo"
+
+#: inc/shortcodes.php:11542
+#, fuzzy
+msgid "My Review"
+msgstr "Mijn recensie"
+
+#: inc/shortcodes.php:11564
+#, fuzzy
+msgid "Room Content"
+msgstr "Inhoud van de ruimte"
+
+#: inc/shortcodes.php:11581
+#, fuzzy
+msgid "Room Products"
+msgstr "Ruimte Producten"
+
+#: inc/shortcodes.php:11621
+#, fuzzy
+msgid "Send Question or Message"
+msgstr "Vraag of bericht verzenden"
+
+#: inc/shortcodes.php:11623
+#, fuzzy
+msgid "My Previous Questions and Messages"
+msgstr "Mijn vorige vragen en berichten"
+
+#: inc/shortcodes.php:11835 ppv-live-webcams.php:2519
+#, fuzzy
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today."
+msgstr ""
+"Dagelijkse tijdslimiet voor gratis chatten bereikt: Je hebt vandaag alleen "
+"toegang tot betaalde groepsruimten."
+
+#: inc/shortcodes.php:11836 ppv-live-webcams.php:2520
+#, fuzzy
+msgid ""
+"Free chat daily time limit reached. You get unlimited free chat time if you "
+"add a minimum balance."
+msgstr ""
+"Gratis chat dagelijkse tijdslimiet bereikt. Je krijgt onbeperkte gratis "
+"chattijd als je een minimumsaldo toevoegt."
+
+#: inc/shortcodes.php:11855
+#, fuzzy
+msgid "This is a BuddyPress group room and you are not a member!"
+msgstr "Dit is een BuddyPress groepsruimte en je bent geen lid!"
+
+#: inc/shortcodes.php:11936
+#, fuzzy
+msgid "Login to access special chat mode!"
+msgstr "Log in om toegang te krijgen tot de speciale chatmodus!"
+
+#: inc/shortcodes.php:11949
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls."
+msgstr ""
+"Groepsgesprekken zijn uitgeschakeld. Er kunnen alleen 1 op 1 gesprekken "
+"plaatsvinden."
+
+#: inc/shortcodes.php:12140
+#, fuzzy
+msgid "Try HTML5 Videochat"
+msgstr "Probeer HTML5 Videochat"
+
+#: inc/streams.php:307
+#, fuzzy
+msgid "is live"
+msgstr "is live"
+
+#: ppv-live-webcams.php:191 ppv-live-webcams.php:257
+msgid "Connect"
+msgstr "Verbinden"
+
+#: ppv-live-webcams.php:219 ppv-live-webcams.php:265
+#, fuzzy
+msgid "Video Questions"
+msgstr "Videovragen"
+
+#: ppv-live-webcams.php:293
+#, fuzzy
+msgid "My Conversations"
+msgstr "Mijn gesprekken"
+
+#: ppv-live-webcams.php:296
+#, fuzzy
+msgid "Performer Dashboard"
+msgstr "Dashboard voor uitvoerders"
+
+#: ppv-live-webcams.php:314
+#, fuzzy
+msgid "My Video Messages"
+msgstr "Mijn videoboodschappen"
+
+#: ppv-live-webcams.php:356
+#, fuzzy
+msgid "Login to send questions!"
+msgstr "Log in om vragen te stellen!"
+
+#: ppv-live-webcams.php:385
+#, fuzzy
+msgid "User does not have rooms with questions open."
+msgstr "De gebruiker heeft geen kamers met vragen openstaan."
+
+#: ppv-live-webcams.php:909
+#, fuzzy
+msgctxt "Post Type General Name"
+msgid "Webcams"
+msgstr "Webcams"
+
+#: ppv-live-webcams.php:910
+#, fuzzy
+msgctxt "Post Type Singular Name"
+msgid "Webcam"
+msgstr "Webcam"
+
+#: ppv-live-webcams.php:912
+#, fuzzy
+msgid "Parent Webcam:"
+msgstr "Ouder webcam:"
+
+#: ppv-live-webcams.php:913
+#, fuzzy
+msgid "All Webcams"
+msgstr "Alle webcams"
+
+#: ppv-live-webcams.php:914
+#, fuzzy
+msgid "View Webcam"
+msgstr "Bekijk webcam"
+
+#: ppv-live-webcams.php:915
+#, fuzzy
+msgid "Add New Webcam"
+msgstr "Nieuwe webcam toevoegen"
+
+#: ppv-live-webcams.php:916
+#, fuzzy
+msgid "New Webcam"
+msgstr "Nieuwe webcam"
+
+#: ppv-live-webcams.php:917
+#, fuzzy
+msgid "Edit Webcam"
+msgstr "Webcam bewerken"
+
+#: ppv-live-webcams.php:918
+#, fuzzy
+msgid "Update Webcam"
+msgstr "Webcam bijwerken"
+
+#: ppv-live-webcams.php:919
+msgid "Search Webcams"
+msgstr "Consulentes zoeken"
+
+#: ppv-live-webcams.php:920
+#, fuzzy
+msgid "No webcams found"
+msgstr "Geen webcams gevonden"
+
+#: ppv-live-webcams.php:921
+#, fuzzy
+msgid "No webcams found in Trash"
+msgstr "Geen webcams gevonden in Prullenbak"
+
+#: ppv-live-webcams.php:924
+#, fuzzy
+msgid "New room created"
+msgstr "Nieuwe kamer gecreëerd"
+
+#: ppv-live-webcams.php:926
+#, fuzzy, php-format
+msgid "%1$s created a new <a href=\"%2$s\">room</a>"
+msgstr "%1$sEen nieuwe <a href=\"%2$s\">kamer</a> gemaakt"
+
+#: ppv-live-webcams.php:927
+#, fuzzy, php-format
+msgid "%1$s created a new <a href=\"%2$s\">room</a>, on the site %3$s"
+msgstr "%1$s een nieuwe <a href=\"%2$s\">kamer</a> gemaakt, op de site %3$s"
+
+#: ppv-live-webcams.php:936
+#, fuzzy
+msgid "webcam"
+msgstr "webcam"
+
+#: ppv-live-webcams.php:937
+msgid "Live Webcams"
+msgstr "Live Consulentes"
+
+#: ppv-live-webcams.php:1048
+#, fuzzy
+msgid "Access Forbidden!"
+msgstr "Toegang verboden!"
+
+#: ppv-live-webcams.php:1097
+#, fuzzy
+msgid "This content is not available in your location!"
+msgstr "Deze inhoud is niet beschikbaar op uw locatie!"
+
+#: ppv-live-webcams.php:1168
+#, fuzzy
+msgid "This is a paid room. A minimum balance required to access."
+msgstr ""
+"Dit is een betaalde kamer. Een minimumsaldo dat vereist is om toegang te "
+"krijgen."
+
+#: ppv-live-webcams.php:1174
+#, fuzzy
+msgid "This is a paid room. Login is required to access a paid room."
+msgstr ""
+"Dit is een betaalde kamer. Inloggen is vereist om toegang te krijgen tot een "
+"betaalde kamer."
+
+#: ppv-live-webcams.php:2003
+#, fuzzy
+msgid ""
+"Not enough funds left for client to continue session. Minimum required: "
+msgstr ""
+"Er is niet genoeg geld over voor de klant om de sessie voort te zetten. "
+"Minimaal vereist: "
+
+#: ppv-live-webcams.php:2027
+#, fuzzy
+msgid "Session was already ended."
+msgstr "De sessie was al afgelopen."
+
+#: ppv-live-webcams.php:2449 ppv-live-webcams.php:5974
+#: ppv-live-webcams.php:6159
+#, fuzzy
+msgid "This room was suspended."
+msgstr "Deze kamer was geschorst."
+
+#: ppv-live-webcams.php:3937
+#, fuzzy
+msgid "You Were Disconnected from Chat Room"
+msgstr "De verbinding met de chatroom is verbroken"
+
+#: ppv-live-webcams.php:3940
+#, fuzzy
+msgid "You have been disconnected from server."
+msgstr "De verbinding met de server is verbroken."
+
+#: ppv-live-webcams.php:3941
+#, fuzzy
+msgid "Free daily time limit reached: Check paid rooms!"
+msgstr "Gratis dagelijkse tijdslimiet bereikt: Controleer betaalde kamers!"
+
+#: ppv-live-webcams.php:3942
+#, fuzzy
+msgid "Free daily visitor time limit reached: Register for more!"
+msgstr "Gratis dagelijkse bezoekerstijd bereikt: Registreer voor meer!"
+
+#: ppv-live-webcams.php:4549
+#, fuzzy
+msgid "Transfer to Active Balance"
+msgstr "Overboeken naar actief saldo"
+
+#: ppv-live-webcams.php:4549 ppv-live-webcams.php:4553
+msgid "Transfer to"
+msgstr "Verplaats naar"
+
+#: ppv-live-webcams.php:4553
+#, fuzzy
+msgid "Transfer to Secondary Balance"
+msgstr "Overboeken naar secundair saldo"
+
+#: ppv-live-webcams.php:4559
+#, fuzzy
+msgid "Transferred to active balance."
+msgstr "Overgezet naar actief saldo."
+
+#: ppv-live-webcams.php:4565
+#, fuzzy
+msgid "Transferred to secondary balance."
+msgstr "Overgeboekt naar secundair saldo."
+
+#: ppv-live-webcams.php:5091
+#, fuzzy
+msgid "PPM group"
+msgstr "PPM-groep"
+
+#: ppv-live-webcams.php:5091
+#, fuzzy
+msgid "session in"
+msgstr "sessie in"
+
+#: ppv-live-webcams.php:5097
+#, fuzzy
+msgid "Earning from PPM group"
+msgstr "Verdienen aan PPM-groep"
+
+#: ppv-live-webcams.php:5097
+#, fuzzy
+msgid " session with "
+msgstr " sessie met "
+
+#: ppv-live-webcams.php:5217
+#, fuzzy
+msgid "Earning from PPM private session #"
+msgstr "Verdienen met PPM-privésessie #"
+
+#: ppv-live-webcams.php:5222
+#, fuzzy
+msgid "Performer cost for PPM private session #"
+msgstr "Kosten voor uitvoerder voor PPM-privésessie #"
+
+#: ppv-live-webcams.php:6359
+msgid "Never"
+msgstr "Nooit"
+
+#: ppv-live-webcams.php:6425
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ppv-live-webcams.php:6459
+#, fuzzy
+msgid "User not found by email or login: "
+msgstr "Gebruiker niet gevonden via e-mail of login: "
+
+#: ppv-live-webcams.php:6467
+#, fuzzy
+msgid "User not found by ID: "
+msgstr "Gebruiker niet gevonden op ID: "
+
+#: ppv-live-webcams.php:6490
+#, fuzzy
+msgid "Studio not found: "
+msgstr "Studio niet gevonden: "
+
+#: template-app.php:26
+#, fuzzy
+msgid "Video Chat"
+msgstr "Videochatten"
+
+#: template-webcam.php:46
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "Geen resultaten gevonden voor je zoekopdracht. Probeer svp opnieuw."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Paid Videochat Turnkey Site - HTML5 PPV Live Webcams"
+msgstr "Betaalde videochat kant-en-klare site - HTML5 PPV Live webcams"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://paidvideochat.com"
+msgstr "https://paidvideochat.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"<strong>Paid Videochat Turnkey Site - HTML5 PPV Live Webcams</strong>: pay "
+"per view / minute (PPV/PPM) videochat sites.  Includes custom registration "
+"(performers, clients, studios), live webcams list, public lobby for each "
+"performer with live stream, mult-performer in show checkin, custom tips/"
+"gifts with notification, pay per minute private 2 way calls and group "
+"videochat shows, HTML5 WebRTC live video streaming, adaptive interface for "
+"mobile browsers, snapshots/pictures and videos profile, video conference "
+"mode with split view streaming, presentation/collaboration mode with file "
+"sharing and image/video display, paid questions/messages.  <a href='https://"
+"videowhisper.com/tickets_submit.php?topic=PPV-Live-Webcams'>Contact Support</"
+"a> | <a href='admin.php?page=live-webcams&tab=setup'>Setup</a>"
+msgstr ""
+"<strong>Betaalde Videochat Kant-en-klare site - HTML5 PPV Live Webcams</"
+"strong>: pay-per-view/minuut (PPV/PPM) videochatsites.  Inclusief aangepaste "
+"registratie (artiesten, klanten, studio's), lijst met live webcams, openbare "
+"lobby voor elke artiest met livestream, meerdere artiesten bij het inchecken "
+"van shows, aangepaste tips/geschenken met melding, betalen per minuut privé "
+"2-weg gesprekken en groepsvideochatshows, HTML5 WebRTC live videostreaming, "
+"adaptieve interface voor mobiele browsers, snapshots/foto's en videoprofiel, "
+"videoconferentiemodus met streaming met gesplitste weergave,  Presentatie-/"
+"samenwerkingsmodus met bestandsdeling en weergave van afbeeldingen/video's, "
+"betaalde vragen/berichten.  <a href='https://videowhisper.com/tickets_submit."
+"php?topic=PPV-Live-Webcams'>Neem contact op met ondersteuning</a> | <a "
+"href='admin.php?page=live-webcams&tab=setup'>Setup</a>"
+
+#. Author of the plugin/theme
+msgid "VideoWhisper.com"
+msgstr "VideoWhisper.com"
+
+#. Author URI of the plugin/theme
+msgid "https://videowhisper.com/"
+msgstr "https://videowhisper.com/"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper App - Full Page, without Site Template"
+msgstr "VideoWhisper-app - Volledige pagina, zonder sitesjabloon"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper Full"
+msgstr "VideoWhisper Volledig"

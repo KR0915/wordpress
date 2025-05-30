@@ -1,0 +1,2986 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: PPV Live Webcams - Paid Videochat\n"
+"POT-Creation-Date: 2020-05-02 10:39+0300\n"
+"PO-Revision-Date: 2020-05-02 11:36+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ppv-live-webcams.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/h5videochat.php:20
+#, fuzzy
+msgid "Login is required to access your own videochat room!"
+msgstr "Giriş kendi görüntülü sohbet odanıza erişmek için gereklidir!"
+
+#: inc/h5videochat.php:20 inc/h5videochat.php:185 inc/h5videochat.php:249
+#: inc/h5videochat.php:254 inc/shortcodes.php:50 inc/shortcodes.php:191
+#: inc/shortcodes.php:397 inc/shortcodes.php:428 inc/shortcodes.php:513
+#: ppv-live-webcams.php:749 ppv-live-webcams.php:5049 ppv-live-webcams.php:5249
+#: ppv-live-webcams.php:5697
+msgid "Login"
+msgstr "Giriş"
+
+#: inc/h5videochat.php:20 inc/h5videochat.php:185 inc/h5videochat.php:249
+#: inc/h5videochat.php:254 inc/shortcodes.php:50 inc/shortcodes.php:191
+#: inc/shortcodes.php:397 inc/shortcodes.php:428 inc/shortcodes.php:513
+#: ppv-live-webcams.php:749 ppv-live-webcams.php:5049 ppv-live-webcams.php:5697
+msgid "Register"
+msgstr "Kayıt Ol"
+
+#: inc/h5videochat.php:26 ppv-live-webcams.php:5080 ppv-live-webcams.php:5737
+#, fuzzy
+msgid ""
+"Your account is not currently enabled. Update your account records and wait "
+"for site admins to approve your account."
+msgstr ""
+"Hesabınız şu anda etkin değil. Hesap kayıtlarınızı güncelleyin ve site "
+"yöneticilerinin hesabınızı onaylamasını bekleyin."
+
+#: inc/h5videochat.php:30 ppv-live-webcams.php:5742
+#, fuzzy
+msgid ""
+"Studio disabled your account: dashboard access is forbidden. Contact studio "
+"or site administrator!"
+msgstr ""
+"Stüdyo hesabınızı devre dışı bıraktı: pano erişimi yasaktır. Stüdyo veya "
+"site yöneticisiyle iletişime geçin!"
+
+#: inc/h5videochat.php:68
+#, fuzzy
+msgid "No random cam room found with current criteria!"
+msgstr "Hiçbir rasgele cam oda mevcut kriterleri ile bulunamadı!"
+
+#: inc/h5videochat.php:185
+#, fuzzy
+msgid "Login is required to access private calls."
+msgstr "Özel aramalara erişmek için giriş gereklidir."
+
+#: inc/h5videochat.php:195
+#, fuzzy
+msgid "This private call was closed."
+msgstr "Bu özel görüşme kapalıydı."
+
+#: inc/h5videochat.php:196
+#, fuzzy
+msgid "Private call is only available to performer and client, as setup."
+msgstr ""
+"Özel arama, yalnızca kurulum olarak yalnızca sanatçı ve istemci tarafından "
+"kullanılabilir."
+
+#: inc/h5videochat.php:202
+#, fuzzy
+msgid "This private call does not exist."
+msgstr "Bu özel arama yok."
+
+#: inc/h5videochat.php:207
+#, fuzzy
+msgid "This room can only be used for locked calls, with call link."
+msgstr ""
+"Bu oda sadece arama bağlantısı ile kilitli aramalar için kullanılabilir."
+
+#: inc/h5videochat.php:231 inc/h5videochat.php:1700
+#, fuzzy
+msgid "You are banned from accessing this room!"
+msgstr "Bu odaya girmen yasaklandı!"
+
+#: inc/h5videochat.php:249 inc/h5videochat.php:254
+#, fuzzy
+msgid "Login is required to access."
+msgstr "Giriş erişmek için gereklidir."
+
+#: inc/h5videochat.php:255
+#, fuzzy
+msgid "You are not in the allowed participant list."
+msgstr "İzin verilen katılımcı listesinde değilseniz."
+
+#: inc/h5videochat.php:263
+#, fuzzy
+msgid ""
+"This room is restricted by access list. You are not in room access list."
+msgstr "Bu oda erişim listesiyle sınırlı. Oda giriş listesinde değilsin."
+
+#: inc/h5videochat.php:302
+#, fuzzy
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls."
+msgstr ""
+"Grup sohbeti devre dışı bırakılır. Bu oda sadece anlık veya kilitli aramalar "
+"için kullanılabilir."
+
+#: inc/h5videochat.php:347
+#, fuzzy
+msgid "Open in Full Page"
+msgstr "Tam Sayfada Aç"
+
+#: inc/h5videochat.php:462
+msgid "Send"
+msgstr "Gönder"
+
+#: inc/h5videochat.php:463
+msgid "Type your message"
+msgstr "Mesajını yaz"
+
+#: inc/h5videochat.php:465
+msgid "Chat"
+msgstr "Sohbet"
+
+#: inc/h5videochat.php:466
+msgid "Camera"
+msgstr "Kamera"
+
+#: inc/h5videochat.php:467
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: inc/h5videochat.php:468
+msgid "Options"
+msgstr "Seçenekler"
+
+#: inc/h5videochat.php:469
+msgid "Files"
+msgstr "Dosyalar"
+
+#: inc/h5videochat.php:470
+msgid "Presentation"
+msgstr "Sunum"
+
+#: inc/h5videochat.php:472
+#, fuzzy
+msgid "Tap for Sound"
+msgstr "Ses için dokunun"
+
+#: inc/h5videochat.php:473
+#, fuzzy
+msgid "Enable Audio"
+msgstr "Sesi Etkinleştir"
+
+#: inc/h5videochat.php:474
+msgid "Mute"
+msgstr "Sessiz"
+
+#: inc/h5videochat.php:475
+msgid "Reload"
+msgstr "Tekrar yükle"
+
+#: inc/h5videochat.php:477
+msgid "Broadcast"
+msgstr "Toplu Mesaj"
+
+#: inc/h5videochat.php:478
+#, fuzzy
+msgid "Stop Broadcast"
+msgstr "Yayını Durdur"
+
+#: inc/h5videochat.php:479
+#, fuzzy
+msgid "Make a selection to start!"
+msgstr "Başlamak için bir seçim yapın!"
+
+#: inc/h5videochat.php:481
+#, fuzzy
+msgid "Lights On"
+msgstr "Işıklar Açık"
+
+#: inc/h5videochat.php:482 inc/h5videochat.php:697
+#, fuzzy
+msgid "Dark Mode"
+msgstr "Karanlık Mod"
+
+#: inc/h5videochat.php:483
+#, fuzzy
+msgid "Enter Fullscreen"
+msgstr "Tam Ekran girin"
+
+#: inc/h5videochat.php:484
+msgid "Exit Fullscreen"
+msgstr "Tam Ekrandan Çık"
+
+#: inc/h5videochat.php:486
+#, fuzzy
+msgid "Site Menu"
+msgstr "Site Menüsü"
+
+#: inc/h5videochat.php:488
+#, fuzzy
+msgid "Request Private"
+msgstr "Özel İstek"
+
+#: inc/h5videochat.php:489
+#, fuzzy
+msgid "Request Private 2 Way Videochat Show"
+msgstr "İstek Özel 2 Yönlü Görüntülü Sohbet Göster"
+
+#: inc/h5videochat.php:490
+#, fuzzy
+msgid "Performer Disabled Private Requests"
+msgstr "Performer Engelli Özel İstekler"
+
+#: inc/h5videochat.php:491
+#, fuzzy
+msgid "Performer is Busy in Private"
+msgstr "Sanatçı Özel Meşgul"
+
+#: inc/h5videochat.php:492
+#, fuzzy
+msgid "Performer is Not Online"
+msgstr "Performer Çevrimiçi Değil"
+
+#: inc/h5videochat.php:493
+#, fuzzy
+msgid "Nevermind"
+msgstr "Nevermind"
+
+#: inc/h5videochat.php:494
+msgid "Accept"
+msgstr "Kabul et"
+
+#: inc/h5videochat.php:495
+msgid "Decline"
+msgstr "Reddet"
+
+#: inc/h5videochat.php:496
+#, fuzzy
+msgid "Close Private"
+msgstr "Özel'i Kapat"
+
+#: inc/h5videochat.php:498 ppv-live-webcams.php:4660
+msgid "Next"
+msgstr "Sonraki"
+
+#: inc/h5videochat.php:499
+#, fuzzy
+msgid "Next: Random Videochat Room"
+msgstr "Sonraki: Rastgele Görüntülü Sohbet Odası"
+
+#: inc/h5videochat.php:501 ppv-live-webcams.php:4230
+#, fuzzy
+msgid "Name"
+msgstr "İsim"
+
+#: inc/h5videochat.php:502
+msgid "Size"
+msgstr "Boyut"
+
+#: inc/h5videochat.php:503
+msgid "Age"
+msgstr "Yaş"
+
+#: inc/h5videochat.php:504
+#, fuzzy
+msgid "Upload: Drag and drop files here, or click to select files"
+msgstr ""
+"Upload: Dosyaları buraya sürükleyin ve bırakın veya dosyaları seçmek için "
+"tıklatın"
+
+#: inc/h5videochat.php:505
+#, fuzzy
+msgid "Uploading. Please wait..."
+msgstr "Yükleme. Lütfen bekleyin..."
+
+#: inc/h5videochat.php:506
+msgid "Open"
+msgstr "Açık"
+
+#: inc/h5videochat.php:507
+msgid "Delete"
+msgstr "Sil"
+
+#: inc/h5videochat.php:509
+#, fuzzy
+msgid "Media Displayed"
+msgstr "Görüntülenen Ortam"
+
+#: inc/h5videochat.php:510
+msgid "Remove"
+msgstr "Kaldır"
+
+#: inc/h5videochat.php:511 ppv-live-webcams.php:6730 ppv-live-webcams.php:6744
+#: ppv-live-webcams.php:6812 ppv-live-webcams.php:6866
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/h5videochat.php:512
+msgid "Empty"
+msgstr "Boş"
+
+#: inc/h5videochat.php:514 ppv-live-webcams.php:841 ppv-live-webcams.php:4621
+#: ppv-live-webcams.php:6943
+msgid "Profile"
+msgstr "Profil"
+
+#: inc/h5videochat.php:515 ppv-live-webcams.php:6765
+msgid "Show"
+msgstr "Göster"
+
+#: inc/h5videochat.php:517
+#, fuzzy
+msgid "Private Call"
+msgstr "Özel Arama"
+
+#: inc/h5videochat.php:518
+msgid "Exit"
+msgstr "Çıkış"
+
+#: inc/h5videochat.php:520
+#, fuzzy
+msgid "External Broadcast"
+msgstr "Dış Yayın"
+
+#: inc/h5videochat.php:521
+#, fuzzy
+msgid ""
+"Broadcast with external apps for advanced compositions, scenes, effects or "
+"reliability compared to web based interface and protocols. External "
+"broadcasts have higher latency and improved capacity, reliability specific "
+"to HLS delivery method. New broadcasts show in about 10 seconds and "
+"unavailability updates after 1 minute."
+msgstr ""
+"Web tabanlı arayüz ve protokollerle karşılaştırıldığında gelişmiş "
+"kompozisyonlar, sahneler, efektler veya güvenilirlik için harici "
+"uygulamalarla yayın yapın. Harici yayınlar daha yüksek gecikme ve "
+"geliştirilmiş kapasiteye, HLS dağıtım yöntemine özgü güvenilirliklere "
+"sahiptir. Yeni yayınlar yaklaşık 10 saniye içinde ve 1 dakika sonra "
+"kullanılamaz güncelleştirmeleri gösterir."
+
+#: inc/h5videochat.php:563
+msgid "New"
+msgstr "Yeni"
+
+#: inc/h5videochat.php:626
+#, fuzzy
+msgid "Disable Call Requests"
+msgstr "Arama Isteklerini devre dışı"
+
+#: inc/h5videochat.php:626
+#, fuzzy
+msgid "Disable users from sending private call requests to room owner."
+msgstr ""
+"Kullanıcıların oda sahibine özel arama istekleri göndermesini devre dışı "
+"kaltın."
+
+#: inc/h5videochat.php:627
+#, fuzzy
+msgid "Private Room"
+msgstr "Özel Oda"
+
+#: inc/h5videochat.php:627
+#, fuzzy
+msgid "Hide room from public listings. Can be accessed by room link."
+msgstr "Herkese açık ilanlardan yer gizle. Oda bağlantısı ile erişilebilir."
+
+#: inc/h5videochat.php:629
+#, fuzzy
+msgid "Calls Only"
+msgstr "Yalnızca Aramalar"
+
+#: inc/h5videochat.php:629
+#, fuzzy
+msgid "Call Only mode: can only be used for calls."
+msgstr "Yalnızca Arama modu: yalnızca aramalar için kullanılabilir."
+
+#: inc/h5videochat.php:630
+#, fuzzy
+msgid "Group Chat Disabled"
+msgstr "Grup Sohbetdevre Dışı"
+
+#: inc/h5videochat.php:630
+#, fuzzy
+msgid "Use room only for instant or locked calls."
+msgstr "Odayı yalnızca anlık veya kilitli aramalar için kullanın."
+
+#: inc/h5videochat.php:632 inc/h5videochat.php:698
+#, fuzzy
+msgid "Audio Only"
+msgstr "Yalnızca Ses"
+
+#: inc/h5videochat.php:632
+#, fuzzy
+msgid ""
+"Audio only room mode: Only microphone, no webcam video, for all "
+"participants. Applies both to group and private calls."
+msgstr ""
+"Ses sadece oda modu: Sadece mikrofon, hiçbir web kamerası video, tüm "
+"katılımcılar için. Grup ve özel aramalar için de geçerlidir."
+
+#: inc/h5videochat.php:634
+#, fuzzy
+msgid "Conference Mode"
+msgstr "Konferans Modu"
+
+#: inc/h5videochat.php:634
+#, fuzzy
+msgid ""
+"Enable owner to show multiple users streams at same time in split view. All "
+"users can publish webcam."
+msgstr ""
+"Sahibinin bölünmüş görünümde aynı anda birden çok kullanıcı akışını "
+"göstermesini etkinleştirin. Tüm kullanıcılar web kamerası yayınlayabilir."
+
+#: inc/h5videochat.php:636
+#, fuzzy
+msgid "Conference Auto Display"
+msgstr "Konferans Otomatik Ekran"
+
+#: inc/h5videochat.php:636
+#, fuzzy
+msgid ""
+"Display users automatically in available conference slots when they start "
+"their camera, in conference mode."
+msgstr ""
+"Kullanıcıları, kameralarını başlattıklarında kullanılabilir konferans "
+"yuvalarında konferans modunda otomatik olarak görüntüleyin."
+
+#: inc/h5videochat.php:644
+#, fuzzy
+msgid "Display Slots"
+msgstr "Ekran Yuvaları"
+
+#: inc/h5videochat.php:644
+#, fuzzy
+msgid "Split display to show multiple media items, in conference mode."
+msgstr ""
+"Konferans modunda birden çok ortam öğesini göstermek için ekranı bölün."
+
+#: inc/h5videochat.php:670
+#, fuzzy
+msgid "Collaboration Mode"
+msgstr "İşbirliği Modu"
+
+#: inc/h5videochat.php:670
+#, fuzzy
+msgid "Enable collaboration mode with multiple media, files, presentation."
+msgstr "Birden çok ortam, dosya, sunu ile işbirliği modunu etkinleştirin."
+
+#: inc/h5videochat.php:676
+#, fuzzy
+msgid "Party Mode"
+msgstr "Parti Modu"
+
+#: inc/h5videochat.php:676
+#, fuzzy
+msgid ""
+"In party mode, all users that join room are added to party squad. Entire "
+"party moves to different room with Next button."
+msgstr ""
+"Parti modunda, odaya katılan tüm kullanıcılar parti kadrosuna eklenir. Tüm "
+"parti Next düğmesi ile farklı bir odaya taşınır."
+
+#: inc/h5videochat.php:679
+#, fuzzy
+msgid "Party Reserved"
+msgstr "Parti Saklıdır"
+
+#: inc/h5videochat.php:679
+#, fuzzy
+msgid ""
+"Number of reserved party video slots, needs to be available in other room, "
+"to travel."
+msgstr ""
+"Ayrılmış parti video yuvaları sayısı, seyahat etmek için, diğer odada mevcut "
+"olması gerekir."
+
+#: inc/h5videochat.php:691
+#, fuzzy
+msgid "Room Preferences"
+msgstr "Oda Tercihleri"
+
+#: inc/h5videochat.php:696
+#, fuzzy
+msgid "Sound Effects"
+msgstr "Ses Efektleri"
+
+#: inc/h5videochat.php:696
+#, fuzzy
+msgid "Sound effects (on actions)."
+msgstr "Ses efektleri (eylemler üzerine)."
+
+#: inc/h5videochat.php:697
+#, fuzzy
+msgid "Dark interface mode."
+msgstr "Karanlık arayüz modu."
+
+#: inc/h5videochat.php:698
+#, fuzzy
+msgid ""
+"Audio only user mode: Publish only microphone, no webcam video. Applies both "
+"to group and private calls."
+msgstr ""
+"Yalnızca ses kullanıcı modu: Yalnızca mikrofon yayınlayın, web kamerası "
+"videosu yok. Grup ve özel aramalar için de geçerlidir."
+
+#: inc/h5videochat.php:699
+#, fuzzy
+msgid "Reveal Mode"
+msgstr "Reveal Modu"
+
+#: inc/h5videochat.php:699
+#, fuzzy
+msgid ""
+"Webcam reveal mode: hide webcam in private calls and use a Reveal button to "
+"enable on request."
+msgstr ""
+"Webcam ortaya modu: özel aramalarda web kamerası gizlemek ve istek üzerine "
+"etkinleştirmek için bir Reveal düğmesini kullanın."
+
+#: inc/h5videochat.php:706
+#, fuzzy
+msgid "Reveal Warmup"
+msgstr "Isınma Reveal"
+
+#: inc/h5videochat.php:706
+#, fuzzy
+msgid "Time in seconds required before revealing webcam is possible."
+msgstr ""
+"Web kamerası ortaya çıkmadan önce gerekli saniye içinde zaman mümkündür."
+
+#: inc/h5videochat.php:718
+#, fuzzy
+msgid "User Preferences"
+msgstr "Kullanıcı Tercihleri"
+
+#: inc/h5videochat.php:925
+#, fuzzy
+msgid "You are room performer."
+msgstr "Sen oda sanatçısısın."
+
+#: inc/h5videochat.php:928
+#, fuzzy
+msgid "This is a private room (not listed)."
+msgstr "Burası özel bir odadır (listede yoktur)."
+
+#: inc/h5videochat.php:931
+#, fuzzy
+msgid ""
+"This room can only be used for predefined locked calls. Participants need a "
+"private call link."
+msgstr ""
+"Bu oda sadece önceden tanımlanmış kilitli aramalar için kullanılabilir. "
+"Katılımcıların özel bir çağrı bağlantısına ihtiyacı var."
+
+#: inc/h5videochat.php:934
+#, fuzzy
+msgid ""
+"Group chat is disabled. Participants can only access this room for instant "
+"or locked calls."
+msgstr ""
+"Grup sohbeti devre dışı bırakılır. Katılımcılar bu odaya sadece anlık veya "
+"kilitli aramalar için erişebilirler."
+
+#: inc/h5videochat.php:948
+#, fuzzy
+msgid "This is a paid room:"
+msgstr "Burası ücretli bir oda:"
+
+#: inc/h5videochat.php:949 ppv-live-webcams.php:9777
+#, fuzzy
+msgid "Group Mode"
+msgstr "Grup Modu"
+
+#: inc/h5videochat.php:950 ppv-live-webcams.php:9778
+#, fuzzy
+msgid "Group session cost"
+msgstr "Grup oturumu maliyeti"
+
+#: inc/h5videochat.php:951 inc/h5videochat.php:979 inc/h5videochat.php:1008
+#: ppv-live-webcams.php:9688 ppv-live-webcams.php:9755
+#, fuzzy
+msgid "Charging starts after a grace time:"
+msgstr "Şarj işlemi yetkisiz kullanım süresinden sonra başlar:"
+
+#: inc/h5videochat.php:952
+#, fuzzy
+msgid ""
+"All participants pay during this session: Private calls are not available."
+msgstr ""
+"Tüm katılımcılar bu oturum sırasında ödeme yapmaz: Özel aramalar "
+"kullanılamaz."
+
+#: inc/h5videochat.php:963
+#, fuzzy
+msgid ""
+"You are in Voyeur mode: hidden from user list. Participants will not be "
+"aware of your presence unless you write in text chat."
+msgstr ""
+"Voyeur modundasınız: kullanıcı listesinden gizlidir. Metin sohbetinde "
+"yazmadığınız sürece katılımcılar varlığınızdan haberdar olmayacaktır."
+
+#: inc/h5videochat.php:964
+#, fuzzy
+msgid "Voyeur cost"
+msgstr "Röntgenci maliyeti"
+
+#: inc/h5videochat.php:977
+#, fuzzy
+msgid ""
+"Registered users can request private calls during free presale chat and you "
+"can accept:"
+msgstr ""
+"Kayıtlı kullanıcılar ücretsiz satış öncesi sohbet sırasında özel aramalar "
+"talep edebilir ve kabul edebilirsiniz:"
+
+#: inc/h5videochat.php:978
+#, fuzzy
+msgid "Private show cost per minute, for client:"
+msgstr "İstemci için dakika başına özel gösteri maliyeti:"
+
+#: inc/h5videochat.php:980
+#, fuzzy
+msgid "Private call earning per minute, for performer:"
+msgstr "Oyuncu için dakika başına özel arama kazancı:"
+
+#: inc/h5videochat.php:1000 ppv-live-webcams.php:9684
+#, fuzzy
+msgid "You do not have enough credits to request a private show."
+msgstr "Özel gösteri istemek için yeterli krediniz yok."
+
+#: inc/h5videochat.php:1005
+#, fuzzy
+msgid "You can request private session from room performer when available:"
+msgstr "Mevcut olduğunda oda sanatçısından özel oturum talep edebilirsiniz:"
+
+#: inc/h5videochat.php:1007 ppv-live-webcams.php:9652
+#, fuzzy
+msgid "Private show cost per minute:"
+msgstr "Dakika başına özel gösteri maliyeti:"
+
+#: inc/h5videochat.php:1019
+#, fuzzy
+msgid ""
+"This room is in party mode and all users join the party squad. Entire party "
+"can be moved to other rooms by host."
+msgstr ""
+"Bu oda parti modunda ve tüm kullanıcılar parti ekibine katılır. Tüm parti ev "
+"sahibi tarafından diğer odalara taşınabilir."
+
+#: inc/h5videochat.php:1027
+#, fuzzy
+msgid "You are in a party"
+msgstr "Bir partidesin."
+
+#: inc/h5videochat.php:1030
+#, fuzzy
+msgid ""
+"You are a party host. You can move party with Next and manage party users."
+msgstr ""
+"Sen bir parti sunucususun. Next ile parti taşıyabilir ve parti "
+"kullanıcılarını yönetebilirsiniz."
+
+#: inc/h5videochat.php:1076
+#, fuzzy
+msgid "Room is in collaboration mode, with a Files panel."
+msgstr "Oda, Dosyalar paneli ile işbirliği modundadır."
+
+#: inc/h5videochat.php:1157
+msgid "Stream URL"
+msgstr "Akış URL'si"
+
+#: inc/h5videochat.php:1157
+#, fuzzy
+msgid ""
+"RTMP Address / OBS Stream URL: full streaming address. Contains: server, "
+"port if different than default 1935, application and control parameters, "
+"key. For OBS Settings: Stream > Server."
+msgstr ""
+"RTMP Adresi / OBS Stream URL: tam akış adresi. Içerir: sunucu, bağlantı "
+"noktası varsayılan 1935 farklı ise, uygulama ve kontrol parametreleri, "
+"anahtar. OBS Ayarları için: Akış > Sunucu."
+
+#: inc/h5videochat.php:1158
+#, fuzzy
+msgid "Stream Key"
+msgstr "Akış Tuşu"
+
+#: inc/h5videochat.php:1158
+#, fuzzy
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key."
+msgstr ""
+"Akış Adı / OBS Stream Tuşu: akış adı. OBS Ayarları için: Akış > Akış Tuşu."
+
+#: inc/h5videochat.php:1172
+#, fuzzy
+msgid "Maximum Video Bitrate"
+msgstr "Maksimum Video Bithızı"
+
+#: inc/h5videochat.php:1172
+#, fuzzy
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution. A static "
+"background and less motion requires less bitrate than movies, sports, games. "
+"For OBS Settings: Output > Streaming > Video Bitrate. Warning: Trying to "
+"broadcast higher bitrate than allowed by streaming server will result in "
+"disconnects/failures."
+msgstr ""
+"Çözünürlüğe bağlı olarak, video bithızı için bu değeri veya daha düşük "
+"değeri kullanın. Statik bir arka plan ve daha az hareket filmler, spor, "
+"oyunlar daha az bitrate gerektirir. OBS Ayarları için: Çıktı > Akış > Video "
+"Bitrate. Uyarı: Akış sunucusu tarafından izin verilenden daha yüksek bit "
+"hızı yayınlamaya çalışmak, bağlantı kopmasına/arızalanmasına neden olur."
+
+#: inc/h5videochat.php:1174
+#, fuzzy
+msgid "Maximum Audio Bitrate"
+msgstr "Maksimum Ses Bithızı"
+
+#: inc/h5videochat.php:1174
+#, fuzzy
+msgid ""
+"Use this value or lower for audio bitrate. If you want to use higher Audio "
+"Bitrate, lower Video Bitrate to compensate for higher audio. For OBS "
+"Settings: Output > Streaming > Audio Bitrate. Warning: Trying to broadcast "
+"higher bitrate than allowed by streaming server will result in disconnects/"
+"failures."
+msgstr ""
+"Ses bithızı için bu değeri veya daha düşük değeri kullanın. Daha yüksek Ses "
+"Bitrate kullanmak istiyorsanız, daha yüksek ses telafi etmek için Video "
+"Bitrate'yi düşürün. OBS Ayarları için: Çıktı > Akış > Ses Bithızı. Uyarı: "
+"Akış sunucusu tarafından izin verilenden daha yüksek bit hızı yayınlamaya "
+"çalışmak, bağlantı kopmasına/arızalanmasına neden olur."
+
+#: inc/h5videochat.php:1182
+#, fuzzy
+msgid "RTMP Encoder / OBS Settings"
+msgstr "RTMP Encoder / OBS Ayarları"
+
+#: inc/h5videochat.php:1182
+#, fuzzy
+msgid ""
+"Use these settings to broadcast with a RTMP encoder app like OBS, iOS/"
+"Android GoCoder, xSplit, Zoom Meetings Webinars."
+msgstr ""
+"OBS, iOS/Android GoCoder, xSplit, Zoom Meetings Webseminerleri gibi bir RTMP "
+"kodlayıcı uygulamasıyla yayın yapmak için bu ayarları kullanın."
+
+#: inc/h5videochat.php:1749
+#, fuzzy
+msgid "Only room owner can edit room options."
+msgstr "Oda seçeneklerini yalnızca oda sahibi alabilir."
+
+#: inc/h5videochat.php:1796 inc/h5videochat.php:1851
+#, fuzzy
+msgid "Only performer can moderate."
+msgstr "Sadece sanatçı ılımlı olabilir."
+
+#: inc/h5videochat.php:1904 inc/h5videochat.php:1954 inc/h5videochat.php:1979
+#, fuzzy
+msgid "Only performer can moderate presentation."
+msgstr "Yalnızca sanatçı sunuyu yönetebilir."
+
+#: inc/h5videochat.php:1937
+#, fuzzy
+msgid "User not found to display:"
+msgstr "Görüntülenecek kullanıcı bulunamadı:"
+
+#: inc/h5videochat.php:1939
+#, fuzzy
+msgid "User is visitor. User needs to login to broadcast camera."
+msgstr ""
+"Kullanıcı ziyaretçidir. Kullanıcının kamera yayını için giriş yapması "
+"gerekir."
+
+#: inc/h5videochat.php:2015
+#, fuzzy
+msgid "File not found to display:"
+msgstr "Görüntülenecek dosya bulunamadı:"
+
+#: inc/h5videochat.php:2030
+#, fuzzy
+msgid "Only performer can delete files."
+msgstr "Dosyaları yalnızca sanatçı silebilir."
+
+#: inc/h5videochat.php:2046
+#, fuzzy
+msgid "File not found:"
+msgstr "Dosya bulunamadı:"
+
+#: inc/h5videochat.php:2183
+#, fuzzy
+msgid "Returned to party start room."
+msgstr "Parti başlangıç odasına geri döndü."
+
+#: inc/h5videochat.php:2247
+#, fuzzy
+msgid "Your party moves with you."
+msgstr "Partin seninle hareket ediyor."
+
+#: inc/h5videochat.php:2261
+#, fuzzy
+msgid "You can move a different room using Next button again."
+msgstr "Tekrar İleri düğmesini kullanarak farklı bir odayı taşıyabilirsiniz."
+
+#: inc/h5videochat.php:2267
+#, fuzzy
+msgid "No next room found with current criteria!"
+msgstr "Mevcut kriterlere sahip bir sonraki oda bulunamadı!"
+
+#: inc/h5videochat.php:2447
+#, fuzzy
+msgid "Tip in"
+msgstr "İpucu içinde"
+
+#: inc/h5videochat.php:2463
+#, fuzzy
+msgid "checked in"
+msgstr "iade edildi"
+
+#: inc/h5videochat.php:2471 inc/h5videochat.php:2479 ppv-live-webcams.php:10349
+#, fuzzy
+msgid "Tip from"
+msgstr "İpucu gelen"
+
+#: inc/h5videochat.php:2511
+#, fuzzy
+msgid "You closed private call."
+msgstr "Özel aramayı kapattın."
+
+#: inc/h5videochat.php:2835 inc/h5videochat.php:2836
+#, fuzzy
+msgid "Private call was closed."
+msgstr "Özel arama kapalıydı."
+
+#: inc/h5videochat.php:2856
+#, fuzzy
+msgid "Following party to different room."
+msgstr "Farklı bir odaya parti sonrasında."
+
+#: inc/h5videochat.php:2879
+#, fuzzy
+msgid "Moved to different room with party."
+msgstr "Parti ile farklı bir odaya taşındı."
+
+#: inc/options.php:1330
+#, fuzzy
+msgid "Customize Features/Labels by Site Type"
+msgstr "Site Türüne Göre Özellikleri/Etiketleri Özelleştir"
+
+#: inc/options.php:1394 ppv-live-webcams.php:6692
+#, fuzzy
+msgid "Paid Questions and Messages"
+msgstr "Ücretli Sorular ve Mesajlar"
+
+#: inc/options.php:1415
+#, fuzzy
+msgid "Random Video Chat"
+msgstr "Rastgele Görüntülü Sohbet"
+
+#: inc/options.php:1458
+msgid "Setup Pages"
+msgstr "Sayfaları Kur"
+
+#: inc/options.php:1467
+#, fuzzy
+msgid "Update Pages"
+msgstr "Sayfaları Güncelleştir"
+
+#: inc/options.php:1536
+#, fuzzy
+msgid "Setup Overview"
+msgstr "Kuruluma Genel Bakış"
+
+#: inc/options.php:1546
+#, fuzzy
+msgid "Setup Checkpoints"
+msgstr "Kurulum Denetim Noktaları"
+
+#: inc/options.php:1715 inc/options.php:1945
+#, fuzzy
+msgid "Client IP"
+msgstr "İstemci IP"
+
+#: inc/options.php:1718 inc/options.php:1948
+#, fuzzy
+msgid ""
+"ERROR: Can not detect location. GeoIP extension is required on host for this "
+"functionality."
+msgstr ""
+"HATA: Konumu algılayamadı. Bu işlevsellik için ana bilgisayarda GeoIP "
+"uzantısı gereklidir."
+
+#: inc/options.php:1722 inc/options.php:1952
+#, fuzzy
+msgid "Continent"
+msgstr "Kıta"
+
+#: inc/options.php:1723 inc/options.php:1953
+msgid "Country"
+msgstr "Ülke"
+
+#: inc/options.php:1724 inc/options.php:1954
+msgid "Region"
+msgstr "Bölge"
+
+#: inc/options.php:1725 inc/options.php:1955
+msgid "City"
+msgstr "Şehir"
+
+#: inc/options.php:1986
+msgid "Import Options"
+msgstr "İçe Aktarma Seçenekleri"
+
+#: inc/options.php:2024
+msgid "Reset Options"
+msgstr "Seçenekleri Sıfırla"
+
+#: inc/options.php:4169 ppv-live-webcams.php:558 ppv-live-webcams.php:5305
+#, fuzzy
+msgid "Webcams"
+msgstr "Webcam"
+
+#: inc/options.php:4170 ppv-live-webcams.php:11818
+#, fuzzy
+msgid "Performer Dashboard"
+msgstr "Performans Panosu"
+
+#: inc/options.php:4171 ppv-live-webcams.php:11836
+#, fuzzy
+msgid "Studio Dashboard"
+msgstr "Stüdyo Panosu"
+
+#: inc/options.php:4172
+#, fuzzy
+msgid "Chat Logout"
+msgstr "Sohbet Girişi"
+
+#: inc/options.php:4173
+#, fuzzy
+msgid "Random Cam"
+msgstr "Rastgele Kamera"
+
+#: inc/options.php:4174 ppv-live-webcams.php:11827
+msgid "Client Dashboard"
+msgstr "Müvekkil Paneli"
+
+#: inc/shortcodes.php:50
+#, fuzzy
+msgid "Login to send questions or messages!"
+msgstr "Soru veya mesaj göndermek için giriş yapın!"
+
+#: inc/shortcodes.php:78
+#, fuzzy
+msgid "You need cost of message in balance to send it."
+msgstr "Göndermek için bakiyedeki ileti maliyetine ihtiyacınız var."
+
+#: inc/shortcodes.php:78 ppv-live-webcams.php:744
+msgid "Wallet"
+msgstr "Cüzdan"
+
+#: inc/shortcodes.php:100
+#, fuzzy
+msgid "Paid Message to"
+msgstr "Ücretli Mesaj"
+
+#: inc/shortcodes.php:105
+#, fuzzy
+msgid "Your message was sent."
+msgstr "Mesajınız gönderildi."
+
+#: inc/shortcodes.php:106 inc/shortcodes.php:375 inc/shortcodes.php:492
+msgid "View Message"
+msgstr "Mesajı Göster"
+
+#: inc/shortcodes.php:118
+#, fuzzy
+msgid "Your Question or Message"
+msgstr "Sorunuz veya Mesajınız"
+
+#: inc/shortcodes.php:119
+#, fuzzy
+msgid "Send Message to"
+msgstr "Mesaj Gönder"
+
+#: inc/shortcodes.php:121
+#, fuzzy
+msgid "Cost per question or message"
+msgstr "Soru veya ileti başına maliyet"
+
+#: inc/shortcodes.php:122 ppv-live-webcams.php:5503
+#, fuzzy
+msgid "Your current balance"
+msgstr "Geçerli bakiyeniz"
+
+#: inc/shortcodes.php:179 inc/shortcodes.php:385 inc/shortcodes.php:500
+msgid "No Messages"
+msgstr "Mesaj yok"
+
+#: inc/shortcodes.php:191 inc/shortcodes.php:428
+#, fuzzy
+msgid "Login to manage messages and replies!"
+msgstr "İletileri ve yanıtları yönetmek için giriş yapın!"
+
+#: inc/shortcodes.php:308
+#, fuzzy
+msgid "Paid Message Earning from "
+msgstr "Ücretli Mesaj Kazanç"
+
+#: inc/shortcodes.php:309
+#, fuzzy
+msgid "Your reply was sent and you got paid."
+msgstr "Cevabınız gönderildi ve paranızı aldınız."
+
+#: inc/shortcodes.php:311
+#, fuzzy
+msgid "Your reply was sent."
+msgstr "Yanıtınız gönderildi."
+
+#: inc/shortcodes.php:339
+msgid "Send Reply"
+msgstr "Cevap Gönder"
+
+#: inc/shortcodes.php:373 inc/shortcodes.php:489
+msgid "Replied"
+msgstr "Cevaplandı"
+
+#: inc/shortcodes.php:380
+#, fuzzy
+msgid ""
+"You receive payment for paid messages on reply. Clients can access their "
+"messages and replies from client dashboard and in messages section from "
+"webcam profile."
+msgstr ""
+"Yanıtta ödenen iletiler için ödeme alırsınız. İstemciler iletilerine ve "
+"yanıtlarına istemci panosundan ve web kamerası profilinden mesajlar "
+"bölümünden erişebilirler."
+
+#: inc/shortcodes.php:397
+#, fuzzy
+msgid "Login to access as client!"
+msgstr "Müşteri olarak erişmek için giriş yapın!"
+
+#: inc/shortcodes.php:404
+#, fuzzy
+msgid "Active balance"
+msgstr "Aktif bakiye"
+
+#: inc/shortcodes.php:405
+#, fuzzy
+msgid "All Balances"
+msgstr "Tüm Teraziler"
+
+#: inc/shortcodes.php:406
+#, fuzzy
+msgid "Manage Wallet"
+msgstr "Cüzdanı Yönet"
+
+#: inc/shortcodes.php:411
+#, fuzzy
+msgid "My Questions and Messages"
+msgstr "Sorularım ve Mesajlarım"
+
+#: inc/shortcodes.php:415
+#, fuzzy
+msgid "My Calls"
+msgstr "Aramalarım"
+
+#: inc/shortcodes.php:513
+#, fuzzy
+msgid "Login to manage calls!"
+msgstr "Aramaları yönetmek için giriş yapın!"
+
+#: inc/shortcodes.php:601
+#, fuzzy
+msgid "New call was setup"
+msgstr "Yeni arama kurulumu oldu"
+
+#: inc/shortcodes.php:607
+#, fuzzy
+msgid ""
+"Error: Client was not found by email or username! User needs to register to "
+"be able to login and access the private call."
+msgstr ""
+"Hata: İstemci e-posta veya kullanıcı adı ile bulunamadı! Kullanıcının özel "
+"çağrıya giriş yapabilmesi ve erişebilmesi için kaydolması gerekir."
+
+#: inc/shortcodes.php:621
+msgid "Paid"
+msgstr "Ödendi"
+
+#: inc/shortcodes.php:622
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: inc/shortcodes.php:629
+msgid "Client"
+msgstr "Müşteri"
+
+#: inc/shortcodes.php:629
+msgid "Username or Email"
+msgstr "Kullanıcı adı ya da email"
+
+#: inc/shortcodes.php:630
+#, fuzzy
+msgid "Call Mode"
+msgstr "Arama Modu"
+
+#: inc/shortcodes.php:631
+#, fuzzy
+msgid "Setup Call"
+msgstr "Kurulum Çağrısı"
+
+#: inc/shortcodes.php:634
+#, fuzzy
+msgid ""
+"Setup locked private calls that can only be accessed by client using "
+"dedicated call link. Clients can access their persistent calls list in "
+"client dashboard.  "
+msgstr ""
+"Yalnızca özel arama bağlantısını kullanarak istemci tarafından erişilebilen "
+"kilitlenmiş özel aramalar. İstemciler, kalıcı arama listesine istemci "
+"panosunda erişebilir."
+
+#: inc/shortcodes.php:672
+msgid "Access"
+msgstr "Erişim"
+
+#: inc/shortcodes.php:673
+msgid "Closed"
+msgstr "Kapalı"
+
+#: inc/shortcodes.php:681
+#, fuzzy
+msgid "No Calls"
+msgstr "Arama Yok"
+
+#: inc/shortcodes.php:1303
+#, fuzzy
+msgid "Loading Live Webcams"
+msgstr "Canlı Web Kameraları Yükleme"
+
+#: inc/shortcodes.php:1482
+#, fuzzy
+msgid "Broadcasting not allowed: Only logged in users can broadcast!"
+msgstr ""
+"Yayına izin verilmiyor: Yalnızca oturum açmış kullanıcılar yayın yapabilir!"
+
+#: inc/shortcodes.php:1878 ppv-live-webcams.php:2930 ppv-live-webcams.php:9609
+#, fuzzy
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today!"
+msgstr ""
+"Ücretsiz sohbet günlük saat sınırına ulaşıldı: Sadece ücretli grup odalarına "
+"bugün erişebilirsiniz!"
+
+#: inc/shortcodes.php:1879 ppv-live-webcams.php:2931 ppv-live-webcams.php:9610
+#, fuzzy
+msgid ""
+"Free chat daily visitor time limit reached: Register and login for more chat "
+"time today!"
+msgstr ""
+"Ücretsiz sohbet günlük ziyaretçi zaman sınırına ulaşıldı: Bugün daha fazla "
+"sohbet süresi için kayıt ve giriş yapın!"
+
+#: inc/shortcodes.php:2134
+#, fuzzy
+msgid "Try HTML5 Videochat"
+msgstr "HTML5 Videochat deneyin"
+
+#: ppv-live-webcams.php:556
+#, fuzzy
+msgctxt "Post Type General Name"
+msgid "Webcams"
+msgstr "Webcam"
+
+#: ppv-live-webcams.php:557
+#, fuzzy
+msgctxt "Post Type Singular Name"
+msgid "Webcam"
+msgstr "Web kamerası"
+
+#: ppv-live-webcams.php:559
+#, fuzzy
+msgid "Parent Webcam:"
+msgstr "Üst Web Kamerası:"
+
+#: ppv-live-webcams.php:560
+#, fuzzy
+msgid "All Webcams"
+msgstr "Tüm Web Kameraları"
+
+#: ppv-live-webcams.php:561
+#, fuzzy
+msgid "View Webcam"
+msgstr "Web Kameralarını Görüntüle"
+
+#: ppv-live-webcams.php:562
+#, fuzzy
+msgid "Add New Webcam"
+msgstr "Yeni Web Kamerası Ekle"
+
+#: ppv-live-webcams.php:563
+#, fuzzy
+msgid "New Webcam"
+msgstr "Yeni Webcam"
+
+#: ppv-live-webcams.php:564
+#, fuzzy
+msgid "Edit Webcam"
+msgstr "Web Kameralarını Edin"
+
+#: ppv-live-webcams.php:565
+#, fuzzy
+msgid "Update Webcam"
+msgstr "Web Kameralarını Güncelle"
+
+#: ppv-live-webcams.php:566
+#, fuzzy
+msgid "Search Webcams"
+msgstr "Web Kameralarını Ara"
+
+#: ppv-live-webcams.php:567
+#, fuzzy
+msgid "No webcams found"
+msgstr "Web kamerası bulunamadı"
+
+#: ppv-live-webcams.php:568
+#, fuzzy
+msgid "No webcams found in Trash"
+msgstr "Çöp Kutusu'nda web kamerası bulunamadı"
+
+#: ppv-live-webcams.php:572
+msgid "webcam"
+msgstr "web kamerası"
+
+#: ppv-live-webcams.php:573
+#, fuzzy
+msgid "Live Webcams"
+msgstr "Canlı Web Kameraları"
+
+#: ppv-live-webcams.php:645
+#, fuzzy
+msgid "Access Forbidden!"
+msgstr "Erişim Yasak!"
+
+#: ppv-live-webcams.php:744
+#, fuzzy
+msgid "This is a paid room. A minimum balance required to access."
+msgstr "Burası ücretli bir oda. Erişmek için gereken minimum bakiye."
+
+#: ppv-live-webcams.php:749
+#, fuzzy
+msgid "This is a paid room. Login is required to access a paid room."
+msgstr ""
+"Burası ücretli bir oda. Ücretli bir odaya giriş yapmak için giriş yapılması "
+"gerekmektedir."
+
+#: ppv-live-webcams.php:813
+#, fuzzy
+msgid "Room Page"
+msgstr "Oda Sayfası"
+
+#: ppv-live-webcams.php:814
+#, fuzzy
+msgid "Room Profile Content"
+msgstr "Oda Profili İçeriği"
+
+#: ppv-live-webcams.php:815
+#, fuzzy
+msgid "Room Profile Info"
+msgstr "Oda Profil Bilgileri"
+
+#: ppv-live-webcams.php:817 ppv-live-webcams.php:846 ppv-live-webcams.php:6688
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: ppv-live-webcams.php:843 ppv-live-webcams.php:912 ppv-live-webcams.php:7127
+#: ppv-live-webcams.php:7814
+msgid "Videos"
+msgstr "Videolar"
+
+#: ppv-live-webcams.php:844 ppv-live-webcams.php:927 ppv-live-webcams.php:7590
+#: ppv-live-webcams.php:7820
+msgid "Pictures"
+msgstr "Resim"
+
+#: ppv-live-webcams.php:845 ppv-live-webcams.php:944
+msgid "Reviews"
+msgstr "Yorumlar"
+
+#: ppv-live-webcams.php:857 ppv-live-webcams.php:7160
+msgid "Teaser"
+msgstr "Tanıtım"
+
+#: ppv-live-webcams.php:866
+msgid "Meta"
+msgstr "Meta"
+
+#: ppv-live-webcams.php:876
+#, fuzzy
+msgid "Maximum viewers"
+msgstr "Maksimum izleyici"
+
+#: ppv-live-webcams.php:887
+#, fuzzy
+msgid "Paid sessions"
+msgstr "Ücretli oturumlar"
+
+#: ppv-live-webcams.php:887
+msgid "private"
+msgstr "Özel"
+
+#: ppv-live-webcams.php:887
+msgid "group"
+msgstr "grup"
+
+#: ppv-live-webcams.php:887 ppv-live-webcams.php:7707 ppv-live-webcams.php:7733
+#, fuzzy
+msgid "Logged days"
+msgstr "Günlüğe kaydedilmiş günler"
+
+#: ppv-live-webcams.php:895
+msgid "Profile Info"
+msgstr "Profil bilgisi"
+
+#: ppv-live-webcams.php:897 ppv-live-webcams.php:6793 ppv-live-webcams.php:7844
+msgid "Description"
+msgstr "Açıklama"
+
+#: ppv-live-webcams.php:940
+#, fuzzy
+msgid "My Review"
+msgstr "Benim İnceleme"
+
+#: ppv-live-webcams.php:971
+#, fuzzy
+msgid "Send Question or Message"
+msgstr "Soru veya Mesaj Gönder"
+
+#: ppv-live-webcams.php:973
+#, fuzzy
+msgid "My Previous Questions and Messages"
+msgstr "Önceki Sorularım ve Mesajlarım"
+
+#: ppv-live-webcams.php:1187 ppv-live-webcams.php:6866
+#: ppv-live-webcams.php:7803 ppv-live-webcams.php:7814
+#: ppv-live-webcams.php:7820 ppv-live-webcams.php:7826
+#: ppv-live-webcams.php:7840 ppv-live-webcams.php:12030
+msgid "Yes"
+msgstr "Evet"
+
+#: ppv-live-webcams.php:1187 ppv-live-webcams.php:6866
+#: ppv-live-webcams.php:7803 ppv-live-webcams.php:7814
+#: ppv-live-webcams.php:7820 ppv-live-webcams.php:7826
+#: ppv-live-webcams.php:7840 ppv-live-webcams.php:12030
+msgid "No"
+msgstr "Hayır"
+
+#: ppv-live-webcams.php:2555 ppv-live-webcams.php:10486
+#, fuzzy
+msgid ""
+"Not enough funds left for client to continue session. Minimum required: "
+msgstr ""
+"Müşteri oturumuna devam etmek için yeterli kaynak kalmadı. Minimum gerekli:"
+
+#: ppv-live-webcams.php:2563 ppv-live-webcams.php:10492
+#, fuzzy
+msgid "Session was already ended."
+msgstr "Oturum zaten sona ermiş."
+
+#: ppv-live-webcams.php:2897 ppv-live-webcams.php:9533
+#: ppv-live-webcams.php:10265
+#, fuzzy
+msgid "You are banned from accessing this room! By"
+msgstr "Bu odaya girmen yasaklandı! Tarafından"
+
+#: ppv-live-webcams.php:2912
+#, fuzzy
+msgid ""
+"Not enough funds left for client to continue group chat session. Minimum "
+"required: "
+msgstr ""
+"İstemci grup sohbet oturumuna devam etmek için yeterli para kalmadı. Minimum "
+"gerekli:"
+
+#: ppv-live-webcams.php:2914
+#, fuzzy
+msgid "Only registered and logged in users can access paid sessions."
+msgstr ""
+"Yalnızca kayıtlı ve oturum açmış kullanıcılar ücretli oturumlara erişebilir."
+
+#: ppv-live-webcams.php:3970 ppv-live-webcams.php:11730
+msgid "LIVE"
+msgstr "CANLI"
+
+#: ppv-live-webcams.php:4149
+msgid "All"
+msgstr "Tümü"
+
+#: ppv-live-webcams.php:4151
+#, fuzzy
+msgid "All, Paid"
+msgstr "Tüm, Ücretli"
+
+#: ppv-live-webcams.php:4153
+#, fuzzy
+msgid "All, Free"
+msgstr "Tümü, Ücretsiz"
+
+#: ppv-live-webcams.php:4156
+msgid "Online"
+msgstr "Çevrimiçi"
+
+#: ppv-live-webcams.php:4158
+#, fuzzy
+msgid "Online, Available"
+msgstr "Çevrimiçi, Kullanılabilir"
+
+#: ppv-live-webcams.php:4160
+#, fuzzy
+msgid "Available, Paid"
+msgstr "Kullanılabilir, Ücretli"
+
+#: ppv-live-webcams.php:4162
+#, fuzzy
+msgid "Available, Free"
+msgstr "Mevcut, Ücretsiz"
+
+#: ppv-live-webcams.php:4165
+#, fuzzy
+msgid "Online, In Private"
+msgstr "Çevrimiçi, Özel"
+
+#: ppv-live-webcams.php:4167
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+#: ppv-live-webcams.php:4175
+msgid "All Categories"
+msgstr "Tüm Kategoriler"
+
+#: ppv-live-webcams.php:4183
+msgid "Order By"
+msgstr "Tarafından sipariş"
+
+#: ppv-live-webcams.php:4185
+msgid "Default Order"
+msgstr "Varsayılan Sıralama"
+
+#: ppv-live-webcams.php:4187
+#, fuzzy
+msgid "Current Viewers"
+msgstr "Güncel Görüntüleyenler"
+
+#: ppv-live-webcams.php:4189
+#, fuzzy
+msgid "Broadcast Recently"
+msgstr "Son Yayın"
+
+#: ppv-live-webcams.php:4190
+#, fuzzy
+msgid "Created Recently"
+msgstr "Son Oluşturulan"
+
+#: ppv-live-webcams.php:4192
+#, fuzzy
+msgid "Maximum Viewers"
+msgstr "Maksimum İzleyiciler"
+
+#: ppv-live-webcams.php:4194
+msgid "Random"
+msgstr "Rastgele"
+
+#: ppv-live-webcams.php:4199 ppv-live-webcams.php:4205
+msgid "Rating"
+msgstr "Değerlendirme"
+
+#: ppv-live-webcams.php:4200 ppv-live-webcams.php:4206
+#, fuzzy
+msgid "Ratings Number"
+msgstr "Derecelendirme Numarası"
+
+#: ppv-live-webcams.php:4201 ppv-live-webcams.php:4207
+#, fuzzy
+msgid "Rate Popularity"
+msgstr "Oran Popülaritesi"
+
+#: ppv-live-webcams.php:4205 ppv-live-webcams.php:4206
+#: ppv-live-webcams.php:4207
+#, fuzzy
+msgid "in Category"
+msgstr "kategoride"
+
+#: ppv-live-webcams.php:4224 ppv-live-webcams.php:6856
+msgid "Tags"
+msgstr "Etiketler"
+
+#: ppv-live-webcams.php:4238
+msgid "Search"
+msgstr "Arama"
+
+#: ppv-live-webcams.php:4457
+#, fuzzy
+msgid "Ban This Webcam"
+msgstr "Ban Bu Webcam"
+
+#: ppv-live-webcams.php:4551 ppv-live-webcams.php:7803
+msgid "Featured"
+msgstr "Öne Çıkan"
+
+#: ppv-live-webcams.php:4564
+msgid "Enter"
+msgstr "Gir"
+
+#: ppv-live-webcams.php:4570 ppv-live-webcams.php:4590
+msgid "Call"
+msgstr "Arama"
+
+#: ppv-live-webcams.php:4581
+#, fuzzy
+msgid "Login for More"
+msgstr "Daha Fazlası İçin Giriş Yapın"
+
+#: ppv-live-webcams.php:4595
+msgid "Question"
+msgstr "Soru"
+
+#: ppv-live-webcams.php:4607 ppv-live-webcams.php:6814
+#, fuzzy
+msgid "2 Way"
+msgstr "2 Yol"
+
+#: ppv-live-webcams.php:4615
+#, fuzzy
+msgid "Voyeur"
+msgstr "Voyeur"
+
+#: ppv-live-webcams.php:4656
+msgid "Previous"
+msgstr "Önceki"
+
+#: ppv-live-webcams.php:4658
+msgid "Page"
+msgstr "Sayfa"
+
+#: ppv-live-webcams.php:4961
+#, fuzzy
+msgid "You Were Disconnected from Chat Room"
+msgstr "Sohbet Odanızdan Bağlantınız Kesildi"
+
+#: ppv-live-webcams.php:4965
+#, fuzzy
+msgid "You have been disconnected from server."
+msgstr "Sunucuyla bağlantınız kesildi."
+
+#: ppv-live-webcams.php:4966
+#, fuzzy
+msgid "Free daily time limit reached: Check paid rooms!"
+msgstr "Ücretsiz günlük zaman sınırına ulaşıldı: Ücretli odaları kontrol edin!"
+
+#: ppv-live-webcams.php:4967
+#, fuzzy
+msgid "Free daily visitor time limit reached: Register for more!"
+msgstr ""
+"Ücretsiz günlük ziyaretçi zaman sınırına ulaşıldı: Daha fazlası için "
+"kaydolun!"
+
+#: ppv-live-webcams.php:5049
+#, fuzzy
+msgid "Login to manage studio!"
+msgstr "Stüdyo yönetmek için giriş yapın!"
+
+#: ppv-live-webcams.php:5061 ppv-live-webcams.php:5486
+#: ppv-live-webcams.php:5709
+#, fuzzy
+msgid "Login is required to access this section!"
+msgstr "Giriş bu bölüme erişmek için gereklidir!"
+
+#: ppv-live-webcams.php:5072
+#, fuzzy
+msgid "User role does not allow managing studio!"
+msgstr "Kullanıcı rolü stüdyo yönetimi izin vermez!"
+
+#: ppv-live-webcams.php:5095 ppv-live-webcams.php:5099
+#: ppv-live-webcams.php:5811
+#, fuzzy
+msgid "Performers"
+msgstr "Performans"
+
+#: ppv-live-webcams.php:5099
+#, fuzzy
+msgid "Manage studio performer accounts."
+msgstr "Stüdyo sanatçısı hesaplarını yönetin."
+
+#: ppv-live-webcams.php:5116
+#, fuzzy
+msgid "Performer Transactions"
+msgstr "Sanatçı İşlemleri"
+
+#: ppv-live-webcams.php:5127
+#, fuzzy
+msgid "You are not allowed to view transactions for this user!"
+msgstr "Bu kullanıcı için hareketleri görüntülemek için izin verilmez!"
+
+#: ppv-live-webcams.php:5136
+#, fuzzy
+msgid "Create Performer Account"
+msgstr "Performer Hesabı Oluştur"
+
+#: ppv-live-webcams.php:5140
+#, fuzzy
+msgid ""
+"After setting up performer account you will also receive password to "
+"communicate to performer for quick access. Account password should be "
+"changed by performer. Warning: Make sure you fill details correctly. Only "
+"administrator can delete incorrect accounts."
+msgstr ""
+"Performer hesabı nı ayarladıktan sonra, hızlı erişim için sanatçıya iletişim "
+"kurmak için parola da alacaksınız. Hesap parolası sanatçı tarafından "
+"değiştirilmelidir. Uyarı: Ayrıntıları doğru doldurduğunuzdan emin olun. "
+"Yalnızca yönetici yanlış hesapları silebilir."
+
+#: ppv-live-webcams.php:5141 ppv-live-webcams.php:5342
+#: ppv-live-webcams.php:5564 ppv-live-webcams.php:5812
+#: ppv-live-webcams.php:7104
+msgid "Save"
+msgstr "Kaydet"
+
+#: ppv-live-webcams.php:5157
+#, fuzzy
+msgid "Adding Performer Account"
+msgstr "Performer Hesabı Ekleme"
+
+#: ppv-live-webcams.php:5164
+#, fuzzy
+msgid "Username already in use!"
+msgstr "Kullanıcı adı zaten kullanımda!"
+
+#: ppv-live-webcams.php:5165
+#, fuzzy
+msgid "Email already in use!"
+msgstr "E-posta zaten kullanımda!"
+
+#: ppv-live-webcams.php:5176
+#, fuzzy
+msgid "Performers limit reached!"
+msgstr "Performans limiti ulaştı!"
+
+#: ppv-live-webcams.php:5178
+#, fuzzy
+msgid "Could not create performer account: "
+msgstr "Performans hesabı oluşturamadı:"
+
+#: ppv-live-webcams.php:5185
+#, fuzzy
+msgid "Performer account was created"
+msgstr "Sanatçı hesabı oluşturuldu"
+
+#: ppv-live-webcams.php:5185
+msgid "Password"
+msgstr "Şifre"
+
+#: ppv-live-webcams.php:5185 ppv-live-webcams.php:5249
+msgid "Email"
+msgstr "E-posta"
+
+#: ppv-live-webcams.php:5221
+#, fuzzy
+msgid "That performer is not assigned to this studio!"
+msgstr "O sanatçı bu stüdyoya atanmadı!"
+
+#: ppv-live-webcams.php:5245
+#, fuzzy
+msgid "Performers List"
+msgstr "Sanatçı Listesi"
+
+#: ppv-live-webcams.php:5249
+msgid "Balance"
+msgstr "Bakiye"
+
+#: ppv-live-webcams.php:5249 ppv-live-webcams.php:12029
+msgid "Status"
+msgstr "Durum"
+
+#: ppv-live-webcams.php:5249
+#, fuzzy
+msgid "Current Cam"
+msgstr "Güncel Kamera"
+
+#: ppv-live-webcams.php:5261 ppv-live-webcams.php:6867
+msgid "Enabled"
+msgstr "Etkin"
+
+#: ppv-live-webcams.php:5262 ppv-live-webcams.php:6868
+msgid "Disabled"
+msgstr "Devre dışı"
+
+#: ppv-live-webcams.php:5267
+#, fuzzy
+msgid "Original Password"
+msgstr "Orijinal Şifre"
+
+#: ppv-live-webcams.php:5277
+#, fuzzy
+msgid "Studio has no performer accounts, yet."
+msgstr "Stüdyonun henüz bir sanatçı hesabı yok."
+
+#: ppv-live-webcams.php:5280
+#, fuzzy
+msgid "Add Performer"
+msgstr "Sanatçı Ekle"
+
+#: ppv-live-webcams.php:5280
+#, fuzzy
+msgid "Create a new performer account."
+msgstr "Yeni bir sanatçı hesabı oluşturun."
+
+#: ppv-live-webcams.php:5282
+#, fuzzy
+msgid "View Your Performers List"
+msgstr "Sanatçı Listenizi Görüntüle"
+
+#: ppv-live-webcams.php:5305
+#, fuzzy
+msgid "Manage webcam listings for studio performers."
+msgstr "Stüdyo sanatçıları için web kamerası listelerini yönetin."
+
+#: ppv-live-webcams.php:5314 ppv-live-webcams.php:5804
+#, fuzzy
+msgid "Create Webcam Listing"
+msgstr "Web Kamerası Kaydı Oluşturma"
+
+#: ppv-live-webcams.php:5341 ppv-live-webcams.php:5813
+#, fuzzy
+msgid ""
+"Warning: Make sure webcam listing name is correct. Only administrator can "
+"delete webcams."
+msgstr ""
+"Uyarı: Web kamerası listeleme adının doğru olduğundan emin olun. Web "
+"kameralarını yalnızca yönetici silebilir."
+
+#: ppv-live-webcams.php:5387 ppv-live-webcams.php:5875
+#, fuzzy
+msgid "Webcam listing with that name already exists."
+msgstr "Bu ada sahip Web Kamerası listesi zaten var."
+
+#: ppv-live-webcams.php:5391 ppv-live-webcams.php:5879
+#, fuzzy
+msgid "Webcam listing was successfully created!"
+msgstr "Webcam listesi başarıyla oluşturuldu!"
+
+#: ppv-live-webcams.php:5499
+msgid "Account Status"
+msgstr "Hesap Durumu"
+
+#: ppv-live-webcams.php:5499 ppv-live-webcams.php:12030
+msgid "Verified"
+msgstr "Doğrulanmış"
+
+#: ppv-live-webcams.php:5499
+msgid "Not Verified"
+msgstr "Doğrulanmamış"
+
+#: ppv-live-webcams.php:5499
+#, fuzzy
+msgid "Suspended by Admin"
+msgstr "Yönetici tarafından askıya alındı"
+
+#: ppv-live-webcams.php:5500
+#, fuzzy
+msgid "Update Account Records"
+msgstr "Hesap Kayıtlarını Güncelleştir"
+
+#: ppv-live-webcams.php:5513
+#, fuzzy
+msgid "Account Administrative Records"
+msgstr "Hesap İdari Kayıtları"
+
+#: ppv-live-webcams.php:5513
+#, fuzzy
+msgid ""
+"These details are required by administrators for account approval and "
+"administrative operations."
+msgstr ""
+"Bu ayrıntılar, yöneticiler tarafından hesap onayı ve yönetim işlemleri için "
+"gereklidir."
+
+#: ppv-live-webcams.php:5517
+#, fuzzy
+msgid "No record fields defined by administrator!"
+msgstr "Yönetici tarafından tanımlanan kayıt alanları yok!"
+
+#: ppv-live-webcams.php:5697
+#, fuzzy
+msgid "Login to manage webcams!"
+msgstr "Web kameralarını yönetmek için giriş yapın!"
+
+#: ppv-live-webcams.php:5722
+#, fuzzy
+msgid "User role does not allow publishing webcams!"
+msgstr "Kullanıcı rolü web kamerası yayınlamaya izin vermez!"
+
+#: ppv-live-webcams.php:5775
+#, fuzzy
+msgid "Selected webcam listing is invalid."
+msgstr "Seçilen web kamerası listesi geçersizdir."
+
+#: ppv-live-webcams.php:5808
+#, fuzzy
+msgid ""
+"Partner performers that can also go live in this room: Comma separated list "
+"of performer usernames or emails."
+msgstr ""
+"Bu odada da yayına girebilen ortak sanatçılar: Virgül, sanatçı kullanıcı "
+"adlarının veya e-postalarının listesini ayırdı."
+
+#: ppv-live-webcams.php:5810
+#, fuzzy
+msgid "Webcam Listing Name"
+msgstr "Webcam Listeleme Adı"
+
+#: ppv-live-webcams.php:5829
+#, fuzzy
+msgid "Adding Webcam Listing"
+msgstr "Webcam Listeleme Ekleme"
+
+#: ppv-live-webcams.php:5869
+#, fuzzy
+msgid "Warning: Performer not found: use a valid username (login) or email!"
+msgstr ""
+"Uyarı: Performer bulunamadı: geçerli bir kullanıcı adı (giriş) veya e-posta "
+"kullanın!"
+
+#: ppv-live-webcams.php:5878
+#, fuzzy
+msgid "Could not create webcam listing:"
+msgstr "Web kamerası listesi oluşturamadı:"
+
+#: ppv-live-webcams.php:5920
+#, fuzzy
+msgid "Select Room Listing"
+msgstr "Oda İlanLarını Seçin"
+
+#: ppv-live-webcams.php:5926
+#, fuzzy
+msgid ""
+"Rooms (webcam venue listings) you created or were granted access to "
+"broadcast:"
+msgstr ""
+"Oluşturduğunuz veya yayına erişim izni aldığınız odalar (web kamerası mekan "
+"listeleri) :"
+
+#: ppv-live-webcams.php:5942
+#, fuzzy
+msgid ""
+"You do not have any active webcam listings: one will be setup for you and "
+"selected."
+msgstr ""
+"Herhangi bir aktif web kamerası listeleri yok: bir sizin için kurulum olacak "
+"ve seçilmiş."
+
+#: ppv-live-webcams.php:5960
+#, fuzzy
+msgid "Add Webcam"
+msgstr "Web Kamerası Ekle"
+
+#: ppv-live-webcams.php:5960
+#, fuzzy
+msgid "Create a new webcam listing."
+msgstr "Yeni bir web kamerası listesi oluşturun."
+
+#: ppv-live-webcams.php:5963
+#, fuzzy
+msgid "View Your Webcams List"
+msgstr "Web Kamerası Listenizi Görüntüleyin"
+
+#: ppv-live-webcams.php:5996
+#, fuzzy
+msgid "Custom CPM out of range: removed."
+msgstr "Özel CPM kapsama alanı dışında: kaldırıldı."
+
+#: ppv-live-webcams.php:6014
+#, fuzzy
+msgid "Custom group CPM out of range: removed."
+msgstr "Özel grup CPM kapsama alanı dışında: kaldırıldı."
+
+#: ppv-live-webcams.php:6117
+#, fuzzy
+msgid "Picture Updated."
+msgstr "Resim Güncellendi."
+
+#: ppv-live-webcams.php:6119
+#, fuzzy
+msgid "ERROR: Cound not create JPG thumb file "
+msgstr "HATA: Cound JPG başparmak dosyası oluşturmuyor"
+
+#: ppv-live-webcams.php:6122
+#, fuzzy
+msgid "ERROR: Cound not create temporary image!"
+msgstr "HATA: Cound geçici görüntü oluşturmak değil!"
+
+#: ppv-live-webcams.php:6125
+#, fuzzy
+msgid "ERROR: Failed loading image data "
+msgstr "HATA: Başarısız yükleme görüntü verileri"
+
+#: ppv-live-webcams.php:6127
+#, fuzzy
+msgid "ERROR: File does not exist "
+msgstr "HATA: Dosya yok"
+
+#: ppv-live-webcams.php:6129
+#, fuzzy
+msgid "ERROR: Could not retrieve image size for "
+msgstr "HATA: Görüntü boyutunu alamadım"
+
+#: ppv-live-webcams.php:6318
+msgid "Room Name"
+msgstr "Oda Adı"
+
+#: ppv-live-webcams.php:6319 ppv-live-webcams.php:7798
+msgid "Room ID"
+msgstr "Oda ID’si"
+
+#: ppv-live-webcams.php:6341
+#, fuzzy
+msgid "Setting webcam group mode to"
+msgstr "Web kamerası grup modunu ayarlama"
+
+#: ppv-live-webcams.php:6449
+#, fuzzy
+msgid "Warning: Performer"
+msgstr "Uyarı: Sanatçı"
+
+#: ppv-live-webcams.php:6449
+#, fuzzy
+msgid "not found: use a valid username (login) or email!"
+msgstr "bulunamadı: geçerli bir kullanıcı adı (giriş) veya e-posta kullanın!"
+
+#: ppv-live-webcams.php:6457
+#, fuzzy
+msgid "Room Interface"
+msgstr "Oda Arayüzü"
+
+#: ppv-live-webcams.php:6459
+#, fuzzy
+msgid "Checked in performers"
+msgstr "Performanslarını kontrol etti"
+
+#: ppv-live-webcams.php:6461
+#, fuzzy
+msgid "Assigning you"
+msgstr "Sizi atama"
+
+#: ppv-live-webcams.php:6461
+#, fuzzy
+msgid ""
+"as room performer (streamer) and redirecting to webcam room page. Please "
+"wait..."
+msgstr ""
+"oda sanatçısı (streamer) olarak ve web kamerası oda sayfasına yönlendirme. "
+"Lütfen bekleyin..."
+
+#: ppv-live-webcams.php:6467
+msgid "Click here"
+msgstr "Buraya tıklayın"
+
+#: ppv-live-webcams.php:6467
+#, fuzzy
+msgid "to access your webcam room if you do not get automatically redirected"
+msgstr ""
+"otomatik olarak yönlendirilen alamadım eğer web kamerası oda erişmek için"
+
+#: ppv-live-webcams.php:6475
+#, fuzzy
+msgid "Webcam Room"
+msgstr "Webcam Odası"
+
+#: ppv-live-webcams.php:6487
+#, fuzzy
+msgid "Custom cost per minute in paid group chat:"
+msgstr "Ücretli grup sohbetinde dakika başına özel maliyet:"
+
+#: ppv-live-webcams.php:6515
+#, fuzzy
+msgid "Paid Mode"
+msgstr "Ücretli Mod"
+
+#: ppv-live-webcams.php:6519
+#, fuzzy
+msgid "Room Mode"
+msgstr "Oda Modu"
+
+#: ppv-live-webcams.php:6519
+#, fuzzy
+msgid ""
+"Select group mode presets for your new session in this room, before going "
+"live."
+msgstr ""
+"Canlı yayına geçmeden önce bu odadaki yeni oturumunuz için grup modu hazır "
+"ayarlarını seçin."
+
+#: ppv-live-webcams.php:6523
+#, fuzzy
+msgid "This room is currently in presentation/collaboration mode."
+msgstr "Bu oda şu anda sunum/işbirliği modundadır."
+
+#: ppv-live-webcams.php:6525
+#, fuzzy
+msgid "This room is currently private, hidden from room list."
+msgstr "Bu oda şu anda özel, oda listesinden gizli."
+
+#: ppv-live-webcams.php:6547
+msgid "HTML5"
+msgstr "HTML5"
+
+#: ppv-live-webcams.php:6548
+#, fuzzy
+msgid ""
+"HTML5 Videochat works in mobile and PC browsers, providing streaming with "
+"group chat, private 2 way video calls, tips, conferencing, collaboration, "
+"external broadcasts. Recommended."
+msgstr ""
+"HTML5 Görüntülü Sohbet mobil ve PC tarayıcılarında çalışır, grup sohbeti, "
+"özel 2 yönlü görüntülü aramalar, ipuçları, konferans, işbirliği, harici "
+"yayınlar ile akış sağlar. Önerilen."
+
+#: ppv-live-webcams.php:6567
+msgid "Flash"
+msgstr "Flash"
+
+#: ppv-live-webcams.php:6568
+#, fuzzy
+msgid ""
+"Flash PC interface is and older legacy app that supports presentation mode, "
+"streaming with group chat, 2 way videochat, tips. Mobile users will get the "
+"HTML5 Streaming interface, with extra latency, if transcoding is available. "
+"Does not support latest chat modes and options available in HTML5 app."
+msgstr ""
+"Flash PC arayüzü sunum modunu destekleyen eski eski uygulama, grup sohbeti "
+"ile akış, 2 yönlü görüntülü sohbet, ipuçları. Mobil kullanıcılar, kodlama "
+"varsa, ekstra gecikme ile HTML5 Streaming arabirimine sahip olacaktır. HTML5 "
+"uygulamasında bulunan en son sohbet modlarını ve seçeneklerini desteklemez."
+
+#: ppv-live-webcams.php:6573
+#, fuzzy
+msgid "Select room interface before going live. Also applies to clients."
+msgstr ""
+"Yayına girmeden önce oda arabirimini seçin. Ayrıca istemciler için de "
+"geçerlidir."
+
+#: ppv-live-webcams.php:6578
+#, fuzzy
+msgid "CheckIn Options"
+msgstr "İade Seçenekleri"
+
+#: ppv-live-webcams.php:6578
+#, fuzzy
+msgid "Tag other performers present in session."
+msgstr "Oturumda bulunan diğer sanatçıları etiketle."
+
+#: ppv-live-webcams.php:6581 ppv-live-webcams.php:6598
+#, fuzzy
+msgid "Checkin Performers"
+msgstr "Checkin Sanatçıları"
+
+#: ppv-live-webcams.php:6581
+#, fuzzy
+msgid ""
+"You can select partner performers or specify other performers that are "
+"present in session."
+msgstr ""
+"Ortak sanatçıları seçebilir veya oturumda bulunan diğer sanatçıları "
+"belirtebilirsiniz."
+
+#: ppv-live-webcams.php:6582
+#, fuzzy
+msgid ""
+"If paid group chat is enabled, earnings will be shared equally between "
+"checked in performers."
+msgstr ""
+"Ücretli grup sohbeti etkinleştirilirse, kazançlar kontrol edilen sanatçılar "
+"arasında eşit olarak paylaşılır."
+
+#: ppv-live-webcams.php:6588
+#, fuzzy
+msgid "Partner Performers"
+msgstr "Ortak Sanatçılar"
+
+#: ppv-live-webcams.php:6598
+#, fuzzy
+msgid "Comma separated list of performer usernames or emails."
+msgstr ""
+"Virgül, sanatçı kullanıcı adlarının veya e-postalarının listesini ayırdı."
+
+#: ppv-live-webcams.php:6616
+#, fuzzy
+msgid "Select/Manage Rooms"
+msgstr "Oda Seçin/Yönetin"
+
+#: ppv-live-webcams.php:6616
+#, fuzzy
+msgid ""
+"Switch to different room / listing. Your account can setup and manage "
+"multiple room profiles."
+msgstr ""
+"Farklı odaya / listeye geçin. Hesabınız birden çok oda profilini "
+"düzenleyebilir ve yönetebilir."
+
+#: ppv-live-webcams.php:6621
+msgid "Go Live"
+msgstr "Canlı Git"
+
+#: ppv-live-webcams.php:6664
+msgid "Calls"
+msgstr "Çağrılar"
+
+#: ppv-live-webcams.php:6668
+#, fuzzy
+msgid "Locked Private Calls"
+msgstr "Kilitli Özel Aramalar"
+
+#: ppv-live-webcams.php:6714 ppv-live-webcams.php:6912
+msgid "Setup"
+msgstr "Kurulum"
+
+#: ppv-live-webcams.php:6732
+#, fuzzy
+msgid "Cost Per Minute"
+msgstr "Dakika Başına Maliyet"
+
+#: ppv-live-webcams.php:6732
+#, fuzzy
+msgid "Cost per minute for private shows (set 0 to use default)."
+msgstr ""
+"Özel gösteriler için dakika başına maliyet (varsayılan olarak kullanmak için "
+"0 ayarlayın)."
+
+#: ppv-live-webcams.php:6746
+#, fuzzy
+msgid "Cost Per Minute in Group Mode"
+msgstr "Grup Modunda Dakika Başına Maliyet"
+
+#: ppv-live-webcams.php:6746
+#, fuzzy
+msgid ""
+"Cost per minute for group shows. Replaces paid group CPM (set 0 to use "
+"default)."
+msgstr ""
+"Grup gösterileri için dakika başına maliyet. Ücretli grup CPM'nin yerine "
+"(varsayılan olarak 0'ı ayarlayın)."
+
+#: ppv-live-webcams.php:6753
+#, fuzzy
+msgid "2 Way Slots"
+msgstr "2 Yönlü Yuvalar"
+
+#: ppv-live-webcams.php:6753
+#, fuzzy
+msgid ""
+"2 way slots in room. Replaces default group mode slots (set 0 to use "
+"default)."
+msgstr ""
+"Odada 2 yönlü yuvalar. Varsayılan grup mod yuvaları (varsayılan kullanmak "
+"için 0 ayarlayın) değiştirir."
+
+#: ppv-live-webcams.php:6760 ppv-live-webcams.php:6766
+msgid "Picture"
+msgstr "Resim"
+
+#: ppv-live-webcams.php:6760
+#, fuzzy
+msgid "Update room picture to use instead of live snapshot."
+msgstr "Canlı anlık görüntü yerine kullanılacak oda resmini güncelleştirin."
+
+#: ppv-live-webcams.php:6767
+#, fuzzy
+msgid "Live Snapshot"
+msgstr "Canlı Anlık Görüntü"
+
+#: ppv-live-webcams.php:6768
+#, fuzzy
+msgid "Select what to show in webcam listings."
+msgstr "Web kamerası girişlerinde ne gösterileceklerini seçin."
+
+#: ppv-live-webcams.php:6778
+msgid "Label"
+msgstr "Etiket"
+
+#: ppv-live-webcams.php:6778
+#, fuzzy
+msgid "Shows in room listings instead of name."
+msgstr "Ad yerine oda girişlerinde gösterir."
+
+#: ppv-live-webcams.php:6787
+msgid "Category"
+msgstr "Kategori"
+
+#: ppv-live-webcams.php:6787
+#, fuzzy
+msgid "Webcam category."
+msgstr "Web kamerası kategorisi."
+
+#: ppv-live-webcams.php:6793
+#, fuzzy
+msgid ""
+"Room description: profile, schedule. Shows on room page and full row list "
+"layout."
+msgstr ""
+"Oda açıklaması: profil, program. Oda sayfasında ve tam satır listesi "
+"düzeninde gösterir."
+
+#: ppv-live-webcams.php:6802
+msgid "Brief"
+msgstr "Kısa Bilgi"
+
+#: ppv-live-webcams.php:6802
+#, fuzzy
+msgid "Room brief info: profile, schedule. Shows in room listings."
+msgstr "Oda kısa bilgi: profil, program. Oda listelerini gösterir."
+
+#: ppv-live-webcams.php:6811
+#, fuzzy
+msgid "Private Videochat Mode"
+msgstr "Özel Görüntülü Sohbet Modu"
+
+#: ppv-live-webcams.php:6813
+#, fuzzy
+msgid "1 Way"
+msgstr "1 Yol"
+
+#: ppv-live-webcams.php:6816
+#, fuzzy
+msgid "Allow clients to start their cams for 2 way videochat."
+msgstr ""
+"Müşterilerin kameralarına 2 yönlü görüntülü sohbet için başlamalarına izin "
+"verin."
+
+#: ppv-live-webcams.php:6834
+#, fuzzy
+msgid "Detected IP"
+msgstr "Algılanan IP"
+
+#: ppv-live-webcams.php:6836
+#, fuzzy
+msgid "Detected Continent, Country, Region, City"
+msgstr "Tespit Edilen Kıta, Ülke, Bölge, Şehir"
+
+#: ppv-live-webcams.php:6839
+#, fuzzy
+msgid "ERROR: GeoIP extension is required on host for this functionality."
+msgstr "HATA: Bu işlevsellik için ana bilgisayarda GeoIP uzantısı gereklidir."
+
+#: ppv-live-webcams.php:6841
+#, fuzzy
+msgid "Ban Countries"
+msgstr "Ban Ülkeler"
+
+#: ppv-live-webcams.php:6841
+#, fuzzy
+msgid ""
+"You may want to ban your location for privacy reasons. Or countries and "
+"regions where your content is not legal or well received. List of locations "
+"(country, region, city or continent code, separated by comma) that can not "
+"access webcam room."
+msgstr ""
+"Gizlilik nedenleriyle konumunuzu yasaklamak isteyebilirsiniz. Veya "
+"içeriğinizin yasal olmadığı veya iyi karşılanmadığı ülkeler ve bölgeler. Web "
+"kamerası odasına erişimeyen yerlerin listesi (ülke, bölge, şehir veya kıta "
+"kodu, virgülle ayrılmış)."
+
+#: ppv-live-webcams.php:6856
+#, fuzzy
+msgid "Tags separated by comma. Show in room listings."
+msgstr "Virgülle ayrılmış etiketler. Oda listelerini göster."
+
+#: ppv-live-webcams.php:6865
+msgid "Presentation Mode"
+msgstr "Sunum Modu"
+
+#: ppv-live-webcams.php:6870
+#, fuzzy
+msgid ""
+"Enables presentations mode with presentation screen, annotations, "
+"whiteboard, file sharing."
+msgstr ""
+"Sunu ekranı, ek açıklamalar, beyaz tahta, dosya paylaşımı ile sunu "
+"modusağlar."
+
+#: ppv-live-webcams.php:6877
+msgid "Logo Image"
+msgstr "Logo Resmi"
+
+#: ppv-live-webcams.php:6877
+#, fuzzy
+msgid ""
+"Floating logo URL (preferably a transparent PNG image). Leave blank to hide."
+msgstr ""
+"Kayan logo URL (tercihen saydam bir PNG görüntü). Saklanmak için boş bırakın."
+
+#: ppv-live-webcams.php:6879
+msgid "Logo Link"
+msgstr "Logo Bağlantısı"
+
+#: ppv-live-webcams.php:6879
+#, fuzzy
+msgid "URL to open on logo click."
+msgstr "Logoda açmak için URL'ye tıklayın."
+
+#: ppv-live-webcams.php:6889
+#, fuzzy
+msgid "Access List"
+msgstr "Erişim Listesi"
+
+#: ppv-live-webcams.php:6889
+#, fuzzy
+msgid ""
+"User roles, logins, emails separated by comma. Leave empty to allow "
+"everybody to access."
+msgstr ""
+"Kullanıcı rolleri, girişler, virgülle ayrılmış e-postalar. Herkesin "
+"erişmesine izin vermek için boş bırakın."
+
+#: ppv-live-webcams.php:6898
+#, fuzzy
+msgid "Webcam room access price. Leave 0 for free access."
+msgstr "Webcam oda erişim fiyatı. 0'ı ücretsiz erişime bırakın."
+
+#: ppv-live-webcams.php:6911
+#, fuzzy
+msgid "Webcam Profile Setup"
+msgstr "Webcam Profil Kurulumu"
+
+#: ppv-live-webcams.php:6959
+#, fuzzy
+msgid "Webcam Room Listing Profile"
+msgstr "Webcam Oda Listeleme Profili"
+
+#: ppv-live-webcams.php:6959
+#, fuzzy
+msgid ""
+"These details will show on webcam room page (under videochat interface)."
+msgstr ""
+"Bu ayrıntılar web kamerası oda sayfasında (görüntülü sohbet arayüzü altında) "
+"gösterecektir."
+
+#: ppv-live-webcams.php:7144
+#, fuzzy
+msgid ""
+"Multiple profile videos can show on webcam listing page. Each listing has "
+"own videos."
+msgstr ""
+"Web kamerası listeleme sayfasında birden çok profil videosu gösterilebilir. "
+"Her girişin kendi videoları vardır."
+
+#: ppv-live-webcams.php:7171
+#, fuzzy
+msgid "Teaser Video"
+msgstr "Teaser Video"
+
+#: ppv-live-webcams.php:7174
+#, fuzzy
+msgid ""
+"Teaser video (featured video) plays shortly as preview in listings, in room "
+"when performer is offline in HTML5 Videochat interface and shows on profile "
+"page. Can be selected from all videos of user."
+msgstr ""
+"Teaser video (özellikli video) kısa bir süre listeleri önizleme olarak, "
+"odada zaman performans HTML5 Videochat arayüzü çevrimdışı ve profil "
+"sayfasında gösterir çalış. Kullanıcının tüm videolarından seçilebilir."
+
+#: ppv-live-webcams.php:7213
+msgid "Playlist"
+msgstr "Oynatma Listesi"
+
+#: ppv-live-webcams.php:7313
+#, fuzzy
+msgid "Playlist is enabled and room stream updated to"
+msgstr "Çalma listesi etkindir ve oda akışı"
+
+#: ppv-live-webcams.php:7384
+#, fuzzy
+msgid "No videos found! Please add some videos first."
+msgstr "Video bulunamadı! Lütfen önce bazı videolar ekleyin."
+
+#: ppv-live-webcams.php:7389
+#, fuzzy
+msgid "Quick Loop Setup"
+msgstr "Hızlı Döngü Kurulumu"
+
+#: ppv-live-webcams.php:7390
+#, fuzzy
+msgid ""
+"Video will play in loop while playlist is active. Warning: Going live (with "
+"real webcam) will stop video loop (needs to be setup again). Can also be "
+"disabled by setting Playlist Status as Inactive."
+msgstr ""
+"Oynatma listesi etkinken video döngü içinde oynatıcı dır. Uyarı: Canlı "
+"(gerçek web kamerası ile) going video döngü (yeniden kurulum olması gerekir) "
+"duracaktır. Çalma Listesi Durumu Etkin Olmayan olarak ayarlayarak da devre "
+"dışı tutulabilir."
+
+#: ppv-live-webcams.php:7391
+#, fuzzy
+msgid "Set Video Loop"
+msgstr "Video Döngüsü'ni Ayarla"
+
+#: ppv-live-webcams.php:7409
+msgid "Inactive"
+msgstr "Pasif"
+
+#: ppv-live-webcams.php:7410
+msgid "Active"
+msgstr "Aktif"
+
+#: ppv-live-webcams.php:7425
+#, fuzzy
+msgid "Advanced Playlist Editor"
+msgstr "Gelişmiş Çalma Listesi Düzenleyicisi"
+
+#: ppv-live-webcams.php:7426
+#, fuzzy
+msgid ""
+"After editing playlist contents below, update it to apply changes. Last "
+"Updated:"
+msgstr ""
+"Aşağıdaki çalma listesi içeriğini düzenlemeden sonra değişiklikleri "
+"uygulamak için güncelleştirin. Son Güncelleme:"
+
+#: ppv-live-webcams.php:7427
+#, fuzzy
+msgid ""
+"Playlist is loaded with web application (on access) and reloaded if "
+"necessary when users access"
+msgstr ""
+"Çalma listesi web uygulamasıyla yüklenir (erişimde) ve gerekirse "
+"kullanıcılar erişildiğinde yeniden yüklenir"
+
+#: ppv-live-webcams.php:7428
+#, fuzzy
+msgid ""
+"First create a Schedule (Add new record), then Edit Videos (Add new record "
+"under Videos):"
+msgstr ""
+"Önce Zamanlama oluşturma (Yeni kayıt ekle, ardından Videoları Düzenleyin "
+"(Videolar'ın altına yeni kayıt ekleyin):"
+
+#: ppv-live-webcams.php:7429
+#, fuzzy
+msgid "videochat interface"
+msgstr "görüntülü sohbet arayüzü"
+
+#: ppv-live-webcams.php:7430
+#, fuzzy
+msgid "last time reloaded"
+msgstr "son kez yeniden yüklendi"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid ""
+"Schedule playlist items as: Year-Month-Day Hours:Minutes:Seconds in "
+"scheduling server timezone. In example, current server OS time"
+msgstr ""
+"Çalma listesi öğelerini şu şekilde zamanlayın: Sunucu saat dilimini "
+"planlarken Yıl-Ay-Gün Saatleri:Dakika:Saniye. Örneğin, geçerli sunucu "
+"işletim sistemi zamanı"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid "in timezone"
+msgstr "saat diliminde"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid "default timezone was"
+msgstr "varsayılan zaman dilimi oldu"
+
+#: ppv-live-webcams.php:7559
+#, fuzzy
+msgid ""
+"If the schedule time is in the past, each video is loaded in order and "
+"immediately replaces the previous video for the stream. Repeat will cause "
+"that videos to repeat in loop."
+msgstr ""
+"Zamanlama süresi geçmişteyse, her video sırayla yüklenir ve akış için önceki "
+"videonun hemen yerini alır. Yineleme, videoların döngü içinde tekrarlayabına "
+"neden olur."
+
+#: ppv-live-webcams.php:7566
+#, fuzzy
+msgid ""
+"Scheduled videos play instead of performer live stream in videochat "
+"interface. Can be selected from all videos of user."
+msgstr ""
+"Videosohbet arayüzünde canlı akış yerine zamanlanmış videolar oynatıcı "
+"olarak oynatıcı olarak oynadlandırılır. Kullanıcının tüm videolarından "
+"seçilebilir."
+
+#: ppv-live-webcams.php:7604
+#, fuzzy
+msgid ""
+"Multiple profile pictures can show on webcam listing page. Each listing has "
+"own pictures."
+msgstr ""
+"Web kamerası giriş sayfasında birden çok profil resmi gösterilebilir. Her "
+"listenin kendi resimleri vardır."
+
+#: ppv-live-webcams.php:7635 ppv-live-webcams.php:7669
+#, fuzzy
+msgid "Bans"
+msgstr "Yasak"
+
+#: ppv-live-webcams.php:7648
+#, fuzzy
+msgid "Cleared ban for"
+msgstr "Için temizlenen yasağı"
+
+#: ppv-live-webcams.php:7651
+msgid "Not found!"
+msgstr "Bulunamadı!"
+
+#: ppv-live-webcams.php:7675
+#, fuzzy
+msgid "There are no bans for this room."
+msgstr "Bu oda için yasak yok."
+
+#: ppv-live-webcams.php:7677
+#, fuzzy
+msgid ""
+"Bans occur when performer kicks or bans users from videochat interface. "
+"Kicks result in short bans (15 minutes) and full bans have longer cooldown "
+"(1 week). Bans prevent viewers from accessing or remaining in chat room."
+msgstr ""
+"Yasaklar, sanatçı kullanıcıları görüntülü sohbet arabiriminden "
+"tekmelediğinde veya yasakladığında ortaya çıkar. Tekmeler kısa yasaklarla "
+"(15 dakika) sonuçlanır ve tam yasaklar daha uzun bekleme sürelerine (1 "
+"hafta) sahiptir. Yasaklar, görüntüleyenlerin sohbet odasına erişmesini veya "
+"oturmasını engeller."
+
+#: ppv-live-webcams.php:7699
+#, fuzzy
+msgid "TeraWallet"
+msgstr "TeraCüzdan"
+
+#: ppv-live-webcams.php:7702
+#, fuzzy
+msgid "TeraWallet (WooCommerce)"
+msgstr "TeraWallet (WooCommerce)"
+
+#: ppv-live-webcams.php:7708 ppv-live-webcams.php:7734
+#, fuzzy
+msgid "Logged private sessions billed"
+msgstr "Günlüğe kaydedilmiş özel oturumlar faturalandırıldı"
+
+#: ppv-live-webcams.php:7709 ppv-live-webcams.php:7735
+#, fuzzy
+msgid "Logged group sessions billed"
+msgstr "Günlüğe kaydedilmiş grup oturumları faturalandırıldı"
+
+#: ppv-live-webcams.php:7710 ppv-live-webcams.php:7736
+#, fuzzy
+msgid "Session logs are kept for limited time and transaction logs forever."
+msgstr ""
+"Oturum günlükleri sınırlı süre ve işlem günlükleri sonsuza kadar tutulur."
+
+#: ppv-live-webcams.php:7726 ppv-live-webcams.php:7729
+#, fuzzy
+msgid "My Credits"
+msgstr "Kredilerim"
+
+#: ppv-live-webcams.php:7749
+msgid "Overview"
+msgstr "Genel Bakış"
+
+#: ppv-live-webcams.php:7768
+#, fuzzy
+msgid "Webcam Room Listing Overview"
+msgstr "Webcam Oda Listesine Genel Bakış"
+
+#: ppv-live-webcams.php:7790
+#, fuzzy
+msgid "Listing (Room) Name"
+msgstr "Listeleme (Oda) Adı"
+
+#: ppv-live-webcams.php:7791
+#, fuzzy
+msgid "Current Room Performer"
+msgstr "Güncel Oda Sanatçısı"
+
+#: ppv-live-webcams.php:7792
+#, fuzzy
+msgid "Current Room Performer ID"
+msgstr "Güncel Oda Sanatçı Kimliği"
+
+#: ppv-live-webcams.php:7793
+#, fuzzy
+msgid "Your Performer Name"
+msgstr "Sanatçı Adınız"
+
+#: ppv-live-webcams.php:7794
+#, fuzzy
+msgid "Room Label"
+msgstr "Oda Etiketi"
+
+#: ppv-live-webcams.php:7795
+#, fuzzy
+msgid "Room Status"
+msgstr "Oda Durumu"
+
+#: ppv-live-webcams.php:7796
+#, fuzzy
+msgid "Room URL"
+msgstr "Oda URL'si"
+
+#: ppv-live-webcams.php:7797
+#, fuzzy
+msgid "Room Slug"
+msgstr "Oda Sümüklüböcek"
+
+#: ppv-live-webcams.php:7807
+#, fuzzy
+msgid "Client CPM"
+msgstr "İstemci CPM"
+
+#: ppv-live-webcams.php:7808
+#, fuzzy
+msgid "Earning Ratio"
+msgstr "Kazanç Oranı"
+
+#: ppv-live-webcams.php:7826
+#, fuzzy
+msgid "HTML5 Transcoding"
+msgstr "HTML5 Kodlama"
+
+#: ppv-live-webcams.php:7832
+#, fuzzy
+msgid "Multiple Cameras"
+msgstr "Birden Fazla Kamera"
+
+#: ppv-live-webcams.php:7840
+#, fuzzy
+msgid "Scheduled Playlist"
+msgstr "Zamanlanmış Çalma Listesi"
+
+#: ppv-live-webcams.php:7880
+msgid "Role"
+msgstr "Rol"
+
+#: ppv-live-webcams.php:8391
+#, fuzzy
+msgid "PPM group"
+msgstr "PPM grubu"
+
+#: ppv-live-webcams.php:8391
+#, fuzzy
+msgid "session in"
+msgstr "oturumda"
+
+#: ppv-live-webcams.php:8413
+#, fuzzy
+msgid "Earning from PPM group"
+msgstr "PPM grubundan kazanç"
+
+#: ppv-live-webcams.php:8413
+#, fuzzy
+msgid " session with "
+msgstr "ile oturum"
+
+#: ppv-live-webcams.php:8488
+#, fuzzy
+msgid "Earning from PPM private session with "
+msgstr "PPM özel oturumdan kazanç"
+
+#: ppv-live-webcams.php:8491
+#, fuzzy
+msgid "Performer cost for PPM private session with "
+msgstr "PPM özel oturumu için performans maliyeti"
+
+#: ppv-live-webcams.php:9550
+#, fuzzy
+msgid ""
+"You are NOT logged in. Only registered users can request private show or "
+"send tips!"
+msgstr ""
+"Oturum açmadığınız değil. Yalnızca kayıtlı kullanıcılar özel gösteri talep "
+"edebilir veya ipuçları gönderebilir!"
+
+#: ppv-live-webcams.php:9557
+#, fuzzy
+msgid ""
+"Please login first or register an account if you do not have one! Click here "
+"to return to website."
+msgstr ""
+"Lütfen önce giriş yapın veya hesabınız yoksa bir hesap kaydedin! Web "
+"sitesine dönmek için buraya tıklayın."
+
+#: ppv-live-webcams.php:9563
+#, fuzzy
+msgid "you are not in the allowed watchers list."
+msgstr "izin verilen izlemeciler listesinde yer yok."
+
+#: ppv-live-webcams.php:9564
+#, fuzzy
+msgid "Please login first or register an account if you do not have one!"
+msgstr "Lütfen önce giriş yapın veya hesabınız yoksa bir hesap kaydedin!"
+
+#: ppv-live-webcams.php:9580
+#, fuzzy
+msgid "Paid group session: login to access!"
+msgstr "Ücretli grup oturumu: erişim için giriş!"
+
+#: ppv-live-webcams.php:9585
+#, fuzzy
+msgid "Minimum balance required for paid session:"
+msgstr "Ödenen oturum için gerekli minimum bakiye:"
+
+#: ppv-live-webcams.php:9628
+#, fuzzy
+msgid "Your are not in room access list."
+msgstr "Oda giriş listesinde yok."
+
+#: ppv-live-webcams.php:9636
+#, fuzzy
+msgid ""
+"Password Protected: Room can be accessed after filling password from room "
+"page."
+msgstr ""
+"Şifre Korumalı: Oda sayfasına şifre yi doldurduktan sonra odaya erişilebilir."
+
+#: ppv-live-webcams.php:9648 ppv-live-webcams.php:9744
+#, fuzzy
+msgid "Your current balance:"
+msgstr "Geçerli bakiyeniz:"
+
+#: ppv-live-webcams.php:9650 ppv-live-webcams.php:10346
+msgid "Pending balance"
+msgstr "Bekleyen bakiye"
+
+#: ppv-live-webcams.php:9665
+#, fuzzy
+msgid "2 way slots:"
+msgstr "2 yönlü yuvalar:"
+
+#: ppv-live-webcams.php:9747
+#, fuzzy
+msgid "Private show cost per minute for performer is:"
+msgstr "Sanatçı için dakika başına özel gösteri maliyeti:"
+
+#: ppv-live-webcams.php:9753
+#, fuzzy
+msgid "Private show cost per minute for client:"
+msgstr "İstemci için dakika başına özel gösteri maliyeti:"
+
+#: ppv-live-webcams.php:9757
+#, fuzzy
+msgid "Private show earning per minute for performer:"
+msgstr "Özel gösteri sanatçı için dakika başına kazanç:"
+
+#: ppv-live-webcams.php:9769
+#, fuzzy
+msgid "You are in room"
+msgstr "Odadasın."
+
+#: ppv-live-webcams.php:9771
+#, fuzzy
+msgid "Active performer (stream):"
+msgstr "Etkin performans (akış):"
+
+#: ppv-live-webcams.php:9864
+#, fuzzy
+msgid ""
+"Warning: HTTPS not detected. Some browsers like Chrome will not permit "
+"webcam access when accessing without SSL!"
+msgstr ""
+"Uyarı: HTTPS algılanmadı. Chrome gibi bazı tarayıcılar SSL olmadan erişirken "
+"web kamerası erişimine izin vermez!"
+
+#: ppv-live-webcams.php:10334
+#, fuzzy
+msgid "Tip from "
+msgstr "İpucu gelen"
+
+#: ppv-live-webcams.php:10343
+#, fuzzy
+msgid "After tip, your balance is"
+msgstr "İpucundan sonra, bakiyeniz"
+
+#: ppv-live-webcams.php:10351
+msgid "Tip"
+msgstr "İpucu"
+
+#: ppv-live-webcams.php:11072 ppv-live-webcams.php:11588
+#, fuzzy
+msgid "Comment added successfully!"
+msgstr "Yorum başarıyla eklendi!"
+
+#: ppv-live-webcams.php:11079
+#, fuzzy
+msgid "Not implemented, yet!"
+msgstr "Henüz uygulanmadı!"
+
+#: ppv-live-webcams.php:11136
+#, fuzzy
+msgid "Comment deleted successfully!"
+msgstr "Yorum başarıyla silindi!"
+
+#: ppv-live-webcams.php:11397
+#, fuzzy
+msgid "Whiteboard elements added successfully!"
+msgstr "Beyaz tahta elemanları başarıyla eklendi!"
+
+#: ppv-live-webcams.php:11401
+#, fuzzy
+msgid "No whiteboard elements to add!"
+msgstr "Eklenecek beyaz tahta öğeleri yok!"
+
+#: ppv-live-webcams.php:11756
+msgid "Approve Users"
+msgstr "Kullanıcıları Onayla"
+
+#: ppv-live-webcams.php:11763
+#, fuzzy
+msgid "Session Logs"
+msgstr "Oturum Günlükleri"
+
+#: ppv-live-webcams.php:11770
+#, fuzzy
+msgid "Stream Sessions"
+msgstr "Akış Oturumları"
+
+#: ppv-live-webcams.php:11777
+#, fuzzy
+msgid "RTMP Admin"
+msgstr "RTMP Yönetici"
+
+#: ppv-live-webcams.php:11784
+#, fuzzy
+msgid "Webcam Posts"
+msgstr "Webcam Mesajlar"
+
+#: ppv-live-webcams.php:11792 ppv-live-webcams.php:11877
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ppv-live-webcams.php:11799
+msgid "Billing"
+msgstr "Faturalandırma"
+
+#: ppv-live-webcams.php:11806
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: ppv-live-webcams.php:11910
+#, fuzzy
+msgid "User not found by email or login: "
+msgstr "Kullanıcı e-posta veya giriş ile bulunamadı:"
+
+#: ppv-live-webcams.php:11917
+#, fuzzy
+msgid "User not found by ID: "
+msgstr "Kimlikle bulunamayan kullanıcı:"
+
+#: ppv-live-webcams.php:11928
+#, fuzzy
+msgid "Studio not found: "
+msgstr "Stüdyo bulunamadı:"
+
+#: ppv-live-webcams.php:12001
+#, fuzzy
+msgid "User not found: "
+msgstr "Kullanıcı bulunamadı:"
+
+#: ppv-live-webcams.php:12031
+#, fuzzy
+msgid "Toggle Verified"
+msgstr "Doğrulanmış Geçiş"
+
+#: ppv-live-webcams.php:12033
+msgid "Suspended"
+msgstr "Askıya alındı"
+
+#: ppv-live-webcams.php:12034
+#, fuzzy
+msgid "Toggle Suspended"
+msgstr "Askıda Geçiş"
+
+#: ppv-live-webcams.php:12036
+#, fuzzy
+msgid "Records Updated"
+msgstr "Güncellenen Kayıtlar"
+
+#: ppv-live-webcams.php:12037
+#, fuzzy
+msgid "Last Verified"
+msgstr "Son Doğrulandı"
+
+#: template-app.php:19
+msgid "Video Chat"
+msgstr "Video Sohbet"
+
+#: template-webcam.php:40
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
+"Sorgunuzla eşleşen herhangi bir yayın bulamadık. Lütfen tekrar deneyin."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Paid Videochat Turnkey Site - HTML5 PPV Live Webcams"
+msgstr ""
+"Ücretli Görüntülü Sohbet Anahtar Teslim Sitesi - HTML5 PPV Canlı Webcam"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://paidvideochat.com"
+msgstr "https://paidvideochat.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"<strong>Paid Videochat Turnkey Site - HTML5 PPV Live Webcams</strong>: pay "
+"per view / minute (PPV/PPM) videochat sites.  Includes custom registration "
+"(performers, clients, studios), live webcams list, public lobby for each "
+"performer with live stream, mult-performer in show checkin, custom tips/"
+"gifts with notification, pay per minute private 2 way calls and group "
+"videochat shows, HTML5 WebRTC live video streaming, adaptive interface for "
+"mobile browsers, snapshots/pictures and videos profile, video conference "
+"mode with split view streaming, presentation/collaboration mode with file "
+"sharing and image/video display, paid questions/messages.  <a href='https://"
+"videowhisper.com/tickets_submit.php?topic=PPV-Live-Webcams'>Contact Support</"
+"a> | <a href='admin.php?page=live-webcams&tab=setup'>Setup</a>"
+msgstr ""
+"<strong>Ücretli Görüntülü Sohbet Anahtar Teslim Sitesi - HTML5 PPV Canlı Web "
+"Kameraları</strong>: görüntüleme / dakika (PPV/PPM) videochat siteleri "
+"başına ödeme.  Özel kayıt (performans, müşteri, stüdyolar), canlı web "
+"kamerası listesi, canlı akış ile her sanatçı için genel lobi, show checkin "
+"ile mult-performer, bildirim ile özel ipuçları / hediyeler, dakika özel 2 "
+"yönlü aramalar ve grup görüntülü sohbet gösterileri, HTML5 WebRTC canlı "
+"video akışı, mobil tarayıcılar için adaptif arayüzü, anlık görüntü / resim "
+"ve video profili, dosya paylaşımı ve resim / video görüntüleme mesajları ile "
+"video konferans modu, ücretli mesajlar.  <a href='https://videowhisper.com/"
+"tickets_submit.php?topic=PPV-Live-Webcams'>Desteğe Başvurun</a> | <a "
+"href='admin.php?page=live-webcams&tab=setup'>Kurulum</a>"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper.com"
+msgstr "VideoWhisper.com"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://videowhisper.com/"
+msgstr "https://videowhisper.com/"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper App - Full Page"
+msgstr "VideoWhisper Uygulaması - Tam Sayfa"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper Full"
+msgstr "VideoWhisper Tam"

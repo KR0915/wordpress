@@ -1,0 +1,52 @@
+<?php
+/*
+Template Name: VideoWhisper Full
+*/
+
+defined( 'ABSPATH' ) or exit;
+?>
+<?php get_header(); ?>
+<style type="text/css">
+.post-content-videowhisper
+{
+	width: 100%;
+}
+</style>
+
+			<?php
+			if ( have_posts() ) :
+				while ( have_posts() ) :
+					the_post();
+					?>
+
+				<div class="post">
+
+					<div class="post-header">
+
+						<h1 class="post-title"><?php the_title(); ?></h1>
+
+					</div> <!-- /post-header -->
+
+					<div class="post-content-videowhisper">
+
+						<?php the_content(); ?>
+
+						<?php if ( current_user_can( 'manage_options' ) ) : ?>
+
+						<?php endif; ?>
+
+					</div> <!-- /post-content -->
+
+					<?php comments_template( '', true ); ?>
+
+				</div> <!-- /post -->
+
+			<?php endwhile; else : ?>
+
+				<p><?php _e( "We couldn't find any posts that matched your query. Please try again.", 'ppv-live-webcams' ); ?></p>
+
+			<?php endif; ?>
+
+			<div class="clear"></div>
+
+<?php get_footer(); ?>

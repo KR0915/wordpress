@@ -1,0 +1,84 @@
+.header-area {
+    padding-left: 25px;
+
+    .header-wrapper {
+      display: flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+
+      h1 {
+        font-size: 28px;
+      }
+
+      .create-btn-wrapper {
+        margin-left: 20px;
+
+        .create-meeting-btn, .create-user-btn {
+          display: inline-flex;
+          align-items: center;
+          padding: 10px 20px;
+          background-color: #7856fb;
+          color: #fff;
+          text-decoration: none;
+          border-radius: 8px;
+          transition: background-color 0.3s ease;
+          font-size: 16px;
+          &:focus{
+            box-shadow:none;
+            outline: none;
+          }
+
+          &:hover {
+            background-color: #4f21ff;
+          }
+
+          .dashicons {
+            font-size: 16px;
+            margin-right: 8px;
+          }
+
+          span {
+            display: flex;
+            align-items: center;
+          }
+        }
+      }
+
+      .btn-back-dashboard {
+        border: 2px solid #7856fb90;
+        padding: 5px 15px 5px 35px;
+        border-radius: 8px;
+        color: #7856fb;
+        display: inline-block;
+        transition: 0.3s;
+        position: relative;
+
+        span {
+          position: absolute;
+          left: 9px;
+          top: 7px;
+        }
+
+        &:hover {
+          color: #fff;
+          background: #7856fb;
+          border-color: #7856fb;
+        }
+      }
+    }
+}
+
+
+@include respond-to('mobile') {
+  .header-area{
+    padding-left: 0;
+    .header-wrapper{
+      flex-wrap: wrap;
+      justify-content: center;
+      .create-btn-wrapper {
+        margin-left: 0;
+        margin-top: 10px;
+      }
+    }
+   }
+}

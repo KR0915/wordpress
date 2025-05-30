@@ -1,0 +1,3004 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Project-Id-Version: PPV Live Webcams - Paid Videochat\n"
+"POT-Creation-Date: 2020-05-02 10:39+0300\n"
+"PO-Revision-Date: 2020-05-02 11:09+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ppv-live-webcams.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/h5videochat.php:20
+#, fuzzy
+msgid "Login is required to access your own videochat room!"
+msgstr "लॉगिन अपने खुद के वीडियोचैट कमरे तक पहुंचने के लिए आवश्यक है!"
+
+#: inc/h5videochat.php:20 inc/h5videochat.php:185 inc/h5videochat.php:249
+#: inc/h5videochat.php:254 inc/shortcodes.php:50 inc/shortcodes.php:191
+#: inc/shortcodes.php:397 inc/shortcodes.php:428 inc/shortcodes.php:513
+#: ppv-live-webcams.php:749 ppv-live-webcams.php:5049 ppv-live-webcams.php:5249
+#: ppv-live-webcams.php:5697
+msgid "Login"
+msgstr "लॉगिन"
+
+#: inc/h5videochat.php:20 inc/h5videochat.php:185 inc/h5videochat.php:249
+#: inc/h5videochat.php:254 inc/shortcodes.php:50 inc/shortcodes.php:191
+#: inc/shortcodes.php:397 inc/shortcodes.php:428 inc/shortcodes.php:513
+#: ppv-live-webcams.php:749 ppv-live-webcams.php:5049 ppv-live-webcams.php:5697
+msgid "Register"
+msgstr "रजिस्टर"
+
+#: inc/h5videochat.php:26 ppv-live-webcams.php:5080 ppv-live-webcams.php:5737
+#, fuzzy
+msgid ""
+"Your account is not currently enabled. Update your account records and wait "
+"for site admins to approve your account."
+msgstr ""
+"आपका खाता वर्तमान में सक्षम नहीं है। अपने खाते के रिकॉर्ड अपडेट करें और साइट एडमिन के आपके "
+"खाते को मंजूरी देने की प्रतीक्षा करें."
+
+#: inc/h5videochat.php:30 ppv-live-webcams.php:5742
+#, fuzzy
+msgid ""
+"Studio disabled your account: dashboard access is forbidden. Contact studio "
+"or site administrator!"
+msgstr ""
+"स्टूडियो ने आपके खाते को अक्षम कर दिया: डैशबोर्ड एक्सेस वर्जित है। स्टूडियो या साइट प्रशासक "
+"से संपर्क करें!"
+
+#: inc/h5videochat.php:68
+#, fuzzy
+msgid "No random cam room found with current criteria!"
+msgstr "वर्तमान मानदंडों के साथ कोई यादृच्छिक कैम रूम नहीं मिला!"
+
+#: inc/h5videochat.php:185
+#, fuzzy
+msgid "Login is required to access private calls."
+msgstr "निजी कॉल का उपयोग करने के लिए लॉगिन की आवश्यकता होती है।"
+
+#: inc/h5videochat.php:195
+#, fuzzy
+msgid "This private call was closed."
+msgstr "यह निजी कॉल बंद हो गई थी।"
+
+#: inc/h5videochat.php:196
+#, fuzzy
+msgid "Private call is only available to performer and client, as setup."
+msgstr "निजी कॉल केवल कलाकार और ग्राहक के लिए उपलब्ध है, सेटअप के रूप में ।"
+
+#: inc/h5videochat.php:202
+#, fuzzy
+msgid "This private call does not exist."
+msgstr "यह निजी कॉल मौजूद नहीं है।"
+
+#: inc/h5videochat.php:207
+#, fuzzy
+msgid "This room can only be used for locked calls, with call link."
+msgstr "इस कमरे का उपयोग केवल कॉल लिंक के साथ लॉक कॉल के लिए किया जा सकता है।"
+
+#: inc/h5videochat.php:231 inc/h5videochat.php:1700
+#, fuzzy
+msgid "You are banned from accessing this room!"
+msgstr "आप इस कमरे तक पहुंचने से प्रतिबंधित कर रहे हैं!"
+
+#: inc/h5videochat.php:249 inc/h5videochat.php:254
+#, fuzzy
+msgid "Login is required to access."
+msgstr "लॉगिन का उपयोग करने के लिए आवश्यक है।"
+
+#: inc/h5videochat.php:255
+#, fuzzy
+msgid "You are not in the allowed participant list."
+msgstr "आप अनुमति देने वाले प्रतिभागी सूची में नहीं हैं।"
+
+#: inc/h5videochat.php:263
+#, fuzzy
+msgid ""
+"This room is restricted by access list. You are not in room access list."
+msgstr "इस कमरे का उपयोग सूची द्वारा प्रतिबंधित है। आप कमरे का उपयोग सूची में नहीं हैं।"
+
+#: inc/h5videochat.php:302
+#, fuzzy
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls."
+msgstr ""
+"ग्रुप चैट अक्षम है। इस कमरे का उपयोग केवल तत्काल या लॉक कॉल के लिए किया जा सकता है।"
+
+#: inc/h5videochat.php:347
+#, fuzzy
+msgid "Open in Full Page"
+msgstr "पूर्ण पृष्ठ में खुला"
+
+#: inc/h5videochat.php:462
+msgid "Send"
+msgstr "भेजें"
+
+#: inc/h5videochat.php:463
+#, fuzzy
+msgid "Type your message"
+msgstr "अपना संदेश टाइप करें"
+
+#: inc/h5videochat.php:465
+#, fuzzy
+msgid "Chat"
+msgstr "चैट"
+
+#: inc/h5videochat.php:466
+#, fuzzy
+msgid "Camera"
+msgstr "कैमरा"
+
+#: inc/h5videochat.php:467
+#, fuzzy
+msgid "Users"
+msgstr "उपयोगकर्ताओं"
+
+#: inc/h5videochat.php:468
+#, fuzzy
+msgid "Options"
+msgstr "विकल्प"
+
+#: inc/h5videochat.php:469
+#, fuzzy
+msgid "Files"
+msgstr "फ़ाइलें"
+
+#: inc/h5videochat.php:470
+#, fuzzy
+msgid "Presentation"
+msgstr "प्रस्तुति"
+
+#: inc/h5videochat.php:472
+#, fuzzy
+msgid "Tap for Sound"
+msgstr "ध्वनि के लिए टैप करें"
+
+#: inc/h5videochat.php:473
+#, fuzzy
+msgid "Enable Audio"
+msgstr "ऑडियो को सक्षम बनाना"
+
+#: inc/h5videochat.php:474
+#, fuzzy
+msgid "Mute"
+msgstr "मूक"
+
+#: inc/h5videochat.php:475
+msgid "Reload"
+msgstr "पुनः लोड करें"
+
+#: inc/h5videochat.php:477
+#, fuzzy
+msgid "Broadcast"
+msgstr "प्रसारण"
+
+#: inc/h5videochat.php:478
+#, fuzzy
+msgid "Stop Broadcast"
+msgstr "प्रसारण बंद करो"
+
+#: inc/h5videochat.php:479
+#, fuzzy
+msgid "Make a selection to start!"
+msgstr "शुरू करने के लिए एक चयन करें!"
+
+#: inc/h5videochat.php:481
+#, fuzzy
+msgid "Lights On"
+msgstr "रोशनी पर"
+
+#: inc/h5videochat.php:482 inc/h5videochat.php:697
+#, fuzzy
+msgid "Dark Mode"
+msgstr "डार्क मोड"
+
+#: inc/h5videochat.php:483
+#, fuzzy
+msgid "Enter Fullscreen"
+msgstr "फुलस्क्रीन दर्ज करें"
+
+#: inc/h5videochat.php:484
+#, fuzzy
+msgid "Exit Fullscreen"
+msgstr "फुलस्क्रीन से बाहर निकलें"
+
+#: inc/h5videochat.php:486
+#, fuzzy
+msgid "Site Menu"
+msgstr "साइट मेनू"
+
+#: inc/h5videochat.php:488
+#, fuzzy
+msgid "Request Private"
+msgstr "निजी अनुरोध"
+
+#: inc/h5videochat.php:489
+#, fuzzy
+msgid "Request Private 2 Way Videochat Show"
+msgstr "प्राइवेट 2 तरह वीडियोचैट शो का अनुरोध करें"
+
+#: inc/h5videochat.php:490
+#, fuzzy
+msgid "Performer Disabled Private Requests"
+msgstr "कलाकार विकलांग निजी अनुरोध"
+
+#: inc/h5videochat.php:491
+#, fuzzy
+msgid "Performer is Busy in Private"
+msgstr "कलाकार निजी में व्यस्त है"
+
+#: inc/h5videochat.php:492
+#, fuzzy
+msgid "Performer is Not Online"
+msgstr "कलाकार ऑनलाइन नहीं है"
+
+#: inc/h5videochat.php:493
+#, fuzzy
+msgid "Nevermind"
+msgstr "नेवरमाइंड"
+
+#: inc/h5videochat.php:494
+#, fuzzy
+msgid "Accept"
+msgstr "स्वीकार करना"
+
+#: inc/h5videochat.php:495
+#, fuzzy
+msgid "Decline"
+msgstr "गिरावट"
+
+#: inc/h5videochat.php:496
+#, fuzzy
+msgid "Close Private"
+msgstr "बंद निजी"
+
+#: inc/h5videochat.php:498 ppv-live-webcams.php:4660
+msgid "Next"
+msgstr "अगला"
+
+#: inc/h5videochat.php:499
+#, fuzzy
+msgid "Next: Random Videochat Room"
+msgstr "अगला: रैंडम वीडियोचैट रूम"
+
+#: inc/h5videochat.php:501 ppv-live-webcams.php:4230
+msgid "Name"
+msgstr "नाम"
+
+#: inc/h5videochat.php:502
+msgid "Size"
+msgstr "आकार"
+
+#: inc/h5videochat.php:503
+#, fuzzy
+msgid "Age"
+msgstr "उम्र"
+
+#: inc/h5videochat.php:504
+#, fuzzy
+msgid "Upload: Drag and drop files here, or click to select files"
+msgstr "अपलोड करें: फ़ाइलों को यहां खींचें और छोड़ दें, या फ़ाइलों का चयन करने के लिए क्लिक करें"
+
+#: inc/h5videochat.php:505
+#, fuzzy
+msgid "Uploading. Please wait..."
+msgstr "अपलोड. कृपया प्रतीक्षा करो..."
+
+#: inc/h5videochat.php:506
+msgid "Open"
+msgstr "खुला"
+
+#: inc/h5videochat.php:507
+msgid "Delete"
+msgstr "हटाएं"
+
+#: inc/h5videochat.php:509
+#, fuzzy
+msgid "Media Displayed"
+msgstr "मीडिया प्रदर्शित"
+
+#: inc/h5videochat.php:510
+msgid "Remove"
+msgstr "हटाना"
+
+#: inc/h5videochat.php:511 ppv-live-webcams.php:6730 ppv-live-webcams.php:6744
+#: ppv-live-webcams.php:6812 ppv-live-webcams.php:6866
+#, fuzzy
+msgid "Default"
+msgstr "चूक"
+
+#: inc/h5videochat.php:512
+#, fuzzy
+msgid "Empty"
+msgstr "खाली"
+
+#: inc/h5videochat.php:514 ppv-live-webcams.php:841 ppv-live-webcams.php:4621
+#: ppv-live-webcams.php:6943
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+#: inc/h5videochat.php:515 ppv-live-webcams.php:6765
+msgid "Show"
+msgstr "दिखाना"
+
+#: inc/h5videochat.php:517
+#, fuzzy
+msgid "Private Call"
+msgstr "निजी कॉल"
+
+#: inc/h5videochat.php:518
+#, fuzzy
+msgid "Exit"
+msgstr "निकासी"
+
+#: inc/h5videochat.php:520
+#, fuzzy
+msgid "External Broadcast"
+msgstr "बाहरी प्रसारण"
+
+#: inc/h5videochat.php:521
+#, fuzzy
+msgid ""
+"Broadcast with external apps for advanced compositions, scenes, effects or "
+"reliability compared to web based interface and protocols. External "
+"broadcasts have higher latency and improved capacity, reliability specific "
+"to HLS delivery method. New broadcasts show in about 10 seconds and "
+"unavailability updates after 1 minute."
+msgstr ""
+"वेब आधारित इंटरफेस और प्रोटोकॉल की तुलना में उन्नत रचनाओं, दृश्यों, प्रभावों या विश्वसनीयता "
+"के लिए बाहरी ऐप्स के साथ प्रसारण। बाहरी प्रसारण ों में उच्च विलंबता और बेहतर क्षमता, "
+"एचएलएस डिलीवरी विधि के लिए विशिष्ट विश्वसनीयता होती है। नए प्रसारण लगभग 10 सेकंड में "
+"दिखाते हैं और 1 मिनट के बाद अनुपलब्धता अपडेट करते हैं।"
+
+#: inc/h5videochat.php:563
+msgid "New"
+msgstr "नई"
+
+#: inc/h5videochat.php:626
+#, fuzzy
+msgid "Disable Call Requests"
+msgstr "कॉल अनुरोधों को अक्षम करें"
+
+#: inc/h5videochat.php:626
+#, fuzzy
+msgid "Disable users from sending private call requests to room owner."
+msgstr "उपयोगकर्ताओं को कमरे के मालिक को निजी कॉल अनुरोध भेजने से अक्षम करें।"
+
+#: inc/h5videochat.php:627
+#, fuzzy
+msgid "Private Room"
+msgstr "निजी कक्ष"
+
+#: inc/h5videochat.php:627
+#, fuzzy
+msgid "Hide room from public listings. Can be accessed by room link."
+msgstr "सार्वजनिक लिस्टिंग से कमरे को छिपाएं। रूम लिंक से पहुंचा जा सकता है।"
+
+#: inc/h5videochat.php:629
+#, fuzzy
+msgid "Calls Only"
+msgstr "कॉल केवल"
+
+#: inc/h5videochat.php:629
+#, fuzzy
+msgid "Call Only mode: can only be used for calls."
+msgstr "केवल मोड पर कॉल करें: केवल कॉल के लिए उपयोग किया जा सकता है।"
+
+#: inc/h5videochat.php:630
+#, fuzzy
+msgid "Group Chat Disabled"
+msgstr "ग्रुप चैट अक्षम"
+
+#: inc/h5videochat.php:630
+#, fuzzy
+msgid "Use room only for instant or locked calls."
+msgstr "केवल तत्काल या बंद कॉल के लिए कमरे का उपयोग करें।"
+
+#: inc/h5videochat.php:632 inc/h5videochat.php:698
+#, fuzzy
+msgid "Audio Only"
+msgstr "ऑडियो ही"
+
+#: inc/h5videochat.php:632
+#, fuzzy
+msgid ""
+"Audio only room mode: Only microphone, no webcam video, for all "
+"participants. Applies both to group and private calls."
+msgstr ""
+"ऑडियो केवल कमरे मोड: सभी प्रतिभागियों के लिए केवल माइक्रोफोन, कोई वेब कैमरा वीडियो। "
+"समूह और निजी दोनों कॉल पर लागू होता है।"
+
+#: inc/h5videochat.php:634
+#, fuzzy
+msgid "Conference Mode"
+msgstr "सम्मेलन मोड"
+
+#: inc/h5videochat.php:634
+#, fuzzy
+msgid ""
+"Enable owner to show multiple users streams at same time in split view. All "
+"users can publish webcam."
+msgstr ""
+"स्प्लिट व्यू में एक ही समय में मालिक को कई उपयोगकर्ताओं स्ट्रीम दिखाने के लिए सक्षम करें। सभी "
+"उपयोगकर्ता वेब कैमरा प्रकाशित कर सकते हैं।"
+
+#: inc/h5videochat.php:636
+#, fuzzy
+msgid "Conference Auto Display"
+msgstr "सम्मेलन ऑटो डिस्प्ले"
+
+#: inc/h5videochat.php:636
+#, fuzzy
+msgid ""
+"Display users automatically in available conference slots when they start "
+"their camera, in conference mode."
+msgstr ""
+"उपयोगकर्ताओं को अपने कैमरे की शुरुआत करते समय उपलब्ध सम्मेलन स्लॉट में स्वचालित रूप से "
+"प्रदर्शित करें, सम्मेलन मोड में।"
+
+#: inc/h5videochat.php:644
+#, fuzzy
+msgid "Display Slots"
+msgstr "डिस्प्ले स्लॉट"
+
+#: inc/h5videochat.php:644
+#, fuzzy
+msgid "Split display to show multiple media items, in conference mode."
+msgstr "सम्मेलन मोड में कई मीडिया आइटम दिखाने के लिए स्प्लिट डिस्प्ले।"
+
+#: inc/h5videochat.php:670
+#, fuzzy
+msgid "Collaboration Mode"
+msgstr "सहयोग मोड"
+
+#: inc/h5videochat.php:670
+#, fuzzy
+msgid "Enable collaboration mode with multiple media, files, presentation."
+msgstr "कई मीडिया, फ़ाइलों, प्रस्तुति के साथ सहयोग मोड को सक्षम करें।"
+
+#: inc/h5videochat.php:676
+#, fuzzy
+msgid "Party Mode"
+msgstr "पार्टी मोड"
+
+#: inc/h5videochat.php:676
+#, fuzzy
+msgid ""
+"In party mode, all users that join room are added to party squad. Entire "
+"party moves to different room with Next button."
+msgstr ""
+"पार्टी मोड में, कमरे में शामिल होने वाले सभी उपयोगकर्ताओं को पार्टी दस्ते में जोड़ा जाता है। "
+"पूरी पार्टी अगले बटन के साथ अलग कमरे में ले जाता है।"
+
+#: inc/h5videochat.php:679
+#, fuzzy
+msgid "Party Reserved"
+msgstr "पार्टी आरक्षित"
+
+#: inc/h5videochat.php:679
+#, fuzzy
+msgid ""
+"Number of reserved party video slots, needs to be available in other room, "
+"to travel."
+msgstr ""
+"आरक्षित पार्टी वीडियो स्लॉट की संख्या, यात्रा करने के लिए, अन्य कमरे में उपलब्ध होने की "
+"आवश्यकता है।"
+
+#: inc/h5videochat.php:691
+#, fuzzy
+msgid "Room Preferences"
+msgstr "कमरे की प्राथमिकताएं"
+
+#: inc/h5videochat.php:696
+#, fuzzy
+msgid "Sound Effects"
+msgstr "ध्वनि प्रभाव"
+
+#: inc/h5videochat.php:696
+#, fuzzy
+msgid "Sound effects (on actions)."
+msgstr "ध्वनि प्रभाव (कार्यों पर)।"
+
+#: inc/h5videochat.php:697
+#, fuzzy
+msgid "Dark interface mode."
+msgstr "डार्क इंटरफेस मोड।"
+
+#: inc/h5videochat.php:698
+#, fuzzy
+msgid ""
+"Audio only user mode: Publish only microphone, no webcam video. Applies both "
+"to group and private calls."
+msgstr ""
+"ऑडियो केवल उपयोगकर्ता मोड: केवल माइक्रोफोन, कोई वेबकैम वीडियो प्रकाशित करें। समूह और "
+"निजी दोनों कॉल पर लागू होता है।"
+
+#: inc/h5videochat.php:699
+#, fuzzy
+msgid "Reveal Mode"
+msgstr "मोड प्रकट करें"
+
+#: inc/h5videochat.php:699
+#, fuzzy
+msgid ""
+"Webcam reveal mode: hide webcam in private calls and use a Reveal button to "
+"enable on request."
+msgstr ""
+"वेबकैम प्रकट मोड: निजी कॉल में वेब कैम को छिपाएं और अनुरोध पर सक्षम करने के लिए एक प्रकट "
+"बटन का उपयोग करें।"
+
+#: inc/h5videochat.php:706
+#, fuzzy
+msgid "Reveal Warmup"
+msgstr "वार्मअप का खुलासा"
+
+#: inc/h5videochat.php:706
+#, fuzzy
+msgid "Time in seconds required before revealing webcam is possible."
+msgstr "वेब कैम का खुलासा करने से पहले आवश्यक सेकंड में समय संभव है।"
+
+#: inc/h5videochat.php:718
+#, fuzzy
+msgid "User Preferences"
+msgstr "उपयोगकर्ता प्राथमिकताएं"
+
+#: inc/h5videochat.php:925
+#, fuzzy
+msgid "You are room performer."
+msgstr "आप कमरे के कलाकार हैं।"
+
+#: inc/h5videochat.php:928
+#, fuzzy
+msgid "This is a private room (not listed)."
+msgstr "यह एक निजी कमरा है (सूचीबद्ध नहीं) ।"
+
+#: inc/h5videochat.php:931
+#, fuzzy
+msgid ""
+"This room can only be used for predefined locked calls. Participants need a "
+"private call link."
+msgstr ""
+"इस कमरे का उपयोग केवल पूर्वनिर्धारित लॉक कॉल के लिए किया जा सकता है। प्रतिभागियों को "
+"एक निजी कॉल लिंक की आवश्यकता होती है।"
+
+#: inc/h5videochat.php:934
+#, fuzzy
+msgid ""
+"Group chat is disabled. Participants can only access this room for instant "
+"or locked calls."
+msgstr ""
+"ग्रुप चैट अक्षम है। प्रतिभागी केवल तत्काल या लॉक कॉल के लिए इस कमरे तक पहुंच सकते हैं।"
+
+#: inc/h5videochat.php:948
+#, fuzzy
+msgid "This is a paid room:"
+msgstr "यह एक भुगतान कक्ष है:"
+
+#: inc/h5videochat.php:949 ppv-live-webcams.php:9777
+#, fuzzy
+msgid "Group Mode"
+msgstr "ग्रुप मोड"
+
+#: inc/h5videochat.php:950 ppv-live-webcams.php:9778
+#, fuzzy
+msgid "Group session cost"
+msgstr "समूह सत्र लागत"
+
+#: inc/h5videochat.php:951 inc/h5videochat.php:979 inc/h5videochat.php:1008
+#: ppv-live-webcams.php:9688 ppv-live-webcams.php:9755
+#, fuzzy
+msgid "Charging starts after a grace time:"
+msgstr "चार्जिंग एक ग्रेस समय के बाद शुरू होता है:"
+
+#: inc/h5videochat.php:952
+#, fuzzy
+msgid ""
+"All participants pay during this session: Private calls are not available."
+msgstr "सभी प्रतिभागी इस सत्र के दौरान भुगतान करते हैं: निजी कॉल उपलब्ध नहीं हैं।"
+
+#: inc/h5videochat.php:963
+#, fuzzy
+msgid ""
+"You are in Voyeur mode: hidden from user list. Participants will not be "
+"aware of your presence unless you write in text chat."
+msgstr ""
+"आप घूमर मोड में हैं: उपयोगकर्ता सूची से छिपा हुआ है। प्रतिभागियों को आपकी उपस्थिति के बारे "
+"में पता नहीं होगा जब तक आप पाठ चैट में लिखते हैं।"
+
+#: inc/h5videochat.php:964
+#, fuzzy
+msgid "Voyeur cost"
+msgstr "घूरना लागत"
+
+#: inc/h5videochat.php:977
+#, fuzzy
+msgid ""
+"Registered users can request private calls during free presale chat and you "
+"can accept:"
+msgstr ""
+"पंजीकृत उपयोगकर्ता मुफ्त प्रीसेल चैट के दौरान निजी कॉल का अनुरोध कर सकते हैं और आप स्वीकार "
+"कर सकते हैं:"
+
+#: inc/h5videochat.php:978
+#, fuzzy
+msgid "Private show cost per minute, for client:"
+msgstr "ग्राहक के लिए प्रति मिनट निजी शो लागत:"
+
+#: inc/h5videochat.php:980
+#, fuzzy
+msgid "Private call earning per minute, for performer:"
+msgstr "निजी कॉल प्रति मिनट कमाई, कलाकार के लिए:"
+
+#: inc/h5videochat.php:1000 ppv-live-webcams.php:9684
+#, fuzzy
+msgid "You do not have enough credits to request a private show."
+msgstr "आपके पास निजी शो का अनुरोध करने के लिए पर्याप्त क्रेडिट नहीं है।"
+
+#: inc/h5videochat.php:1005
+#, fuzzy
+msgid "You can request private session from room performer when available:"
+msgstr "आप उपलब्ध होने पर कमरे के कलाकार से निजी सत्र का अनुरोध कर सकते हैं:"
+
+#: inc/h5videochat.php:1007 ppv-live-webcams.php:9652
+#, fuzzy
+msgid "Private show cost per minute:"
+msgstr "प्रति मिनट निजी शो लागत:"
+
+#: inc/h5videochat.php:1019
+#, fuzzy
+msgid ""
+"This room is in party mode and all users join the party squad. Entire party "
+"can be moved to other rooms by host."
+msgstr ""
+"यह कमरा पार्टी मोड में है और सभी उपयोगकर्ता पार्टी दस्ते में शामिल होते हैं। मेजबान द्वारा "
+"पूरी पार्टी को अन्य कमरों में ले जाया जा सकता है।"
+
+#: inc/h5videochat.php:1027
+#, fuzzy
+msgid "You are in a party"
+msgstr "आप एक पार्टी में हैं"
+
+#: inc/h5videochat.php:1030
+#, fuzzy
+msgid ""
+"You are a party host. You can move party with Next and manage party users."
+msgstr ""
+"आप एक पार्टी होस्ट हैं। आप अगले के साथ पार्टी स्थानांतरित कर सकते हैं और पार्टी "
+"उपयोगकर्ताओं का प्रबंधन कर सकते हैं।"
+
+#: inc/h5videochat.php:1076
+#, fuzzy
+msgid "Room is in collaboration mode, with a Files panel."
+msgstr "कमरा एक फ़ाइलपैनल के साथ सहयोग मोड में है।"
+
+#: inc/h5videochat.php:1157
+#, fuzzy
+msgid "Stream URL"
+msgstr "स्ट्रीम यूआरएल"
+
+#: inc/h5videochat.php:1157
+#, fuzzy
+msgid ""
+"RTMP Address / OBS Stream URL: full streaming address. Contains: server, "
+"port if different than default 1935, application and control parameters, "
+"key. For OBS Settings: Stream > Server."
+msgstr ""
+"आरटीएमपी पता/ओडीएस स्ट्रीम यूआरएल: पूर्ण स्ट्रीमिंग पता। इसमें शामिल हैं: सर्वर, पोर्ट यदि "
+"डिफ़ॉल्ट 1935 से अलग है, तो आवेदन और नियंत्रण मापदंडों, कुंजी। OBS सेटिंग्स के लिए: स्ट्रीम > "
+"सर्वर।"
+
+#: inc/h5videochat.php:1158
+#, fuzzy
+msgid "Stream Key"
+msgstr "स्ट्रीम कुंजी"
+
+#: inc/h5videochat.php:1158
+#, fuzzy
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key."
+msgstr ""
+"स्ट्रीम नाम/OBS स्ट्रीम कुंजी: स्ट्रीम का नाम । OBS सेटिंग्स के लिए: स्ट्रीम > स्ट्रीम कुंजी।"
+
+#: inc/h5videochat.php:1172
+#, fuzzy
+msgid "Maximum Video Bitrate"
+msgstr "अधिकतम वीडियो बिटरेट"
+
+#: inc/h5videochat.php:1172
+#, fuzzy
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution. A static "
+"background and less motion requires less bitrate than movies, sports, games. "
+"For OBS Settings: Output > Streaming > Video Bitrate. Warning: Trying to "
+"broadcast higher bitrate than allowed by streaming server will result in "
+"disconnects/failures."
+msgstr ""
+"संकल्प के आधार पर वीडियो बिटरेट के लिए इस मूल्य या कम का उपयोग करें। एक स्थिर पृष्ठभूमि "
+"और कम गति फिल्मों, खेल, खेल की तुलना में कम बिटरेट की आवश्यकता है। OBS सेटिंग्स के लिए: "
+"आउटपुट > स्ट्रीमिंग > वीडियो बिटरेट । चेतावनी: सर्वर स्ट्रीमिंग द्वारा अनुमति से अधिक "
+"बिटरेट प्रसारित करने की कोशिश कर डिस्कनेक्ट/विफलताओं में परिणाम होगा ।"
+
+#: inc/h5videochat.php:1174
+#, fuzzy
+msgid "Maximum Audio Bitrate"
+msgstr "अधिकतम ऑडियो बिटरेट"
+
+#: inc/h5videochat.php:1174
+#, fuzzy
+msgid ""
+"Use this value or lower for audio bitrate. If you want to use higher Audio "
+"Bitrate, lower Video Bitrate to compensate for higher audio. For OBS "
+"Settings: Output > Streaming > Audio Bitrate. Warning: Trying to broadcast "
+"higher bitrate than allowed by streaming server will result in disconnects/"
+"failures."
+msgstr ""
+"ऑडियो बिटरेट के लिए इस मूल्य या कम का उपयोग करें। यदि आप उच्च ऑडियो बिटरेट का उपयोग "
+"करना चाहते हैं, तो उच्च ऑडियो की भरपाई के लिए कम वीडियो बिटरेट। OBS सेटिंग्स के लिए: "
+"आउटपुट > स्ट्रीमिंग > ऑडियो बिटरेट । चेतावनी: सर्वर स्ट्रीमिंग द्वारा अनुमति से अधिक "
+"बिटरेट प्रसारित करने की कोशिश कर डिस्कनेक्ट/विफलताओं में परिणाम होगा ।"
+
+#: inc/h5videochat.php:1182
+#, fuzzy
+msgid "RTMP Encoder / OBS Settings"
+msgstr "आरटीएमपी एनकोडर/ओडीएस सेटिंग्स"
+
+#: inc/h5videochat.php:1182
+#, fuzzy
+msgid ""
+"Use these settings to broadcast with a RTMP encoder app like OBS, iOS/"
+"Android GoCoder, xSplit, Zoom Meetings Webinars."
+msgstr ""
+"इन सेटिंग्स का उपयोग ओओएस, आईओएस/एंड्रॉयड गोकोडर, एक्सस्प्लिट, जूम मीटिंग्स वेबिनार जैसे "
+"आरटीएमपी एनकोडर ऐप के साथ प्रसारित करने के लिए करें ।"
+
+#: inc/h5videochat.php:1749
+#, fuzzy
+msgid "Only room owner can edit room options."
+msgstr "केवल कमरे के मालिक कमरे के विकल्प ों को संपादित कर सकते हैं।"
+
+#: inc/h5videochat.php:1796 inc/h5videochat.php:1851
+#, fuzzy
+msgid "Only performer can moderate."
+msgstr "केवल कलाकार ही मॉडरेट कर सकते हैं।"
+
+#: inc/h5videochat.php:1904 inc/h5videochat.php:1954 inc/h5videochat.php:1979
+#, fuzzy
+msgid "Only performer can moderate presentation."
+msgstr "केवल कलाकार ही प्रस्तुति को मॉडरेट कर सकता है।"
+
+#: inc/h5videochat.php:1937
+#, fuzzy
+msgid "User not found to display:"
+msgstr "उपयोगकर्ता को प्रदर्शित करने के लिए नहीं मिला:"
+
+#: inc/h5videochat.php:1939
+#, fuzzy
+msgid "User is visitor. User needs to login to broadcast camera."
+msgstr ""
+"उपयोगकर्ता आगंतुक है। उपयोगकर्ता को कैमरा प्रसारित करने के लिए लॉगिन करने की आवश्यकता है।"
+
+#: inc/h5videochat.php:2015
+#, fuzzy
+msgid "File not found to display:"
+msgstr "प्रदर्शित करने के लिए नहीं मिली फाइल:"
+
+#: inc/h5videochat.php:2030
+#, fuzzy
+msgid "Only performer can delete files."
+msgstr "केवल कलाकार ही फ़ाइलों को हटा सकता है।"
+
+#: inc/h5videochat.php:2046
+#, fuzzy
+msgid "File not found:"
+msgstr "फाइल नहीं मिली:"
+
+#: inc/h5videochat.php:2183
+#, fuzzy
+msgid "Returned to party start room."
+msgstr "पार्टी स्टार्ट रूम में लौट आए ।"
+
+#: inc/h5videochat.php:2247
+#, fuzzy
+msgid "Your party moves with you."
+msgstr "आपकी पार्टी आपके साथ चलती है।"
+
+#: inc/h5videochat.php:2261
+#, fuzzy
+msgid "You can move a different room using Next button again."
+msgstr "आप फिर से अगले बटन का उपयोग करके एक अलग कमरे को स्थानांतरित कर सकते हैं।"
+
+#: inc/h5videochat.php:2267
+#, fuzzy
+msgid "No next room found with current criteria!"
+msgstr "कोई अगला कमरा वर्तमान मानदंडों के साथ नहीं मिला!"
+
+#: inc/h5videochat.php:2447
+#, fuzzy
+msgid "Tip in"
+msgstr "टिप में"
+
+#: inc/h5videochat.php:2463
+#, fuzzy
+msgid "checked in"
+msgstr "चेक इन किया गया"
+
+#: inc/h5videochat.php:2471 inc/h5videochat.php:2479 ppv-live-webcams.php:10349
+#, fuzzy
+msgid "Tip from"
+msgstr "से टिप"
+
+#: inc/h5videochat.php:2511
+#, fuzzy
+msgid "You closed private call."
+msgstr "आपने निजी कॉल बंद कर दी।"
+
+#: inc/h5videochat.php:2835 inc/h5videochat.php:2836
+#, fuzzy
+msgid "Private call was closed."
+msgstr "निजी कॉल बंद थी।"
+
+#: inc/h5videochat.php:2856
+#, fuzzy
+msgid "Following party to different room."
+msgstr "विभिन्न कमरे में पार्टी के बाद।"
+
+#: inc/h5videochat.php:2879
+#, fuzzy
+msgid "Moved to different room with party."
+msgstr "पार्टी के साथ अलग-अलग कमरे में चले गए।"
+
+#: inc/options.php:1330
+#, fuzzy
+msgid "Customize Features/Labels by Site Type"
+msgstr "साइट टाइप द्वारा सुविधाओं/लेबलकोस को कस्टमाइज़ करें"
+
+#: inc/options.php:1394 ppv-live-webcams.php:6692
+#, fuzzy
+msgid "Paid Questions and Messages"
+msgstr "भुगतान किए गए प्रश्न और संदेश"
+
+#: inc/options.php:1415
+#, fuzzy
+msgid "Random Video Chat"
+msgstr "रैंडम वीडियो चैट"
+
+#: inc/options.php:1458
+#, fuzzy
+msgid "Setup Pages"
+msgstr "सेटअप पेज"
+
+#: inc/options.php:1467
+#, fuzzy
+msgid "Update Pages"
+msgstr "अपडेट पेज"
+
+#: inc/options.php:1536
+#, fuzzy
+msgid "Setup Overview"
+msgstr "सेटअप अवलोकन"
+
+#: inc/options.php:1546
+#, fuzzy
+msgid "Setup Checkpoints"
+msgstr "सेटअप चौकियों"
+
+#: inc/options.php:1715 inc/options.php:1945
+#, fuzzy
+msgid "Client IP"
+msgstr "क्लाइंट आईपी"
+
+#: inc/options.php:1718 inc/options.php:1948
+#, fuzzy
+msgid ""
+"ERROR: Can not detect location. GeoIP extension is required on host for this "
+"functionality."
+msgstr ""
+"त्रुटि: स्थान का पता नहीं लगा सकते हैं। इस कार्यक्षमता के लिए मेजबान पर जियोआईपी एक्सटेंशन "
+"की आवश्यकता होती है।"
+
+#: inc/options.php:1722 inc/options.php:1952
+#, fuzzy
+msgid "Continent"
+msgstr "महाद्वीप"
+
+#: inc/options.php:1723 inc/options.php:1953
+msgid "Country"
+msgstr "देश"
+
+#: inc/options.php:1724 inc/options.php:1954
+msgid "Region"
+msgstr "क्षेत्र"
+
+#: inc/options.php:1725 inc/options.php:1955
+msgid "City"
+msgstr "शहर"
+
+#: inc/options.php:1986
+#, fuzzy
+msgid "Import Options"
+msgstr "आयात विकल्प"
+
+#: inc/options.php:2024
+#, fuzzy
+msgid "Reset Options"
+msgstr "रीसेट विकल्प"
+
+#: inc/options.php:4169 ppv-live-webcams.php:558 ppv-live-webcams.php:5305
+#, fuzzy
+msgid "Webcams"
+msgstr "वेबकैम"
+
+#: inc/options.php:4170 ppv-live-webcams.php:11818
+#, fuzzy
+msgid "Performer Dashboard"
+msgstr "कलाकार डैशबोर्ड"
+
+#: inc/options.php:4171 ppv-live-webcams.php:11836
+#, fuzzy
+msgid "Studio Dashboard"
+msgstr "स्टूडियो डैशबोर्ड"
+
+#: inc/options.php:4172
+#, fuzzy
+msgid "Chat Logout"
+msgstr "चैट लॉगआउट"
+
+#: inc/options.php:4173
+#, fuzzy
+msgid "Random Cam"
+msgstr "रैंडम कैम"
+
+#: inc/options.php:4174 ppv-live-webcams.php:11827
+#, fuzzy
+msgid "Client Dashboard"
+msgstr "क्लाइंट डैशबोर्ड"
+
+#: inc/shortcodes.php:50
+#, fuzzy
+msgid "Login to send questions or messages!"
+msgstr "प्रश्न या संदेश भेजने के लिए लॉगिन!"
+
+#: inc/shortcodes.php:78
+#, fuzzy
+msgid "You need cost of message in balance to send it."
+msgstr "इसे भेजने के लिए आपको बैलेंस में मैसेज की लागत की जरूरत होती है ।"
+
+#: inc/shortcodes.php:78 ppv-live-webcams.php:744
+#, fuzzy
+msgid "Wallet"
+msgstr "बटुआ"
+
+#: inc/shortcodes.php:100
+#, fuzzy
+msgid "Paid Message to"
+msgstr "भुगतान संदेश के लिए"
+
+#: inc/shortcodes.php:105
+#, fuzzy
+msgid "Your message was sent."
+msgstr "आपका संदेश भेजा गया था।"
+
+#: inc/shortcodes.php:106 inc/shortcodes.php:375 inc/shortcodes.php:492
+#, fuzzy
+msgid "View Message"
+msgstr "देखें संदेश"
+
+#: inc/shortcodes.php:118
+#, fuzzy
+msgid "Your Question or Message"
+msgstr "आपका प्रश्न या संदेश"
+
+#: inc/shortcodes.php:119
+#, fuzzy
+msgid "Send Message to"
+msgstr "संदेश भेजें"
+
+#: inc/shortcodes.php:121
+#, fuzzy
+msgid "Cost per question or message"
+msgstr "प्रश्न या संदेश प्रति लागत"
+
+#: inc/shortcodes.php:122 ppv-live-webcams.php:5503
+#, fuzzy
+msgid "Your current balance"
+msgstr "आपका वर्तमान संतुलन"
+
+#: inc/shortcodes.php:179 inc/shortcodes.php:385 inc/shortcodes.php:500
+#, fuzzy
+msgid "No Messages"
+msgstr "कोई संदेश नहीं"
+
+#: inc/shortcodes.php:191 inc/shortcodes.php:428
+#, fuzzy
+msgid "Login to manage messages and replies!"
+msgstr "संदेश और जवाब का प्रबंधन करने के लिए लॉगिन!"
+
+#: inc/shortcodes.php:308
+#, fuzzy
+msgid "Paid Message Earning from "
+msgstr "भुगतान संदेश से कमाई"
+
+#: inc/shortcodes.php:309
+#, fuzzy
+msgid "Your reply was sent and you got paid."
+msgstr "आपका उत्तर भेजा गया और आपको भुगतान मिल गया।"
+
+#: inc/shortcodes.php:311
+#, fuzzy
+msgid "Your reply was sent."
+msgstr "आपका उत्तर भेजा गया था।"
+
+#: inc/shortcodes.php:339
+#, fuzzy
+msgid "Send Reply"
+msgstr "जवाब भेजें"
+
+#: inc/shortcodes.php:373 inc/shortcodes.php:489
+#, fuzzy
+msgid "Replied"
+msgstr "कहा"
+
+#: inc/shortcodes.php:380
+#, fuzzy
+msgid ""
+"You receive payment for paid messages on reply. Clients can access their "
+"messages and replies from client dashboard and in messages section from "
+"webcam profile."
+msgstr ""
+"आपको उत्तर पर भुगतान किए गए संदेशों के लिए भुगतान प्राप्त होता है। ग्राहक अपने संदेशों और "
+"जवाबों को क्लाइंट डैशबोर्ड से और वेबकैम प्रोफाइल से संदेश अनुभाग में एक्सेस कर सकते हैं।"
+
+#: inc/shortcodes.php:397
+#, fuzzy
+msgid "Login to access as client!"
+msgstr "ग्राहक के रूप में उपयोग करने के लिए लॉगिन!"
+
+#: inc/shortcodes.php:404
+#, fuzzy
+msgid "Active balance"
+msgstr "सक्रिय संतुलन"
+
+#: inc/shortcodes.php:405
+#, fuzzy
+msgid "All Balances"
+msgstr "सभी शेष"
+
+#: inc/shortcodes.php:406
+#, fuzzy
+msgid "Manage Wallet"
+msgstr "वॉलेट का प्रबंधन करें"
+
+#: inc/shortcodes.php:411
+#, fuzzy
+msgid "My Questions and Messages"
+msgstr "मेरे प्रश्न और संदेश"
+
+#: inc/shortcodes.php:415
+#, fuzzy
+msgid "My Calls"
+msgstr "मेरी कॉल"
+
+#: inc/shortcodes.php:513
+#, fuzzy
+msgid "Login to manage calls!"
+msgstr "कॉल का प्रबंधन करने के लिए लॉगिन!"
+
+#: inc/shortcodes.php:601
+#, fuzzy
+msgid "New call was setup"
+msgstr "नई कॉल सेटअप था"
+
+#: inc/shortcodes.php:607
+#, fuzzy
+msgid ""
+"Error: Client was not found by email or username! User needs to register to "
+"be able to login and access the private call."
+msgstr ""
+"त्रुटि: ग्राहक ईमेल या उपयोगकर्ता नाम से नहीं मिला! उपयोगकर्ता को लॉगिन करने और निजी "
+"कॉल तक पहुंचने में सक्षम होने के लिए पंजीकरण करने की आवश्यकता होती है।"
+
+#: inc/shortcodes.php:621
+#, fuzzy
+msgid "Paid"
+msgstr "भुगतान किया"
+
+#: inc/shortcodes.php:622
+#, fuzzy
+msgid "Free"
+msgstr "मुफ्त"
+
+#: inc/shortcodes.php:629
+#, fuzzy
+msgid "Client"
+msgstr "ग्राहक"
+
+#: inc/shortcodes.php:629
+msgid "Username or Email"
+msgstr "उपयोगकर्ता नाम या ईमेल"
+
+#: inc/shortcodes.php:630
+#, fuzzy
+msgid "Call Mode"
+msgstr "कॉल मोड"
+
+#: inc/shortcodes.php:631
+#, fuzzy
+msgid "Setup Call"
+msgstr "सेटअप कॉल"
+
+#: inc/shortcodes.php:634
+#, fuzzy
+msgid ""
+"Setup locked private calls that can only be accessed by client using "
+"dedicated call link. Clients can access their persistent calls list in "
+"client dashboard.  "
+msgstr ""
+"सेटअप लॉक निजी कॉल जो केवल समर्पित कॉल लिंक का उपयोग करके ग्राहक द्वारा एक्सेस किया "
+"जा सकता है। ग्राहक ग्राहक डैशबोर्ड में अपनी लगातार कॉल सूची का उपयोग कर सकते हैं।"
+
+#: inc/shortcodes.php:672
+#, fuzzy
+msgid "Access"
+msgstr "पहुँच"
+
+#: inc/shortcodes.php:673
+msgid "Closed"
+msgstr "संवृत"
+
+#: inc/shortcodes.php:681
+#, fuzzy
+msgid "No Calls"
+msgstr "कोई कॉल नहीं"
+
+#: inc/shortcodes.php:1303
+#, fuzzy
+msgid "Loading Live Webcams"
+msgstr "लाइव वेबकैम लोड करना"
+
+#: inc/shortcodes.php:1482
+#, fuzzy
+msgid "Broadcasting not allowed: Only logged in users can broadcast!"
+msgstr "प्रसारण की अनुमति नहीं: केवल उपयोगकर्ताओं में लॉग इन प्रसारण कर सकते हैं!"
+
+#: inc/shortcodes.php:1878 ppv-live-webcams.php:2930 ppv-live-webcams.php:9609
+#, fuzzy
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today!"
+msgstr "मुफ्त चैट दैनिक समय सीमा तक पहुंच: आप आज केवल भुगतान समूह के कमरे तक पहुंच सकते हैं!"
+
+#: inc/shortcodes.php:1879 ppv-live-webcams.php:2931 ppv-live-webcams.php:9610
+#, fuzzy
+msgid ""
+"Free chat daily visitor time limit reached: Register and login for more chat "
+"time today!"
+msgstr ""
+"मुफ्त चैट दैनिक आगंतुक समय सीमा तक पहुंच गया: रजिस्टर और अधिक चैट समय के लिए लॉगिन आज!"
+
+#: inc/shortcodes.php:2134
+#, fuzzy
+msgid "Try HTML5 Videochat"
+msgstr "HTML5 वीडियोचैट का प्रयास करें"
+
+#: ppv-live-webcams.php:556
+#, fuzzy
+msgctxt "Post Type General Name"
+msgid "Webcams"
+msgstr "वेबकैम"
+
+#: ppv-live-webcams.php:557
+#, fuzzy
+msgctxt "Post Type Singular Name"
+msgid "Webcam"
+msgstr "वेब कैमरा"
+
+#: ppv-live-webcams.php:559
+#, fuzzy
+msgid "Parent Webcam:"
+msgstr "अभिभावक वेबकैम:"
+
+#: ppv-live-webcams.php:560
+#, fuzzy
+msgid "All Webcams"
+msgstr "सभी वेबकैम"
+
+#: ppv-live-webcams.php:561
+#, fuzzy
+msgid "View Webcam"
+msgstr "वेब कैमरा देखें"
+
+#: ppv-live-webcams.php:562
+#, fuzzy
+msgid "Add New Webcam"
+msgstr "नया वेबकैम जोड़ें"
+
+#: ppv-live-webcams.php:563
+#, fuzzy
+msgid "New Webcam"
+msgstr "नया वेबकैम"
+
+#: ppv-live-webcams.php:564
+#, fuzzy
+msgid "Edit Webcam"
+msgstr "वेबकैम संपादित करें"
+
+#: ppv-live-webcams.php:565
+#, fuzzy
+msgid "Update Webcam"
+msgstr "वेबकैम अपडेट करें"
+
+#: ppv-live-webcams.php:566
+#, fuzzy
+msgid "Search Webcams"
+msgstr "वेबकैम खोजें"
+
+#: ppv-live-webcams.php:567
+#, fuzzy
+msgid "No webcams found"
+msgstr "कोई वेबकैम नहीं मिला"
+
+#: ppv-live-webcams.php:568
+#, fuzzy
+msgid "No webcams found in Trash"
+msgstr "कचरे में कोई वेबकैम नहीं मिला"
+
+#: ppv-live-webcams.php:572
+#, fuzzy
+msgid "webcam"
+msgstr "वेब कैमरा"
+
+#: ppv-live-webcams.php:573
+#, fuzzy
+msgid "Live Webcams"
+msgstr "लाइव वेबकैम"
+
+#: ppv-live-webcams.php:645
+#, fuzzy
+msgid "Access Forbidden!"
+msgstr "प्रवेश निषिद्ध!"
+
+#: ppv-live-webcams.php:744
+#, fuzzy
+msgid "This is a paid room. A minimum balance required to access."
+msgstr "यह एक पेड रूम है। एक न्यूनतम शेष राशि का उपयोग करने के लिए आवश्यक है।"
+
+#: ppv-live-webcams.php:749
+#, fuzzy
+msgid "This is a paid room. Login is required to access a paid room."
+msgstr "यह एक पेड रूम है। लॉगिन के लिए एक भुगतान कक्ष का उपयोग करने की आवश्यकता है।"
+
+#: ppv-live-webcams.php:813
+#, fuzzy
+msgid "Room Page"
+msgstr "कक्ष पृष्ठ"
+
+#: ppv-live-webcams.php:814
+#, fuzzy
+msgid "Room Profile Content"
+msgstr "रूम प्रोफाइल सामग्री"
+
+#: ppv-live-webcams.php:815
+#, fuzzy
+msgid "Room Profile Info"
+msgstr "रूम प्रोफाइल जानकारी"
+
+#: ppv-live-webcams.php:817 ppv-live-webcams.php:846 ppv-live-webcams.php:6688
+msgid "Messages"
+msgstr "संदेश"
+
+#: ppv-live-webcams.php:843 ppv-live-webcams.php:912 ppv-live-webcams.php:7127
+#: ppv-live-webcams.php:7814
+msgid "Videos"
+msgstr "वीडियो"
+
+#: ppv-live-webcams.php:844 ppv-live-webcams.php:927 ppv-live-webcams.php:7590
+#: ppv-live-webcams.php:7820
+#, fuzzy
+msgid "Pictures"
+msgstr "चित्र"
+
+#: ppv-live-webcams.php:845 ppv-live-webcams.php:944
+#, fuzzy
+msgid "Reviews"
+msgstr "समीक्षाएँ"
+
+#: ppv-live-webcams.php:857 ppv-live-webcams.php:7160
+#, fuzzy
+msgid "Teaser"
+msgstr "टीज़र"
+
+#: ppv-live-webcams.php:866
+#, fuzzy
+msgid "Meta"
+msgstr "मेटा"
+
+#: ppv-live-webcams.php:876
+#, fuzzy
+msgid "Maximum viewers"
+msgstr "अधिकतम दर्शक"
+
+#: ppv-live-webcams.php:887
+#, fuzzy
+msgid "Paid sessions"
+msgstr "पेड सेशन"
+
+#: ppv-live-webcams.php:887
+#, fuzzy
+msgid "private"
+msgstr "निजी"
+
+#: ppv-live-webcams.php:887
+#, fuzzy
+msgid "group"
+msgstr "समूह"
+
+#: ppv-live-webcams.php:887 ppv-live-webcams.php:7707 ppv-live-webcams.php:7733
+#, fuzzy
+msgid "Logged days"
+msgstr "लॉग इन डेज"
+
+#: ppv-live-webcams.php:895
+#, fuzzy
+msgid "Profile Info"
+msgstr "प्रोफाइल जानकारी"
+
+#: ppv-live-webcams.php:897 ppv-live-webcams.php:6793 ppv-live-webcams.php:7844
+msgid "Description"
+msgstr "विवरण"
+
+#: ppv-live-webcams.php:940
+#, fuzzy
+msgid "My Review"
+msgstr "मेरी समीक्षा"
+
+#: ppv-live-webcams.php:971
+#, fuzzy
+msgid "Send Question or Message"
+msgstr "प्रश्न या संदेश भेजें"
+
+#: ppv-live-webcams.php:973
+#, fuzzy
+msgid "My Previous Questions and Messages"
+msgstr "मेरे पिछले प्रश्न और संदेश"
+
+#: ppv-live-webcams.php:1187 ppv-live-webcams.php:6866
+#: ppv-live-webcams.php:7803 ppv-live-webcams.php:7814
+#: ppv-live-webcams.php:7820 ppv-live-webcams.php:7826
+#: ppv-live-webcams.php:7840 ppv-live-webcams.php:12030
+msgid "Yes"
+msgstr "हाँ"
+
+#: ppv-live-webcams.php:1187 ppv-live-webcams.php:6866
+#: ppv-live-webcams.php:7803 ppv-live-webcams.php:7814
+#: ppv-live-webcams.php:7820 ppv-live-webcams.php:7826
+#: ppv-live-webcams.php:7840 ppv-live-webcams.php:12030
+msgid "No"
+msgstr "नहीं"
+
+#: ppv-live-webcams.php:2555 ppv-live-webcams.php:10486
+#, fuzzy
+msgid ""
+"Not enough funds left for client to continue session. Minimum required: "
+msgstr "नहीं पर्याप्त धन ग्राहक के लिए सत्र जारी रखने के लिए छोड़ दिया है । न्यूनतम आवश्यक:"
+
+#: ppv-live-webcams.php:2563 ppv-live-webcams.php:10492
+#, fuzzy
+msgid "Session was already ended."
+msgstr "सत्र पहले ही समाप्त हो चुका था।"
+
+#: ppv-live-webcams.php:2897 ppv-live-webcams.php:9533
+#: ppv-live-webcams.php:10265
+#, fuzzy
+msgid "You are banned from accessing this room! By"
+msgstr "आप इस कमरे तक पहुंचने से प्रतिबंधित कर रहे हैं! द्वारा"
+
+#: ppv-live-webcams.php:2912
+#, fuzzy
+msgid ""
+"Not enough funds left for client to continue group chat session. Minimum "
+"required: "
+msgstr ""
+"समूह चैट सत्र जारी रखने के लिए ग्राहक के लिए पर्याप्त धन नहीं बचा है। न्यूनतम आवश्यक:"
+
+#: ppv-live-webcams.php:2914
+#, fuzzy
+msgid "Only registered and logged in users can access paid sessions."
+msgstr "केवल पंजीकृत और लॉग इन किए गए उपयोगकर्ता भुगतान किए गए सत्रों तक पहुंच सकते हैं।"
+
+#: ppv-live-webcams.php:3970 ppv-live-webcams.php:11730
+#, fuzzy
+msgid "LIVE"
+msgstr "रहना"
+
+#: ppv-live-webcams.php:4149
+msgid "All"
+msgstr "所有"
+
+#: ppv-live-webcams.php:4151
+#, fuzzy
+msgid "All, Paid"
+msgstr "सभी, भुगतान किया"
+
+#: ppv-live-webcams.php:4153
+#, fuzzy
+msgid "All, Free"
+msgstr "सभी, नि: शुल्क"
+
+#: ppv-live-webcams.php:4156
+#, fuzzy
+msgid "Online"
+msgstr "ऑनलाइन"
+
+#: ppv-live-webcams.php:4158
+#, fuzzy
+msgid "Online, Available"
+msgstr "ऑनलाइन, उपलब्ध"
+
+#: ppv-live-webcams.php:4160
+#, fuzzy
+msgid "Available, Paid"
+msgstr "उपलब्ध, भुगतान"
+
+#: ppv-live-webcams.php:4162
+#, fuzzy
+msgid "Available, Free"
+msgstr "उपलब्ध, मुफ्त"
+
+#: ppv-live-webcams.php:4165
+#, fuzzy
+msgid "Online, In Private"
+msgstr "ऑनलाइन, निजी में"
+
+#: ppv-live-webcams.php:4167
+#, fuzzy
+msgid "Offline"
+msgstr "ऑफ़लाइन"
+
+#: ppv-live-webcams.php:4175
+msgid "All Categories"
+msgstr "सब वर्ग"
+
+#: ppv-live-webcams.php:4183
+#, fuzzy
+msgid "Order By"
+msgstr "आदेश द्वारा"
+
+#: ppv-live-webcams.php:4185
+#, fuzzy
+msgid "Default Order"
+msgstr "डिफ़ॉल्ट आदेश"
+
+#: ppv-live-webcams.php:4187
+#, fuzzy
+msgid "Current Viewers"
+msgstr "वर्तमान दर्शक"
+
+#: ppv-live-webcams.php:4189
+#, fuzzy
+msgid "Broadcast Recently"
+msgstr "हाल ही में प्रसारण"
+
+#: ppv-live-webcams.php:4190
+#, fuzzy
+msgid "Created Recently"
+msgstr "हाल ही में बनाया गया"
+
+#: ppv-live-webcams.php:4192
+#, fuzzy
+msgid "Maximum Viewers"
+msgstr "अधिकतम दर्शक"
+
+#: ppv-live-webcams.php:4194
+#, fuzzy
+msgid "Random"
+msgstr "यादृच्छिक"
+
+#: ppv-live-webcams.php:4199 ppv-live-webcams.php:4205
+#, fuzzy
+msgid "Rating"
+msgstr "रेटिंग"
+
+#: ppv-live-webcams.php:4200 ppv-live-webcams.php:4206
+#, fuzzy
+msgid "Ratings Number"
+msgstr "रेटिंग नंबर"
+
+#: ppv-live-webcams.php:4201 ppv-live-webcams.php:4207
+#, fuzzy
+msgid "Rate Popularity"
+msgstr "दर लोकप्रियता"
+
+#: ppv-live-webcams.php:4205 ppv-live-webcams.php:4206
+#: ppv-live-webcams.php:4207
+#, fuzzy
+msgid "in Category"
+msgstr "श्रेणी में"
+
+#: ppv-live-webcams.php:4224 ppv-live-webcams.php:6856
+#, fuzzy
+msgid "Tags"
+msgstr "टैग"
+
+#: ppv-live-webcams.php:4238
+#, fuzzy
+msgid "Search"
+msgstr "खोज"
+
+#: ppv-live-webcams.php:4457
+#, fuzzy
+msgid "Ban This Webcam"
+msgstr "इस वेब कैमरा पर प्रतिबंध"
+
+#: ppv-live-webcams.php:4551 ppv-live-webcams.php:7803
+#, fuzzy
+msgid "Featured"
+msgstr "चित्रित किया"
+
+#: ppv-live-webcams.php:4564
+#, fuzzy
+msgid "Enter"
+msgstr "दर्ज"
+
+#: ppv-live-webcams.php:4570 ppv-live-webcams.php:4590
+#, fuzzy
+msgid "Call"
+msgstr "कॉल"
+
+#: ppv-live-webcams.php:4581
+#, fuzzy
+msgid "Login for More"
+msgstr "अधिक के लिए लॉगिन"
+
+#: ppv-live-webcams.php:4595
+msgid "Question"
+msgstr "सवाल"
+
+#: ppv-live-webcams.php:4607 ppv-live-webcams.php:6814
+#, fuzzy
+msgid "2 Way"
+msgstr "2 रास्ता"
+
+#: ppv-live-webcams.php:4615
+#, fuzzy
+msgid "Voyeur"
+msgstr "दृश्यरतिक"
+
+#: ppv-live-webcams.php:4656
+msgid "Previous"
+msgstr "पिछला"
+
+#: ppv-live-webcams.php:4658
+msgid "Page"
+msgstr "पृष्ठ"
+
+#: ppv-live-webcams.php:4961
+#, fuzzy
+msgid "You Were Disconnected from Chat Room"
+msgstr "आप चैट रूम से काट रहे थे"
+
+#: ppv-live-webcams.php:4965
+#, fuzzy
+msgid "You have been disconnected from server."
+msgstr "आपको सर्वर से काट दिया गया है।"
+
+#: ppv-live-webcams.php:4966
+#, fuzzy
+msgid "Free daily time limit reached: Check paid rooms!"
+msgstr "मुफ्त दैनिक समय सीमा तक पहुंच: भुगतान कमरे की जांच करें!"
+
+#: ppv-live-webcams.php:4967
+#, fuzzy
+msgid "Free daily visitor time limit reached: Register for more!"
+msgstr "मुफ्त दैनिक आगंतुक समय सीमा तक पहुंच: अधिक के लिए रजिस्टर!"
+
+#: ppv-live-webcams.php:5049
+#, fuzzy
+msgid "Login to manage studio!"
+msgstr "स्टूडियो का प्रबंधन करने के लिए लॉगिन!"
+
+#: ppv-live-webcams.php:5061 ppv-live-webcams.php:5486
+#: ppv-live-webcams.php:5709
+#, fuzzy
+msgid "Login is required to access this section!"
+msgstr "इस अनुभाग तक पहुंचने के लिए लॉगिन की आवश्यकता होती है!"
+
+#: ppv-live-webcams.php:5072
+#, fuzzy
+msgid "User role does not allow managing studio!"
+msgstr "उपयोगकर्ता भूमिका स्टूडियो के प्रबंधन की अनुमति नहीं है!"
+
+#: ppv-live-webcams.php:5095 ppv-live-webcams.php:5099
+#: ppv-live-webcams.php:5811
+#, fuzzy
+msgid "Performers"
+msgstr "कलाकारों"
+
+#: ppv-live-webcams.php:5099
+#, fuzzy
+msgid "Manage studio performer accounts."
+msgstr "स्टूडियो कलाकार खातों का प्रबंधन करें।"
+
+#: ppv-live-webcams.php:5116
+#, fuzzy
+msgid "Performer Transactions"
+msgstr "कलाकार लेनदेन"
+
+#: ppv-live-webcams.php:5127
+#, fuzzy
+msgid "You are not allowed to view transactions for this user!"
+msgstr "आपको इस उपयोगकर्ता के लिए लेनदेन देखने की अनुमति नहीं है!"
+
+#: ppv-live-webcams.php:5136
+#, fuzzy
+msgid "Create Performer Account"
+msgstr "कलाकार खाता बनाएं"
+
+#: ppv-live-webcams.php:5140
+#, fuzzy
+msgid ""
+"After setting up performer account you will also receive password to "
+"communicate to performer for quick access. Account password should be "
+"changed by performer. Warning: Make sure you fill details correctly. Only "
+"administrator can delete incorrect accounts."
+msgstr ""
+"कलाकार खाता स्थापित करने के बाद आपको त्वरित पहुंच के लिए कलाकार से संवाद करने के लिए "
+"पासवर्ड भी प्राप्त होगा। खाता पासवर्ड कलाकार द्वारा बदला जाना चाहिए। चेतावनी: "
+"सुनिश्चित करें कि आप विवरण सही ढंग से भरें। केवल प्रशासक ही गलत खातों को हटा सकता है।"
+
+#: ppv-live-webcams.php:5141 ppv-live-webcams.php:5342
+#: ppv-live-webcams.php:5564 ppv-live-webcams.php:5812
+#: ppv-live-webcams.php:7104
+msgid "Save"
+msgstr "सेव करें"
+
+#: ppv-live-webcams.php:5157
+#, fuzzy
+msgid "Adding Performer Account"
+msgstr "कलाकार खाता जोड़ना"
+
+#: ppv-live-webcams.php:5164
+#, fuzzy
+msgid "Username already in use!"
+msgstr "उपयोगकर्ता नाम पहले से ही उपयोग में!"
+
+#: ppv-live-webcams.php:5165
+#, fuzzy
+msgid "Email already in use!"
+msgstr "पहले से ही उपयोग में ईमेल!"
+
+#: ppv-live-webcams.php:5176
+#, fuzzy
+msgid "Performers limit reached!"
+msgstr "कलाकारों की सीमा तक पहुंच गया!"
+
+#: ppv-live-webcams.php:5178
+#, fuzzy
+msgid "Could not create performer account: "
+msgstr "कलाकार खाता नहीं बना सका:"
+
+#: ppv-live-webcams.php:5185
+#, fuzzy
+msgid "Performer account was created"
+msgstr "कलाकार खाता बनाया गया था"
+
+#: ppv-live-webcams.php:5185
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: ppv-live-webcams.php:5185 ppv-live-webcams.php:5249
+msgid "Email"
+msgstr "ईमेल"
+
+#: ppv-live-webcams.php:5221
+#, fuzzy
+msgid "That performer is not assigned to this studio!"
+msgstr "वह कलाकार इस स्टूडियो को नहीं सौंपा है!"
+
+#: ppv-live-webcams.php:5245
+#, fuzzy
+msgid "Performers List"
+msgstr "कलाकारों की सूची"
+
+#: ppv-live-webcams.php:5249
+#, fuzzy
+msgid "Balance"
+msgstr "संतुलन"
+
+#: ppv-live-webcams.php:5249 ppv-live-webcams.php:12029
+msgid "Status"
+msgstr "ऑर्डर स्थिति"
+
+#: ppv-live-webcams.php:5249
+#, fuzzy
+msgid "Current Cam"
+msgstr "वर्तमान कैम"
+
+#: ppv-live-webcams.php:5261 ppv-live-webcams.php:6867
+msgid "Enabled"
+msgstr "सक्षम"
+
+#: ppv-live-webcams.php:5262 ppv-live-webcams.php:6868
+msgid "Disabled"
+msgstr "अक्षम"
+
+#: ppv-live-webcams.php:5267
+#, fuzzy
+msgid "Original Password"
+msgstr "मूल पासवर्ड"
+
+#: ppv-live-webcams.php:5277
+#, fuzzy
+msgid "Studio has no performer accounts, yet."
+msgstr "स्टूडियो कोई कलाकार खातों है, अभी तक ।"
+
+#: ppv-live-webcams.php:5280
+#, fuzzy
+msgid "Add Performer"
+msgstr "कलाकार जोड़ें"
+
+#: ppv-live-webcams.php:5280
+#, fuzzy
+msgid "Create a new performer account."
+msgstr "एक नया कलाकार खाता बनाएं।"
+
+#: ppv-live-webcams.php:5282
+#, fuzzy
+msgid "View Your Performers List"
+msgstr "अपने कलाकारों की सूची देखें"
+
+#: ppv-live-webcams.php:5305
+#, fuzzy
+msgid "Manage webcam listings for studio performers."
+msgstr "स्टूडियो कलाकारों के लिए वेब कैम लिस्टिंग का प्रबंधन करें।"
+
+#: ppv-live-webcams.php:5314 ppv-live-webcams.php:5804
+#, fuzzy
+msgid "Create Webcam Listing"
+msgstr "वेबकैम लिस्टिंग बनाएं"
+
+#: ppv-live-webcams.php:5341 ppv-live-webcams.php:5813
+#, fuzzy
+msgid ""
+"Warning: Make sure webcam listing name is correct. Only administrator can "
+"delete webcams."
+msgstr ""
+"चेतावनी: सुनिश्चित करें कि वेबकैम लिस्टिंग नाम सही है। केवल प्रशासक ही वेबकैम को हटा सकता "
+"है।"
+
+#: ppv-live-webcams.php:5387 ppv-live-webcams.php:5875
+#, fuzzy
+msgid "Webcam listing with that name already exists."
+msgstr "उस नाम के साथ वेबकैम लिस्टिंग पहले से मौजूद है।"
+
+#: ppv-live-webcams.php:5391 ppv-live-webcams.php:5879
+#, fuzzy
+msgid "Webcam listing was successfully created!"
+msgstr "वेबकैम लिस्टिंग सफलतापूर्वक बनाई गई थी!"
+
+#: ppv-live-webcams.php:5499
+#, fuzzy
+msgid "Account Status"
+msgstr "खाता स्थिति"
+
+#: ppv-live-webcams.php:5499 ppv-live-webcams.php:12030
+#, fuzzy
+msgid "Verified"
+msgstr "सत्यापित"
+
+#: ppv-live-webcams.php:5499
+msgid "Not Verified"
+msgstr "तस्दीकशुदा नेईं ऐ"
+
+#: ppv-live-webcams.php:5499
+#, fuzzy
+msgid "Suspended by Admin"
+msgstr "एडमिन द्वारा निलंबित"
+
+#: ppv-live-webcams.php:5500
+#, fuzzy
+msgid "Update Account Records"
+msgstr "अपडेट खाता रिकॉर्ड"
+
+#: ppv-live-webcams.php:5513
+#, fuzzy
+msgid "Account Administrative Records"
+msgstr "खाता प्रशासनिक रिकॉर्ड"
+
+#: ppv-live-webcams.php:5513
+#, fuzzy
+msgid ""
+"These details are required by administrators for account approval and "
+"administrative operations."
+msgstr "ये विवरण प्रशासकों द्वारा खाता अनुमोदन और प्रशासनिक संचालन के लिए आवश्यक हैं।"
+
+#: ppv-live-webcams.php:5517
+#, fuzzy
+msgid "No record fields defined by administrator!"
+msgstr "प्रशासक द्वारा परिभाषित कोई रिकॉर्ड क्षेत्र नहीं!"
+
+#: ppv-live-webcams.php:5697
+#, fuzzy
+msgid "Login to manage webcams!"
+msgstr "वेबकैम का प्रबंधन करने के लिए लॉगिन!"
+
+#: ppv-live-webcams.php:5722
+#, fuzzy
+msgid "User role does not allow publishing webcams!"
+msgstr "उपयोगकर्ता भूमिका वेबकैम प्रकाशित करने की अनुमति नहीं देती है!"
+
+#: ppv-live-webcams.php:5775
+#, fuzzy
+msgid "Selected webcam listing is invalid."
+msgstr "चयनित वेबकैम लिस्टिंग अमान्य है।"
+
+#: ppv-live-webcams.php:5808
+#, fuzzy
+msgid ""
+"Partner performers that can also go live in this room: Comma separated list "
+"of performer usernames or emails."
+msgstr ""
+"साथी कलाकारों कि यह भी इस कमरे में रहते जा सकते हैं: कम्मा कलाकार उपयोगकर्ता नाम या "
+"ईमेल की सूची अलग ।"
+
+#: ppv-live-webcams.php:5810
+#, fuzzy
+msgid "Webcam Listing Name"
+msgstr "वेबकैम लिस्टिंग नाम"
+
+#: ppv-live-webcams.php:5829
+#, fuzzy
+msgid "Adding Webcam Listing"
+msgstr "वेबकैम लिस्टिंग जोड़ना"
+
+#: ppv-live-webcams.php:5869
+#, fuzzy
+msgid "Warning: Performer not found: use a valid username (login) or email!"
+msgstr ""
+"चेतावनी: कलाकार नहीं मिला: एक वैध उपयोगकर्ता नाम (लॉगिन) या ईमेल का उपयोग करें!"
+
+#: ppv-live-webcams.php:5878
+#, fuzzy
+msgid "Could not create webcam listing:"
+msgstr "वेबकैम लिस्टिंग नहीं बना सका:"
+
+#: ppv-live-webcams.php:5920
+#, fuzzy
+msgid "Select Room Listing"
+msgstr "कक्ष लिस्टिंग का चयन करें"
+
+#: ppv-live-webcams.php:5926
+#, fuzzy
+msgid ""
+"Rooms (webcam venue listings) you created or were granted access to "
+"broadcast:"
+msgstr "कमरे (वेबकैम स्थल लिस्टिंग) आप बनाया या प्रसारण के लिए उपयोग प्रदान किया गया:"
+
+#: ppv-live-webcams.php:5942
+#, fuzzy
+msgid ""
+"You do not have any active webcam listings: one will be setup for you and "
+"selected."
+msgstr ""
+"आपके पास कोई सक्रिय वेबकैम लिस्टिंग नहीं है: एक आपके लिए सेटअप किया जाएगा और चयनित "
+"किया जाएगा।"
+
+#: ppv-live-webcams.php:5960
+#, fuzzy
+msgid "Add Webcam"
+msgstr "वेबकैम जोड़ें"
+
+#: ppv-live-webcams.php:5960
+#, fuzzy
+msgid "Create a new webcam listing."
+msgstr "एक नई वेबकैम लिस्टिंग बनाएं।"
+
+#: ppv-live-webcams.php:5963
+#, fuzzy
+msgid "View Your Webcams List"
+msgstr "अपनी वेबकैम सूची देखें"
+
+#: ppv-live-webcams.php:5996
+#, fuzzy
+msgid "Custom CPM out of range: removed."
+msgstr "कस्टम सीपीएम सीमा से बाहर: हटा दिया गया।"
+
+#: ppv-live-webcams.php:6014
+#, fuzzy
+msgid "Custom group CPM out of range: removed."
+msgstr "कस्टम समूह सीपीएम रेंज से बाहर: हटा दिया गया।"
+
+#: ppv-live-webcams.php:6117
+#, fuzzy
+msgid "Picture Updated."
+msgstr "चित्र अद्यतन।"
+
+#: ppv-live-webcams.php:6119
+#, fuzzy
+msgid "ERROR: Cound not create JPG thumb file "
+msgstr "त्रुटि: कूंड जेपीजी अंगूठे की फाइल नहीं बनाएं"
+
+#: ppv-live-webcams.php:6122
+#, fuzzy
+msgid "ERROR: Cound not create temporary image!"
+msgstr "त्रुटि: कूंड अस्थायी छवि नहीं बनाते हैं!"
+
+#: ppv-live-webcams.php:6125
+#, fuzzy
+msgid "ERROR: Failed loading image data "
+msgstr "त्रुटि: विफल लोडिंग इमेज डेटा"
+
+#: ppv-live-webcams.php:6127
+#, fuzzy
+msgid "ERROR: File does not exist "
+msgstr "त्रुटि: फ़ाइल मौजूद नहीं है"
+
+#: ppv-live-webcams.php:6129
+#, fuzzy
+msgid "ERROR: Could not retrieve image size for "
+msgstr "त्रुटि: के लिए छवि आकार पुनः प्राप्त नहीं कर सका"
+
+#: ppv-live-webcams.php:6318
+#, fuzzy
+msgid "Room Name"
+msgstr "कमरे का नाम"
+
+#: ppv-live-webcams.php:6319 ppv-live-webcams.php:7798
+#, fuzzy
+msgid "Room ID"
+msgstr "कमरे की आईडी"
+
+#: ppv-live-webcams.php:6341
+#, fuzzy
+msgid "Setting webcam group mode to"
+msgstr "वेबकैम समूह मोड स्थापित करना"
+
+#: ppv-live-webcams.php:6449
+#, fuzzy
+msgid "Warning: Performer"
+msgstr "चेतावनी: कलाकार"
+
+#: ppv-live-webcams.php:6449
+#, fuzzy
+msgid "not found: use a valid username (login) or email!"
+msgstr "नहीं मिला: एक वैध उपयोगकर्ता नाम (लॉगिन) या ईमेल का उपयोग करें!"
+
+#: ppv-live-webcams.php:6457
+#, fuzzy
+msgid "Room Interface"
+msgstr "रूम इंटरफेस"
+
+#: ppv-live-webcams.php:6459
+#, fuzzy
+msgid "Checked in performers"
+msgstr "कलाकारों में जांच की"
+
+#: ppv-live-webcams.php:6461
+#, fuzzy
+msgid "Assigning you"
+msgstr "आपको असाइन करना"
+
+#: ppv-live-webcams.php:6461
+#, fuzzy
+msgid ""
+"as room performer (streamer) and redirecting to webcam room page. Please "
+"wait..."
+msgstr ""
+"कमरे के कलाकार (स्ट्रीमर) के रूप में और वेबकैम रूम पेज पर रीडायरेक्ट िंग करें। कृपया प्रतीक्षा "
+"करो..."
+
+#: ppv-live-webcams.php:6467
+#, fuzzy
+msgid "Click here"
+msgstr "यहां क्लिक करें"
+
+#: ppv-live-webcams.php:6467
+#, fuzzy
+msgid "to access your webcam room if you do not get automatically redirected"
+msgstr ""
+"यदि आप स्वचालित रूप से पुनः निर्देशित नहीं करते हैं तो अपने वेबकैम कमरे तक पहुंचने के लिए"
+
+#: ppv-live-webcams.php:6475
+#, fuzzy
+msgid "Webcam Room"
+msgstr "वेबकैम रूम"
+
+#: ppv-live-webcams.php:6487
+#, fuzzy
+msgid "Custom cost per minute in paid group chat:"
+msgstr "भुगतान समूह चैट में प्रति मिनट कस्टम लागत:"
+
+#: ppv-live-webcams.php:6515
+#, fuzzy
+msgid "Paid Mode"
+msgstr "पेड मोड"
+
+#: ppv-live-webcams.php:6519
+#, fuzzy
+msgid "Room Mode"
+msgstr "रूम मोड"
+
+#: ppv-live-webcams.php:6519
+#, fuzzy
+msgid ""
+"Select group mode presets for your new session in this room, before going "
+"live."
+msgstr "लाइव जाने से पहले इस कमरे में अपने नए सत्र के लिए ग्रुप मोड प्रीसेट का चयन करें।"
+
+#: ppv-live-webcams.php:6523
+#, fuzzy
+msgid "This room is currently in presentation/collaboration mode."
+msgstr "यह कमरा वर्तमान में प्रस्तुति/सहयोग मोड में है ।"
+
+#: ppv-live-webcams.php:6525
+#, fuzzy
+msgid "This room is currently private, hidden from room list."
+msgstr "यह कमरा वर्तमान में निजी है, कमरे की सूची से छिपा हुआ है।"
+
+#: ppv-live-webcams.php:6547
+#, fuzzy
+msgid "HTML5"
+msgstr "HTML5"
+
+#: ppv-live-webcams.php:6548
+#, fuzzy
+msgid ""
+"HTML5 Videochat works in mobile and PC browsers, providing streaming with "
+"group chat, private 2 way video calls, tips, conferencing, collaboration, "
+"external broadcasts. Recommended."
+msgstr ""
+"HTML5 वीडियोचैट मोबाइल और पीसी ब्राउज़र में काम करता है, जो ग्रुप चैट, निजी 2 तरह से "
+"वीडियो कॉल, टिप्स, कॉन्फ्रेंसिंग, सहयोग, बाहरी प्रसारण के साथ स्ट्रीमिंग प्रदान करता है। "
+"अनुशंसित."
+
+#: ppv-live-webcams.php:6567
+#, fuzzy
+msgid "Flash"
+msgstr "फ़्लैश"
+
+#: ppv-live-webcams.php:6568
+#, fuzzy
+msgid ""
+"Flash PC interface is and older legacy app that supports presentation mode, "
+"streaming with group chat, 2 way videochat, tips. Mobile users will get the "
+"HTML5 Streaming interface, with extra latency, if transcoding is available. "
+"Does not support latest chat modes and options available in HTML5 app."
+msgstr ""
+"फ्लैश पीसी इंटरफेस और पुराना विरासत ऐप है जो प्रस्तुति मोड का समर्थन करता है, ग्रुप चैट के "
+"साथ स्ट्रीमिंग, 2 तरह से वीडियोचैट, टिप्स। मोबाइल उपयोगकर्ताओं को एचटीएमएल5 स्ट्रीमिंग "
+"इंटरफेस मिलेगा, अतिरिक्त विलंबता के साथ, यदि ट्रांसकोडिंग उपलब्ध है। HTML5 ऐप में उपलब्ध "
+"नवीनतम चैट मोड और विकल्पों का समर्थन नहीं करता है।"
+
+#: ppv-live-webcams.php:6573
+#, fuzzy
+msgid "Select room interface before going live. Also applies to clients."
+msgstr "लाइव जाने से पहले रूम इंटरफेस का चयन करें। ग्राहकों पर भी लागू होता है।"
+
+#: ppv-live-webcams.php:6578
+#, fuzzy
+msgid "CheckIn Options"
+msgstr "चेकइन विकल्प"
+
+#: ppv-live-webcams.php:6578
+#, fuzzy
+msgid "Tag other performers present in session."
+msgstr "सत्र में मौजूद अन्य कलाकारों को टैग करें।"
+
+#: ppv-live-webcams.php:6581 ppv-live-webcams.php:6598
+#, fuzzy
+msgid "Checkin Performers"
+msgstr "चेकइन परफॉर्मर्स"
+
+#: ppv-live-webcams.php:6581
+#, fuzzy
+msgid ""
+"You can select partner performers or specify other performers that are "
+"present in session."
+msgstr ""
+"आप साथी कलाकारों का चयन कर सकते हैं या सत्र में मौजूद अन्य कलाकारों को निर्दिष्ट कर सकते "
+"हैं।"
+
+#: ppv-live-webcams.php:6582
+#, fuzzy
+msgid ""
+"If paid group chat is enabled, earnings will be shared equally between "
+"checked in performers."
+msgstr ""
+"यदि भुगतान समूह चैट सक्षम है, तो कमाई को कलाकारों में चेक किए गए लोगों के बीच समान रूप से "
+"साझा किया जाएगा।"
+
+#: ppv-live-webcams.php:6588
+#, fuzzy
+msgid "Partner Performers"
+msgstr "साथी कलाकारों"
+
+#: ppv-live-webcams.php:6598
+#, fuzzy
+msgid "Comma separated list of performer usernames or emails."
+msgstr "कॉमा कलाकार उपयोगकर्ता नाम या ईमेल की सूची अलग कर दिया।"
+
+#: ppv-live-webcams.php:6616
+#, fuzzy
+msgid "Select/Manage Rooms"
+msgstr "कमरे का चयन/प्रबंधन"
+
+#: ppv-live-webcams.php:6616
+#, fuzzy
+msgid ""
+"Switch to different room / listing. Your account can setup and manage "
+"multiple room profiles."
+msgstr ""
+"अलग-अलग कमरे में स्विच करें/ आपका खाता कई कमरे प्रोफाइल सेटअप और प्रबंधन कर सकता है।"
+
+#: ppv-live-webcams.php:6621
+#, fuzzy
+msgid "Go Live"
+msgstr "लाइव जाओ"
+
+#: ppv-live-webcams.php:6664
+#, fuzzy
+msgid "Calls"
+msgstr "कॉल"
+
+#: ppv-live-webcams.php:6668
+#, fuzzy
+msgid "Locked Private Calls"
+msgstr "बंद निजी कॉल"
+
+#: ppv-live-webcams.php:6714 ppv-live-webcams.php:6912
+#, fuzzy
+msgid "Setup"
+msgstr "सेटअप"
+
+#: ppv-live-webcams.php:6732
+#, fuzzy
+msgid "Cost Per Minute"
+msgstr "लागत प्रति मिनट"
+
+#: ppv-live-webcams.php:6732
+#, fuzzy
+msgid "Cost per minute for private shows (set 0 to use default)."
+msgstr "निजी शो के लिए प्रति मिनट लागत (डिफ़ॉल्ट का उपयोग करने के लिए 0 सेट)।"
+
+#: ppv-live-webcams.php:6746
+#, fuzzy
+msgid "Cost Per Minute in Group Mode"
+msgstr "ग्रुप मोड में प्रति मिनट लागत"
+
+#: ppv-live-webcams.php:6746
+#, fuzzy
+msgid ""
+"Cost per minute for group shows. Replaces paid group CPM (set 0 to use "
+"default)."
+msgstr ""
+"समूह शो के लिए प्रति मिनट लागत। भुगतान किए गए समूह सीपीएम (डिफ़ॉल्ट का उपयोग करने के "
+"लिए 0 सेट) की जगह।"
+
+#: ppv-live-webcams.php:6753
+#, fuzzy
+msgid "2 Way Slots"
+msgstr "2 तरह स्लॉट"
+
+#: ppv-live-webcams.php:6753
+#, fuzzy
+msgid ""
+"2 way slots in room. Replaces default group mode slots (set 0 to use "
+"default)."
+msgstr ""
+"कमरे में 2 तरह स्लॉट। डिफ़ॉल्ट समूह मोड स्लॉट (डिफ़ॉल्ट का उपयोग करने के लिए 0 सेट) की "
+"जगह।"
+
+#: ppv-live-webcams.php:6760 ppv-live-webcams.php:6766
+#, fuzzy
+msgid "Picture"
+msgstr "चित्र"
+
+#: ppv-live-webcams.php:6760
+#, fuzzy
+msgid "Update room picture to use instead of live snapshot."
+msgstr "लाइव स्नैपशॉट के बजाय उपयोग करने के लिए कमरे की तस्वीर अपडेट करें।"
+
+#: ppv-live-webcams.php:6767
+#, fuzzy
+msgid "Live Snapshot"
+msgstr "लाइव स्नैपशॉट"
+
+#: ppv-live-webcams.php:6768
+#, fuzzy
+msgid "Select what to show in webcam listings."
+msgstr "वेबकैम लिस्टिंग में क्या दिखाना है, इसका चयन करें।"
+
+#: ppv-live-webcams.php:6778
+#, fuzzy
+msgid "Label"
+msgstr "लेबल"
+
+#: ppv-live-webcams.php:6778
+#, fuzzy
+msgid "Shows in room listings instead of name."
+msgstr "नाम के बजाय कमरे की लिस्टिंग में दिखाता है।"
+
+#: ppv-live-webcams.php:6787
+msgid "Category"
+msgstr "वर्ग"
+
+#: ppv-live-webcams.php:6787
+#, fuzzy
+msgid "Webcam category."
+msgstr "वेबकैम श्रेणी।"
+
+#: ppv-live-webcams.php:6793
+#, fuzzy
+msgid ""
+"Room description: profile, schedule. Shows on room page and full row list "
+"layout."
+msgstr "कक्ष विवरण: प्रोफ़ाइल, शेड्यूल। कमरे पृष्ठ और पूर्ण पंक्ति सूची लेआउट पर दिखाता है।"
+
+#: ppv-live-webcams.php:6802
+#, fuzzy
+msgid "Brief"
+msgstr "संक्षिप्त"
+
+#: ppv-live-webcams.php:6802
+#, fuzzy
+msgid "Room brief info: profile, schedule. Shows in room listings."
+msgstr "कक्ष संक्षिप्त जानकारी: प्रोफ़ाइल, अनुसूची। कमरे लिस्टिंग में दिखाता है।"
+
+#: ppv-live-webcams.php:6811
+#, fuzzy
+msgid "Private Videochat Mode"
+msgstr "निजी वीडियोचैट मोड"
+
+#: ppv-live-webcams.php:6813
+#, fuzzy
+msgid "1 Way"
+msgstr "1 रास्ता"
+
+#: ppv-live-webcams.php:6816
+#, fuzzy
+msgid "Allow clients to start their cams for 2 way videochat."
+msgstr "ग्राहकों को 2 तरह के वीडियोचैट के लिए अपने कैम शुरू करने की अनुमति दें।"
+
+#: ppv-live-webcams.php:6834
+#, fuzzy
+msgid "Detected IP"
+msgstr "पता लगाया आईपी"
+
+#: ppv-live-webcams.php:6836
+#, fuzzy
+msgid "Detected Continent, Country, Region, City"
+msgstr "पता लगाया महाद्वीप, देश, क्षेत्र, शहर"
+
+#: ppv-live-webcams.php:6839
+#, fuzzy
+msgid "ERROR: GeoIP extension is required on host for this functionality."
+msgstr "त्रुटि: इस कार्यक्षमता के लिए मेजबान पर जियोआईपी एक्सटेंशन की आवश्यकता होती है।"
+
+#: ppv-live-webcams.php:6841
+#, fuzzy
+msgid "Ban Countries"
+msgstr "प्रतिबंध देश"
+
+#: ppv-live-webcams.php:6841
+#, fuzzy
+msgid ""
+"You may want to ban your location for privacy reasons. Or countries and "
+"regions where your content is not legal or well received. List of locations "
+"(country, region, city or continent code, separated by comma) that can not "
+"access webcam room."
+msgstr ""
+"आप गोपनीयता कारणों से अपने स्थान पर प्रतिबंध लगाने की चाह सकते हैं। या देश ों और क्षेत्रों "
+"जहां आपकी सामग्री कानूनी या अच्छी तरह से प्राप्त नहीं है । उन स्थानों की सूची (देश, क्षेत्र, "
+"शहर या महाद्वीप कोड, अल्पविराम से अलग) जो वेबकैम कमरे तक नहीं पहुंच सकते हैं।"
+
+#: ppv-live-webcams.php:6856
+#, fuzzy
+msgid "Tags separated by comma. Show in room listings."
+msgstr "कॉमा से अलग टैग। कमरे लिस्टिंग में दिखाएं।"
+
+#: ppv-live-webcams.php:6865
+#, fuzzy
+msgid "Presentation Mode"
+msgstr "प्रस्तुति मोड"
+
+#: ppv-live-webcams.php:6870
+#, fuzzy
+msgid ""
+"Enables presentations mode with presentation screen, annotations, "
+"whiteboard, file sharing."
+msgstr ""
+"प्रस्तुति स्क्रीन, एनोटेशन, व्हाइटबोर्ड, फ़ाइल साझाकरण के साथ प्रस्तुतियों मोड को सक्षम "
+"बनाता है।"
+
+#: ppv-live-webcams.php:6877
+#, fuzzy
+msgid "Logo Image"
+msgstr "लोगो छवि"
+
+#: ppv-live-webcams.php:6877
+#, fuzzy
+msgid ""
+"Floating logo URL (preferably a transparent PNG image). Leave blank to hide."
+msgstr ""
+"फ्लोटिंग लोगो यूआरएल (अधिमानतः एक पारदर्शी पीएनजी छवि)। छिपाने के लिए खाली छोड़ दें।"
+
+#: ppv-live-webcams.php:6879
+#, fuzzy
+msgid "Logo Link"
+msgstr "लोगो लिंक"
+
+#: ppv-live-webcams.php:6879
+#, fuzzy
+msgid "URL to open on logo click."
+msgstr "लोगो क्लिक पर खुलने के लिए यूआरएल।"
+
+#: ppv-live-webcams.php:6889
+#, fuzzy
+msgid "Access List"
+msgstr "एक्सेस लिस्ट"
+
+#: ppv-live-webcams.php:6889
+#, fuzzy
+msgid ""
+"User roles, logins, emails separated by comma. Leave empty to allow "
+"everybody to access."
+msgstr ""
+"कॉमा से अलग उपयोगकर्ता भूमिकाएं, लॉगिन, ईमेल। सभी को एक्सेस करने की अनुमति देने के लिए "
+"खाली छोड़ दें।"
+
+#: ppv-live-webcams.php:6898
+#, fuzzy
+msgid "Webcam room access price. Leave 0 for free access."
+msgstr "वेबकैम रूम एक्सेस मूल्य। मुफ्त पहुंच के लिए 0 छोड़ दें।"
+
+#: ppv-live-webcams.php:6911
+#, fuzzy
+msgid "Webcam Profile Setup"
+msgstr "वेबकैम प्रोफाइल सेटअप"
+
+#: ppv-live-webcams.php:6959
+#, fuzzy
+msgid "Webcam Room Listing Profile"
+msgstr "वेबकैम रूम लिस्टिंग प्रोफाइल"
+
+#: ppv-live-webcams.php:6959
+#, fuzzy
+msgid ""
+"These details will show on webcam room page (under videochat interface)."
+msgstr "ये विवरण वेबकैम रूम पेज (वीडियोचैट इंटरफेस के तहत) पर दिखाई देंगे।"
+
+#: ppv-live-webcams.php:7144
+#, fuzzy
+msgid ""
+"Multiple profile videos can show on webcam listing page. Each listing has "
+"own videos."
+msgstr ""
+"वेबकैम लिस्टिंग पेज पर कई प्रोफ़ाइल वीडियो दिखा सकते हैं। प्रत्येक लिस्टिंग के अपने वीडियो हैं।"
+
+#: ppv-live-webcams.php:7171
+#, fuzzy
+msgid "Teaser Video"
+msgstr "टीज़र वीडियो"
+
+#: ppv-live-webcams.php:7174
+#, fuzzy
+msgid ""
+"Teaser video (featured video) plays shortly as preview in listings, in room "
+"when performer is offline in HTML5 Videochat interface and shows on profile "
+"page. Can be selected from all videos of user."
+msgstr ""
+"टीज़र वीडियो (विशेष रुप से प्रदर्शित वीडियो) शीघ्र ही लिस्टिंग में पूर्वावलोकन के रूप में "
+"खेलता है, कमरे में जब कलाकार HTML5 Videochat इंटरफेस में ऑफ़लाइन होता है और प्रोफाइल पेज "
+"पर दिखाता है। उपयोगकर्ता के सभी वीडियो से चुना जा सकता है।"
+
+#: ppv-live-webcams.php:7213
+#, fuzzy
+msgid "Playlist"
+msgstr "प्लेलिस्ट"
+
+#: ppv-live-webcams.php:7313
+#, fuzzy
+msgid "Playlist is enabled and room stream updated to"
+msgstr "प्लेलिस्ट सक्षम है और कमरे की धारा को अपडेट किया गया है"
+
+#: ppv-live-webcams.php:7384
+#, fuzzy
+msgid "No videos found! Please add some videos first."
+msgstr "कोई वीडियो नहीं मिला! कृपया पहले कुछ वीडियो जोड़ें।"
+
+#: ppv-live-webcams.php:7389
+#, fuzzy
+msgid "Quick Loop Setup"
+msgstr "क्विक लूप सेटअप"
+
+#: ppv-live-webcams.php:7390
+#, fuzzy
+msgid ""
+"Video will play in loop while playlist is active. Warning: Going live (with "
+"real webcam) will stop video loop (needs to be setup again). Can also be "
+"disabled by setting Playlist Status as Inactive."
+msgstr ""
+"प्लेलिस्ट सक्रिय होने के दौरान वीडियो लूप में चलेगा। चेतावनी: लाइव जा रहा है (असली वेब "
+"कैमरा के साथ) वीडियो लूप बंद हो जाएगा (फिर से सेटअप की जरूरत है) । प्लेलिस्ट स्टेटस को "
+"निष्क्रिय बताकर भी अक्षम किया जा सकता है।"
+
+#: ppv-live-webcams.php:7391
+#, fuzzy
+msgid "Set Video Loop"
+msgstr "वीडियो लूप सेट करें"
+
+#: ppv-live-webcams.php:7409
+#, fuzzy
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+#: ppv-live-webcams.php:7410
+#, fuzzy
+msgid "Active"
+msgstr "सक्रिय"
+
+#: ppv-live-webcams.php:7425
+#, fuzzy
+msgid "Advanced Playlist Editor"
+msgstr "उन्नत प्लेलिस्ट संपादक"
+
+#: ppv-live-webcams.php:7426
+#, fuzzy
+msgid ""
+"After editing playlist contents below, update it to apply changes. Last "
+"Updated:"
+msgstr ""
+"नीचे दी गई प्लेलिस्ट सामग्री को संपादित करने के बाद, परिवर्तन लागू करने के लिए इसे अपडेट "
+"करें। अंतिम अपडेट:"
+
+#: ppv-live-webcams.php:7427
+#, fuzzy
+msgid ""
+"Playlist is loaded with web application (on access) and reloaded if "
+"necessary when users access"
+msgstr ""
+"प्लेलिस्ट वेब एप्लिकेशन (एक्सेस पर) से भरी हुई है और उपयोगकर्ताओं के पहुंचने पर आवश्यक होने पर "
+"फिर से लोड किया जाता है"
+
+#: ppv-live-webcams.php:7428
+#, fuzzy
+msgid ""
+"First create a Schedule (Add new record), then Edit Videos (Add new record "
+"under Videos):"
+msgstr ""
+"पहले एक शेड्यूल बनाएं (नया रिकॉर्ड जोड़ें), फिर वीडियो संपादित करें (वीडियो के तहत नया "
+"रिकॉर्ड जोड़ें):"
+
+#: ppv-live-webcams.php:7429
+#, fuzzy
+msgid "videochat interface"
+msgstr "वीडियोचैट इंटरफेस"
+
+#: ppv-live-webcams.php:7430
+#, fuzzy
+msgid "last time reloaded"
+msgstr "पिछली बार फिर से लोड"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid ""
+"Schedule playlist items as: Year-Month-Day Hours:Minutes:Seconds in "
+"scheduling server timezone. In example, current server OS time"
+msgstr ""
+"प्लेलिस्ट आइटम शेड्यूल करें: वर्ष-महीने-प्रतिदिन के समय: मिनट:शेड्यूलिंग सर्वर टाइमज़ोन में सेकंड। "
+"उदाहरण के लिए, वर्तमान सर्वर ओएस समय"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid "in timezone"
+msgstr "टाइमजोन में"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid "default timezone was"
+msgstr "डिफ़ॉल्ट टाइमजोन था"
+
+#: ppv-live-webcams.php:7559
+#, fuzzy
+msgid ""
+"If the schedule time is in the past, each video is loaded in order and "
+"immediately replaces the previous video for the stream. Repeat will cause "
+"that videos to repeat in loop."
+msgstr ""
+"यदि शेड्यूल समय पूर्व में है, तो प्रत्येक वीडियो को क्रम में लोड किया जाता है और तुरंत स्ट्रीम "
+"के लिए पिछले वीडियो को बदल दिया जाता है। दोहराने के कारण उस वीडियो को लूप में "
+"दोहराया जाएगा।"
+
+#: ppv-live-webcams.php:7566
+#, fuzzy
+msgid ""
+"Scheduled videos play instead of performer live stream in videochat "
+"interface. Can be selected from all videos of user."
+msgstr ""
+"वीडियोचैट इंटरफेस में कलाकार लाइव स्ट्रीम के बजाय अनुसूचित वीडियो खेलते हैं। उपयोगकर्ता के "
+"सभी वीडियो से चुना जा सकता है।"
+
+#: ppv-live-webcams.php:7604
+#, fuzzy
+msgid ""
+"Multiple profile pictures can show on webcam listing page. Each listing has "
+"own pictures."
+msgstr ""
+"वेबकैम लिस्टिंग पेज पर कई प्रोफ़ाइल चित्र दिखा सकते हैं। प्रत्येक लिस्टिंग की अपनी तस्वीरें "
+"होती हैं।"
+
+#: ppv-live-webcams.php:7635 ppv-live-webcams.php:7669
+#, fuzzy
+msgid "Bans"
+msgstr "प्रतिबंध"
+
+#: ppv-live-webcams.php:7648
+#, fuzzy
+msgid "Cleared ban for"
+msgstr "के लिए प्रतिबंध को मंजूरी दे दी"
+
+#: ppv-live-webcams.php:7651
+#, fuzzy
+msgid "Not found!"
+msgstr "नहीं मिला!"
+
+#: ppv-live-webcams.php:7675
+#, fuzzy
+msgid "There are no bans for this room."
+msgstr "इस कमरे के लिए कोई प्रतिबंध नहीं हैं ।"
+
+#: ppv-live-webcams.php:7677
+#, fuzzy
+msgid ""
+"Bans occur when performer kicks or bans users from videochat interface. "
+"Kicks result in short bans (15 minutes) and full bans have longer cooldown "
+"(1 week). Bans prevent viewers from accessing or remaining in chat room."
+msgstr ""
+"जब कलाकार किक करते हैं या उपयोगकर्ताओं को वीडियोचैट इंटरफ़ेस से प्रतिबंधित करते हैं, तो "
+"प्रतिबंध होते हैं। किक परिणाम में कम प्रतिबंध (15 मिनट) और पूर्ण प्रतिबंध अब ठंडा (1 "
+"सप्ताह) है । प्रतिबंध दर्शकों को चैट रूम में पहुंचने या शेष रहने से रोकते हैं ।"
+
+#: ppv-live-webcams.php:7699
+#, fuzzy
+msgid "TeraWallet"
+msgstr "टेरावॉलेट"
+
+#: ppv-live-webcams.php:7702
+#, fuzzy
+msgid "TeraWallet (WooCommerce)"
+msgstr "टेरावॉलेट (वूकॉमर्स)"
+
+#: ppv-live-webcams.php:7708 ppv-live-webcams.php:7734
+#, fuzzy
+msgid "Logged private sessions billed"
+msgstr "लॉग इन प्राइवेट सेशन का बिल"
+
+#: ppv-live-webcams.php:7709 ppv-live-webcams.php:7735
+#, fuzzy
+msgid "Logged group sessions billed"
+msgstr "लॉग इन ग्रुप सेशन का बिल"
+
+#: ppv-live-webcams.php:7710 ppv-live-webcams.php:7736
+#, fuzzy
+msgid "Session logs are kept for limited time and transaction logs forever."
+msgstr "सत्र लॉग सीमित समय और लेनदेन लॉग हमेशा के लिए रखा जाता है।"
+
+#: ppv-live-webcams.php:7726 ppv-live-webcams.php:7729
+#, fuzzy
+msgid "My Credits"
+msgstr "मेरा क्रेडिट"
+
+#: ppv-live-webcams.php:7749
+#, fuzzy
+msgid "Overview"
+msgstr "अवलोकन"
+
+#: ppv-live-webcams.php:7768
+#, fuzzy
+msgid "Webcam Room Listing Overview"
+msgstr "वेबकैम रूम लिस्टिंग अवलोकन"
+
+#: ppv-live-webcams.php:7790
+#, fuzzy
+msgid "Listing (Room) Name"
+msgstr "लिस्टिंग (कक्ष) नाम"
+
+#: ppv-live-webcams.php:7791
+#, fuzzy
+msgid "Current Room Performer"
+msgstr "वर्तमान कमरे कलाकार"
+
+#: ppv-live-webcams.php:7792
+#, fuzzy
+msgid "Current Room Performer ID"
+msgstr "वर्तमान कमरे कलाकार आईडी"
+
+#: ppv-live-webcams.php:7793
+#, fuzzy
+msgid "Your Performer Name"
+msgstr "आपका कलाकार नाम"
+
+#: ppv-live-webcams.php:7794
+#, fuzzy
+msgid "Room Label"
+msgstr "रूम लेबल"
+
+#: ppv-live-webcams.php:7795
+#, fuzzy
+msgid "Room Status"
+msgstr "कमरे की स्थिति"
+
+#: ppv-live-webcams.php:7796
+#, fuzzy
+msgid "Room URL"
+msgstr "कक्ष यूआरएल"
+
+#: ppv-live-webcams.php:7797
+#, fuzzy
+msgid "Room Slug"
+msgstr "कमरे स्लग"
+
+#: ppv-live-webcams.php:7807
+#, fuzzy
+msgid "Client CPM"
+msgstr "क्लाइंट सीपीएम"
+
+#: ppv-live-webcams.php:7808
+#, fuzzy
+msgid "Earning Ratio"
+msgstr "कमाई का अनुपात"
+
+#: ppv-live-webcams.php:7826
+#, fuzzy
+msgid "HTML5 Transcoding"
+msgstr "एचटीएमएल5 ट्रांसकोडिंग"
+
+#: ppv-live-webcams.php:7832
+#, fuzzy
+msgid "Multiple Cameras"
+msgstr "कई कैमरे"
+
+#: ppv-live-webcams.php:7840
+#, fuzzy
+msgid "Scheduled Playlist"
+msgstr "अनुसूचित प्लेलिस्ट"
+
+#: ppv-live-webcams.php:7880
+#, fuzzy
+msgid "Role"
+msgstr "भूमिका"
+
+#: ppv-live-webcams.php:8391
+#, fuzzy
+msgid "PPM group"
+msgstr "पीपीएम समूह"
+
+#: ppv-live-webcams.php:8391
+#, fuzzy
+msgid "session in"
+msgstr "सत्र में"
+
+#: ppv-live-webcams.php:8413
+#, fuzzy
+msgid "Earning from PPM group"
+msgstr "पीपीएम समूह से कमाई"
+
+#: ppv-live-webcams.php:8413
+#, fuzzy
+msgid " session with "
+msgstr "सत्र के साथ"
+
+#: ppv-live-webcams.php:8488
+#, fuzzy
+msgid "Earning from PPM private session with "
+msgstr "पीपीएम निजी सत्र से कमाई के साथ"
+
+#: ppv-live-webcams.php:8491
+#, fuzzy
+msgid "Performer cost for PPM private session with "
+msgstr "पीपीएम निजी सत्र के लिए कलाकार लागत के साथ"
+
+#: ppv-live-webcams.php:9550
+#, fuzzy
+msgid ""
+"You are NOT logged in. Only registered users can request private show or "
+"send tips!"
+msgstr ""
+"आप लॉग इन नहीं कर रहे हैं। केवल पंजीकृत उपयोगकर्ता निजी शो का अनुरोध कर सकते हैं या सुझाव "
+"भेज सकते हैं!"
+
+#: ppv-live-webcams.php:9557
+#, fuzzy
+msgid ""
+"Please login first or register an account if you do not have one! Click here "
+"to return to website."
+msgstr ""
+"यदि आपके पास एक नहीं है तो कृपया पहले लॉगिन करें या खाता पंजीकृत करें! वेबसाइट पर लौटने के "
+"लिए यहां क्लिक करें ।"
+
+#: ppv-live-webcams.php:9563
+#, fuzzy
+msgid "you are not in the allowed watchers list."
+msgstr "आप अनुमति देने वाले पहरेदार सूची में नहीं हैं।"
+
+#: ppv-live-webcams.php:9564
+#, fuzzy
+msgid "Please login first or register an account if you do not have one!"
+msgstr "यदि आपके पास एक नहीं है तो कृपया पहले लॉगिन करें या खाता पंजीकृत करें!"
+
+#: ppv-live-webcams.php:9580
+#, fuzzy
+msgid "Paid group session: login to access!"
+msgstr "भुगतान समूह सत्र: उपयोग करने के लिए लॉगिन!"
+
+#: ppv-live-webcams.php:9585
+#, fuzzy
+msgid "Minimum balance required for paid session:"
+msgstr "पेड सेशन के लिए मिनिमम बैलेंस जरूरी:"
+
+#: ppv-live-webcams.php:9628
+#, fuzzy
+msgid "Your are not in room access list."
+msgstr "आपके कमरे का उपयोग सूची में नहीं हैं।"
+
+#: ppv-live-webcams.php:9636
+#, fuzzy
+msgid ""
+"Password Protected: Room can be accessed after filling password from room "
+"page."
+msgstr "पासवर्ड सुरक्षित: कमरे के पेज से पासवर्ड भरने के बाद कमरे तक पहुंचा जा सकता है।"
+
+#: ppv-live-webcams.php:9648 ppv-live-webcams.php:9744
+#, fuzzy
+msgid "Your current balance:"
+msgstr "आपका वर्तमान संतुलन:"
+
+#: ppv-live-webcams.php:9650 ppv-live-webcams.php:10346
+#, fuzzy
+msgid "Pending balance"
+msgstr "लंबित शेष"
+
+#: ppv-live-webcams.php:9665
+#, fuzzy
+msgid "2 way slots:"
+msgstr "2 तरह स्लॉट:"
+
+#: ppv-live-webcams.php:9747
+#, fuzzy
+msgid "Private show cost per minute for performer is:"
+msgstr "कलाकार के लिए प्रति मिनट निजी शो लागत है:"
+
+#: ppv-live-webcams.php:9753
+#, fuzzy
+msgid "Private show cost per minute for client:"
+msgstr "ग्राहक के लिए प्रति मिनट निजी शो लागत:"
+
+#: ppv-live-webcams.php:9757
+#, fuzzy
+msgid "Private show earning per minute for performer:"
+msgstr "निजी शो कलाकार के लिए प्रति मिनट कमाई:"
+
+#: ppv-live-webcams.php:9769
+#, fuzzy
+msgid "You are in room"
+msgstr "आप कमरे में हैं"
+
+#: ppv-live-webcams.php:9771
+#, fuzzy
+msgid "Active performer (stream):"
+msgstr "सक्रिय कलाकार (स्ट्रीम):"
+
+#: ppv-live-webcams.php:9864
+#, fuzzy
+msgid ""
+"Warning: HTTPS not detected. Some browsers like Chrome will not permit "
+"webcam access when accessing without SSL!"
+msgstr ""
+"चेतावनी: HTTPS का पता नहीं चला। क्रोम जैसे कुछ ब्राउज़र एसएसएल के बिना एक्सेस करते समय "
+"वेबकैम एक्सेस की अनुमति नहीं देंगे!"
+
+#: ppv-live-webcams.php:10334
+#, fuzzy
+msgid "Tip from "
+msgstr "से टिप"
+
+#: ppv-live-webcams.php:10343
+#, fuzzy
+msgid "After tip, your balance is"
+msgstr "टिप के बाद, आपका संतुलन है"
+
+#: ppv-live-webcams.php:10351
+#, fuzzy
+msgid "Tip"
+msgstr "टिप"
+
+#: ppv-live-webcams.php:11072 ppv-live-webcams.php:11588
+#, fuzzy
+msgid "Comment added successfully!"
+msgstr "टिप्पणी सफलतापूर्वक जोड़ा!"
+
+#: ppv-live-webcams.php:11079
+#, fuzzy
+msgid "Not implemented, yet!"
+msgstr "लागू नहीं किया, अभी तक!"
+
+#: ppv-live-webcams.php:11136
+#, fuzzy
+msgid "Comment deleted successfully!"
+msgstr "टिप्पणी सफलतापूर्वक हटा दिया!"
+
+#: ppv-live-webcams.php:11397
+#, fuzzy
+msgid "Whiteboard elements added successfully!"
+msgstr "व्हाइटबोर्ड तत्वों को सफलतापूर्वक जोड़ा!"
+
+#: ppv-live-webcams.php:11401
+#, fuzzy
+msgid "No whiteboard elements to add!"
+msgstr "जोड़ने के लिए कोई व्हाइटबोर्ड तत्वनहीं!"
+
+#: ppv-live-webcams.php:11756
+#, fuzzy
+msgid "Approve Users"
+msgstr "उपयोगकर्ताओं को मंजूरी"
+
+#: ppv-live-webcams.php:11763
+#, fuzzy
+msgid "Session Logs"
+msgstr "सत्र लॉग"
+
+#: ppv-live-webcams.php:11770
+#, fuzzy
+msgid "Stream Sessions"
+msgstr "स्ट्रीम सत्र"
+
+#: ppv-live-webcams.php:11777
+#, fuzzy
+msgid "RTMP Admin"
+msgstr "आरटीएमपी एडमिन"
+
+#: ppv-live-webcams.php:11784
+#, fuzzy
+msgid "Webcam Posts"
+msgstr "वेबकैम पोस्ट"
+
+#: ppv-live-webcams.php:11792 ppv-live-webcams.php:11877
+msgid "Settings"
+msgstr "भाषा बदलें"
+
+#: ppv-live-webcams.php:11799
+#, fuzzy
+msgid "Billing"
+msgstr "बिलिंग"
+
+#: ppv-live-webcams.php:11806
+#, fuzzy
+msgid "Documentation"
+msgstr "दस्तावेज़"
+
+#: ppv-live-webcams.php:11910
+#, fuzzy
+msgid "User not found by email or login: "
+msgstr "उपयोगकर्ता ईमेल या लॉगिन द्वारा नहीं मिला:"
+
+#: ppv-live-webcams.php:11917
+#, fuzzy
+msgid "User not found by ID: "
+msgstr "आईडी से नहीं मिला यूजर:"
+
+#: ppv-live-webcams.php:11928
+#, fuzzy
+msgid "Studio not found: "
+msgstr "स्टूडियो नहीं मिला:"
+
+#: ppv-live-webcams.php:12001
+#, fuzzy
+msgid "User not found: "
+msgstr "उपयोगकर्ता नहीं मिला:"
+
+#: ppv-live-webcams.php:12031
+#, fuzzy
+msgid "Toggle Verified"
+msgstr "टॉगल सत्यापित"
+
+#: ppv-live-webcams.php:12033
+#, fuzzy
+msgid "Suspended"
+msgstr "निलंबित"
+
+#: ppv-live-webcams.php:12034
+#, fuzzy
+msgid "Toggle Suspended"
+msgstr "टॉगल निलंबित"
+
+#: ppv-live-webcams.php:12036
+#, fuzzy
+msgid "Records Updated"
+msgstr "रिकॉर्ड अपडेट"
+
+#: ppv-live-webcams.php:12037
+#, fuzzy
+msgid "Last Verified"
+msgstr "अंतिम सत्यापित"
+
+#: template-app.php:19
+#, fuzzy
+msgid "Video Chat"
+msgstr "वीडियो चैट"
+
+#: template-webcam.php:40
+#, fuzzy
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
+"हमें ऐसी कोई पोस्ट नहीं मिल सकी, जो आपकी क्वेरी से मेल खाती हो. कृपया फिर से प्रयास करें।"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Paid Videochat Turnkey Site - HTML5 PPV Live Webcams"
+msgstr "पेड वीडियोचैट टर्नकी साइट - HTML5 PPV लाइव वेबकैम"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://paidvideochat.com"
+msgstr "https://paidvideochat.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"<strong>Paid Videochat Turnkey Site - HTML5 PPV Live Webcams</strong>: pay "
+"per view / minute (PPV/PPM) videochat sites.  Includes custom registration "
+"(performers, clients, studios), live webcams list, public lobby for each "
+"performer with live stream, mult-performer in show checkin, custom tips/"
+"gifts with notification, pay per minute private 2 way calls and group "
+"videochat shows, HTML5 WebRTC live video streaming, adaptive interface for "
+"mobile browsers, snapshots/pictures and videos profile, video conference "
+"mode with split view streaming, presentation/collaboration mode with file "
+"sharing and image/video display, paid questions/messages.  <a href='https://"
+"videowhisper.com/tickets_submit.php?topic=PPV-Live-Webcams'>Contact Support</"
+"a> | <a href='admin.php?page=live-webcams&tab=setup'>Setup</a>"
+msgstr ""
+"<strong>पेड वीडियोचैट टर्नकी साइट - HTML5 PPV लाइव वेबकैम:</strong>प्रति व्यू/मिनट "
+"(पीपीवी/पीपीएम) वीडियोचैट साइटों का भुगतान करें।  कस्टम पंजीकरण (कलाकारों, भी शामिल "
+"है ग्राहक, स्टूडियो), लाइव वेबकैम सूची, लाइव स्ट्रीम के साथ प्रत्येक कलाकार के लिए "
+"सार्वजनिक लॉबी, शो चेकइन में मुल्ट-परफॉर्मर, कस्टम टिप्स/नोटिफिकेशन के साथ उपहार, प्रति "
+"मिनट निजी 2 तरह के कॉल और ग्रुप वीडियोचैट शो, HTML5 WebRTC लाइव वीडियो स्ट्रीमिंग, "
+"मोबाइल ब्राउजर के लिए अनुकूली इंटरफेस, स्नैपशॉट/पिक्चर्स और वीडियो प्रोफाइल, स्प्लिट व्यू "
+"स्ट्रीमिंग के साथ वीडियो कॉन्फ्रेंस मोड, फाइल शेयरिंग और इमेज/वीडियो के साथ डिस्प्ले पेड "
+"सवाल/वीडियो, पेड प्रश्न/संदेश  <a href='https://videowhisper.com/tickets_submit."
+"php?topic=PPV-Live-Webcams'>संपर्क समर्थन</a> । <a href='admin.php?page=live-"
+"webcams&tab=setup'>सेटअप</a>"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper.com"
+msgstr "VideoWhisper.com"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://videowhisper.com/"
+msgstr "https://videowhisper.com/"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper App - Full Page"
+msgstr "वीडियोकानाफूसी ऐप - पूरा पेज"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper Full"
+msgstr "वीडियोकानाफूसी पूर्ण"

@@ -1,0 +1,2993 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: PPV Live Webcams - Paid Videochat\n"
+"POT-Creation-Date: 2020-05-02 10:39+0300\n"
+"PO-Revision-Date: 2020-05-02 11:40+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ppv-live-webcams.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language: ja_JP\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/h5videochat.php:20
+#, fuzzy
+msgid "Login is required to access your own videochat room!"
+msgstr "ログインは、独自のビデオチャットルームにアクセスする必要があります!"
+
+#: inc/h5videochat.php:20 inc/h5videochat.php:185 inc/h5videochat.php:249
+#: inc/h5videochat.php:254 inc/shortcodes.php:50 inc/shortcodes.php:191
+#: inc/shortcodes.php:397 inc/shortcodes.php:428 inc/shortcodes.php:513
+#: ppv-live-webcams.php:749 ppv-live-webcams.php:5049 ppv-live-webcams.php:5249
+#: ppv-live-webcams.php:5697
+msgid "Login"
+msgstr "ログイン"
+
+#: inc/h5videochat.php:20 inc/h5videochat.php:185 inc/h5videochat.php:249
+#: inc/h5videochat.php:254 inc/shortcodes.php:50 inc/shortcodes.php:191
+#: inc/shortcodes.php:397 inc/shortcodes.php:428 inc/shortcodes.php:513
+#: ppv-live-webcams.php:749 ppv-live-webcams.php:5049 ppv-live-webcams.php:5697
+msgid "Register"
+msgstr "登録"
+
+#: inc/h5videochat.php:26 ppv-live-webcams.php:5080 ppv-live-webcams.php:5737
+#, fuzzy
+msgid ""
+"Your account is not currently enabled. Update your account records and wait "
+"for site admins to approve your account."
+msgstr ""
+"現在、アカウントが有効になっていません。アカウントレコードを更新し、サイト管"
+"理者がアカウントを承認するまで待ちます。"
+
+#: inc/h5videochat.php:30 ppv-live-webcams.php:5742
+#, fuzzy
+msgid ""
+"Studio disabled your account: dashboard access is forbidden. Contact studio "
+"or site administrator!"
+msgstr ""
+"Studio はアカウントを無効にしました: ダッシュボードへのアクセスは禁止されてい"
+"ます。スタジオまたはサイト管理者に問い合わせてください!"
+
+#: inc/h5videochat.php:68
+#, fuzzy
+msgid "No random cam room found with current criteria!"
+msgstr "現在の基準でランダムなカムルームが見つかりません!"
+
+#: inc/h5videochat.php:185
+#, fuzzy
+msgid "Login is required to access private calls."
+msgstr "プライベートコールにアクセスするにはログインが必要です。"
+
+#: inc/h5videochat.php:195
+#, fuzzy
+msgid "This private call was closed."
+msgstr "このプライベートコールはクローズされました。"
+
+#: inc/h5videochat.php:196
+#, fuzzy
+msgid "Private call is only available to performer and client, as setup."
+msgstr ""
+"プライベートコールは、設定として実行者とクライアントのみが利用できます。"
+
+#: inc/h5videochat.php:202
+#, fuzzy
+msgid "This private call does not exist."
+msgstr "このプライベート呼び出しは存在しません。"
+
+#: inc/h5videochat.php:207
+#, fuzzy
+msgid "This room can only be used for locked calls, with call link."
+msgstr "このルームは、通話リンク付きのロックされた通話にのみ使用できます。"
+
+#: inc/h5videochat.php:231 inc/h5videochat.php:1700
+#, fuzzy
+msgid "You are banned from accessing this room!"
+msgstr "あなたはこの部屋へのアクセスを禁止されています!"
+
+#: inc/h5videochat.php:249 inc/h5videochat.php:254
+#, fuzzy
+msgid "Login is required to access."
+msgstr "アクセスするにはログインが必要です。"
+
+#: inc/h5videochat.php:255
+#, fuzzy
+msgid "You are not in the allowed participant list."
+msgstr "許可された参加者リストに含まれていません。"
+
+#: inc/h5videochat.php:263
+#, fuzzy
+msgid ""
+"This room is restricted by access list. You are not in room access list."
+msgstr ""
+"この部屋はアクセスリストによって制限されています。ルーム アクセス リストに含"
+"まれていません。"
+
+#: inc/h5videochat.php:302
+#, fuzzy
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls."
+msgstr ""
+"グループチャットが無効になっています。この部屋は、インスタントまたはロックさ"
+"れた通話にのみ使用できます。"
+
+#: inc/h5videochat.php:347
+#, fuzzy
+msgid "Open in Full Page"
+msgstr "フル ページで開く"
+
+#: inc/h5videochat.php:462
+msgid "Send"
+msgstr "送信"
+
+#: inc/h5videochat.php:463
+#, fuzzy
+msgid "Type your message"
+msgstr "メッセージを入力してください"
+
+#: inc/h5videochat.php:465
+msgid "Chat"
+msgstr "チャット"
+
+#: inc/h5videochat.php:466
+msgid "Camera"
+msgstr "カメラ"
+
+#: inc/h5videochat.php:467
+msgid "Users"
+msgstr "ユーザー"
+
+#: inc/h5videochat.php:468
+msgid "Options"
+msgstr "オプション"
+
+#: inc/h5videochat.php:469
+msgid "Files"
+msgstr "ファイル"
+
+#: inc/h5videochat.php:470
+msgid "Presentation"
+msgstr "プレゼンテーション"
+
+#: inc/h5videochat.php:472
+#, fuzzy
+msgid "Tap for Sound"
+msgstr "サウンド用のタップ"
+
+#: inc/h5videochat.php:473
+msgid "Enable Audio"
+msgstr "音声を有効化"
+
+#: inc/h5videochat.php:474
+msgid "Mute"
+msgstr "ミュート"
+
+#: inc/h5videochat.php:475
+msgid "Reload"
+msgstr "再読み込み"
+
+#: inc/h5videochat.php:477
+msgid "Broadcast"
+msgstr "ブロードキャスト"
+
+#: inc/h5videochat.php:478
+#, fuzzy
+msgid "Stop Broadcast"
+msgstr "ブロードキャストの停止"
+
+#: inc/h5videochat.php:479
+#, fuzzy
+msgid "Make a selection to start!"
+msgstr "開始する選択を行います!"
+
+#: inc/h5videochat.php:481
+#, fuzzy
+msgid "Lights On"
+msgstr "ライトオン"
+
+#: inc/h5videochat.php:482 inc/h5videochat.php:697
+#, fuzzy
+msgid "Dark Mode"
+msgstr "ダークモード"
+
+#: inc/h5videochat.php:483
+#, fuzzy
+msgid "Enter Fullscreen"
+msgstr "フルスクリーンを入力"
+
+#: inc/h5videochat.php:484
+#, fuzzy
+msgid "Exit Fullscreen"
+msgstr "全画面表示を終了する"
+
+#: inc/h5videochat.php:486
+msgid "Site Menu"
+msgstr "サイトメニュー"
+
+#: inc/h5videochat.php:488
+#, fuzzy
+msgid "Request Private"
+msgstr "プライベートをリクエストする"
+
+#: inc/h5videochat.php:489
+#, fuzzy
+msgid "Request Private 2 Way Videochat Show"
+msgstr "プライベート2ウェイビデオチャットショーをリクエスト"
+
+#: inc/h5videochat.php:490
+#, fuzzy
+msgid "Performer Disabled Private Requests"
+msgstr "実行者無効のプライベート要求"
+
+#: inc/h5videochat.php:491
+#, fuzzy
+msgid "Performer is Busy in Private"
+msgstr "出演者はプライベートでビジーです"
+
+#: inc/h5videochat.php:492
+#, fuzzy
+msgid "Performer is Not Online"
+msgstr "実行者はオンラインではありません"
+
+#: inc/h5videochat.php:493
+msgid "Nevermind"
+msgstr "気にしないで"
+
+#: inc/h5videochat.php:494
+msgid "Accept"
+msgstr "承諾"
+
+#: inc/h5videochat.php:495
+msgid "Decline"
+msgstr "拒否"
+
+#: inc/h5videochat.php:496
+#, fuzzy
+msgid "Close Private"
+msgstr "非公開を閉じる"
+
+#: inc/h5videochat.php:498 ppv-live-webcams.php:4660
+msgid "Next"
+msgstr "次へ"
+
+#: inc/h5videochat.php:499
+#, fuzzy
+msgid "Next: Random Videochat Room"
+msgstr "次: ランダムビデオチャットルーム"
+
+#: inc/h5videochat.php:501 ppv-live-webcams.php:4230
+msgid "Name"
+msgstr "名前"
+
+#: inc/h5videochat.php:502
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/h5videochat.php:503
+msgid "Age"
+msgstr "年齢"
+
+#: inc/h5videochat.php:504
+#, fuzzy
+msgid "Upload: Drag and drop files here, or click to select files"
+msgstr ""
+"アップロード: ここにファイルをドラッグアンドドロップするか、またはクリックし"
+"てファイルを選択します"
+
+#: inc/h5videochat.php:505
+#, fuzzy
+msgid "Uploading. Please wait..."
+msgstr "アップロード。お待ちください。。。"
+
+#: inc/h5videochat.php:506
+msgid "Open"
+msgstr "開く"
+
+#: inc/h5videochat.php:507
+msgid "Delete"
+msgstr "削除"
+
+#: inc/h5videochat.php:509
+#, fuzzy
+msgid "Media Displayed"
+msgstr "表示されるメディア"
+
+#: inc/h5videochat.php:510
+msgid "Remove"
+msgstr "削除"
+
+#: inc/h5videochat.php:511 ppv-live-webcams.php:6730 ppv-live-webcams.php:6744
+#: ppv-live-webcams.php:6812 ppv-live-webcams.php:6866
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/h5videochat.php:512
+msgid "Empty"
+msgstr "空"
+
+#: inc/h5videochat.php:514 ppv-live-webcams.php:841 ppv-live-webcams.php:4621
+#: ppv-live-webcams.php:6943
+msgid "Profile"
+msgstr "プロフィール"
+
+#: inc/h5videochat.php:515 ppv-live-webcams.php:6765
+msgid "Show"
+msgstr "表示"
+
+#: inc/h5videochat.php:517
+#, fuzzy
+msgid "Private Call"
+msgstr "プライベートコール"
+
+#: inc/h5videochat.php:518
+msgid "Exit"
+msgstr "終了"
+
+#: inc/h5videochat.php:520
+#, fuzzy
+msgid "External Broadcast"
+msgstr "外部ブロードキャスト"
+
+#: inc/h5videochat.php:521
+#, fuzzy
+msgid ""
+"Broadcast with external apps for advanced compositions, scenes, effects or "
+"reliability compared to web based interface and protocols. External "
+"broadcasts have higher latency and improved capacity, reliability specific "
+"to HLS delivery method. New broadcasts show in about 10 seconds and "
+"unavailability updates after 1 minute."
+msgstr ""
+"Webベースのインターフェイスやプロトコルと比較して、高度な構成、シーン、効果や"
+"信頼性のための外部アプリで放送。外部ブロードキャストは、HLS配信方法に特有の高"
+"い待ち時間と能力の向上、信頼性を備えています。新しいブロードキャストは約 10 "
+"秒で表示され、1 分後に利用できない更新が行われます。"
+
+#: inc/h5videochat.php:563
+msgid "New"
+msgstr "新規"
+
+#: inc/h5videochat.php:626
+#, fuzzy
+msgid "Disable Call Requests"
+msgstr "通話要求を無効にする"
+
+#: inc/h5videochat.php:626
+#, fuzzy
+msgid "Disable users from sending private call requests to room owner."
+msgstr ""
+"ユーザーがルーム所有者にプライベートコール要求を送信できないようにします。"
+
+#: inc/h5videochat.php:627
+#, fuzzy
+msgid "Private Room"
+msgstr "個室"
+
+#: inc/h5videochat.php:627
+#, fuzzy
+msgid "Hide room from public listings. Can be accessed by room link."
+msgstr ""
+"パブリックリストから部屋を非表示にします。ルームリンクでアクセス可能です。"
+
+#: inc/h5videochat.php:629
+#, fuzzy
+msgid "Calls Only"
+msgstr "通話のみ"
+
+#: inc/h5videochat.php:629
+#, fuzzy
+msgid "Call Only mode: can only be used for calls."
+msgstr "コールのみモード: 通話にのみ使用できます。"
+
+#: inc/h5videochat.php:630
+#, fuzzy
+msgid "Group Chat Disabled"
+msgstr "グループ チャットが無効"
+
+#: inc/h5videochat.php:630
+#, fuzzy
+msgid "Use room only for instant or locked calls."
+msgstr "インスタントまたはロックされた通話にのみルームを使用します。"
+
+#: inc/h5videochat.php:632 inc/h5videochat.php:698
+#, fuzzy
+msgid "Audio Only"
+msgstr "オーディオのみ"
+
+#: inc/h5videochat.php:632
+#, fuzzy
+msgid ""
+"Audio only room mode: Only microphone, no webcam video, for all "
+"participants. Applies both to group and private calls."
+msgstr ""
+"オーディオ専用ルームモード:すべての参加者に対して、マイク、ウェブカメラビデオ"
+"なし。グループ呼び出しとプライベートコールの両方に適用されます。"
+
+#: inc/h5videochat.php:634
+#, fuzzy
+msgid "Conference Mode"
+msgstr "会議モード"
+
+#: inc/h5videochat.php:634
+#, fuzzy
+msgid ""
+"Enable owner to show multiple users streams at same time in split view. All "
+"users can publish webcam."
+msgstr ""
+"所有者が複数のユーザー ストリームを分割ビューに同時に表示できるようにします。"
+"すべてのユーザーが Web カメラを公開できます。"
+
+#: inc/h5videochat.php:636
+#, fuzzy
+msgid "Conference Auto Display"
+msgstr "会議の自動表示"
+
+#: inc/h5videochat.php:636
+#, fuzzy
+msgid ""
+"Display users automatically in available conference slots when they start "
+"their camera, in conference mode."
+msgstr ""
+"カメラを起動すると、会議モードでユーザーを自動的に会議スロットに表示します。"
+
+#: inc/h5videochat.php:644
+#, fuzzy
+msgid "Display Slots"
+msgstr "ディスプレイスロット"
+
+#: inc/h5videochat.php:644
+#, fuzzy
+msgid "Split display to show multiple media items, in conference mode."
+msgstr "会議モードで複数のメディア項目を表示するために分割表示します。"
+
+#: inc/h5videochat.php:670
+#, fuzzy
+msgid "Collaboration Mode"
+msgstr "コラボレーションモード"
+
+#: inc/h5videochat.php:670
+#, fuzzy
+msgid "Enable collaboration mode with multiple media, files, presentation."
+msgstr ""
+"複数のメディア、ファイル、プレゼンテーションでコラボレーションモードを有効に"
+"します。"
+
+#: inc/h5videochat.php:676
+#, fuzzy
+msgid "Party Mode"
+msgstr "パーティーモード"
+
+#: inc/h5videochat.php:676
+#, fuzzy
+msgid ""
+"In party mode, all users that join room are added to party squad. Entire "
+"party moves to different room with Next button."
+msgstr ""
+"パーティーモードでは、ルームに参加するすべてのユーザーがパーティーチームに追"
+"加されます。パーティー全体が[次へ]ボタンを使用して別の部屋に移動します。"
+
+#: inc/h5videochat.php:679
+#, fuzzy
+msgid "Party Reserved"
+msgstr "パーティー予約済み"
+
+#: inc/h5videochat.php:679
+#, fuzzy
+msgid ""
+"Number of reserved party video slots, needs to be available in other room, "
+"to travel."
+msgstr ""
+"予約されたパーティーのビデオスロットの数は、旅行するために、他の部屋で利用可"
+"能である必要があります。"
+
+#: inc/h5videochat.php:691
+#, fuzzy
+msgid "Room Preferences"
+msgstr "部屋の基本設定"
+
+#: inc/h5videochat.php:696
+msgid "Sound Effects"
+msgstr "音響効果"
+
+#: inc/h5videochat.php:696
+#, fuzzy
+msgid "Sound effects (on actions)."
+msgstr "サウンドエフェクト(アクション上)。"
+
+#: inc/h5videochat.php:697
+#, fuzzy
+msgid "Dark interface mode."
+msgstr "暗いインターフェイス モード。"
+
+#: inc/h5videochat.php:698
+#, fuzzy
+msgid ""
+"Audio only user mode: Publish only microphone, no webcam video. Applies both "
+"to group and private calls."
+msgstr ""
+"オーディオのみのユーザー モード: マイクのみを公開し、Web カメラ ビデオは公開"
+"しません。グループ呼び出しとプライベートコールの両方に適用されます。"
+
+#: inc/h5videochat.php:699
+#, fuzzy
+msgid "Reveal Mode"
+msgstr "モードを表示する"
+
+#: inc/h5videochat.php:699
+#, fuzzy
+msgid ""
+"Webcam reveal mode: hide webcam in private calls and use a Reveal button to "
+"enable on request."
+msgstr ""
+"ウェブカメラの公開モード:プライベートコールでウェブカメラを非表示にし、要求に"
+"応じて有効にする[公開]ボタンを使用します。"
+
+#: inc/h5videochat.php:706
+#, fuzzy
+msgid "Reveal Warmup"
+msgstr "ウォームアップを明らかにする"
+
+#: inc/h5videochat.php:706
+#, fuzzy
+msgid "Time in seconds required before revealing webcam is possible."
+msgstr "ウェブカメラを明らかにする前に必要な秒単位の時間が可能です。"
+
+#: inc/h5videochat.php:718
+#, fuzzy
+msgid "User Preferences"
+msgstr "ユーザー設定"
+
+#: inc/h5videochat.php:925
+#, fuzzy
+msgid "You are room performer."
+msgstr "あなたはルームパフォーマーです。"
+
+#: inc/h5videochat.php:928
+#, fuzzy
+msgid "This is a private room (not listed)."
+msgstr "個室です(記載されていません)。"
+
+#: inc/h5videochat.php:931
+#, fuzzy
+msgid ""
+"This room can only be used for predefined locked calls. Participants need a "
+"private call link."
+msgstr ""
+"このルームは、事前にロックされた通話にのみ使用できます。参加者にはプライベー"
+"トコールリンクが必要です。"
+
+#: inc/h5videochat.php:934
+#, fuzzy
+msgid ""
+"Group chat is disabled. Participants can only access this room for instant "
+"or locked calls."
+msgstr ""
+"グループチャットが無効になっています。参加者は、インスタントまたはロックされ"
+"た通話の場合にのみこの部屋にアクセスできます。"
+
+#: inc/h5videochat.php:948
+#, fuzzy
+msgid "This is a paid room:"
+msgstr "これは有料の部屋です:"
+
+#: inc/h5videochat.php:949 ppv-live-webcams.php:9777
+#, fuzzy
+msgid "Group Mode"
+msgstr "グループモード"
+
+#: inc/h5videochat.php:950 ppv-live-webcams.php:9778
+#, fuzzy
+msgid "Group session cost"
+msgstr "グループ セッションのコスト"
+
+#: inc/h5videochat.php:951 inc/h5videochat.php:979 inc/h5videochat.php:1008
+#: ppv-live-webcams.php:9688 ppv-live-webcams.php:9755
+#, fuzzy
+msgid "Charging starts after a grace time:"
+msgstr "充電は猶予時間の後に開始されます。"
+
+#: inc/h5videochat.php:952
+#, fuzzy
+msgid ""
+"All participants pay during this session: Private calls are not available."
+msgstr ""
+"すべての参加者がこのセッション中に支払う: プライベートコールは利用できませ"
+"ん。"
+
+#: inc/h5videochat.php:963
+#, fuzzy
+msgid ""
+"You are in Voyeur mode: hidden from user list. Participants will not be "
+"aware of your presence unless you write in text chat."
+msgstr ""
+"あなたは盗撮モードです: ユーザーリストから非表示にします。テキスト チャットに"
+"書き込まない限り、参加者は自分の存在を認識しません。"
+
+#: inc/h5videochat.php:964
+#, fuzzy
+msgid "Voyeur cost"
+msgstr "盗撮費用"
+
+#: inc/h5videochat.php:977
+#, fuzzy
+msgid ""
+"Registered users can request private calls during free presale chat and you "
+"can accept:"
+msgstr ""
+"登録ユーザーは、無料の前売りチャット中にプライベート通話を要求することがで"
+"き、あなたは受け入れることができます:"
+
+#: inc/h5videochat.php:978
+#, fuzzy
+msgid "Private show cost per minute, for client:"
+msgstr "クライアントのプライベート ショーの 1 分あたりのコスト:"
+
+#: inc/h5videochat.php:980
+#, fuzzy
+msgid "Private call earning per minute, for performer:"
+msgstr "1 分あたりのプライベート コールの収入(実行者の場合):"
+
+#: inc/h5videochat.php:1000 ppv-live-webcams.php:9684
+#, fuzzy
+msgid "You do not have enough credits to request a private show."
+msgstr "プライベートショーをリクエストするのに十分なクレジットがありません。"
+
+#: inc/h5videochat.php:1005
+#, fuzzy
+msgid "You can request private session from room performer when available:"
+msgstr ""
+"利用可能な場合は、ルームの実行者にプライベートセッションをリクエストできま"
+"す。"
+
+#: inc/h5videochat.php:1007 ppv-live-webcams.php:9652
+#, fuzzy
+msgid "Private show cost per minute:"
+msgstr "プライベートショーの1分あたりの費用:"
+
+#: inc/h5videochat.php:1019
+#, fuzzy
+msgid ""
+"This room is in party mode and all users join the party squad. Entire party "
+"can be moved to other rooms by host."
+msgstr ""
+"このルームはパーティーモードで、すべてのユーザーがパーティーチームに参加しま"
+"す。パーティー全体をホストによって他の部屋に移動することができます。"
+
+#: inc/h5videochat.php:1027
+#, fuzzy
+msgid "You are in a party"
+msgstr "あなたはパーティーにいます"
+
+#: inc/h5videochat.php:1030
+#, fuzzy
+msgid ""
+"You are a party host. You can move party with Next and manage party users."
+msgstr ""
+"あなたはパーティーホストです。[次へ] を使用してパーティを移動し、パーティの"
+"ユーザーを管理できます。"
+
+#: inc/h5videochat.php:1076
+#, fuzzy
+msgid "Room is in collaboration mode, with a Files panel."
+msgstr "ルームは、ファイルパネルを備えたコラボレーションモードです。"
+
+#: inc/h5videochat.php:1157
+#, fuzzy
+msgid "Stream URL"
+msgstr "ストリーム URL"
+
+#: inc/h5videochat.php:1157
+#, fuzzy
+msgid ""
+"RTMP Address / OBS Stream URL: full streaming address. Contains: server, "
+"port if different than default 1935, application and control parameters, "
+"key. For OBS Settings: Stream > Server."
+msgstr ""
+"RTMP アドレス/ OBS ストリーム URL: フル ストリーミング アドレス。含む: サー"
+"バー、ポートがデフォルトの 1935 と異なる場合、アプリケーションと制御のパラ"
+"メーター、キー。OBS 設定の場合: ストリーム > サーバー。"
+
+#: inc/h5videochat.php:1158
+msgid "Stream Key"
+msgstr "ストリームキー"
+
+#: inc/h5videochat.php:1158
+#, fuzzy
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key."
+msgstr ""
+"ストリーム名/OBS ストリームキー: ストリームの名前。OBS 設定の場合: ストリー"
+"ム > ストリームキー。"
+
+#: inc/h5videochat.php:1172
+#, fuzzy
+msgid "Maximum Video Bitrate"
+msgstr "最大ビデオビットレート"
+
+#: inc/h5videochat.php:1172
+#, fuzzy
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution. A static "
+"background and less motion requires less bitrate than movies, sports, games. "
+"For OBS Settings: Output > Streaming > Video Bitrate. Warning: Trying to "
+"broadcast higher bitrate than allowed by streaming server will result in "
+"disconnects/failures."
+msgstr ""
+"解像度に応じて、ビデオビットレートにこの値以下を使用します。静的な背景と少な"
+"い動きは、映画、スポーツ、ゲームよりも少ないビットレートを必要とします。OBS "
+"設定の場合: 出力 > ストリーミング > ビデオビットレート。警告: ストリーミング"
+"サーバーで許可されているよりも高いビットレートをブロードキャストしようとする"
+"と、切断/失敗が発生します。"
+
+#: inc/h5videochat.php:1174
+#, fuzzy
+msgid "Maximum Audio Bitrate"
+msgstr "最大オーディオビットレート"
+
+#: inc/h5videochat.php:1174
+#, fuzzy
+msgid ""
+"Use this value or lower for audio bitrate. If you want to use higher Audio "
+"Bitrate, lower Video Bitrate to compensate for higher audio. For OBS "
+"Settings: Output > Streaming > Audio Bitrate. Warning: Trying to broadcast "
+"higher bitrate than allowed by streaming server will result in disconnects/"
+"failures."
+msgstr ""
+"オーディオビットレートにこの値を使用するか、以下の値を使用します。より高い"
+"オーディオビットレートを使用する場合は、より高いオーディオを補正するためにビ"
+"デオビットレートを低くします。OBS 設定の場合: 出力 > ストリーミング > オー"
+"ディオビットレート。警告: ストリーミングサーバーで許可されているよりも高い"
+"ビットレートをブロードキャストしようとすると、切断/失敗が発生します。"
+
+#: inc/h5videochat.php:1182
+#, fuzzy
+msgid "RTMP Encoder / OBS Settings"
+msgstr "RTMP エンコーダー/ OBS 設定"
+
+#: inc/h5videochat.php:1182
+#, fuzzy
+msgid ""
+"Use these settings to broadcast with a RTMP encoder app like OBS, iOS/"
+"Android GoCoder, xSplit, Zoom Meetings Webinars."
+msgstr ""
+"OBS、iOS / Android GoCoder、xSplit、ズームミーティングWebinarsのようなRTMPエ"
+"ンコーダーアプリで放送するには、これらの設定を使用してください。"
+
+#: inc/h5videochat.php:1749
+#, fuzzy
+msgid "Only room owner can edit room options."
+msgstr "ルームのオプションを編集できるのは、ルームの所有者のみです。"
+
+#: inc/h5videochat.php:1796 inc/h5videochat.php:1851
+#, fuzzy
+msgid "Only performer can moderate."
+msgstr "中程度のアクティビティを実行できるのは、実行者だけです。"
+
+#: inc/h5videochat.php:1904 inc/h5videochat.php:1954 inc/h5videochat.php:1979
+#, fuzzy
+msgid "Only performer can moderate presentation."
+msgstr "表示を中程度にすることができるのは、実行者だけです。"
+
+#: inc/h5videochat.php:1937
+#, fuzzy
+msgid "User not found to display:"
+msgstr "表示するユーザーが見つかりません:"
+
+#: inc/h5videochat.php:1939
+#, fuzzy
+msgid "User is visitor. User needs to login to broadcast camera."
+msgstr ""
+"ユーザーは訪問者です。ユーザーは、カメラを放送するためにログインする必要があ"
+"ります。"
+
+#: inc/h5videochat.php:2015
+#, fuzzy
+msgid "File not found to display:"
+msgstr "表示するファイルが見つかりません:"
+
+#: inc/h5videochat.php:2030
+#, fuzzy
+msgid "Only performer can delete files."
+msgstr "ファイルを削除できるのは実行者だけです。"
+
+#: inc/h5videochat.php:2046
+#, fuzzy
+msgid "File not found:"
+msgstr "ファイルが見つかりません:"
+
+#: inc/h5videochat.php:2183
+#, fuzzy
+msgid "Returned to party start room."
+msgstr "パーティーのスタートルームに戻りました。"
+
+#: inc/h5videochat.php:2247
+#, fuzzy
+msgid "Your party moves with you."
+msgstr "あなたのパーティーはあなたと一緒に移動します。"
+
+#: inc/h5videochat.php:2261
+#, fuzzy
+msgid "You can move a different room using Next button again."
+msgstr "[次へ] ボタンを使用して別のルームをもう一度移動できます。"
+
+#: inc/h5videochat.php:2267
+#, fuzzy
+msgid "No next room found with current criteria!"
+msgstr "現在の基準で次の部屋が見つかりません!"
+
+#: inc/h5videochat.php:2447
+#, fuzzy
+msgid "Tip in"
+msgstr "ヒントで"
+
+#: inc/h5videochat.php:2463
+#, fuzzy
+msgid "checked in"
+msgstr "チェックイン済み"
+
+#: inc/h5videochat.php:2471 inc/h5videochat.php:2479 ppv-live-webcams.php:10349
+#, fuzzy
+msgid "Tip from"
+msgstr "ヒントの提供"
+
+#: inc/h5videochat.php:2511
+#, fuzzy
+msgid "You closed private call."
+msgstr "プライベートコールを閉じました。"
+
+#: inc/h5videochat.php:2835 inc/h5videochat.php:2836
+#, fuzzy
+msgid "Private call was closed."
+msgstr "プライベートコールが閉じられました。"
+
+#: inc/h5videochat.php:2856
+#, fuzzy
+msgid "Following party to different room."
+msgstr "別の部屋にパーティーを続ける。"
+
+#: inc/h5videochat.php:2879
+#, fuzzy
+msgid "Moved to different room with party."
+msgstr "パーティーで別の部屋に移動しました。"
+
+#: inc/options.php:1330
+#, fuzzy
+msgid "Customize Features/Labels by Site Type"
+msgstr "サイトの種類別に機能/ラベルをカスタマイズする"
+
+#: inc/options.php:1394 ppv-live-webcams.php:6692
+#, fuzzy
+msgid "Paid Questions and Messages"
+msgstr "有料の質問とメッセージ"
+
+#: inc/options.php:1415
+#, fuzzy
+msgid "Random Video Chat"
+msgstr "ランダムビデオチャット"
+
+#: inc/options.php:1458
+msgid "Setup Pages"
+msgstr "ページ設定"
+
+#: inc/options.php:1467
+#, fuzzy
+msgid "Update Pages"
+msgstr "ページの更新"
+
+#: inc/options.php:1536
+#, fuzzy
+msgid "Setup Overview"
+msgstr "セットアップの概要"
+
+#: inc/options.php:1546
+#, fuzzy
+msgid "Setup Checkpoints"
+msgstr "セットアップ チェックポイント"
+
+#: inc/options.php:1715 inc/options.php:1945
+msgid "Client IP"
+msgstr "クライアントIP"
+
+#: inc/options.php:1718 inc/options.php:1948
+#, fuzzy
+msgid ""
+"ERROR: Can not detect location. GeoIP extension is required on host for this "
+"functionality."
+msgstr ""
+"エラー: 位置を検出できません。この機能を利用するためには、ホスト上で GeoIP 拡"
+"張機能が必要です。"
+
+#: inc/options.php:1722 inc/options.php:1952
+#, fuzzy
+msgid "Continent"
+msgstr "大陸"
+
+#: inc/options.php:1723 inc/options.php:1953
+msgid "Country"
+msgstr "国"
+
+#: inc/options.php:1724 inc/options.php:1954
+msgid "Region"
+msgstr "都道府県"
+
+#: inc/options.php:1725 inc/options.php:1955
+msgid "City"
+msgstr "市区町村"
+
+#: inc/options.php:1986
+msgid "Import Options"
+msgstr "インポートオプション"
+
+#: inc/options.php:2024
+msgid "Reset Options"
+msgstr "オプションリセット"
+
+#: inc/options.php:4169 ppv-live-webcams.php:558 ppv-live-webcams.php:5305
+#, fuzzy
+msgid "Webcams"
+msgstr "ウェブカメラ"
+
+#: inc/options.php:4170 ppv-live-webcams.php:11818
+#, fuzzy
+msgid "Performer Dashboard"
+msgstr "実行者ダッシュボード"
+
+#: inc/options.php:4171 ppv-live-webcams.php:11836
+#, fuzzy
+msgid "Studio Dashboard"
+msgstr "スタジオダッシュボード"
+
+#: inc/options.php:4172
+#, fuzzy
+msgid "Chat Logout"
+msgstr "チャット ログアウト"
+
+#: inc/options.php:4173
+#, fuzzy
+msgid "Random Cam"
+msgstr "ランダムカム"
+
+#: inc/options.php:4174 ppv-live-webcams.php:11827
+#, fuzzy
+msgid "Client Dashboard"
+msgstr "クライアント ダッシュボード"
+
+#: inc/shortcodes.php:50
+#, fuzzy
+msgid "Login to send questions or messages!"
+msgstr "質問やメッセージを送信するためにログイン!"
+
+#: inc/shortcodes.php:78
+#, fuzzy
+msgid "You need cost of message in balance to send it."
+msgstr ""
+"メッセージを送信するには、バランスの取れたメッセージのコストが必要です。"
+
+#: inc/shortcodes.php:78 ppv-live-webcams.php:744
+msgid "Wallet"
+msgstr "財布"
+
+#: inc/shortcodes.php:100
+#, fuzzy
+msgid "Paid Message to"
+msgstr "有料メッセージの受け取り"
+
+#: inc/shortcodes.php:105
+#, fuzzy
+msgid "Your message was sent."
+msgstr "メッセージが送信されました。"
+
+#: inc/shortcodes.php:106 inc/shortcodes.php:375 inc/shortcodes.php:492
+msgid "View Message"
+msgstr "メッセージを表示"
+
+#: inc/shortcodes.php:118
+#, fuzzy
+msgid "Your Question or Message"
+msgstr "ご質問またはメッセージ"
+
+#: inc/shortcodes.php:119
+#, fuzzy
+msgid "Send Message to"
+msgstr "メッセージの送信先"
+
+#: inc/shortcodes.php:121
+#, fuzzy
+msgid "Cost per question or message"
+msgstr "質問またはメッセージあたりのコスト"
+
+#: inc/shortcodes.php:122 ppv-live-webcams.php:5503
+#, fuzzy
+msgid "Your current balance"
+msgstr "現在の残高"
+
+#: inc/shortcodes.php:179 inc/shortcodes.php:385 inc/shortcodes.php:500
+#, fuzzy
+msgid "No Messages"
+msgstr "メッセージなし"
+
+#: inc/shortcodes.php:191 inc/shortcodes.php:428
+#, fuzzy
+msgid "Login to manage messages and replies!"
+msgstr "メッセージや返信を管理するためにログイン!"
+
+#: inc/shortcodes.php:308
+#, fuzzy
+msgid "Paid Message Earning from "
+msgstr "支払いメッセージの収益"
+
+#: inc/shortcodes.php:309
+#, fuzzy
+msgid "Your reply was sent and you got paid."
+msgstr "返信が送信され、支払いが受け取られました。"
+
+#: inc/shortcodes.php:311
+#, fuzzy
+msgid "Your reply was sent."
+msgstr "返信が送信されました。"
+
+#: inc/shortcodes.php:339
+msgid "Send Reply"
+msgstr "返信する"
+
+#: inc/shortcodes.php:373 inc/shortcodes.php:489
+#, fuzzy
+msgid "Replied"
+msgstr "答えた"
+
+#: inc/shortcodes.php:380
+#, fuzzy
+msgid ""
+"You receive payment for paid messages on reply. Clients can access their "
+"messages and replies from client dashboard and in messages section from "
+"webcam profile."
+msgstr ""
+"返信時に支払いメッセージの支払を受け取ります。クライアントは、クライアント "
+"ダッシュボードからメッセージや返信にアクセスしたり、Web カメラ プロファイルの"
+"メッセージ セクションにアクセスしたりできます。"
+
+#: inc/shortcodes.php:397
+#, fuzzy
+msgid "Login to access as client!"
+msgstr "クライアントとしてアクセスするためにログイン!"
+
+#: inc/shortcodes.php:404
+#, fuzzy
+msgid "Active balance"
+msgstr "アクティブ残高"
+
+#: inc/shortcodes.php:405
+#, fuzzy
+msgid "All Balances"
+msgstr "すべての残高"
+
+#: inc/shortcodes.php:406
+#, fuzzy
+msgid "Manage Wallet"
+msgstr "ウォレットの管理"
+
+#: inc/shortcodes.php:411
+#, fuzzy
+msgid "My Questions and Messages"
+msgstr "自分の質問とメッセージ"
+
+#: inc/shortcodes.php:415
+#, fuzzy
+msgid "My Calls"
+msgstr "私の呼び出し"
+
+#: inc/shortcodes.php:513
+#, fuzzy
+msgid "Login to manage calls!"
+msgstr "通話を管理するためにログイン!"
+
+#: inc/shortcodes.php:601
+#, fuzzy
+msgid "New call was setup"
+msgstr "新しい呼び出しが設定されました"
+
+#: inc/shortcodes.php:607
+#, fuzzy
+msgid ""
+"Error: Client was not found by email or username! User needs to register to "
+"be able to login and access the private call."
+msgstr ""
+"エラー: クライアントが電子メールまたはユーザー名で見つかりませんでした!ユー"
+"ザーは、ログインしてプライベートコールにアクセスできるように登録する必要があ"
+"ります。"
+
+#: inc/shortcodes.php:621
+msgid "Paid"
+msgstr "支払い済み"
+
+#: inc/shortcodes.php:622
+msgid "Free"
+msgstr "無料"
+
+#: inc/shortcodes.php:629
+msgid "Client"
+msgstr "クライアント"
+
+#: inc/shortcodes.php:629
+msgid "Username or Email"
+msgstr "ユーザー名またはメールアドレス"
+
+#: inc/shortcodes.php:630
+#, fuzzy
+msgid "Call Mode"
+msgstr "コールモード"
+
+#: inc/shortcodes.php:631
+#, fuzzy
+msgid "Setup Call"
+msgstr "セットアップ コール"
+
+#: inc/shortcodes.php:634
+#, fuzzy
+msgid ""
+"Setup locked private calls that can only be accessed by client using "
+"dedicated call link. Clients can access their persistent calls list in "
+"client dashboard.  "
+msgstr ""
+"専用のコール リンクを使用してクライアントのみがアクセスできるロックされたプラ"
+"イベート コールを設定します。クライアントは、クライアント ダッシュボードの永"
+"続的な呼び出しリストにアクセスできます。"
+
+#: inc/shortcodes.php:672
+msgid "Access"
+msgstr "アクセス"
+
+#: inc/shortcodes.php:673
+msgid "Closed"
+msgstr "閉じる"
+
+#: inc/shortcodes.php:681
+#, fuzzy
+msgid "No Calls"
+msgstr "通話なし"
+
+#: inc/shortcodes.php:1303
+#, fuzzy
+msgid "Loading Live Webcams"
+msgstr "ライブウェブカメラをロードしています"
+
+#: inc/shortcodes.php:1482
+#, fuzzy
+msgid "Broadcasting not allowed: Only logged in users can broadcast!"
+msgstr ""
+"ブロードキャストは許可されていません: ログインしているユーザーのみがブロード"
+"キャストできます!"
+
+#: inc/shortcodes.php:1878 ppv-live-webcams.php:2930 ppv-live-webcams.php:9609
+#, fuzzy
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today!"
+msgstr ""
+"無料チャットの毎日の制限時間に達しました:あなたは今日だけ有料グループルームに"
+"アクセスすることができます!"
+
+#: inc/shortcodes.php:1879 ppv-live-webcams.php:2931 ppv-live-webcams.php:9610
+#, fuzzy
+msgid ""
+"Free chat daily visitor time limit reached: Register and login for more chat "
+"time today!"
+msgstr ""
+"無料チャット毎日の訪問者の時間制限に達しました:登録し、今日より多くのチャット"
+"時間のためにログイン!"
+
+#: inc/shortcodes.php:2134
+#, fuzzy
+msgid "Try HTML5 Videochat"
+msgstr "HTML5ビデオチャットを試す"
+
+#: ppv-live-webcams.php:556
+#, fuzzy
+msgctxt "Post Type General Name"
+msgid "Webcams"
+msgstr "ウェブカメラ"
+
+#: ppv-live-webcams.php:557
+#, fuzzy
+msgctxt "Post Type Singular Name"
+msgid "Webcam"
+msgstr "ウェブカメラ"
+
+#: ppv-live-webcams.php:559
+#, fuzzy
+msgid "Parent Webcam:"
+msgstr "親ウェブカメラ:"
+
+#: ppv-live-webcams.php:560
+#, fuzzy
+msgid "All Webcams"
+msgstr "すべてのウェブカメラ"
+
+#: ppv-live-webcams.php:561
+#, fuzzy
+msgid "View Webcam"
+msgstr "ウェブカメラを見る"
+
+#: ppv-live-webcams.php:562
+#, fuzzy
+msgid "Add New Webcam"
+msgstr "新しいウェブカメラの追加"
+
+#: ppv-live-webcams.php:563
+#, fuzzy
+msgid "New Webcam"
+msgstr "新しいウェブカメラ"
+
+#: ppv-live-webcams.php:564
+#, fuzzy
+msgid "Edit Webcam"
+msgstr "ウェブカメラの編集"
+
+#: ppv-live-webcams.php:565
+#, fuzzy
+msgid "Update Webcam"
+msgstr "ウェブカメラの更新"
+
+#: ppv-live-webcams.php:566
+#, fuzzy
+msgid "Search Webcams"
+msgstr "ウェブカメラを検索"
+
+#: ppv-live-webcams.php:567
+#, fuzzy
+msgid "No webcams found"
+msgstr "ウェブカメラが見つかりません"
+
+#: ppv-live-webcams.php:568
+#, fuzzy
+msgid "No webcams found in Trash"
+msgstr "ゴミ箱にウェブカメラが見つかりません"
+
+#: ppv-live-webcams.php:572
+#, fuzzy
+msgid "webcam"
+msgstr "ウェブカメラ"
+
+#: ppv-live-webcams.php:573
+#, fuzzy
+msgid "Live Webcams"
+msgstr "ライブウェブカメラ"
+
+#: ppv-live-webcams.php:645
+#, fuzzy
+msgid "Access Forbidden!"
+msgstr "アクセスは禁止されています!"
+
+#: ppv-live-webcams.php:744
+#, fuzzy
+msgid "This is a paid room. A minimum balance required to access."
+msgstr "これは有料の部屋です。アクセスに必要な最小残高。"
+
+#: ppv-live-webcams.php:749
+#, fuzzy
+msgid "This is a paid room. Login is required to access a paid room."
+msgstr "これは有料の部屋です。有料の部屋にアクセスするにはログインが必要です。"
+
+#: ppv-live-webcams.php:813
+#, fuzzy
+msgid "Room Page"
+msgstr "ルームページ"
+
+#: ppv-live-webcams.php:814
+#, fuzzy
+msgid "Room Profile Content"
+msgstr "ルーム プロファイル コンテンツ"
+
+#: ppv-live-webcams.php:815
+#, fuzzy
+msgid "Room Profile Info"
+msgstr "ルームプロファイル情報"
+
+#: ppv-live-webcams.php:817 ppv-live-webcams.php:846 ppv-live-webcams.php:6688
+msgid "Messages"
+msgstr "メッセージ"
+
+#: ppv-live-webcams.php:843 ppv-live-webcams.php:912 ppv-live-webcams.php:7127
+#: ppv-live-webcams.php:7814
+msgid "Videos"
+msgstr "動画"
+
+#: ppv-live-webcams.php:844 ppv-live-webcams.php:927 ppv-live-webcams.php:7590
+#: ppv-live-webcams.php:7820
+msgid "Pictures"
+msgstr "画像"
+
+#: ppv-live-webcams.php:845 ppv-live-webcams.php:944
+msgid "Reviews"
+msgstr "レビュー"
+
+#: ppv-live-webcams.php:857 ppv-live-webcams.php:7160
+msgid "Teaser"
+msgstr "ティーザー"
+
+#: ppv-live-webcams.php:866
+msgid "Meta"
+msgstr "メタ"
+
+#: ppv-live-webcams.php:876
+#, fuzzy
+msgid "Maximum viewers"
+msgstr "最大視聴者数"
+
+#: ppv-live-webcams.php:887
+#, fuzzy
+msgid "Paid sessions"
+msgstr "有料セッション"
+
+#: ppv-live-webcams.php:887
+msgid "private"
+msgstr "非公開"
+
+#: ppv-live-webcams.php:887
+msgid "group"
+msgstr "グループ"
+
+#: ppv-live-webcams.php:887 ppv-live-webcams.php:7707 ppv-live-webcams.php:7733
+#, fuzzy
+msgid "Logged days"
+msgstr "ログに記録された日数"
+
+#: ppv-live-webcams.php:895
+msgid "Profile Info"
+msgstr "プロフィール情報"
+
+#: ppv-live-webcams.php:897 ppv-live-webcams.php:6793 ppv-live-webcams.php:7844
+msgid "Description"
+msgstr "説明"
+
+#: ppv-live-webcams.php:940
+#, fuzzy
+msgid "My Review"
+msgstr "マイレビュー"
+
+#: ppv-live-webcams.php:971
+#, fuzzy
+msgid "Send Question or Message"
+msgstr "質問またはメッセージを送信する"
+
+#: ppv-live-webcams.php:973
+#, fuzzy
+msgid "My Previous Questions and Messages"
+msgstr "以前の質問とメッセージ"
+
+#: ppv-live-webcams.php:1187 ppv-live-webcams.php:6866
+#: ppv-live-webcams.php:7803 ppv-live-webcams.php:7814
+#: ppv-live-webcams.php:7820 ppv-live-webcams.php:7826
+#: ppv-live-webcams.php:7840 ppv-live-webcams.php:12030
+msgid "Yes"
+msgstr "はい"
+
+#: ppv-live-webcams.php:1187 ppv-live-webcams.php:6866
+#: ppv-live-webcams.php:7803 ppv-live-webcams.php:7814
+#: ppv-live-webcams.php:7820 ppv-live-webcams.php:7826
+#: ppv-live-webcams.php:7840 ppv-live-webcams.php:12030
+msgid "No"
+msgstr "いいえ"
+
+#: ppv-live-webcams.php:2555 ppv-live-webcams.php:10486
+#, fuzzy
+msgid ""
+"Not enough funds left for client to continue session. Minimum required: "
+msgstr ""
+"クライアントがセッションを継続するのに十分な資金が残っていません。必要最低限:"
+
+#: ppv-live-webcams.php:2563 ppv-live-webcams.php:10492
+#, fuzzy
+msgid "Session was already ended."
+msgstr "セッションは既に終了しています。"
+
+#: ppv-live-webcams.php:2897 ppv-live-webcams.php:9533
+#: ppv-live-webcams.php:10265
+#, fuzzy
+msgid "You are banned from accessing this room! By"
+msgstr "あなたはこの部屋へのアクセスを禁止されています!によって"
+
+#: ppv-live-webcams.php:2912
+#, fuzzy
+msgid ""
+"Not enough funds left for client to continue group chat session. Minimum "
+"required: "
+msgstr ""
+"クライアントがグループ チャット セッションを継続するのに十分な資金が残ってい"
+"ません。必要最低限:"
+
+#: ppv-live-webcams.php:2914
+#, fuzzy
+msgid "Only registered and logged in users can access paid sessions."
+msgstr ""
+"有料セッションにアクセスできるのは、登録済みユーザーとログインしているユー"
+"ザーのみです。"
+
+#: ppv-live-webcams.php:3970 ppv-live-webcams.php:11730
+msgid "LIVE"
+msgstr "ライブ"
+
+#: ppv-live-webcams.php:4149
+msgid "All"
+msgstr "すべて"
+
+#: ppv-live-webcams.php:4151
+#, fuzzy
+msgid "All, Paid"
+msgstr "すべて, 有料"
+
+#: ppv-live-webcams.php:4153
+#, fuzzy
+msgid "All, Free"
+msgstr "すべて、無料"
+
+#: ppv-live-webcams.php:4156
+msgid "Online"
+msgstr "オンライン"
+
+#: ppv-live-webcams.php:4158
+#, fuzzy
+msgid "Online, Available"
+msgstr "オンライン, 利用可能"
+
+#: ppv-live-webcams.php:4160
+#, fuzzy
+msgid "Available, Paid"
+msgstr "利用可能, 有料"
+
+#: ppv-live-webcams.php:4162
+#, fuzzy
+msgid "Available, Free"
+msgstr "利用可能, 無料"
+
+#: ppv-live-webcams.php:4165
+#, fuzzy
+msgid "Online, In Private"
+msgstr "オンライン, プライベート"
+
+#: ppv-live-webcams.php:4167
+msgid "Offline"
+msgstr "オフライン"
+
+#: ppv-live-webcams.php:4175
+msgid "All Categories"
+msgstr "すべてのカテゴリー"
+
+#: ppv-live-webcams.php:4183
+msgid "Order By"
+msgstr "並び順"
+
+#: ppv-live-webcams.php:4185
+msgid "Default Order"
+msgstr "規定の並び順"
+
+#: ppv-live-webcams.php:4187
+#, fuzzy
+msgid "Current Viewers"
+msgstr "現在のビューア"
+
+#: ppv-live-webcams.php:4189
+#, fuzzy
+msgid "Broadcast Recently"
+msgstr "最近放送"
+
+#: ppv-live-webcams.php:4190
+#, fuzzy
+msgid "Created Recently"
+msgstr "最近作成した"
+
+#: ppv-live-webcams.php:4192
+#, fuzzy
+msgid "Maximum Viewers"
+msgstr "最大視聴者数"
+
+#: ppv-live-webcams.php:4194
+msgid "Random"
+msgstr "ランダム"
+
+#: ppv-live-webcams.php:4199 ppv-live-webcams.php:4205
+msgid "Rating"
+msgstr "評価"
+
+#: ppv-live-webcams.php:4200 ppv-live-webcams.php:4206
+#, fuzzy
+msgid "Ratings Number"
+msgstr "評価番号"
+
+#: ppv-live-webcams.php:4201 ppv-live-webcams.php:4207
+#, fuzzy
+msgid "Rate Popularity"
+msgstr "人気を評価する"
+
+#: ppv-live-webcams.php:4205 ppv-live-webcams.php:4206
+#: ppv-live-webcams.php:4207
+#, fuzzy
+msgid "in Category"
+msgstr "カテゴリ内"
+
+#: ppv-live-webcams.php:4224 ppv-live-webcams.php:6856
+msgid "Tags"
+msgstr "タグ"
+
+#: ppv-live-webcams.php:4238
+msgid "Search"
+msgstr "検索"
+
+#: ppv-live-webcams.php:4457
+#, fuzzy
+msgid "Ban This Webcam"
+msgstr "このウェブカメラを禁止する"
+
+#: ppv-live-webcams.php:4551 ppv-live-webcams.php:7803
+msgid "Featured"
+msgstr "おすすめ"
+
+#: ppv-live-webcams.php:4564
+msgid "Enter"
+msgstr "入力"
+
+#: ppv-live-webcams.php:4570 ppv-live-webcams.php:4590
+msgid "Call"
+msgstr "電話する"
+
+#: ppv-live-webcams.php:4581
+#, fuzzy
+msgid "Login for More"
+msgstr "ログインの詳細"
+
+#: ppv-live-webcams.php:4595
+msgid "Question"
+msgstr "質問"
+
+#: ppv-live-webcams.php:4607 ppv-live-webcams.php:6814
+#, fuzzy
+msgid "2 Way"
+msgstr "2ウェイ"
+
+#: ppv-live-webcams.php:4615
+#, fuzzy
+msgid "Voyeur"
+msgstr "盗 撮"
+
+#: ppv-live-webcams.php:4656
+msgid "Previous"
+msgstr "前へ"
+
+#: ppv-live-webcams.php:4658
+msgid "Page"
+msgstr "ページ"
+
+#: ppv-live-webcams.php:4961
+#, fuzzy
+msgid "You Were Disconnected from Chat Room"
+msgstr "チャット ルームから切断されました"
+
+#: ppv-live-webcams.php:4965
+#, fuzzy
+msgid "You have been disconnected from server."
+msgstr "サーバーから切断されました。"
+
+#: ppv-live-webcams.php:4966
+#, fuzzy
+msgid "Free daily time limit reached: Check paid rooms!"
+msgstr "無料の毎日の時間制限に達しました:有料の部屋をチェック!"
+
+#: ppv-live-webcams.php:4967
+#, fuzzy
+msgid "Free daily visitor time limit reached: Register for more!"
+msgstr "無料の毎日の訪問者の時間制限に達しました:より多くのために登録!"
+
+#: ppv-live-webcams.php:5049
+#, fuzzy
+msgid "Login to manage studio!"
+msgstr "スタジオを管理するためにログイン!"
+
+#: ppv-live-webcams.php:5061 ppv-live-webcams.php:5486
+#: ppv-live-webcams.php:5709
+#, fuzzy
+msgid "Login is required to access this section!"
+msgstr "このセクションにアクセスするにはログインが必要です!"
+
+#: ppv-live-webcams.php:5072
+#, fuzzy
+msgid "User role does not allow managing studio!"
+msgstr "ユーザーの役割は、スタジオを管理することはできません!"
+
+#: ppv-live-webcams.php:5095 ppv-live-webcams.php:5099
+#: ppv-live-webcams.php:5811
+msgid "Performers"
+msgstr "出演者"
+
+#: ppv-live-webcams.php:5099
+#, fuzzy
+msgid "Manage studio performer accounts."
+msgstr "スタジオの実行者アカウントを管理します。"
+
+#: ppv-live-webcams.php:5116
+#, fuzzy
+msgid "Performer Transactions"
+msgstr "実行トランザクション"
+
+#: ppv-live-webcams.php:5127
+#, fuzzy
+msgid "You are not allowed to view transactions for this user!"
+msgstr "このユーザーのトランザクションを表示することはできません。"
+
+#: ppv-live-webcams.php:5136
+#, fuzzy
+msgid "Create Performer Account"
+msgstr "実行者アカウントの作成"
+
+#: ppv-live-webcams.php:5140
+#, fuzzy
+msgid ""
+"After setting up performer account you will also receive password to "
+"communicate to performer for quick access. Account password should be "
+"changed by performer. Warning: Make sure you fill details correctly. Only "
+"administrator can delete incorrect accounts."
+msgstr ""
+"実行者アカウントを設定した後、あなたはまた、迅速なアクセスのために実行者に通"
+"信するためのパスワードを受け取ります。アカウントのパスワードは、実行者によっ"
+"て変更する必要があります。警告: 詳細を正しく入力していることを確認してくださ"
+"い。管理者のみが不正なアカウントを削除できます。"
+
+#: ppv-live-webcams.php:5141 ppv-live-webcams.php:5342
+#: ppv-live-webcams.php:5564 ppv-live-webcams.php:5812
+#: ppv-live-webcams.php:7104
+msgid "Save"
+msgstr "保存"
+
+#: ppv-live-webcams.php:5157
+#, fuzzy
+msgid "Adding Performer Account"
+msgstr "実行者アカウントの追加"
+
+#: ppv-live-webcams.php:5164
+#, fuzzy
+msgid "Username already in use!"
+msgstr "ユーザー名は既に使用されています!"
+
+#: ppv-live-webcams.php:5165
+#, fuzzy
+msgid "Email already in use!"
+msgstr "メールは既に使用されています!"
+
+#: ppv-live-webcams.php:5176
+#, fuzzy
+msgid "Performers limit reached!"
+msgstr "出演者の限界に達しました!"
+
+#: ppv-live-webcams.php:5178
+#, fuzzy
+msgid "Could not create performer account: "
+msgstr "実行者アカウントを作成できませんでした:"
+
+#: ppv-live-webcams.php:5185
+#, fuzzy
+msgid "Performer account was created"
+msgstr "実行者アカウントが作成されました"
+
+#: ppv-live-webcams.php:5185
+msgid "Password"
+msgstr "パスワード"
+
+#: ppv-live-webcams.php:5185 ppv-live-webcams.php:5249
+msgid "Email"
+msgstr "メールアドレス"
+
+#: ppv-live-webcams.php:5221
+#, fuzzy
+msgid "That performer is not assigned to this studio!"
+msgstr "そのパフォーマーは、このスタジオに割り当てられていません!"
+
+#: ppv-live-webcams.php:5245
+#, fuzzy
+msgid "Performers List"
+msgstr "出演者リスト"
+
+#: ppv-live-webcams.php:5249
+msgid "Balance"
+msgstr "残高"
+
+#: ppv-live-webcams.php:5249 ppv-live-webcams.php:12029
+msgid "Status"
+msgstr "ステータス"
+
+#: ppv-live-webcams.php:5249
+#, fuzzy
+msgid "Current Cam"
+msgstr "現在のカム"
+
+#: ppv-live-webcams.php:5261 ppv-live-webcams.php:6867
+msgid "Enabled"
+msgstr "有効"
+
+#: ppv-live-webcams.php:5262 ppv-live-webcams.php:6868
+msgid "Disabled"
+msgstr "無効"
+
+#: ppv-live-webcams.php:5267
+#, fuzzy
+msgid "Original Password"
+msgstr "元のパスワード"
+
+#: ppv-live-webcams.php:5277
+#, fuzzy
+msgid "Studio has no performer accounts, yet."
+msgstr "スタジオには、まだ実行者アカウントがありません。"
+
+#: ppv-live-webcams.php:5280
+#, fuzzy
+msgid "Add Performer"
+msgstr "実行者の追加"
+
+#: ppv-live-webcams.php:5280
+#, fuzzy
+msgid "Create a new performer account."
+msgstr "新しい実行者アカウントを作成します。"
+
+#: ppv-live-webcams.php:5282
+#, fuzzy
+msgid "View Your Performers List"
+msgstr "出演者リストの表示"
+
+#: ppv-live-webcams.php:5305
+#, fuzzy
+msgid "Manage webcam listings for studio performers."
+msgstr "スタジオのパフォーマーのためのウェブカメラのリストを管理します。"
+
+#: ppv-live-webcams.php:5314 ppv-live-webcams.php:5804
+#, fuzzy
+msgid "Create Webcam Listing"
+msgstr "ウェブカメラリストの作成"
+
+#: ppv-live-webcams.php:5341 ppv-live-webcams.php:5813
+#, fuzzy
+msgid ""
+"Warning: Make sure webcam listing name is correct. Only administrator can "
+"delete webcams."
+msgstr ""
+"警告: Web カメラのリスト名が正しいことを確認してください。Web カメラを削除で"
+"きるのは管理者だけです。"
+
+#: ppv-live-webcams.php:5387 ppv-live-webcams.php:5875
+#, fuzzy
+msgid "Webcam listing with that name already exists."
+msgstr "その名前のウェブカメラリストは既に存在します。"
+
+#: ppv-live-webcams.php:5391 ppv-live-webcams.php:5879
+#, fuzzy
+msgid "Webcam listing was successfully created!"
+msgstr "ウェブカメラのリストが正常に作成されました!"
+
+#: ppv-live-webcams.php:5499
+msgid "Account Status"
+msgstr "アカウントステータス"
+
+#: ppv-live-webcams.php:5499 ppv-live-webcams.php:12030
+msgid "Verified"
+msgstr "承認済み"
+
+#: ppv-live-webcams.php:5499
+#, fuzzy
+msgid "Not Verified"
+msgstr "未確認"
+
+#: ppv-live-webcams.php:5499
+#, fuzzy
+msgid "Suspended by Admin"
+msgstr "管理者によって中断"
+
+#: ppv-live-webcams.php:5500
+#, fuzzy
+msgid "Update Account Records"
+msgstr "取引先レコードの更新"
+
+#: ppv-live-webcams.php:5513
+#, fuzzy
+msgid "Account Administrative Records"
+msgstr "アカウント管理レコード"
+
+#: ppv-live-webcams.php:5513
+#, fuzzy
+msgid ""
+"These details are required by administrators for account approval and "
+"administrative operations."
+msgstr ""
+"これらの詳細は、管理者がアカウントの承認および管理操作のために必要とします。"
+
+#: ppv-live-webcams.php:5517
+#, fuzzy
+msgid "No record fields defined by administrator!"
+msgstr "管理者が定義したレコード フィールドがありません。"
+
+#: ppv-live-webcams.php:5697
+#, fuzzy
+msgid "Login to manage webcams!"
+msgstr "ウェブカメラを管理するためにログイン!"
+
+#: ppv-live-webcams.php:5722
+#, fuzzy
+msgid "User role does not allow publishing webcams!"
+msgstr "ユーザー ロールでは、Web カメラの公開は許可されていません。"
+
+#: ppv-live-webcams.php:5775
+#, fuzzy
+msgid "Selected webcam listing is invalid."
+msgstr "選択したウェブカメラの一覧が無効です。"
+
+#: ppv-live-webcams.php:5808
+#, fuzzy
+msgid ""
+"Partner performers that can also go live in this room: Comma separated list "
+"of performer usernames or emails."
+msgstr ""
+"この部屋でもライブに行くことができるパートナーのパフォーマー: パフォーマーの"
+"ユーザー名または電子メールのカンマ区切りリスト。"
+
+#: ppv-live-webcams.php:5810
+#, fuzzy
+msgid "Webcam Listing Name"
+msgstr "ウェブカメラのリスト名"
+
+#: ppv-live-webcams.php:5829
+#, fuzzy
+msgid "Adding Webcam Listing"
+msgstr "ウェブカメラの一覧を追加する"
+
+#: ppv-live-webcams.php:5869
+#, fuzzy
+msgid "Warning: Performer not found: use a valid username (login) or email!"
+msgstr ""
+"警告: 実行者が見つかりません: 有効なユーザー名(ログイン)または電子メールを使"
+"用してください!"
+
+#: ppv-live-webcams.php:5878
+#, fuzzy
+msgid "Could not create webcam listing:"
+msgstr "ウェブカメラのリストを作成できませんでした:"
+
+#: ppv-live-webcams.php:5920
+#, fuzzy
+msgid "Select Room Listing"
+msgstr "ルームリストの選択"
+
+#: ppv-live-webcams.php:5926
+#, fuzzy
+msgid ""
+"Rooms (webcam venue listings) you created or were granted access to "
+"broadcast:"
+msgstr ""
+"作成したルーム(ウェブカメラ会場リスト)、またはブロードキャストへのアクセスを"
+"許可されました:"
+
+#: ppv-live-webcams.php:5942
+#, fuzzy
+msgid ""
+"You do not have any active webcam listings: one will be setup for you and "
+"selected."
+msgstr ""
+"アクティブなウェブカメラリストがありません: 1 つはあなたのためにセットアップ"
+"され、選択されます。"
+
+#: ppv-live-webcams.php:5960
+#, fuzzy
+msgid "Add Webcam"
+msgstr "ウェブカメラを追加"
+
+#: ppv-live-webcams.php:5960
+#, fuzzy
+msgid "Create a new webcam listing."
+msgstr "新しいウェブカメラリストを作成します。"
+
+#: ppv-live-webcams.php:5963
+#, fuzzy
+msgid "View Your Webcams List"
+msgstr "ウェブカメラの一覧を表示する"
+
+#: ppv-live-webcams.php:5996
+#, fuzzy
+msgid "Custom CPM out of range: removed."
+msgstr "カスタム CPM が範囲外: 削除されました。"
+
+#: ppv-live-webcams.php:6014
+#, fuzzy
+msgid "Custom group CPM out of range: removed."
+msgstr "カスタム グループ CPM が範囲外です: 削除されました。"
+
+#: ppv-live-webcams.php:6117
+#, fuzzy
+msgid "Picture Updated."
+msgstr "画像が更新されました。"
+
+#: ppv-live-webcams.php:6119
+#, fuzzy
+msgid "ERROR: Cound not create JPG thumb file "
+msgstr "エラー: COUnd は JPG サムファイルを作成しません"
+
+#: ppv-live-webcams.php:6122
+#, fuzzy
+msgid "ERROR: Cound not create temporary image!"
+msgstr "エラー: Cound は一時的なイメージを作成しません!"
+
+#: ppv-live-webcams.php:6125
+#, fuzzy
+msgid "ERROR: Failed loading image data "
+msgstr "エラー: イメージ データの読み込みに失敗しました"
+
+#: ppv-live-webcams.php:6127
+#, fuzzy
+msgid "ERROR: File does not exist "
+msgstr "エラー: ファイルが存在しません"
+
+#: ppv-live-webcams.php:6129
+#, fuzzy
+msgid "ERROR: Could not retrieve image size for "
+msgstr "エラー: のイメージ サイズを取得できませんでした"
+
+#: ppv-live-webcams.php:6318
+msgid "Room Name"
+msgstr "ルーム名"
+
+#: ppv-live-webcams.php:6319 ppv-live-webcams.php:7798
+#, fuzzy
+msgid "Room ID"
+msgstr "部屋 ID"
+
+#: ppv-live-webcams.php:6341
+#, fuzzy
+msgid "Setting webcam group mode to"
+msgstr "ウェブカメラグループモードをに設定する"
+
+#: ppv-live-webcams.php:6449
+#, fuzzy
+msgid "Warning: Performer"
+msgstr "警告: 実行者"
+
+#: ppv-live-webcams.php:6449
+#, fuzzy
+msgid "not found: use a valid username (login) or email!"
+msgstr ""
+"見つかりません: 有効なユーザー名(ログイン)または電子メールを使用してください!"
+
+#: ppv-live-webcams.php:6457
+#, fuzzy
+msgid "Room Interface"
+msgstr "ルームインターフェイス"
+
+#: ppv-live-webcams.php:6459
+#, fuzzy
+msgid "Checked in performers"
+msgstr "チェックインされた実行者"
+
+#: ppv-live-webcams.php:6461
+#, fuzzy
+msgid "Assigning you"
+msgstr "あなたを割り当てる"
+
+#: ppv-live-webcams.php:6461
+#, fuzzy
+msgid ""
+"as room performer (streamer) and redirecting to webcam room page. Please "
+"wait..."
+msgstr ""
+"ルームパフォーマー(ストリーマー)として、ウェブカメラルームページにリダイレク"
+"トします。お待ちください。。。"
+
+#: ppv-live-webcams.php:6467
+msgid "Click here"
+msgstr "ここをクリック"
+
+#: ppv-live-webcams.php:6467
+#, fuzzy
+msgid "to access your webcam room if you do not get automatically redirected"
+msgstr ""
+"あなたが自動的にリダイレクトされない場合は、あなたのウェブカメラルームにアク"
+"セスするには"
+
+#: ppv-live-webcams.php:6475
+#, fuzzy
+msgid "Webcam Room"
+msgstr "ウェブカメラルーム"
+
+#: ppv-live-webcams.php:6487
+#, fuzzy
+msgid "Custom cost per minute in paid group chat:"
+msgstr "有料グループ チャットの 1 分あたりのカスタム コスト:"
+
+#: ppv-live-webcams.php:6515
+#, fuzzy
+msgid "Paid Mode"
+msgstr "有料モード"
+
+#: ppv-live-webcams.php:6519
+#, fuzzy
+msgid "Room Mode"
+msgstr "ルームモード"
+
+#: ppv-live-webcams.php:6519
+#, fuzzy
+msgid ""
+"Select group mode presets for your new session in this room, before going "
+"live."
+msgstr ""
+"ライブに行く前に、この部屋で新しいセッションのグループモードプリセットを選択"
+"します。"
+
+#: ppv-live-webcams.php:6523
+#, fuzzy
+msgid "This room is currently in presentation/collaboration mode."
+msgstr "このルームは現在プレゼンテーション/コラボレーションモードです。"
+
+#: ppv-live-webcams.php:6525
+#, fuzzy
+msgid "This room is currently private, hidden from room list."
+msgstr "この部屋は現在プライベートで、部屋リストから隠されています。"
+
+#: ppv-live-webcams.php:6547
+msgid "HTML5"
+msgstr "HTML5"
+
+#: ppv-live-webcams.php:6548
+#, fuzzy
+msgid ""
+"HTML5 Videochat works in mobile and PC browsers, providing streaming with "
+"group chat, private 2 way video calls, tips, conferencing, collaboration, "
+"external broadcasts. Recommended."
+msgstr ""
+"HTML5 Videochatは、モバイルおよびPCのブラウザで動作し、グループチャット、プラ"
+"イベートな2ウェイビデオ通話、ヒント、会議、コラボレーション、外部放送でスト"
+"リーミングを提供します。推奨。"
+
+#: ppv-live-webcams.php:6567
+msgid "Flash"
+msgstr "フラッシュ"
+
+#: ppv-live-webcams.php:6568
+#, fuzzy
+msgid ""
+"Flash PC interface is and older legacy app that supports presentation mode, "
+"streaming with group chat, 2 way videochat, tips. Mobile users will get the "
+"HTML5 Streaming interface, with extra latency, if transcoding is available. "
+"Does not support latest chat modes and options available in HTML5 app."
+msgstr ""
+"Flash PCインターフェイスは、グループチャット、2ウェイビデオチャット、ヒントで"
+"ストリーミング、プレゼンテーションモードをサポートし、古いレガシーアプリで"
+"す。トランスコードが可能な場合、モバイルユーザーはHTML5ストリーミングインター"
+"フェイスを取得し、追加の待ち時間を伴います。HTML5 アプリで利用可能な最新の"
+"チャット モードとオプションをサポートしていません。"
+
+#: ppv-live-webcams.php:6573
+#, fuzzy
+msgid "Select room interface before going live. Also applies to clients."
+msgstr ""
+"ライブに行く前に部屋のインターフェイスを選択します。クライアントにも適用され"
+"ます。"
+
+#: ppv-live-webcams.php:6578
+#, fuzzy
+msgid "CheckIn Options"
+msgstr "チェックイン オプション"
+
+#: ppv-live-webcams.php:6578
+#, fuzzy
+msgid "Tag other performers present in session."
+msgstr "セッションに存在する他の実行者にタグを付けます。"
+
+#: ppv-live-webcams.php:6581 ppv-live-webcams.php:6598
+#, fuzzy
+msgid "Checkin Performers"
+msgstr "チェックインパフォーマー"
+
+#: ppv-live-webcams.php:6581
+#, fuzzy
+msgid ""
+"You can select partner performers or specify other performers that are "
+"present in session."
+msgstr ""
+"パートナーの実行者を選択したり、セッションに存在する他の実行者を指定したりで"
+"きます。"
+
+#: ppv-live-webcams.php:6582
+#, fuzzy
+msgid ""
+"If paid group chat is enabled, earnings will be shared equally between "
+"checked in performers."
+msgstr ""
+"有料グループチャットが有効になっている場合、収益はチェックインされた実行者間"
+"で均等に共有されます。"
+
+#: ppv-live-webcams.php:6588
+#, fuzzy
+msgid "Partner Performers"
+msgstr "パートナーパフォーマー"
+
+#: ppv-live-webcams.php:6598
+#, fuzzy
+msgid "Comma separated list of performer usernames or emails."
+msgstr "実行者のユーザー名またはメールのカンマ区切りリスト。"
+
+#: ppv-live-webcams.php:6616
+#, fuzzy
+msgid "Select/Manage Rooms"
+msgstr "ルームの選択/管理"
+
+#: ppv-live-webcams.php:6616
+#, fuzzy
+msgid ""
+"Switch to different room / listing. Your account can setup and manage "
+"multiple room profiles."
+msgstr ""
+"別の部屋/リストに切り替えます。アカウントは、複数のルームプロファイルを設定お"
+"よび管理できます。"
+
+#: ppv-live-webcams.php:6621
+#, fuzzy
+msgid "Go Live"
+msgstr "ゴーライブ"
+
+#: ppv-live-webcams.php:6664
+#, fuzzy
+msgid "Calls"
+msgstr "呼び出し"
+
+#: ppv-live-webcams.php:6668
+#, fuzzy
+msgid "Locked Private Calls"
+msgstr "ロックされたプライベートコール"
+
+#: ppv-live-webcams.php:6714 ppv-live-webcams.php:6912
+msgid "Setup"
+msgstr "セットアップ"
+
+#: ppv-live-webcams.php:6732
+#, fuzzy
+msgid "Cost Per Minute"
+msgstr "1 分あたりのコスト"
+
+#: ppv-live-webcams.php:6732
+#, fuzzy
+msgid "Cost per minute for private shows (set 0 to use default)."
+msgstr ""
+"プライベート ショーの分あたりのコスト (既定値を使用する場合は 0 を設定)。"
+
+#: ppv-live-webcams.php:6746
+#, fuzzy
+msgid "Cost Per Minute in Group Mode"
+msgstr "グループ モードでの 1 分あたりのコスト"
+
+#: ppv-live-webcams.php:6746
+#, fuzzy
+msgid ""
+"Cost per minute for group shows. Replaces paid group CPM (set 0 to use "
+"default)."
+msgstr ""
+"グループ ショーの分あたりのコスト。有料グループ CPM を置き換えます (既定値を"
+"使用する場合は 0 を設定)。"
+
+#: ppv-live-webcams.php:6753
+#, fuzzy
+msgid "2 Way Slots"
+msgstr "2ウェイスロット"
+
+#: ppv-live-webcams.php:6753
+#, fuzzy
+msgid ""
+"2 way slots in room. Replaces default group mode slots (set 0 to use "
+"default)."
+msgstr ""
+"部屋の2ウェイスロット。デフォルトのグループ モード スロットを置き換えます(既"
+"定値を使用するには 0 を設定します)。"
+
+#: ppv-live-webcams.php:6760 ppv-live-webcams.php:6766
+msgid "Picture"
+msgstr "画像"
+
+#: ppv-live-webcams.php:6760
+#, fuzzy
+msgid "Update room picture to use instead of live snapshot."
+msgstr "ライブ スナップショットの代わりに使用するルームの画像を更新します。"
+
+#: ppv-live-webcams.php:6767
+#, fuzzy
+msgid "Live Snapshot"
+msgstr "ライブスナップショット"
+
+#: ppv-live-webcams.php:6768
+#, fuzzy
+msgid "Select what to show in webcam listings."
+msgstr "ウェブカメラのリストに表示する内容を選択します。"
+
+#: ppv-live-webcams.php:6778
+msgid "Label"
+msgstr "ラベル"
+
+#: ppv-live-webcams.php:6778
+#, fuzzy
+msgid "Shows in room listings instead of name."
+msgstr "名前ではなくルームリストで表示します。"
+
+#: ppv-live-webcams.php:6787
+msgid "Category"
+msgstr "カテゴリー"
+
+#: ppv-live-webcams.php:6787
+#, fuzzy
+msgid "Webcam category."
+msgstr "ウェブカメラのカテゴリ。"
+
+#: ppv-live-webcams.php:6793
+#, fuzzy
+msgid ""
+"Room description: profile, schedule. Shows on room page and full row list "
+"layout."
+msgstr ""
+"部屋の説明:プロファイル、スケジュール。ルーム ページと行リストの全レイアウト"
+"で表示されます。"
+
+#: ppv-live-webcams.php:6802
+#, fuzzy
+msgid "Brief"
+msgstr "短い"
+
+#: ppv-live-webcams.php:6802
+#, fuzzy
+msgid "Room brief info: profile, schedule. Shows in room listings."
+msgstr ""
+"部屋の簡単な情報:プロファイル、スケジュール。ルームリストで表示されます。"
+
+#: ppv-live-webcams.php:6811
+#, fuzzy
+msgid "Private Videochat Mode"
+msgstr "プライベートビデオチャットモード"
+
+#: ppv-live-webcams.php:6813
+#, fuzzy
+msgid "1 Way"
+msgstr "1ウェイ"
+
+#: ppv-live-webcams.php:6816
+#, fuzzy
+msgid "Allow clients to start their cams for 2 way videochat."
+msgstr ""
+"クライアントが2ウェイビデオチャットのために自分のカムを開始できるようにしま"
+"す。"
+
+#: ppv-live-webcams.php:6834
+#, fuzzy
+msgid "Detected IP"
+msgstr "検出された IP"
+
+#: ppv-live-webcams.php:6836
+#, fuzzy
+msgid "Detected Continent, Country, Region, City"
+msgstr "検出された大陸, 国, 地域, 都市"
+
+#: ppv-live-webcams.php:6839
+#, fuzzy
+msgid "ERROR: GeoIP extension is required on host for this functionality."
+msgstr ""
+"エラー: この機能を使用するために、ホスト上で GeoIP 拡張機能が必要です。"
+
+#: ppv-live-webcams.php:6841
+#, fuzzy
+msgid "Ban Countries"
+msgstr "禁止国"
+
+#: ppv-live-webcams.php:6841
+#, fuzzy
+msgid ""
+"You may want to ban your location for privacy reasons. Or countries and "
+"regions where your content is not legal or well received. List of locations "
+"(country, region, city or continent code, separated by comma) that can not "
+"access webcam room."
+msgstr ""
+"プライバシー上の理由から、位置情報を禁止する場合があります。または、コンテン"
+"ツが合法またはよく受け取られていない国や地域。ウェブカメラルームにアクセスで"
+"きない場所(国、地域、都市、大陸コード、カンマで区切られた)のリスト。"
+
+#: ppv-live-webcams.php:6856
+#, fuzzy
+msgid "Tags separated by comma. Show in room listings."
+msgstr "コンマで区切られたタグ。ルームリストに表示します。"
+
+#: ppv-live-webcams.php:6865
+#, fuzzy
+msgid "Presentation Mode"
+msgstr "プレゼンテーションモード"
+
+#: ppv-live-webcams.php:6870
+#, fuzzy
+msgid ""
+"Enables presentations mode with presentation screen, annotations, "
+"whiteboard, file sharing."
+msgstr ""
+"プレゼンテーション画面、注釈、ホワイトボード、ファイル共有を使用してプレゼン"
+"テーションモードを有効にします。"
+
+#: ppv-live-webcams.php:6877
+msgid "Logo Image"
+msgstr "ロゴ画像"
+
+#: ppv-live-webcams.php:6877
+#, fuzzy
+msgid ""
+"Floating logo URL (preferably a transparent PNG image). Leave blank to hide."
+msgstr ""
+"フローティング ロゴ URL (透過 PNG 画像が好ましい)。非表示にするには、空白のま"
+"まにします。"
+
+#: ppv-live-webcams.php:6879
+#, fuzzy
+msgid "Logo Link"
+msgstr "ロゴリンク"
+
+#: ppv-live-webcams.php:6879
+#, fuzzy
+msgid "URL to open on logo click."
+msgstr "ロゴクリックで開く URL。"
+
+#: ppv-live-webcams.php:6889
+msgid "Access List"
+msgstr "アクセスリスト"
+
+#: ppv-live-webcams.php:6889
+#, fuzzy
+msgid ""
+"User roles, logins, emails separated by comma. Leave empty to allow "
+"everybody to access."
+msgstr ""
+"ユーザーロール、ログイン、メールはカンマで区切られています。誰もがアクセスで"
+"きるように空のままにします。"
+
+#: ppv-live-webcams.php:6898
+#, fuzzy
+msgid "Webcam room access price. Leave 0 for free access."
+msgstr ""
+"ウェブカメラルームアクセス価格。無料アクセスの場合は 0 のままにします。"
+
+#: ppv-live-webcams.php:6911
+#, fuzzy
+msgid "Webcam Profile Setup"
+msgstr "ウェブカメラプロファイルのセットアップ"
+
+#: ppv-live-webcams.php:6959
+#, fuzzy
+msgid "Webcam Room Listing Profile"
+msgstr "ウェブカメラルームリストプロファイル"
+
+#: ppv-live-webcams.php:6959
+#, fuzzy
+msgid ""
+"These details will show on webcam room page (under videochat interface)."
+msgstr ""
+"これらの詳細は、ウェブカメラルームページ(ビデオチャットインターフェイスの下)"
+"に表示されます。"
+
+#: ppv-live-webcams.php:7144
+#, fuzzy
+msgid ""
+"Multiple profile videos can show on webcam listing page. Each listing has "
+"own videos."
+msgstr ""
+"複数のプロファイル動画をウェブカメラのリストページに表示できます。各リストに"
+"は独自のビデオがあります。"
+
+#: ppv-live-webcams.php:7171
+#, fuzzy
+msgid "Teaser Video"
+msgstr "ティーザービデオ"
+
+#: ppv-live-webcams.php:7174
+#, fuzzy
+msgid ""
+"Teaser video (featured video) plays shortly as preview in listings, in room "
+"when performer is offline in HTML5 Videochat interface and shows on profile "
+"page. Can be selected from all videos of user."
+msgstr ""
+"ティーザービデオ(注目のビデオ)は、HTML5 Videochatインターフェイスでパフォー"
+"マーがオフラインでプロフィールページに表示される場合、リストのプレビューとし"
+"てまもなく再生されます。ユーザーのすべての動画から選択できます。"
+
+#: ppv-live-webcams.php:7213
+msgid "Playlist"
+msgstr "プレイリスト"
+
+#: ppv-live-webcams.php:7313
+#, fuzzy
+msgid "Playlist is enabled and room stream updated to"
+msgstr "プレイリストが有効で、ルームストリームがに更新されています。"
+
+#: ppv-live-webcams.php:7384
+#, fuzzy
+msgid "No videos found! Please add some videos first."
+msgstr "動画が見つかりません!最初にいくつかのビデオを追加してください。"
+
+#: ppv-live-webcams.php:7389
+#, fuzzy
+msgid "Quick Loop Setup"
+msgstr "クイックループ設定"
+
+#: ppv-live-webcams.php:7390
+#, fuzzy
+msgid ""
+"Video will play in loop while playlist is active. Warning: Going live (with "
+"real webcam) will stop video loop (needs to be setup again). Can also be "
+"disabled by setting Playlist Status as Inactive."
+msgstr ""
+"再生リストがアクティブな間、ビデオはループで再生されます。警告:ライブに行く"
+"(実際のウェブカメラで)ビデオループを停止します(再度設定する必要があります)。"
+"プレイリストステータスを非アクティブに設定して無効にすることもできます。"
+
+#: ppv-live-webcams.php:7391
+#, fuzzy
+msgid "Set Video Loop"
+msgstr "ビデオループの設定"
+
+#: ppv-live-webcams.php:7409
+msgid "Inactive"
+msgstr "非アクティブ"
+
+#: ppv-live-webcams.php:7410
+msgid "Active"
+msgstr "有効"
+
+#: ppv-live-webcams.php:7425
+#, fuzzy
+msgid "Advanced Playlist Editor"
+msgstr "高度なプレイリストエディタ"
+
+#: ppv-live-webcams.php:7426
+#, fuzzy
+msgid ""
+"After editing playlist contents below, update it to apply changes. Last "
+"Updated:"
+msgstr ""
+"以下のプレイリストの内容を編集した後、それを更新して変更を適用してください。"
+"最終更新日:"
+
+#: ppv-live-webcams.php:7427
+#, fuzzy
+msgid ""
+"Playlist is loaded with web application (on access) and reloaded if "
+"necessary when users access"
+msgstr ""
+"プレイリストは(アクセス時に)Webアプリケーションでロードされ、ユーザーがアクセ"
+"スしたときに必要に応じて再ロードされます"
+
+#: ppv-live-webcams.php:7428
+#, fuzzy
+msgid ""
+"First create a Schedule (Add new record), then Edit Videos (Add new record "
+"under Videos):"
+msgstr ""
+"まずスケジュールを作成 (新しいレコードを追加)、次に [ビデオの編集] ([ビデオ] "
+"の下に新しいレコードを追加) します。"
+
+#: ppv-live-webcams.php:7429
+#, fuzzy
+msgid "videochat interface"
+msgstr "ビデオチャットインターフェイス"
+
+#: ppv-live-webcams.php:7430
+#, fuzzy
+msgid "last time reloaded"
+msgstr "前回の再読み込み"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid ""
+"Schedule playlist items as: Year-Month-Day Hours:Minutes:Seconds in "
+"scheduling server timezone. In example, current server OS time"
+msgstr ""
+"プレイリスト項目のスケジュール: 1 日の時間:分:サーバーのタイムゾーンのスケ"
+"ジュール設定で秒。例えば、現在のサーバーOS時間"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid "in timezone"
+msgstr "タイムゾーンで"
+
+#: ppv-live-webcams.php:7557
+#, fuzzy
+msgid "default timezone was"
+msgstr "デフォルトのタイムゾーンは"
+
+#: ppv-live-webcams.php:7559
+#, fuzzy
+msgid ""
+"If the schedule time is in the past, each video is loaded in order and "
+"immediately replaces the previous video for the stream. Repeat will cause "
+"that videos to repeat in loop."
+msgstr ""
+"スケジュール時刻が過去の場合、各ビデオは順番に読み込まれ、ストリームの前のビ"
+"デオが即座に置き換えられます。繰り返しを行うと、そのビデオがループで繰り返さ"
+"れます。"
+
+#: ppv-live-webcams.php:7566
+#, fuzzy
+msgid ""
+"Scheduled videos play instead of performer live stream in videochat "
+"interface. Can be selected from all videos of user."
+msgstr ""
+"ビデオチャットインターフェイスでは、スケジュールされたビデオが、実行者のライ"
+"ブストリームではなく再生されます。ユーザーのすべての動画から選択できます。"
+
+#: ppv-live-webcams.php:7604
+#, fuzzy
+msgid ""
+"Multiple profile pictures can show on webcam listing page. Each listing has "
+"own pictures."
+msgstr ""
+"複数のプロフィール写真は、ウェブカメラのリストページに表示することができま"
+"す。各リストには独自の写真があります。"
+
+#: ppv-live-webcams.php:7635 ppv-live-webcams.php:7669
+msgid "Bans"
+msgstr "禁止"
+
+#: ppv-live-webcams.php:7648
+#, fuzzy
+msgid "Cleared ban for"
+msgstr "のクリアされた禁止"
+
+#: ppv-live-webcams.php:7651
+msgid "Not found!"
+msgstr "見つかりません!"
+
+#: ppv-live-webcams.php:7675
+#, fuzzy
+msgid "There are no bans for this room."
+msgstr "この部屋の禁止はありません。"
+
+#: ppv-live-webcams.php:7677
+#, fuzzy
+msgid ""
+"Bans occur when performer kicks or bans users from videochat interface. "
+"Kicks result in short bans (15 minutes) and full bans have longer cooldown "
+"(1 week). Bans prevent viewers from accessing or remaining in chat room."
+msgstr ""
+"禁止は、パフォーマーがビデオチャットインターフェイスからユーザーを蹴ったり禁"
+"止したりする場合に発生します。キックは短い禁止(15分)になり、フル禁止はより長"
+"いクールダウン(1週間)を持っています。禁止は、視聴者がチャット ルームにアクセ"
+"スしたり、チャット ルームに残ったりすることを防ぎます。"
+
+#: ppv-live-webcams.php:7699
+#, fuzzy
+msgid "TeraWallet"
+msgstr "テラウォレット"
+
+#: ppv-live-webcams.php:7702
+#, fuzzy
+msgid "TeraWallet (WooCommerce)"
+msgstr "テラウォレット (ウーコマース)"
+
+#: ppv-live-webcams.php:7708 ppv-live-webcams.php:7734
+#, fuzzy
+msgid "Logged private sessions billed"
+msgstr "ログに記録されたプライベート セッションの請求"
+
+#: ppv-live-webcams.php:7709 ppv-live-webcams.php:7735
+#, fuzzy
+msgid "Logged group sessions billed"
+msgstr "ログに記録されたグループ セッションの請求"
+
+#: ppv-live-webcams.php:7710 ppv-live-webcams.php:7736
+#, fuzzy
+msgid "Session logs are kept for limited time and transaction logs forever."
+msgstr ""
+"セッション ログは、期間限定でトランザクション ログが永久に保持されます。"
+
+#: ppv-live-webcams.php:7726 ppv-live-webcams.php:7729
+#, fuzzy
+msgid "My Credits"
+msgstr "マイクレジット"
+
+#: ppv-live-webcams.php:7749
+msgid "Overview"
+msgstr "概要"
+
+#: ppv-live-webcams.php:7768
+#, fuzzy
+msgid "Webcam Room Listing Overview"
+msgstr "ウェブカメラルームの一覧の概要"
+
+#: ppv-live-webcams.php:7790
+#, fuzzy
+msgid "Listing (Room) Name"
+msgstr "リスト(ルーム)名"
+
+#: ppv-live-webcams.php:7791
+#, fuzzy
+msgid "Current Room Performer"
+msgstr "現在のルームの実行者"
+
+#: ppv-live-webcams.php:7792
+#, fuzzy
+msgid "Current Room Performer ID"
+msgstr "現在のルームの実行者 ID"
+
+#: ppv-live-webcams.php:7793
+#, fuzzy
+msgid "Your Performer Name"
+msgstr "あなたのパフォーマー名"
+
+#: ppv-live-webcams.php:7794
+#, fuzzy
+msgid "Room Label"
+msgstr "ルームラベル"
+
+#: ppv-live-webcams.php:7795
+#, fuzzy
+msgid "Room Status"
+msgstr "ルームステータス"
+
+#: ppv-live-webcams.php:7796
+#, fuzzy
+msgid "Room URL"
+msgstr "ルーム URL"
+
+#: ppv-live-webcams.php:7797
+#, fuzzy
+msgid "Room Slug"
+msgstr "ルーム スラッグ"
+
+#: ppv-live-webcams.php:7807
+#, fuzzy
+msgid "Client CPM"
+msgstr "クライアント CPM"
+
+#: ppv-live-webcams.php:7808
+#, fuzzy
+msgid "Earning Ratio"
+msgstr "収益率"
+
+#: ppv-live-webcams.php:7826
+#, fuzzy
+msgid "HTML5 Transcoding"
+msgstr "HTML5 トランスコード"
+
+#: ppv-live-webcams.php:7832
+#, fuzzy
+msgid "Multiple Cameras"
+msgstr "複数のカメラ"
+
+#: ppv-live-webcams.php:7840
+#, fuzzy
+msgid "Scheduled Playlist"
+msgstr "スケジュールされたプレイリスト"
+
+#: ppv-live-webcams.php:7880
+msgid "Role"
+msgstr "権限"
+
+#: ppv-live-webcams.php:8391
+#, fuzzy
+msgid "PPM group"
+msgstr "PPM グループ"
+
+#: ppv-live-webcams.php:8391
+#, fuzzy
+msgid "session in"
+msgstr "セッション"
+
+#: ppv-live-webcams.php:8413
+#, fuzzy
+msgid "Earning from PPM group"
+msgstr "PPMグループからの収益"
+
+#: ppv-live-webcams.php:8413
+#, fuzzy
+msgid " session with "
+msgstr "とのセッション"
+
+#: ppv-live-webcams.php:8488
+#, fuzzy
+msgid "Earning from PPM private session with "
+msgstr "とのPPMプライベートセッションからの収入"
+
+#: ppv-live-webcams.php:8491
+#, fuzzy
+msgid "Performer cost for PPM private session with "
+msgstr "PPM プライベート セッションの実行者コスト"
+
+#: ppv-live-webcams.php:9550
+#, fuzzy
+msgid ""
+"You are NOT logged in. Only registered users can request private show or "
+"send tips!"
+msgstr ""
+"ログインしていません。登録ユーザーのみがプライベートショーをリクエストした"
+"り、ヒントを送信したりできます!"
+
+#: ppv-live-webcams.php:9557
+#, fuzzy
+msgid ""
+"Please login first or register an account if you do not have one! Click here "
+"to return to website."
+msgstr ""
+"あなたが持っていない場合は、最初にログインするか、アカウントを登録してくださ"
+"い!ここをクリックしてウェブサイトに戻ります。"
+
+#: ppv-live-webcams.php:9563
+#, fuzzy
+msgid "you are not in the allowed watchers list."
+msgstr "許可されているウォッチャー リストに含まれていません。"
+
+#: ppv-live-webcams.php:9564
+#, fuzzy
+msgid "Please login first or register an account if you do not have one!"
+msgstr ""
+"あなたが持っていない場合は、最初にログインするか、アカウントを登録してくださ"
+"い!"
+
+#: ppv-live-webcams.php:9580
+#, fuzzy
+msgid "Paid group session: login to access!"
+msgstr "有料グループセッション:アクセスにログイン!"
+
+#: ppv-live-webcams.php:9585
+#, fuzzy
+msgid "Minimum balance required for paid session:"
+msgstr "有料セッションに必要な最小残高:"
+
+#: ppv-live-webcams.php:9628
+#, fuzzy
+msgid "Your are not in room access list."
+msgstr "あなたはルームアクセスリストに載っていません。"
+
+#: ppv-live-webcams.php:9636
+#, fuzzy
+msgid ""
+"Password Protected: Room can be accessed after filling password from room "
+"page."
+msgstr ""
+"パスワード保護:ルームページからパスワードを入力した後にアクセスすることができ"
+"ます。"
+
+#: ppv-live-webcams.php:9648 ppv-live-webcams.php:9744
+#, fuzzy
+msgid "Your current balance:"
+msgstr "現在の残高:"
+
+#: ppv-live-webcams.php:9650 ppv-live-webcams.php:10346
+#, fuzzy
+msgid "Pending balance"
+msgstr "保留中の残高"
+
+#: ppv-live-webcams.php:9665
+#, fuzzy
+msgid "2 way slots:"
+msgstr "2ウェイスロット:"
+
+#: ppv-live-webcams.php:9747
+#, fuzzy
+msgid "Private show cost per minute for performer is:"
+msgstr "出演者のプライベートショーの1分あたりの費用は次のとおりです。"
+
+#: ppv-live-webcams.php:9753
+#, fuzzy
+msgid "Private show cost per minute for client:"
+msgstr "クライアントのプライベート ショーの 1 分あたりのコスト:"
+
+#: ppv-live-webcams.php:9757
+#, fuzzy
+msgid "Private show earning per minute for performer:"
+msgstr "出演者のプライベートショーの1分あたりの収入:"
+
+#: ppv-live-webcams.php:9769
+#, fuzzy
+msgid "You are in room"
+msgstr "あなたは部屋にいます"
+
+#: ppv-live-webcams.php:9771
+#, fuzzy
+msgid "Active performer (stream):"
+msgstr "アクティブな実行者 (ストリーム):"
+
+#: ppv-live-webcams.php:9864
+#, fuzzy
+msgid ""
+"Warning: HTTPS not detected. Some browsers like Chrome will not permit "
+"webcam access when accessing without SSL!"
+msgstr ""
+"警告: HTTPS が検出されませんでした。Chromeのような一部のブラウザでは、SSLなし"
+"でアクセスする際にウェブカメラへのアクセスを許可しません!"
+
+#: ppv-live-webcams.php:10334
+#, fuzzy
+msgid "Tip from "
+msgstr "ヒントの提供"
+
+#: ppv-live-webcams.php:10343
+#, fuzzy
+msgid "After tip, your balance is"
+msgstr "チップの後、あなたのバランスは"
+
+#: ppv-live-webcams.php:10351
+msgid "Tip"
+msgstr "ヒント"
+
+#: ppv-live-webcams.php:11072 ppv-live-webcams.php:11588
+#, fuzzy
+msgid "Comment added successfully!"
+msgstr "コメントが正常に追加されました!"
+
+#: ppv-live-webcams.php:11079
+#, fuzzy
+msgid "Not implemented, yet!"
+msgstr "まだ実装されていません!"
+
+#: ppv-live-webcams.php:11136
+#, fuzzy
+msgid "Comment deleted successfully!"
+msgstr "コメントが正常に削除されました!"
+
+#: ppv-live-webcams.php:11397
+#, fuzzy
+msgid "Whiteboard elements added successfully!"
+msgstr "ホワイトボード要素が正常に追加されました!"
+
+#: ppv-live-webcams.php:11401
+#, fuzzy
+msgid "No whiteboard elements to add!"
+msgstr "追加するホワイトボード要素がありません!"
+
+#: ppv-live-webcams.php:11756
+#, fuzzy
+msgid "Approve Users"
+msgstr "ユーザーの承認"
+
+#: ppv-live-webcams.php:11763
+#, fuzzy
+msgid "Session Logs"
+msgstr "セッション ログ"
+
+#: ppv-live-webcams.php:11770
+#, fuzzy
+msgid "Stream Sessions"
+msgstr "ストリームセッション"
+
+#: ppv-live-webcams.php:11777
+#, fuzzy
+msgid "RTMP Admin"
+msgstr "RTMP 管理"
+
+#: ppv-live-webcams.php:11784
+#, fuzzy
+msgid "Webcam Posts"
+msgstr "ウェブカメラの投稿"
+
+#: ppv-live-webcams.php:11792 ppv-live-webcams.php:11877
+msgid "Settings"
+msgstr "設定"
+
+#: ppv-live-webcams.php:11799
+msgid "Billing"
+msgstr "請求処理"
+
+#: ppv-live-webcams.php:11806
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: ppv-live-webcams.php:11910
+#, fuzzy
+msgid "User not found by email or login: "
+msgstr "ユーザーが電子メールまたはログインで見つかりません:"
+
+#: ppv-live-webcams.php:11917
+#, fuzzy
+msgid "User not found by ID: "
+msgstr "ID でユーザーが見つかりません:"
+
+#: ppv-live-webcams.php:11928
+#, fuzzy
+msgid "Studio not found: "
+msgstr "スタジオが見つかりません:"
+
+#: ppv-live-webcams.php:12001
+#, fuzzy
+msgid "User not found: "
+msgstr "ユーザーが見つかりません:"
+
+#: ppv-live-webcams.php:12031
+#, fuzzy
+msgid "Toggle Verified"
+msgstr "確認済みの切り替え"
+
+#: ppv-live-webcams.php:12033
+msgid "Suspended"
+msgstr "一時停止中"
+
+#: ppv-live-webcams.php:12034
+#, fuzzy
+msgid "Toggle Suspended"
+msgstr "中断を切り替える"
+
+#: ppv-live-webcams.php:12036
+#, fuzzy
+msgid "Records Updated"
+msgstr "レコードが更新されました"
+
+#: ppv-live-webcams.php:12037
+#, fuzzy
+msgid "Last Verified"
+msgstr "最終検証済み"
+
+#: template-app.php:19
+#, fuzzy
+msgid "Video Chat"
+msgstr "ビデオチャット"
+
+#: template-webcam.php:40
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "一致する記事を見つけられませんでした。再度試してみてください。"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Paid Videochat Turnkey Site - HTML5 PPV Live Webcams"
+msgstr "有料ビデオチャットターンキーサイト - HTML5 PPVライブウェブカメラ"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://paidvideochat.com"
+msgstr "https://paidvideochat.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"<strong>Paid Videochat Turnkey Site - HTML5 PPV Live Webcams</strong>: pay "
+"per view / minute (PPV/PPM) videochat sites.  Includes custom registration "
+"(performers, clients, studios), live webcams list, public lobby for each "
+"performer with live stream, mult-performer in show checkin, custom tips/"
+"gifts with notification, pay per minute private 2 way calls and group "
+"videochat shows, HTML5 WebRTC live video streaming, adaptive interface for "
+"mobile browsers, snapshots/pictures and videos profile, video conference "
+"mode with split view streaming, presentation/collaboration mode with file "
+"sharing and image/video display, paid questions/messages.  <a href='https://"
+"videowhisper.com/tickets_submit.php?topic=PPV-Live-Webcams'>Contact Support</"
+"a> | <a href='admin.php?page=live-webcams&tab=setup'>Setup</a>"
+msgstr ""
+"<strong>有料ビデオチャットターンキーサイト - HTML5 PPVライブウェブカメラ</"
+"strong>:ビュー/分(PPV / PPM)ビデオチャットサイトあたりの支払い。 カスタム登録"
+"(パフォーマー、クライアント、スタジオ)、ライブウェブカメラリスト、ライブスト"
+"リームを持つ各パフォーマーのパブリックロビー、ショーチェックインのマルチパ"
+"フォーマー、通知付きのカスタムヒント/ギフト、1分あたりのプライベート2ウェイ"
+"コールとグループビデオチャットショー、HTML5 WebRTCライブビデオストリーミン"
+"グ、モバイルブラウザ用のアダプティブインターフェイス、スナップショット/ピク"
+"チャとビデオプロファイル、スプリットビューストリーミング、プレゼンテーション/"
+"モードコラボレーション <a href='https://videowhisper.com/tickets_submit.php?"
+"topic=PPV-Live-Webcams'>サポートに問い合わせる</a>|<a href='admin.php?"
+"page=live-webcams&tab=setup'>セットアップ</a>"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper.com"
+msgstr "VideoWhisper.com"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://videowhisper.com/"
+msgstr "https://videowhisper.com/"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper App - Full Page"
+msgstr "ビデオウィスパアプリ - 全ページ"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper Full"
+msgstr "ビデオウィスパーズフル"

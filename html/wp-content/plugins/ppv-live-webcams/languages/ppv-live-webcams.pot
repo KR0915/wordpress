@@ -1,0 +1,3449 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PPV Live Webcams - Paid Videochat\n"
+"POT-Creation-Date: 2025-02-06 10:03+0200\n"
+"PO-Revision-Date: 2017-12-05 19:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ppv-live-webcams.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/buddypress.php:41
+msgid ""
+"To setup and update room or access as performer, go to Admin - Webcams after "
+"setting up group."
+msgstr ""
+
+#: inc/buddypress.php:87
+msgid "Group room was created."
+msgstr ""
+
+#: inc/buddypress.php:110
+msgid "Group room is ready and you have been added to performer list."
+msgstr ""
+
+#: inc/buddypress.php:115 inc/buddypress.php:169 inc/buddypress.php:194
+msgid "Access Room Page"
+msgstr ""
+
+#: inc/buddypress.php:118
+msgid "Access Performer Dashboard"
+msgstr ""
+
+#: inc/buddypress.php:144
+msgid "There was an error saving, please try again"
+msgstr ""
+
+#: inc/buddypress.php:146
+msgid "Settings saved successfully"
+msgstr ""
+
+#: inc/buddypress.php:166 inc/buddypress.php:191
+msgid ""
+"Webcams room was not setup, yet. Group administrator can set it up from "
+"Manage - Webcams."
+msgstr ""
+
+#: inc/h5videochat.php:62 inc/shortcodes.php:8095
+msgid "Your current balance"
+msgstr ""
+
+#: inc/h5videochat.php:62
+msgid "Not enough funds to enter a matchmaking call. Minimum required: "
+msgstr ""
+
+#: inc/h5videochat.php:84
+msgid "Found active booth. Resuming"
+msgstr ""
+
+#: inc/h5videochat.php:112
+msgid "No random call match found with current criteria!"
+msgstr ""
+
+#: inc/h5videochat.php:557 inc/h5videochat.php:2282
+msgid "You are room provider."
+msgstr ""
+
+#: inc/h5videochat.php:561 inc/h5videochat.php:564 inc/h5videochat.php:2286
+#: inc/h5videochat.php:2289
+msgid "Chat Type"
+msgstr ""
+
+#: inc/h5videochat.php:561 inc/h5videochat.php:2286
+msgid "Audio chat"
+msgstr ""
+
+#: inc/h5videochat.php:564 inc/h5videochat.php:2289
+msgid "Text chat"
+msgstr ""
+
+#: inc/h5videochat.php:570 inc/h5videochat.php:2295
+msgid "This is a paid private session:"
+msgstr ""
+
+#: inc/h5videochat.php:571 inc/h5videochat.php:2296
+msgid "Cost"
+msgstr ""
+
+#: inc/h5videochat.php:576 inc/h5videochat.php:2301 inc/h5videochat.php:2723
+msgid "You get"
+msgstr ""
+
+#: inc/h5videochat.php:580 inc/h5videochat.php:2305 inc/h5videochat.php:2726
+#: inc/h5videochat.php:2792 inc/h5videochat.php:2826
+msgid "Charging starts after a grace time:"
+msgstr ""
+
+#: inc/h5videochat.php:586
+msgid "Waiting for a client to match."
+msgstr ""
+
+#: inc/h5videochat.php:682
+msgid "Next Match"
+msgstr ""
+
+#: inc/h5videochat.php:706
+msgid "Login is required to access your own videochat room!"
+msgstr ""
+
+#: inc/h5videochat.php:706 inc/h5videochat.php:931 inc/h5videochat.php:1015
+#: inc/h5videochat.php:1022 inc/shortcodes.php:1516 inc/shortcodes.php:1819
+#: inc/shortcodes.php:1932 inc/shortcodes.php:2050 inc/shortcodes.php:3747
+#: inc/shortcodes.php:8962 inc/shortcodes.php:11584 inc/shortcodes.php:12861
+#: ppv-live-webcams.php:1183
+msgid "Login"
+msgstr ""
+
+#: inc/h5videochat.php:706 inc/h5videochat.php:931 inc/h5videochat.php:1015
+#: inc/h5videochat.php:1022 inc/h5videochat.php:3903 inc/shortcodes.php:2062
+#: inc/shortcodes.php:2066 inc/shortcodes.php:2071 inc/shortcodes.php:2842
+#: inc/shortcodes.php:8962 inc/shortcodes.php:12861 ppv-live-webcams.php:1183
+msgid "Register"
+msgstr ""
+
+#: inc/h5videochat.php:714 inc/shortcodes.php:3491 inc/shortcodes.php:4279
+msgid ""
+"Your account is not currently enabled. Update your account records and wait "
+"for site admins to approve your account."
+msgstr ""
+
+#: inc/h5videochat.php:720 inc/shortcodes.php:4285
+msgid ""
+"Studio disabled your account: dashboard access is forbidden. Contact studio "
+"or site administrator!"
+msgstr ""
+
+#: inc/h5videochat.php:770
+msgid "No random cam room found with current criteria!"
+msgstr ""
+
+#: inc/h5videochat.php:931
+msgid "Login is required to access private calls."
+msgstr ""
+
+#: inc/h5videochat.php:942
+msgid "This private call was closed."
+msgstr ""
+
+#: inc/h5videochat.php:945
+msgid "Private call is only available to performer and client, as setup."
+msgstr ""
+
+#: inc/h5videochat.php:955
+msgid "This private call does not exist."
+msgstr ""
+
+#: inc/h5videochat.php:961
+msgid "This room can only be used for locked calls, with call link."
+msgstr ""
+
+#: inc/h5videochat.php:985 inc/h5videochat.php:3912 inc/h5videochat.php:4451
+#: ppv-live-webcams.php:2497
+msgid "You are banned from accessing this room!"
+msgstr ""
+
+#: inc/h5videochat.php:992
+msgid "This room is currently suspended."
+msgstr ""
+
+#: inc/h5videochat.php:1001
+msgid "Your role can not access other rooms."
+msgstr ""
+
+#: inc/h5videochat.php:1015 inc/h5videochat.php:1022
+msgid "Login is required to access."
+msgstr ""
+
+#: inc/h5videochat.php:1025
+msgid ""
+"You are not in the allowed client list configured from backend settings."
+msgstr ""
+
+#: inc/h5videochat.php:1033
+msgid ""
+"This room is restricted by access list. You are not in room access list."
+msgstr ""
+
+#: inc/h5videochat.php:1114
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls (with call link)."
+msgstr ""
+
+#: inc/h5videochat.php:1303
+msgid "Open in Full Page"
+msgstr ""
+
+#: inc/h5videochat.php:1474
+msgid "ago"
+msgstr ""
+
+#: inc/h5videochat.php:1503 inc/shortcodes.php:1885
+msgid "Send"
+msgstr ""
+
+#: inc/h5videochat.php:1504
+msgid "Type your message"
+msgstr ""
+
+#: inc/h5videochat.php:1506 inc/h5videochat.php:3908 inc/shortcodes.php:7866
+#: ppv-live-webcams.php:1177
+msgid "Wallet"
+msgstr ""
+
+#: inc/h5videochat.php:1507 inc/shortcodes.php:3747
+msgid "Balance"
+msgstr ""
+
+#: inc/h5videochat.php:1508
+msgid "Pending Balance"
+msgstr ""
+
+#: inc/h5videochat.php:1509
+msgid "Session Time"
+msgstr ""
+
+#: inc/h5videochat.php:1510
+msgid "Session Cost"
+msgstr ""
+
+#: inc/h5videochat.php:1512
+msgid "Record"
+msgstr ""
+
+#: inc/h5videochat.php:1513
+msgid "Start"
+msgstr ""
+
+#: inc/h5videochat.php:1514
+msgid "Stop"
+msgstr ""
+
+#: inc/h5videochat.php:1515
+msgid "Discard"
+msgstr ""
+
+#: inc/h5videochat.php:1516
+msgid "Download"
+msgstr ""
+
+#: inc/h5videochat.php:1517 inc/h5videochat.php:1569
+msgid "Uploading. Please wait..."
+msgstr ""
+
+#: inc/h5videochat.php:1519
+msgid "Chat"
+msgstr ""
+
+#: inc/h5videochat.php:1520
+msgid "Camera"
+msgstr ""
+
+#: inc/h5videochat.php:1521
+msgid "Users"
+msgstr ""
+
+#: inc/h5videochat.php:1522
+msgid "Options"
+msgstr ""
+
+#: inc/h5videochat.php:1523
+msgid "Files"
+msgstr ""
+
+#: inc/h5videochat.php:1524
+msgid "Presentation"
+msgstr ""
+
+#: inc/h5videochat.php:1526
+msgid "Tap for Sound"
+msgstr ""
+
+#: inc/h5videochat.php:1527
+msgid "Enable Audio"
+msgstr ""
+
+#: inc/h5videochat.php:1528
+msgid "Mute"
+msgstr ""
+
+#: inc/h5videochat.php:1529 inc/shortcodes.php:10932
+msgid "Reload"
+msgstr ""
+
+#: inc/h5videochat.php:1530
+msgid "Ignore"
+msgstr ""
+
+#: inc/h5videochat.php:1532
+msgid "Packet Loss: Download Connection Issue"
+msgstr ""
+
+#: inc/h5videochat.php:1533
+msgid "Packet Loss: Upload Connection Issue"
+msgstr ""
+
+#: inc/h5videochat.php:1535
+msgid "Broadcast"
+msgstr ""
+
+#: inc/h5videochat.php:1536
+msgid "Stop Broadcast"
+msgstr ""
+
+#: inc/h5videochat.php:1537
+msgid "Make a selection to start!"
+msgstr ""
+
+#: inc/h5videochat.php:1539
+msgid "Gift"
+msgstr ""
+
+#: inc/h5videochat.php:1540 inc/h5videochat.php:1977
+msgid "Gifts"
+msgstr ""
+
+#: inc/h5videochat.php:1542
+msgid "Lights On"
+msgstr ""
+
+#: inc/h5videochat.php:1543 inc/h5videochat.php:2033
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/h5videochat.php:1544 inc/h5videochat.php:2040
+msgid "Picture in Picture"
+msgstr ""
+
+#: inc/h5videochat.php:1546
+msgid "Enter Fullscreen"
+msgstr ""
+
+#: inc/h5videochat.php:1547
+msgid "Exit Fullscreen"
+msgstr ""
+
+#: inc/h5videochat.php:1549
+msgid "Site Menu"
+msgstr ""
+
+#: inc/h5videochat.php:1551
+msgid "Request Private"
+msgstr ""
+
+#: inc/h5videochat.php:1552
+msgid "Private"
+msgstr ""
+
+#: inc/h5videochat.php:1553
+msgid "Request Private Session"
+msgstr ""
+
+#: inc/h5videochat.php:1554
+msgid "Performer Disabled Private Requests"
+msgstr ""
+
+#: inc/h5videochat.php:1555
+msgid "Performer is Busy in Private"
+msgstr ""
+
+#: inc/h5videochat.php:1556
+msgid "Performer is Not Online"
+msgstr ""
+
+#: inc/h5videochat.php:1557
+msgid "Nevermind"
+msgstr ""
+
+#: inc/h5videochat.php:1558
+msgid "Accept"
+msgstr ""
+
+#: inc/h5videochat.php:1559
+msgid "Decline"
+msgstr ""
+
+#: inc/h5videochat.php:1560
+msgid "Close Private"
+msgstr ""
+
+#: inc/h5videochat.php:1562 inc/shortcodes.php:11779
+msgid "Next"
+msgstr ""
+
+#: inc/h5videochat.php:1563
+msgid "Next: Random Videochat Room"
+msgstr ""
+
+#: inc/h5videochat.php:1565 inc/shortcodes.php:10923
+msgid "Name"
+msgstr ""
+
+#: inc/h5videochat.php:1566
+msgid "Size"
+msgstr ""
+
+#: inc/h5videochat.php:1567
+msgid "Age"
+msgstr ""
+
+#: inc/h5videochat.php:1568
+msgid "Upload: Drag and drop files here, or click to select files"
+msgstr ""
+
+#: inc/h5videochat.php:1570 inc/shortcodes.php:8670
+msgid "Open"
+msgstr ""
+
+#: inc/h5videochat.php:1571 inc/shortcodes.php:9200
+msgid "Delete"
+msgstr ""
+
+#: inc/h5videochat.php:1573
+msgid "Media Displayed"
+msgstr ""
+
+#: inc/h5videochat.php:1574 inc/shortcodes.php:6444
+msgid "Remove"
+msgstr ""
+
+#: inc/h5videochat.php:1575 inc/shortcodes.php:5626 inc/shortcodes.php:5694
+msgid "Default"
+msgstr ""
+
+#: inc/h5videochat.php:1576
+msgid "Empty"
+msgstr ""
+
+#: inc/h5videochat.php:1578 inc/shortcodes.php:6037 inc/shortcodes.php:11696
+#: inc/shortcodes.php:12418
+msgid "Profile"
+msgstr ""
+
+#: inc/h5videochat.php:1579 inc/shortcodes.php:5859
+msgid "Show"
+msgstr ""
+
+#: inc/h5videochat.php:1581
+msgid "Private Call"
+msgstr ""
+
+#: inc/h5videochat.php:1582 inc/h5videochat.php:3107
+msgid "Exit"
+msgstr ""
+
+#: inc/h5videochat.php:1584 inc/h5videochat.php:1938 inc/shortcodes.php:1175
+msgid "External Broadcast"
+msgstr ""
+
+#: inc/h5videochat.php:1585 inc/shortcodes.php:10378 ppv-live-webcams.php:280
+msgid "Not Available"
+msgstr ""
+
+#: inc/h5videochat.php:1586
+msgid "Streaming"
+msgstr ""
+
+#: inc/h5videochat.php:1587 inc/shortcodes.php:8669 inc/shortcodes.php:9205
+msgid "Closed"
+msgstr ""
+
+#: inc/h5videochat.php:1588
+msgid ""
+"Use after ending external broadcast, to faster restore web based webcam "
+"interface."
+msgstr ""
+
+#: inc/h5videochat.php:1590 inc/shortcodes.php:1096 inc/shortcodes.php:1162
+#: inc/shortcodes.php:6450
+msgid "Add"
+msgstr ""
+
+#: inc/h5videochat.php:1591
+msgid "Complete"
+msgstr ""
+
+#: inc/h5videochat.php:1641
+msgid "New"
+msgstr ""
+
+#: inc/h5videochat.php:1719
+msgid "Chat Language"
+msgstr ""
+
+#: inc/h5videochat.php:1720
+msgid "Language you will be writing in chat and would prefer to read."
+msgstr ""
+
+#: inc/h5videochat.php:1768
+msgid "Disable Call Requests"
+msgstr ""
+
+#: inc/h5videochat.php:1769
+msgid "Disable users from sending private call requests to room owner."
+msgstr ""
+
+#: inc/h5videochat.php:1775
+msgid "Not Public"
+msgstr ""
+
+#: inc/h5videochat.php:1776
+msgid "Hide room from public listings. Can be accessed by room link."
+msgstr ""
+
+#: inc/h5videochat.php:1783
+msgid "Calls Only"
+msgstr ""
+
+#: inc/h5videochat.php:1784
+msgid "Call Only mode: can only be used for calls."
+msgstr ""
+
+#: inc/h5videochat.php:1791
+msgid "Random Calls"
+msgstr ""
+
+#: inc/h5videochat.php:1792
+msgid "Random 2 way calls mode."
+msgstr ""
+
+#: inc/h5videochat.php:1799
+msgid "Group Chat Disabled"
+msgstr ""
+
+#: inc/h5videochat.php:1800
+msgid "Use room only for instant or locked calls."
+msgstr ""
+
+#: inc/h5videochat.php:1807 inc/h5videochat.php:2055 inc/shortcodes.php:5649
+msgid "Audio Only"
+msgstr ""
+
+#: inc/h5videochat.php:1808
+msgid ""
+"Audio only room mode: Only microphone, no webcam video, for all "
+"participants. Applies both to group and private calls. Disables video calls."
+msgstr ""
+
+#: inc/h5videochat.php:1815 inc/shortcodes.php:5671
+msgid "Text Only"
+msgstr ""
+
+#: inc/h5videochat.php:1816
+msgid ""
+"Text only room mode: Only text, for all participants. Applies both to group "
+"and private calls. Disables video and audio calls."
+msgstr ""
+
+#: inc/h5videochat.php:1823
+msgid "Conference Mode"
+msgstr ""
+
+#: inc/h5videochat.php:1824
+msgid ""
+"Enable owner to show multiple users streams at same time in split view. All "
+"users can publish webcam."
+msgstr ""
+
+#: inc/h5videochat.php:1831
+msgid "Conference Auto Display"
+msgstr ""
+
+#: inc/h5videochat.php:1832
+msgid ""
+"Display users automatically in available conference slots when they start "
+"their camera, in conference mode."
+msgstr ""
+
+#: inc/h5videochat.php:1848
+msgid "Display Slots"
+msgstr ""
+
+#: inc/h5videochat.php:1849
+msgid "Split display to show multiple media items, in conference mode."
+msgstr ""
+
+#: inc/h5videochat.php:1887
+msgid "Collaboration Mode"
+msgstr ""
+
+#: inc/h5videochat.php:1888
+msgid "Enable collaboration mode with multiple media, files, presentation."
+msgstr ""
+
+#: inc/h5videochat.php:1897
+msgid "Party Mode in Random Chat"
+msgstr ""
+
+#: inc/h5videochat.php:1898
+msgid ""
+"In party mode, all users that join your room are added to party squad. "
+"Entire party moves to different room with Next button, in random chat. "
+msgstr ""
+
+#: inc/h5videochat.php:1906
+msgid "Party Reserved"
+msgstr ""
+
+#: inc/h5videochat.php:1907
+msgid ""
+"Number of reserved party video slots, needs to be available in other room, "
+"to travel."
+msgstr ""
+
+#: inc/h5videochat.php:1939
+msgid ""
+"Broadcast with external RTMP encoder: Show a broadcast tab with settings to "
+"configure an external RTMP encoder."
+msgstr ""
+
+#: inc/h5videochat.php:1950 inc/shortcodes.php:6529
+msgid "Record Perfomer"
+msgstr ""
+
+#: inc/h5videochat.php:1951 inc/shortcodes.php:6529
+msgid "Record performer stream."
+msgstr ""
+
+#: inc/h5videochat.php:1958 inc/shortcodes.php:6530
+msgid "Record Private"
+msgstr ""
+
+#: inc/h5videochat.php:1959 inc/shortcodes.php:6530
+msgid "Record in private calls."
+msgstr ""
+
+#: inc/h5videochat.php:1966 inc/shortcodes.php:6532
+msgid "Record All"
+msgstr ""
+
+#: inc/h5videochat.php:1967 inc/shortcodes.php:6532
+msgid "Record streams from all users."
+msgstr ""
+
+#: inc/h5videochat.php:1978
+msgid ""
+"Enable Gifts button in Actions bar. Gifts apply to current room goal when "
+"enabled. Disable to hide current room goal from text chat."
+msgstr ""
+
+#: inc/h5videochat.php:1986
+msgid "Goals Panel"
+msgstr ""
+
+#: inc/h5videochat.php:1987
+msgid ""
+"Show goals panel for participants to see all goals. Users can donate to any "
+"Independent goal."
+msgstr ""
+
+#: inc/h5videochat.php:1995
+msgid "Goals Sort"
+msgstr ""
+
+#: inc/h5videochat.php:1996
+msgid "Sort goals by current donations, descending."
+msgstr ""
+
+#: inc/h5videochat.php:2005
+msgid "Messages Closed"
+msgstr ""
+
+#: inc/h5videochat.php:2006
+msgid "Close paid questions/messages."
+msgstr ""
+
+#: inc/h5videochat.php:2013
+msgid "Room Preferences"
+msgstr ""
+
+#: inc/h5videochat.php:2026
+msgid "Sound Effects"
+msgstr ""
+
+#: inc/h5videochat.php:2027
+msgid "Sound effects (on actions)."
+msgstr ""
+
+#: inc/h5videochat.php:2034
+msgid "Dark interface mode."
+msgstr ""
+
+#: inc/h5videochat.php:2041
+msgid "Picture in picture mode with camera over video."
+msgstr ""
+
+#: inc/h5videochat.php:2047
+msgid "Minimalist"
+msgstr ""
+
+#: inc/h5videochat.php:2048
+msgid "Show less buttons, features and interface elements."
+msgstr ""
+
+#: inc/h5videochat.php:2056
+msgid ""
+"Audio only user mode: Publish only microphone, no webcam video. Applies both "
+"to group and private calls."
+msgstr ""
+
+#: inc/h5videochat.php:2062
+msgid "Reveal Mode"
+msgstr ""
+
+#: inc/h5videochat.php:2063
+msgid ""
+"Webcam reveal mode: hide webcam in private calls and use a Reveal button to "
+"enable on request."
+msgstr ""
+
+#: inc/h5videochat.php:2076
+msgid "Reveal Warmup"
+msgstr ""
+
+#: inc/h5videochat.php:2077
+msgid "Time in seconds required before revealing webcam is possible."
+msgstr ""
+
+#: inc/h5videochat.php:2114
+msgid "User Preferences"
+msgstr ""
+
+#: inc/h5videochat.php:2375 inc/h5videochat.php:2884 inc/streams.php:1306
+#: inc/streams.php:1368 inc/streams.php:1394 ppv-live-webcams.php:6383
+msgid "LIVE"
+msgstr ""
+
+#: inc/h5videochat.php:2518 inc/shortcodes.php:10343 inc/shortcodes.php:10593
+msgid "All"
+msgstr ""
+
+#: inc/h5videochat.php:2648
+msgid "You are room performer."
+msgstr ""
+
+#: inc/h5videochat.php:2653
+msgid "This is a private room (not listed)."
+msgstr ""
+
+#: inc/h5videochat.php:2658
+msgid ""
+"This room can only be used for predefined locked calls. Participants need a "
+"private call link."
+msgstr ""
+
+#: inc/h5videochat.php:2663
+msgid ""
+"Group chat is disabled. Participants can only access this room for instant "
+"or locked calls."
+msgstr ""
+
+#: inc/h5videochat.php:2719
+msgid "This is a paid room:"
+msgstr ""
+
+#: inc/h5videochat.php:2720
+msgid "Group Mode"
+msgstr ""
+
+#: inc/h5videochat.php:2721
+msgid "Group session cost"
+msgstr ""
+
+#: inc/h5videochat.php:2728
+msgid ""
+"All participants pay during this session: Private calls are not available."
+msgstr ""
+
+#: inc/h5videochat.php:2772
+msgid ""
+"You are in Voyeur mode: hidden from user list. Participants will not be "
+"aware of your presence unless you write in text chat."
+msgstr ""
+
+#: inc/h5videochat.php:2774
+msgid "Voyeur cost"
+msgstr ""
+
+#: inc/h5videochat.php:2779
+msgid ""
+"You are a moderator. You will not show in user list or generate client "
+"charges. You can NOT request private calls."
+msgstr ""
+
+#: inc/h5videochat.php:2787
+msgid ""
+"Registered users can request private calls during free presale chat and you "
+"can accept:"
+msgstr ""
+
+#: inc/h5videochat.php:2789
+msgid "Private show cost per minute, for client:"
+msgstr ""
+
+#: inc/h5videochat.php:2795
+msgid "Private call earning per minute, for performer:"
+msgstr ""
+
+#: inc/h5videochat.php:2817
+msgid "You do not have enough credits to request a private show."
+msgstr ""
+
+#: inc/h5videochat.php:2820
+msgid "You can request private session from room performer when available:"
+msgstr ""
+
+#: inc/h5videochat.php:2823
+msgid "Private show cost per minute:"
+msgstr ""
+
+#: inc/h5videochat.php:2842
+msgid ""
+"This room is in party mode and all users join the party squad. Entire party "
+"can be moved to other rooms by host, using Next button."
+msgstr ""
+
+#: inc/h5videochat.php:2854
+msgid "You are in a party"
+msgstr ""
+
+#: inc/h5videochat.php:2856
+msgid ""
+"You are a party host. You can move party with Next and manage party users."
+msgstr ""
+
+#: inc/h5videochat.php:2912
+msgid "Room is in collaboration mode, with a Files panel."
+msgstr ""
+
+#: inc/h5videochat.php:2985
+msgid ""
+"WebRTC broadcasting may not be supported or provide good quality on certain "
+"devices, browser versions, connections or network conditions. \n"
+" - Use best network available if you have the option: 5GHz on WiFi instead "
+"of 2.4 GHz, LTE/4G on mobile instead of 3G, wired instead of wireless.\n"
+" - For increased streaming quality and reliability, you can broadcast "
+"directly to streaming server with an application like OBS for desktop or "
+"GoCoder for mobile. Advanced desktop encoders also enable advanced "
+"compositions, screen sharing, effects and transitions. See Broadcast tab "
+"next to Cam tab."
+msgstr ""
+
+#: inc/h5videochat.php:3035
+msgid "Room owner accepts questions."
+msgstr ""
+
+#: inc/h5videochat.php:3036
+msgid "When you send a question, you pay this amount:"
+msgstr ""
+
+#: inc/h5videochat.php:3040
+msgid "Room owner can click to select a paid question and write replies."
+msgstr ""
+
+#: inc/h5videochat.php:3119
+msgid "Current gifts goal"
+msgstr ""
+
+#: inc/h5videochat.php:3120
+msgid "Goal description"
+msgstr ""
+
+#: inc/h5videochat.php:3121
+msgid "Goal started"
+msgstr ""
+
+#: inc/h5videochat.php:3122
+msgid "Cumulated gifts (including previous goals)"
+msgstr ""
+
+#: inc/h5videochat.php:3214 inc/shortcodes.php:1179
+msgid "Download OBS"
+msgstr ""
+
+#: inc/h5videochat.php:3215 inc/shortcodes.php:1179
+msgid ""
+"OBS Studio is free desktop application for live streaming from Linux, Mac "
+"and Windows. Includes advanced composition features, screen sharing, scenes, "
+"transitions, filters, media input options."
+msgstr ""
+
+#: inc/h5videochat.php:3223
+msgid "Stream URL"
+msgstr ""
+
+#: inc/h5videochat.php:3224 inc/shortcodes.php:1209
+msgid ""
+"RTMP Address / OBS Stream URL: full streaming address. Contains: server, "
+"port if different than default 1935, application and control parameters, "
+"key. For OBS Settings: Stream > Server."
+msgstr ""
+
+#: inc/h5videochat.php:3230 inc/shortcodes.php:1211
+msgid "Stream Key"
+msgstr ""
+
+#: inc/h5videochat.php:3231
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key."
+msgstr ""
+
+#: inc/h5videochat.php:3262 inc/h5videochat.php:3285 inc/shortcodes.php:1222
+msgid "Maximum Video Bitrate"
+msgstr ""
+
+#: inc/h5videochat.php:3263 inc/h5videochat.php:3286
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution. A static "
+"background and less motion requires less bitrate than movies, sports, games. "
+"For OBS Settings: Output > Streaming > Video Bitrate. Warning: Trying to "
+"broadcast higher bitrate than allowed by streaming server will result in "
+"disconnects/failures."
+msgstr ""
+
+#: inc/h5videochat.php:3271 inc/h5videochat.php:3294 inc/shortcodes.php:1224
+msgid "Maximum Audio Bitrate"
+msgstr ""
+
+#: inc/h5videochat.php:3272 inc/h5videochat.php:3295 inc/shortcodes.php:1224
+msgid ""
+"Use this value or lower for audio bitrate. If you want to use higher Audio "
+"Bitrate, lower Video Bitrate to compensate for higher audio. For OBS "
+"Settings: Output > Streaming > Audio Bitrate. Warning: Trying to broadcast "
+"higher bitrate than allowed by streaming server will result in disconnects/"
+"failures."
+msgstr ""
+
+#: inc/h5videochat.php:3303 inc/shortcodes.php:1230
+msgid "Larix Broadcaster for iOS"
+msgstr ""
+
+#: inc/h5videochat.php:3304
+msgid ""
+"Larix Broadcaster free iOS app uses full power of mobile devices cameras to "
+"stream live content.."
+msgstr ""
+
+#: inc/h5videochat.php:3313 inc/shortcodes.php:1232
+msgid "Larix Broadcaster for Android"
+msgstr ""
+
+#: inc/h5videochat.php:3314 inc/shortcodes.php:1230
+msgid ""
+"Larix Broadcaster free iOS app uses full power of mobile devices cameras to "
+"stream live content."
+msgstr ""
+
+#: inc/h5videochat.php:3323
+msgid "RTMP URL"
+msgstr ""
+
+#: inc/h5videochat.php:3324
+msgid ""
+"Full RTMP URL / Larix URL: full streaming address. Contains: server, port if "
+"different than default 1935, application and control parameters, key, stream "
+"name. For Larix Broadcaster: Connections > URL."
+msgstr ""
+
+#: inc/h5videochat.php:3354
+msgid "Download Lovense"
+msgstr ""
+
+#: inc/h5videochat.php:3355
+msgid ""
+"If you have a Lovense toy, download the Lovense browser or extension to "
+"integrate with site."
+msgstr ""
+
+#: inc/h5videochat.php:3363
+msgid "RTMP Encoder: OBS / Larix Broadcaster Settings"
+msgstr ""
+
+#: inc/h5videochat.php:3364
+msgid ""
+"Use these settings to broadcast with a RTMP encoder app like OBS, iOS/"
+"Android Larix Broadcaster, xSplit, Zoom Meetings Webinars."
+msgstr ""
+
+#: inc/h5videochat.php:3370
+msgid ""
+"Broadcast with external apps for advanced compositions, scenes, effects, "
+"higher streaming quality and reliability compared to browser based interface "
+"and protocols. External broadcasts have higher latency and improved "
+"capacity, reliability specific to HLS delivery method. New broadcasts show "
+"in about 10 seconds and unavailability updates after 1 minute."
+msgstr ""
+
+#: inc/h5videochat.php:3893
+msgid ""
+"Invalid Session. Occurs if browser tab gets paused in background or room "
+"type changes and new terms apply. Reload to start a new session!"
+msgstr ""
+
+#: inc/h5videochat.php:3901 inc/shortcodes.php:12895 ppv-live-webcams.php:2553
+msgid ""
+"Free chat daily visitor time limit reached: Register and login for more chat "
+"time today!"
+msgstr ""
+
+#: inc/h5videochat.php:3902 ppv-live-webcams.php:2520
+msgid "Only registered and logged in users can access paid sessions."
+msgstr ""
+
+#: inc/h5videochat.php:3907 ppv-live-webcams.php:2515
+msgid "Not enough funds left for client to continue group chat session."
+msgstr ""
+
+#: inc/h5videochat.php:3913
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today!"
+msgstr ""
+
+#: inc/h5videochat.php:3915 ppv-live-webcams.php:918
+msgid "Webcams"
+msgstr ""
+
+#: inc/h5videochat.php:4006
+msgid "Booth was closed: matched with a new performer."
+msgstr ""
+
+#: inc/h5videochat.php:4511
+msgid "Disconnected from private:"
+msgstr ""
+
+#: inc/h5videochat.php:4543 inc/h5videochat.php:5049 inc/h5videochat.php:5102
+#: inc/h5videochat.php:5131
+msgid "Only performer can moderate presentation."
+msgstr ""
+
+#: inc/h5videochat.php:4601
+msgid "Same mode."
+msgstr ""
+
+#: inc/h5videochat.php:4660
+msgid "Room mode changed:"
+msgstr ""
+
+#: inc/h5videochat.php:4882
+msgid "Only room owner can edit room options."
+msgstr ""
+
+#: inc/h5videochat.php:4931 inc/h5videochat.php:4990
+msgid "Only performer can moderate."
+msgstr ""
+
+#: inc/h5videochat.php:5082
+msgid "User not found to display:"
+msgstr ""
+
+#: inc/h5videochat.php:5086
+msgid "User is visitor. User needs to login to broadcast camera."
+msgstr ""
+
+#: inc/h5videochat.php:5170
+msgid "File not found to display:"
+msgstr ""
+
+#: inc/h5videochat.php:5186
+msgid "Only performer can delete files."
+msgstr ""
+
+#: inc/h5videochat.php:5205
+msgid "File not found:"
+msgstr ""
+
+#: inc/h5videochat.php:5268
+msgid "New file upload."
+msgstr ""
+
+#: inc/h5videochat.php:5330
+msgid "Returned to party start room."
+msgstr ""
+
+#: inc/h5videochat.php:5380
+msgid "Moved to a new booth, to match with a new client."
+msgstr ""
+
+#: inc/h5videochat.php:5437
+msgid "Moved to a new booth, to match with a new performer."
+msgstr ""
+
+#: inc/h5videochat.php:5511
+msgid "Your party moves with you."
+msgstr ""
+
+#: inc/h5videochat.php:5527
+msgid "You can move a different room using Next button again."
+msgstr ""
+
+#: inc/h5videochat.php:5533
+msgid "No next room found with current criteria!"
+msgstr ""
+
+#: inc/h5videochat.php:5806 inc/h5videochat.php:5858 inc/h5videochat.php:5883
+#: inc/h5videochat.php:5919
+msgid "Only performer"
+msgstr ""
+
+#: inc/h5videochat.php:5898
+msgid "Performer marked goal as complete"
+msgstr ""
+
+#: inc/h5videochat.php:5962
+msgid "Only users can vote!"
+msgstr ""
+
+#: inc/h5videochat.php:5964
+msgid "Moderators can not vote!"
+msgstr ""
+
+#: inc/h5videochat.php:5973
+msgid "You already voted!"
+msgstr ""
+
+#: inc/h5videochat.php:6005
+msgid "Vote for"
+msgstr ""
+
+#: inc/h5videochat.php:6012
+msgid "Vote from"
+msgstr ""
+
+#: inc/h5videochat.php:6023
+msgid "Only users can tip!"
+msgstr ""
+
+#: inc/h5videochat.php:6026
+msgid "Moderators can not tip!"
+msgstr ""
+
+#: inc/h5videochat.php:6028
+msgid "Your role is not allowed to donate!"
+msgstr ""
+
+#: inc/h5videochat.php:6038
+msgid "Cooldown Required: Already sent tip recently. Try again in few seconds!"
+msgstr ""
+
+#: inc/h5videochat.php:6094
+msgid "Tip in"
+msgstr ""
+
+#: inc/h5videochat.php:6114
+msgid "checked in"
+msgstr ""
+
+#: inc/h5videochat.php:6123 inc/h5videochat.php:6136
+msgid "Tip from"
+msgstr ""
+
+#: inc/h5videochat.php:6170
+msgid "Completed goal"
+msgstr ""
+
+#: inc/h5videochat.php:6170
+msgid "Starting new goal"
+msgstr ""
+
+#: inc/h5videochat.php:6215
+msgid "You closed private call."
+msgstr ""
+
+#: inc/h5videochat.php:6346 inc/shortcodes.php:7866
+msgid "You need cost of message in balance to send it."
+msgstr ""
+
+#: inc/h5videochat.php:6354
+msgid "You just sent a paid message. Try again after 10s."
+msgstr ""
+
+#: inc/h5videochat.php:6382 inc/shortcodes.php:8045
+msgid "Paid Message to"
+msgstr ""
+
+#: inc/h5videochat.php:6459 inc/shortcodes.php:8536
+msgid "Paid Message Earning from "
+msgstr ""
+
+#: inc/h5videochat.php:6760 inc/h5videochat.php:6761
+msgid "Private call was closed."
+msgstr ""
+
+#: inc/h5videochat.php:6789
+msgid "Following party to different room."
+msgstr ""
+
+#: inc/h5videochat.php:6814
+msgid "Moved to different room with party."
+msgstr ""
+
+#: inc/shortcodes.php:186 inc/shortcodes.php:232 inc/shortcodes.php:3285
+#: inc/shortcodes.php:3610 inc/shortcodes.php:3914 inc/shortcodes.php:4370
+#: inc/shortcodes.php:6390 inc/shortcodes.php:8683
+msgid "Save"
+msgstr ""
+
+#: inc/shortcodes.php:228
+msgid "SMS Mobile Number"
+msgstr ""
+
+#: inc/shortcodes.php:232 inc/shortcodes.php:432 inc/shortcodes.php:433
+#: inc/shortcodes.php:1615 inc/shortcodes.php:8683
+msgid "Update"
+msgstr ""
+
+#: inc/shortcodes.php:266
+msgid "Current Earning Rate"
+msgstr ""
+
+#: inc/shortcodes.php:277
+msgid "Bonus Earning Rate"
+msgstr ""
+
+#: inc/shortcodes.php:395
+msgid "Start Date"
+msgstr ""
+
+#: inc/shortcodes.php:405
+msgid "End Date"
+msgstr ""
+
+#: inc/shortcodes.php:415
+msgid "Group"
+msgstr ""
+
+#: inc/shortcodes.php:417
+msgid "Monthly"
+msgstr ""
+
+#: inc/shortcodes.php:418
+msgid "Weekly"
+msgstr ""
+
+#: inc/shortcodes.php:419
+msgid "Daily"
+msgstr ""
+
+#: inc/shortcodes.php:424 inc/shortcodes.php:3143
+msgid "Type"
+msgstr ""
+
+#: inc/shortcodes.php:426 inc/shortcodes.php:633
+msgid "Time"
+msgstr ""
+
+#: inc/shortcodes.php:427 inc/shortcodes.php:633
+msgid "Value"
+msgstr ""
+
+#: inc/shortcodes.php:869
+msgid "Login to Call"
+msgstr ""
+
+#: inc/shortcodes.php:884
+msgid "Call Now"
+msgstr ""
+
+#: inc/shortcodes.php:886
+msgid "Join"
+msgstr ""
+
+#: inc/shortcodes.php:944
+msgid "ReStream RTSP/RTMP"
+msgstr ""
+
+#: inc/shortcodes.php:947
+msgid ""
+"Add external streams to room (re-stream), from RTSP IP cameras or similar "
+"sources."
+msgstr ""
+
+#: inc/shortcodes.php:1078
+msgid "Add Source"
+msgstr ""
+
+#: inc/shortcodes.php:1081
+msgid "Stream Name"
+msgstr ""
+
+#: inc/shortcodes.php:1086
+msgid "Source Address"
+msgstr ""
+
+#: inc/shortcodes.php:1087
+msgid "rtsp://{server}[:port]/{path}"
+msgstr ""
+
+#: inc/shortcodes.php:1111
+msgid "Push RTMP Stream"
+msgstr ""
+
+#: inc/shortcodes.php:1115
+msgid "Push performer stream to external RTMP server or platform."
+msgstr ""
+
+#: inc/shortcodes.php:1150
+msgid "Add Destination"
+msgstr ""
+
+#: inc/shortcodes.php:1152
+msgid "Destination Address"
+msgstr ""
+
+#: inc/shortcodes.php:1153
+msgid "rtmp[s]://{server}[:port]/{app}/{stream_key}"
+msgstr ""
+
+#: inc/shortcodes.php:1209
+msgid "Server"
+msgstr ""
+
+#: inc/shortcodes.php:1211
+msgid ""
+"Stream Name / OBS Stream Key: name of stream. For OBS Settings: Stream > "
+"Stream Key. For GoCoder top right W Settings: Wowza Streaming Engine > "
+"Application > Stream Name"
+msgstr ""
+
+#: inc/shortcodes.php:1222
+msgid ""
+"Use this value or lower for video bitrate, depending on resolution and audio "
+"bitrate. A static background and less motion requires less bitrate than "
+"movies, sports, games. For OBS Settings: Output > Streaming > Video Bitrate. "
+"For GoCoder bottom left bitrate. Warning: Trying to broadcast higher bitrate "
+"than allowed by streaming server will result in disconnects/failures."
+msgstr ""
+
+#: inc/shortcodes.php:1232
+msgid ""
+"Larix Broadcaster free Android app uses full power of mobile devices cameras "
+"to stream live content."
+msgstr ""
+
+#: inc/shortcodes.php:1234
+msgid "URL"
+msgstr ""
+
+#: inc/shortcodes.php:1234
+msgid ""
+"RTMP URL / Larix URL: full streaming address with stream name. Contains: "
+"server, port if different than default 1935, application and control "
+"parameters, key, stream name. For Larix Connections > URL."
+msgstr ""
+
+#: inc/shortcodes.php:1337
+msgid "Nonce incorrect for logout. Could be cache related: Try again!"
+msgstr ""
+
+#: inc/shortcodes.php:1367 inc/shortcodes.php:1763 inc/shortcodes.php:2152
+msgid "A password is required."
+msgstr ""
+
+#: inc/shortcodes.php:1370 inc/shortcodes.php:2145
+msgid "A login (username) is required."
+msgstr ""
+
+#: inc/shortcodes.php:1374
+msgid "Nonce incorrect for login. Could be cache related: Try again!"
+msgstr ""
+
+#: inc/shortcodes.php:1515 inc/shortcodes.php:1931
+msgid "Frontend login is disabled from settings."
+msgstr ""
+
+#: inc/shortcodes.php:1541
+msgid "Password change request code missing. Already changed?"
+msgstr ""
+
+#: inc/shortcodes.php:1545 inc/shortcodes.php:1758
+msgid ""
+"Code does not match. Make sure you use link from last email if you tried "
+"multiple times."
+msgstr ""
+
+#: inc/shortcodes.php:1551 inc/shortcodes.php:1732 inc/shortcodes.php:1806
+#: inc/shortcodes.php:1866
+msgid "Error"
+msgstr ""
+
+#: inc/shortcodes.php:1561 inc/shortcodes.php:1724 inc/shortcodes.php:1816
+#: inc/shortcodes.php:1830
+msgid "Change Password"
+msgstr ""
+
+#: inc/shortcodes.php:1597 inc/shortcodes.php:1598 inc/shortcodes.php:2040
+#: inc/shortcodes.php:2581 inc/shortcodes.php:2583 inc/shortcodes.php:3657
+msgid "Password"
+msgstr ""
+
+#: inc/shortcodes.php:1602 inc/shortcodes.php:1603 inc/shortcodes.php:2587
+#: inc/shortcodes.php:2589
+msgid "Password Verification"
+msgstr ""
+
+#: inc/shortcodes.php:1622 inc/shortcodes.php:1892 inc/shortcodes.php:2079
+msgid "Terms of Use"
+msgstr ""
+
+#: inc/shortcodes.php:1623 inc/shortcodes.php:1893 inc/shortcodes.php:2080
+#: inc/shortcodes.php:2603
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/shortcodes.php:1635 inc/shortcodes.php:1771
+msgid "Nonce incorrect for password reset."
+msgstr ""
+
+#: inc/shortcodes.php:1676 inc/shortcodes.php:2160
+msgid "A valid email address is required."
+msgstr ""
+
+#: inc/shortcodes.php:1682
+msgid ""
+"No user found for that email. Try a different email or register a new "
+"account!"
+msgstr ""
+
+#: inc/shortcodes.php:1725
+msgid "Email was sent. Use link from email to change password."
+msgstr ""
+
+#: inc/shortcodes.php:1766 inc/shortcodes.php:2156
+msgid "Password verification does not match."
+msgstr ""
+
+#: inc/shortcodes.php:1817
+msgid "Password was changed."
+msgstr ""
+
+#: inc/shortcodes.php:1875 inc/shortcodes.php:1876 inc/shortcodes.php:2593
+#: inc/shortcodes.php:2595 inc/shortcodes.php:3657 inc/shortcodes.php:3747
+msgid "Email"
+msgstr ""
+
+#: inc/shortcodes.php:1877
+msgid "Provide account email to request password change."
+msgstr ""
+
+#: inc/shortcodes.php:1939
+msgid "You logged out."
+msgstr ""
+
+#: inc/shortcodes.php:1950
+msgid "You are currently logged in as"
+msgstr ""
+
+#: inc/shortcodes.php:1951 inc/shortcodes.php:3091 inc/shortcodes.php:8714
+msgid "Log Out"
+msgstr ""
+
+#: inc/shortcodes.php:2022
+msgid "Login Failed"
+msgstr ""
+
+#: inc/shortcodes.php:2035 inc/shortcodes.php:2575 inc/shortcodes.php:2577
+msgid "Username"
+msgstr ""
+
+#: inc/shortcodes.php:2076
+msgid "Lost Password"
+msgstr ""
+
+#: inc/shortcodes.php:2115
+msgid "Frontend registration is disabled!"
+msgstr ""
+
+#: inc/shortcodes.php:2118
+msgid "Studio registration is disabled!"
+msgstr ""
+
+#: inc/shortcodes.php:2128
+msgid "Nonce incorrect for registration."
+msgstr ""
+
+#: inc/shortcodes.php:2131
+msgid "You are already have an account and are logged in."
+msgstr ""
+
+#: inc/shortcodes.php:2148
+msgid "Accepting Terms of Use is required."
+msgstr ""
+
+#: inc/shortcodes.php:2174
+msgid "Registration per IP limit reached."
+msgstr ""
+
+#: inc/shortcodes.php:2228 inc/shortcodes.php:2260
+msgid "Required file is missing!"
+msgstr ""
+
+#: inc/shortcodes.php:2247 inc/shortcodes.php:2279
+msgid "Required field is missing!"
+msgstr ""
+
+#: inc/shortcodes.php:2335
+msgid "Your account was registered."
+msgstr ""
+
+#: inc/shortcodes.php:2449
+msgid ""
+"Some error occurred related to uploads. After email confirmation and login "
+"you can retry from Account Records section in Dashboard."
+msgstr ""
+
+#: inc/shortcodes.php:2519
+msgid "Registration"
+msgstr ""
+
+#: inc/shortcodes.php:2557
+msgid "Could not submit registration"
+msgstr ""
+
+#: inc/shortcodes.php:2566 inc/shortcodes.php:2567
+msgid "First Name"
+msgstr ""
+
+#: inc/shortcodes.php:2570 inc/shortcodes.php:2571
+msgid "Last Name"
+msgstr ""
+
+#: inc/shortcodes.php:2575 inc/shortcodes.php:2581 inc/shortcodes.php:2587
+#: inc/shortcodes.php:2593 inc/shortcodes.php:2614 inc/shortcodes.php:2780
+#: inc/shortcodes.php:2837 inc/shortcodes.php:2911 inc/shortcodes.php:3160
+#: inc/shortcodes.php:3227
+msgid "Required"
+msgstr ""
+
+#: inc/shortcodes.php:2601
+msgid "Administrative Records"
+msgstr ""
+
+#: inc/shortcodes.php:2603
+msgid ""
+"Administrative records are only accessible to site administrators for "
+"approval and administrative use."
+msgstr ""
+
+#: inc/shortcodes.php:2658
+msgid "Account Persons"
+msgstr ""
+
+#: inc/shortcodes.php:2692
+msgid ""
+"Specify persons that will be using this account and then use button below to "
+"load personal forms."
+msgstr ""
+
+#: inc/shortcodes.php:2694
+msgid "Fill Personal Records"
+msgstr ""
+
+#: inc/shortcodes.php:2770
+msgid "Common Account Records"
+msgstr ""
+
+#: inc/shortcodes.php:2835
+msgid "I accept the Terms of Use"
+msgstr ""
+
+#: inc/shortcodes.php:2838
+msgid "Review"
+msgstr ""
+
+#: inc/shortcodes.php:2847
+msgid ""
+"After registration, you will receive a confirmation email with activation "
+"link."
+msgstr ""
+
+#: inc/shortcodes.php:2847
+msgid ""
+"Look for the email and check spam folder if necessary, because you will not "
+"be able to use account without activation. If you do not receive the email "
+"at current provider, register with a different email address."
+msgstr ""
+
+#: inc/shortcodes.php:2895 inc/shortcodes.php:3215
+msgid "Account Records"
+msgstr ""
+
+#: inc/shortcodes.php:3012
+msgid "Your account was activated."
+msgstr ""
+
+#: inc/shortcodes.php:3042
+msgid ""
+"<strong>ERROR</strong>: User is not activated. Use activation link from "
+"registration email!"
+msgstr ""
+
+#: inc/shortcodes.php:3056
+msgid "Login Required"
+msgstr ""
+
+#: inc/shortcodes.php:3074
+msgid "Account Status"
+msgstr ""
+
+#: inc/shortcodes.php:3074
+msgid "Verified"
+msgstr ""
+
+#: inc/shortcodes.php:3074
+msgid "Rejected"
+msgstr ""
+
+#: inc/shortcodes.php:3074
+msgid "Not Verified"
+msgstr ""
+
+#: inc/shortcodes.php:3074
+msgid "Suspended by Admin"
+msgstr ""
+
+#: inc/shortcodes.php:3079
+msgid "Update Account Records"
+msgstr ""
+
+#: inc/shortcodes.php:3086
+msgid "Your active balance"
+msgstr ""
+
+#: inc/shortcodes.php:3103
+msgid "Account Administrative Records"
+msgstr ""
+
+#: inc/shortcodes.php:3103
+msgid ""
+"These details are required by administrators for account approval and "
+"administrative operations."
+msgstr ""
+
+#: inc/shortcodes.php:3106
+msgid "No record fields defined by administrator!"
+msgstr ""
+
+#: inc/shortcodes.php:3132
+msgid "Persons"
+msgstr ""
+
+#: inc/shortcodes.php:3133
+msgid "Add New Person"
+msgstr ""
+
+#: inc/shortcodes.php:3138
+msgid "Personal Records"
+msgstr ""
+
+#: inc/shortcodes.php:3172 inc/shortcodes.php:3246
+msgid "Required field is empty!"
+msgstr ""
+
+#: inc/shortcodes.php:3179 inc/shortcodes.php:3253 inc/shortcodes.php:10376
+msgid "Available"
+msgstr ""
+
+#: inc/shortcodes.php:3212
+msgid "Remove Last Person"
+msgstr ""
+
+#: inc/shortcodes.php:3241
+msgid "Array field is not supported!"
+msgstr ""
+
+#: inc/shortcodes.php:3384
+msgid "Required file missing!"
+msgstr ""
+
+#: inc/shortcodes.php:3393
+msgid "Required field missing!"
+msgstr ""
+
+#: inc/shortcodes.php:3404
+msgid "Updated administrative account records."
+msgstr ""
+
+#: inc/shortcodes.php:3422
+msgid "Administrative Records Incomplete"
+msgstr ""
+
+#: inc/shortcodes.php:3425
+msgid "Account can not be verified without required records."
+msgstr ""
+
+#: inc/shortcodes.php:3447
+msgid "Login to manage studio!"
+msgstr ""
+
+#: inc/shortcodes.php:3467 inc/shortcodes.php:4246
+msgid "Login is required to access this section!"
+msgstr ""
+
+#: inc/shortcodes.php:3479
+msgid "User role does not allow managing studio!"
+msgstr ""
+
+#: inc/shortcodes.php:3526 inc/shortcodes.php:3528 inc/shortcodes.php:4369
+msgid "Performers"
+msgstr ""
+
+#: inc/shortcodes.php:3528
+msgid "Studio manages multiple performer accounts."
+msgstr ""
+
+#: inc/shortcodes.php:3552
+msgid "Collected user ballance."
+msgstr ""
+
+#: inc/shortcodes.php:3554
+msgid "No balance to collect!"
+msgstr ""
+
+#: inc/shortcodes.php:3557
+msgid "You are not allowed to collect for this user!"
+msgstr ""
+
+#: inc/shortcodes.php:3571
+msgid "Performer Transactions"
+msgstr ""
+
+#: inc/shortcodes.php:3587
+msgid "Transactions"
+msgstr ""
+
+#: inc/shortcodes.php:3593
+msgid "You are not allowed to view transactions for this user!"
+msgstr ""
+
+#: inc/shortcodes.php:3599
+msgid "Create Performer Account"
+msgstr ""
+
+#: inc/shortcodes.php:3609
+msgid ""
+"After setting up performer account you will also receive password to "
+"communicate to performer for quick access. Account password should be "
+"changed by performer. Warning: Make sure you fill details correctly. Only "
+"administrator can delete incorrect accounts."
+msgstr ""
+
+#: inc/shortcodes.php:3625
+msgid "Adding Performer Account"
+msgstr ""
+
+#: inc/shortcodes.php:3633
+msgid "Username already in use!"
+msgstr ""
+
+#: inc/shortcodes.php:3636
+msgid "Email already in use!"
+msgstr ""
+
+#: inc/shortcodes.php:3648
+msgid "Performers limit reached!"
+msgstr ""
+
+#: inc/shortcodes.php:3652
+msgid "Could not create performer account: "
+msgstr ""
+
+#: inc/shortcodes.php:3657
+msgid "Performer account was created"
+msgstr ""
+
+#: inc/shortcodes.php:3708 inc/shortcodes.php:3718
+msgid "That performer is not assigned to this studio!"
+msgstr ""
+
+#: inc/shortcodes.php:3744
+msgid "Performers List"
+msgstr ""
+
+#: inc/shortcodes.php:3747
+msgid "Collected"
+msgstr ""
+
+#: inc/shortcodes.php:3747
+msgid "Last"
+msgstr ""
+
+#: inc/shortcodes.php:3747
+msgid "Total"
+msgstr ""
+
+#: inc/shortcodes.php:3747 inc/shortcodes.php:10337
+msgid "Status"
+msgstr ""
+
+#: inc/shortcodes.php:3747
+msgid "Current Room"
+msgstr ""
+
+#: inc/shortcodes.php:3771
+msgid "Collect"
+msgstr ""
+
+#: inc/shortcodes.php:3789 inc/shortcodes.php:5875 inc/shortcodes.php:6529
+#: inc/shortcodes.php:6530 inc/shortcodes.php:6532
+msgid "Enabled"
+msgstr ""
+
+#: inc/shortcodes.php:3797 inc/shortcodes.php:5874 inc/shortcodes.php:6529
+#: inc/shortcodes.php:6530 inc/shortcodes.php:6532
+msgid "Disabled"
+msgstr ""
+
+#: inc/shortcodes.php:3804
+msgid "Original Password"
+msgstr ""
+
+#: inc/shortcodes.php:3829
+msgid "Studio has no performer accounts, yet."
+msgstr ""
+
+#: inc/shortcodes.php:3839
+msgid "Add Performer"
+msgstr ""
+
+#: inc/shortcodes.php:3839
+msgid "Create a new performer account."
+msgstr ""
+
+#: inc/shortcodes.php:3842
+msgid "View  Performers List"
+msgstr ""
+
+#: inc/shortcodes.php:3870 inc/shortcodes.php:3872 ppv-live-webcams.php:204
+#: ppv-live-webcams.php:261 ppv-live-webcams.php:932
+msgid "Rooms"
+msgstr ""
+
+#: inc/shortcodes.php:3872
+msgid "Manage room listings for studio performers."
+msgstr ""
+
+#: inc/shortcodes.php:3880
+msgid "Create Webcam Room Listing"
+msgstr ""
+
+#: inc/shortcodes.php:3913 inc/shortcodes.php:4371
+msgid ""
+"Warning: Make sure webcam listing name is correct. Only administrator can "
+"delete webcams."
+msgstr ""
+
+#: inc/shortcodes.php:3960 inc/shortcodes.php:4439
+msgid "Room listing with that name already exists."
+msgstr ""
+
+#: inc/shortcodes.php:3966 inc/shortcodes.php:4445
+msgid "Room listing was successfully created!"
+msgstr ""
+
+#: inc/shortcodes.php:4060 inc/shortcodes.php:4062
+msgid "MicroPayments Wallet"
+msgstr ""
+
+#: inc/shortcodes.php:4076
+msgid "WooCommerce Wallet"
+msgstr ""
+
+#: inc/shortcodes.php:4078
+msgid "TeraWallet WooCommerce"
+msgstr ""
+
+#: inc/shortcodes.php:4092 inc/shortcodes.php:7603
+msgid "MyCred"
+msgstr ""
+
+#: inc/shortcodes.php:4094
+msgid "MyCred Wallet"
+msgstr ""
+
+#: inc/shortcodes.php:4186 inc/shortcodes.php:6295
+msgid "Country"
+msgstr ""
+
+#: inc/shortcodes.php:4201 inc/shortcodes.php:6308
+msgid "Region"
+msgstr ""
+
+#: inc/shortcodes.php:4228
+msgid "Login to access dashboard!"
+msgstr ""
+
+#: inc/shortcodes.php:4260
+msgid "User role does not allow publishing webcams!"
+msgstr ""
+
+#: inc/shortcodes.php:4331
+msgid "Selected webcam listing is invalid."
+msgstr ""
+
+#: inc/shortcodes.php:4356
+msgid "Create Webcam Listing"
+msgstr ""
+
+#: inc/shortcodes.php:4366
+msgid ""
+"Partner performers that can also go live in this room: Comma separated list "
+"of performer usernames or emails."
+msgstr ""
+
+#: inc/shortcodes.php:4368
+msgid "Room Listing Name"
+msgstr ""
+
+#: inc/shortcodes.php:4386
+msgid "Adding Webcam Listing"
+msgstr ""
+
+#: inc/shortcodes.php:4427
+msgid "Warning: Performer not found: use a valid username (login) or email!"
+msgstr ""
+
+#: inc/shortcodes.php:4443
+msgid "Could not create webcam listing:"
+msgstr ""
+
+#: inc/shortcodes.php:4484
+msgid "Select Room Listing"
+msgstr ""
+
+#: inc/shortcodes.php:4485
+msgid "Select a room to enter, manage, operate."
+msgstr ""
+
+#: inc/shortcodes.php:4489
+msgid ""
+"Rooms (webcam venue listings) you created or were granted access to "
+"broadcast:"
+msgstr ""
+
+#: inc/shortcodes.php:4508
+msgid "Selected"
+msgstr ""
+
+#: inc/shortcodes.php:4512
+msgid ""
+"You do not have any active webcam room: one will be setup for you and "
+"selected."
+msgstr ""
+
+#: inc/shortcodes.php:4538
+msgid "Add Room"
+msgstr ""
+
+#: inc/shortcodes.php:4538
+msgid "Create a new webcam room listing."
+msgstr ""
+
+#: inc/shortcodes.php:4542
+msgid "View Your Room List"
+msgstr ""
+
+#: inc/shortcodes.php:4558
+msgid "Room Suspended"
+msgstr ""
+
+#: inc/shortcodes.php:4586 inc/shortcodes.php:4603 inc/shortcodes.php:4620
+msgid "Custom CPM out of range: removed."
+msgstr ""
+
+#: inc/shortcodes.php:4639
+msgid "Custom group CPM out of range: removed."
+msgstr ""
+
+#: inc/shortcodes.php:4733
+msgid "ERROR: Missing "
+msgstr ""
+
+#: inc/shortcodes.php:4786
+msgid "Picture Updated."
+msgstr ""
+
+#: inc/shortcodes.php:4788
+msgid "ERROR: Cound not create JPG thumb file "
+msgstr ""
+
+#: inc/shortcodes.php:4791
+msgid "ERROR: Cound not create temporary image!"
+msgstr ""
+
+#: inc/shortcodes.php:4794
+msgid "ERROR: Failed loading image data "
+msgstr ""
+
+#: inc/shortcodes.php:4797
+msgid "ERROR: Upload copy failed. File does not exist "
+msgstr ""
+
+#: inc/shortcodes.php:4800
+msgid "ERROR: Could not retrieve image size for "
+msgstr ""
+
+#: inc/shortcodes.php:5021
+msgid "Room Name"
+msgstr ""
+
+#: inc/shortcodes.php:5022 inc/shortcodes.php:7713
+msgid "Room ID"
+msgstr ""
+
+#: inc/shortcodes.php:5056
+msgid "Setting webcam group mode to"
+msgstr ""
+
+#: inc/shortcodes.php:5082 inc/shortcodes.php:9127 inc/shortcodes.php:9130
+#: inc/shortcodes.php:9134
+msgid "Free"
+msgstr ""
+
+#: inc/shortcodes.php:5185
+msgid "Warning: Performer"
+msgstr ""
+
+#: inc/shortcodes.php:5185
+msgid "not found: use a valid username (login) or email!"
+msgstr ""
+
+#: inc/shortcodes.php:5206
+msgid "Room Interface"
+msgstr ""
+
+#: inc/shortcodes.php:5209
+msgid "Checked in performers"
+msgstr ""
+
+#: inc/shortcodes.php:5212
+msgid "Assigning you"
+msgstr ""
+
+#: inc/shortcodes.php:5212
+msgid ""
+"as room performer (streamer) and redirecting to webcam room page. Please "
+"wait..."
+msgstr ""
+
+#: inc/shortcodes.php:5220
+msgid "Click here"
+msgstr ""
+
+#: inc/shortcodes.php:5220
+msgid "to access your webcam room if you do not get automatically redirected"
+msgstr ""
+
+#: inc/shortcodes.php:5246 inc/shortcodes.php:5264 inc/shortcodes.php:5305
+#: inc/shortcodes.php:5312
+msgid "My Rooms"
+msgstr ""
+
+#: inc/shortcodes.php:5254
+msgid "Room"
+msgstr ""
+
+#: inc/shortcodes.php:5278
+msgid "Custom cost per minute in paid group chat:"
+msgstr ""
+
+#: inc/shortcodes.php:5292 inc/shortcodes.php:5337
+msgid "Paid Mode"
+msgstr ""
+
+#: inc/shortcodes.php:5301 inc/shortcodes.php:5351
+msgid "This room is currently private, hidden from room list."
+msgstr ""
+
+#: inc/shortcodes.php:5305 inc/shortcodes.php:5312
+msgid ""
+"Switch to different room / listing. Your account can setup and manage "
+"multiple room profiles."
+msgstr ""
+
+#: inc/shortcodes.php:5341
+msgid "Room Mode"
+msgstr ""
+
+#: inc/shortcodes.php:5341
+msgid ""
+"Select group mode presets for your new session in this room, before going "
+"live."
+msgstr ""
+
+#: inc/shortcodes.php:5347
+msgid "This room is currently in presentation/collaboration mode."
+msgstr ""
+
+#: inc/shortcodes.php:5374
+msgid "HTML5"
+msgstr ""
+
+#: inc/shortcodes.php:5374
+msgid "Recommended"
+msgstr ""
+
+#: inc/shortcodes.php:5375
+msgid ""
+"HTML5 Videochat works in mobile and PC browsers, providing streaming with "
+"group chat, private 2 way video calls, tips, conferencing, collaboration, "
+"external broadcasts. Recommended."
+msgstr ""
+
+#: inc/shortcodes.php:5394
+msgid "Flash"
+msgstr ""
+
+#: inc/shortcodes.php:5395
+msgid ""
+"Flash PC interface is and older legacy app that supports presentation mode, "
+"streaming with group chat, 2 way videochat, tips. Mobile users will get the "
+"HTML5 Streaming interface, with extra latency, if transcoding is available. "
+"Does not support latest chat modes and options available in HTML5 app."
+msgstr ""
+
+#: inc/shortcodes.php:5401
+msgid "Select room interface before going live. Also applies to clients."
+msgstr ""
+
+#: inc/shortcodes.php:5415
+msgid "CheckIn Options"
+msgstr ""
+
+#: inc/shortcodes.php:5415
+msgid "Tag other performers present in session."
+msgstr ""
+
+#: inc/shortcodes.php:5418 inc/shortcodes.php:5435
+msgid "Checkin Performers"
+msgstr ""
+
+#: inc/shortcodes.php:5418
+msgid ""
+"You can select partner performers or specify other performers that are "
+"present in session."
+msgstr ""
+
+#: inc/shortcodes.php:5419
+msgid ""
+"If paid group chat is enabled, earnings will be shared equally between "
+"checked in performers."
+msgstr ""
+
+#: inc/shortcodes.php:5425
+msgid "Partner Performers"
+msgstr ""
+
+#: inc/shortcodes.php:5435
+msgid "Comma separated list of performer usernames or emails."
+msgstr ""
+
+#: inc/shortcodes.php:5454 ppv-live-webcams.php:296
+msgid "Go Live"
+msgstr ""
+
+#: inc/shortcodes.php:5466
+msgid ""
+"This room can not currently show in room list as it does not have a snapshot "
+"or picture. Rooms show in list after first broadcast only with a listing "
+"image. Broadcast camera for about a minute to generate a snapshot or upload "
+"a room picture!"
+msgstr ""
+
+#: inc/shortcodes.php:5524
+msgid "Calls"
+msgstr ""
+
+#: inc/shortcodes.php:5526
+msgid "Locked Private Calls"
+msgstr ""
+
+#: inc/shortcodes.php:5562 inc/shortcodes.php:8086 inc/shortcodes.php:12378
+#: inc/shortcodes.php:12457
+msgid "Messages"
+msgstr ""
+
+#: inc/shortcodes.php:5564
+msgid "Paid Questions and Messages"
+msgstr ""
+
+#: inc/shortcodes.php:5599 inc/shortcodes.php:5980
+msgid "Setup"
+msgstr ""
+
+#: inc/shortcodes.php:5604
+msgid "Room Access & Monetization"
+msgstr ""
+
+#: inc/shortcodes.php:5628 inc/shortcodes.php:5649 inc/shortcodes.php:5671
+msgid "Cost Per Minute"
+msgstr ""
+
+#: inc/shortcodes.php:5628
+msgid "Cost per minute for private shows (set 0 to use default)."
+msgstr ""
+
+#: inc/shortcodes.php:5696
+msgid "Group Show Cost Per Minute"
+msgstr ""
+
+#: inc/shortcodes.php:5696
+msgid ""
+"Cost per minute for group shows. Replaces paid group CPM (set 0 to use "
+"default)."
+msgstr ""
+
+#: inc/shortcodes.php:5710
+msgid "Setup Subscriptions"
+msgstr ""
+
+#: inc/shortcodes.php:5715 inc/shortcodes.php:5724
+msgid "Subscription Tier"
+msgstr ""
+
+#: inc/shortcodes.php:5717
+msgid "None"
+msgstr ""
+
+#: inc/shortcodes.php:5722
+msgid ""
+"Users that buy configured subscription tier or higher can participate in "
+"paid group shows for free."
+msgstr ""
+
+#: inc/shortcodes.php:5724
+msgid "You do not have any subscriptions setup, yet."
+msgstr ""
+
+#: inc/shortcodes.php:5724
+msgid ""
+"Users that buy configured subscription tier or higher can participate in "
+"group sessions for free."
+msgstr ""
+
+#: inc/shortcodes.php:5750
+msgid "Setup Monetization"
+msgstr ""
+
+#: inc/shortcodes.php:5752 inc/shortcodes.php:5755
+msgid ">Access Price"
+msgstr ""
+
+#: inc/shortcodes.php:5755
+msgid "Room access price. Leave 0 for free access."
+msgstr ""
+
+#: inc/shortcodes.php:5768
+msgid "Access List"
+msgstr ""
+
+#: inc/shortcodes.php:5768
+msgid ""
+"User roles, logins, emails separated by comma. Leave empty to allow "
+"everybody to access."
+msgstr ""
+
+#: inc/shortcodes.php:5796
+msgid "Detected IP"
+msgstr ""
+
+#: inc/shortcodes.php:5800
+msgid "Detected Location"
+msgstr ""
+
+#: inc/shortcodes.php:5800
+msgid "Not detected."
+msgstr ""
+
+#: inc/shortcodes.php:5803
+msgid "ERROR: GeoIP extension is required on web host for this functionality."
+msgstr ""
+
+#: inc/shortcodes.php:5806
+msgid "Ban Countries"
+msgstr ""
+
+#: inc/shortcodes.php:5806
+msgid ""
+"You may want to ban your location for privacy reasons. Or restrict countries "
+"and regions where your content is not legal or well received. Room will not "
+"be listed and room page will not be accessible from banned location. This "
+"functionality is not 100% accurate and may be bypassed with VPNs. Specify "
+"list of locations (country, region, city or continent code, separated by "
+"comma) that can not access webcam room. "
+msgstr ""
+
+#: inc/shortcodes.php:5811
+msgid "Room Details"
+msgstr ""
+
+#: inc/shortcodes.php:5832 inc/shortcodes.php:5862
+msgid "Picture"
+msgstr ""
+
+#: inc/shortcodes.php:5832
+msgid "Update room picture to use instead of live snapshot."
+msgstr ""
+
+#: inc/shortcodes.php:5860
+msgid "Auto"
+msgstr ""
+
+#: inc/shortcodes.php:5861 inc/shortcodes.php:6563 inc/shortcodes.php:12477
+msgid "Teaser"
+msgstr ""
+
+#: inc/shortcodes.php:5863
+msgid "Live Snapshot"
+msgstr ""
+
+#: inc/shortcodes.php:5864
+msgid "Performer Avatar"
+msgstr ""
+
+#: inc/shortcodes.php:5865
+msgid ""
+"Select preview to show in webcam listings and HTML5 Videochat room while not "
+"streaming. Auto shows picture or teaser when offline and snapshot when "
+"online."
+msgstr ""
+
+#: inc/shortcodes.php:5873
+msgid "Lovense Toy"
+msgstr ""
+
+#: inc/shortcodes.php:5876
+msgid "Show in listings that Lovense toy is active for this room."
+msgstr ""
+
+#: inc/shortcodes.php:5887
+msgid "Label"
+msgstr ""
+
+#: inc/shortcodes.php:5887
+msgid "Shows in room listings instead of name."
+msgstr ""
+
+#: inc/shortcodes.php:5899 inc/shortcodes.php:10312
+msgid "Category"
+msgstr ""
+
+#: inc/shortcodes.php:5899
+msgid "Category."
+msgstr ""
+
+#: inc/shortcodes.php:5904 inc/shortcodes.php:7762 inc/shortcodes.php:12522
+msgid "Description"
+msgstr ""
+
+#: inc/shortcodes.php:5904
+msgid ""
+"Room description: profile, schedule. Shows on room page and full row list "
+"layout."
+msgstr ""
+
+#: inc/shortcodes.php:5915
+msgid "Brief"
+msgstr ""
+
+#: inc/shortcodes.php:5915
+msgid "Room brief info: profile, schedule. Shows in room listings."
+msgstr ""
+
+#: inc/shortcodes.php:5948 inc/shortcodes.php:10918
+msgid "Tags"
+msgstr ""
+
+#: inc/shortcodes.php:5948
+msgid "Tags separated by comma. Show in room listings."
+msgstr ""
+
+#: inc/shortcodes.php:5979
+msgid "Room Setup"
+msgstr ""
+
+#: inc/shortcodes.php:6012
+msgid "Match"
+msgstr ""
+
+#: inc/shortcodes.php:6013
+msgid "Define criteria for random 2 way video call matches."
+msgstr ""
+
+#: inc/shortcodes.php:6051
+msgid "Room Listing Profile"
+msgstr ""
+
+#: inc/shortcodes.php:6051
+msgid ""
+"These details will show on webcam room page (under videochat interface)."
+msgstr ""
+
+#: inc/shortcodes.php:6259
+msgid "Select Continent"
+msgstr ""
+
+#: inc/shortcodes.php:6283
+msgid "Continent"
+msgstr ""
+
+#: inc/shortcodes.php:6322
+msgid "Language"
+msgstr ""
+
+#: inc/shortcodes.php:6410
+msgid "Contests"
+msgstr ""
+
+#: inc/shortcodes.php:6464
+msgid "Streams"
+msgstr ""
+
+#: inc/shortcodes.php:6494 inc/shortcodes.php:7730 inc/shortcodes.php:12421
+#: inc/shortcodes.php:12545
+msgid "Videos"
+msgstr ""
+
+#: inc/shortcodes.php:6520
+msgid ""
+"Multiple profile videos can show on webcam listing page. Each listing has "
+"own videos."
+msgstr ""
+
+#: inc/shortcodes.php:6526
+msgid "Recorded live streams can be published using Import."
+msgstr ""
+
+#: inc/shortcodes.php:6575
+msgid ""
+"Teaser video (featured video) plays shortly as preview in listings, in room "
+"when performer is offline in HTML5 Videochat interface and shows on profile "
+"page. Can be selected from all videos of user."
+msgstr ""
+
+#: inc/shortcodes.php:6980
+msgid "Assets"
+msgstr ""
+
+#: inc/shortcodes.php:6982
+msgid "Select digital assets to show on room profile page."
+msgstr ""
+
+#: inc/shortcodes.php:7093 inc/shortcodes.php:7233
+msgid "Update Selection"
+msgstr ""
+
+#: inc/shortcodes.php:7096 inc/shortcodes.php:7236
+msgid "Previous Page"
+msgstr ""
+
+#: inc/shortcodes.php:7099 inc/shortcodes.php:7239
+msgid "Next Page"
+msgstr ""
+
+#: inc/shortcodes.php:7124 inc/shortcodes.php:12451
+msgid "Products"
+msgstr ""
+
+#: inc/shortcodes.php:7126
+msgid "Select products to show on room profile page."
+msgstr ""
+
+#: inc/shortcodes.php:7274 inc/shortcodes.php:7737 inc/shortcodes.php:12424
+#: inc/shortcodes.php:12565
+msgid "Pictures"
+msgstr ""
+
+#: inc/shortcodes.php:7287
+msgid ""
+"Multiple profile pictures can show on webcam listing page. Each listing has "
+"own pictures."
+msgstr ""
+
+#: inc/shortcodes.php:7316
+msgid "Logs"
+msgstr ""
+
+#: inc/shortcodes.php:7344
+msgid "Deleted"
+msgstr ""
+
+#: inc/shortcodes.php:7377
+msgid "Room Chat Logs"
+msgstr ""
+
+#: inc/shortcodes.php:7388
+msgid "No chat log files found in this room."
+msgstr ""
+
+#: inc/shortcodes.php:7391
+msgid "Older log files are automatically deleted after a number of days:"
+msgstr ""
+
+#: inc/shortcodes.php:7412
+msgid "Room Uploads"
+msgstr ""
+
+#: inc/shortcodes.php:7423
+msgid "No uploads found in this room."
+msgstr ""
+
+#: inc/shortcodes.php:7431
+msgid "Total room folder size:"
+msgstr ""
+
+#: inc/shortcodes.php:7451 inc/shortcodes.php:7495
+msgid "Bans"
+msgstr ""
+
+#: inc/shortcodes.php:7465
+msgid "Cleared ban for"
+msgstr ""
+
+#: inc/shortcodes.php:7471
+msgid "Not found!"
+msgstr ""
+
+#: inc/shortcodes.php:7501
+msgid "There are no bans for this room."
+msgstr ""
+
+#: inc/shortcodes.php:7504
+msgid ""
+"Bans occur when performer kicks or bans users from videochat interface. "
+"Kicks result in short bans (15 minutes) and full bans have longer cooldown "
+"(1 week). Bans prevent viewers from accessing or remaining in chat room."
+msgstr ""
+
+#: inc/shortcodes.php:7532
+msgid "MicroPayments"
+msgstr ""
+
+#: inc/shortcodes.php:7534
+msgid "MicroPayments Transactions"
+msgstr ""
+
+#: inc/shortcodes.php:7538 inc/shortcodes.php:7572 inc/shortcodes.php:7610
+#: inc/shortcodes.php:12508
+msgid "Logged days"
+msgstr ""
+
+#: inc/shortcodes.php:7539 inc/shortcodes.php:7573 inc/shortcodes.php:7611
+msgid "Logged private sessions billed"
+msgstr ""
+
+#: inc/shortcodes.php:7540 inc/shortcodes.php:7574 inc/shortcodes.php:7612
+msgid "Logged group sessions billed"
+msgstr ""
+
+#: inc/shortcodes.php:7541 inc/shortcodes.php:7575 inc/shortcodes.php:7613
+msgid "Session logs are kept for limited time and transaction logs forever."
+msgstr ""
+
+#: inc/shortcodes.php:7566
+msgid "TeraWallet"
+msgstr ""
+
+#: inc/shortcodes.php:7568
+msgid "TeraWallet (WooCommerce)"
+msgstr ""
+
+#: inc/shortcodes.php:7605
+msgid "My Credits"
+msgstr ""
+
+#: inc/shortcodes.php:7634 inc/shortcodes.php:7635
+msgid "Reports"
+msgstr ""
+
+#: inc/shortcodes.php:7656
+msgid "Overview"
+msgstr ""
+
+#: inc/shortcodes.php:7679
+msgid "Room Listing Overview"
+msgstr ""
+
+#: inc/shortcodes.php:7705
+msgid "Listing (Room) Name"
+msgstr ""
+
+#: inc/shortcodes.php:7706
+msgid "Current Room Performer"
+msgstr ""
+
+#: inc/shortcodes.php:7707
+msgid "Current Room Performer ID"
+msgstr ""
+
+#: inc/shortcodes.php:7708
+msgid "Your Performer Name"
+msgstr ""
+
+#: inc/shortcodes.php:7709
+msgid "Room Label"
+msgstr ""
+
+#: inc/shortcodes.php:7710
+msgid "Room Status"
+msgstr ""
+
+#: inc/shortcodes.php:7711
+msgid "Room URL"
+msgstr ""
+
+#: inc/shortcodes.php:7712
+msgid "Room Slug"
+msgstr ""
+
+#: inc/shortcodes.php:7714
+msgid "Room Owner ID"
+msgstr ""
+
+#: inc/shortcodes.php:7720 inc/shortcodes.php:11545
+msgid "Featured"
+msgstr ""
+
+#: inc/shortcodes.php:7720 inc/shortcodes.php:7730 inc/shortcodes.php:7737
+#: inc/shortcodes.php:7758 ppv-live-webcams.php:1356
+msgid "Yes"
+msgstr ""
+
+#: inc/shortcodes.php:7720 inc/shortcodes.php:7730 inc/shortcodes.php:7737
+#: inc/shortcodes.php:7758 ppv-live-webcams.php:1356
+msgid "No"
+msgstr ""
+
+#: inc/shortcodes.php:7723
+msgid "Client CPM"
+msgstr ""
+
+#: inc/shortcodes.php:7724
+msgid "Earning Ratio"
+msgstr ""
+
+#: inc/shortcodes.php:7758
+msgid "Scheduled Playlist"
+msgstr ""
+
+#: inc/shortcodes.php:7814
+msgid "Login to send questions or messages!"
+msgstr ""
+
+#: inc/shortcodes.php:7859
+msgid "Messages are currently closed."
+msgstr ""
+
+#: inc/shortcodes.php:7920 inc/shortcodes.php:8383
+msgid "This attachment extension is not allowed:"
+msgstr ""
+
+#: inc/shortcodes.php:7920 inc/shortcodes.php:8383
+msgid "Allowed attachment extensions:"
+msgstr ""
+
+#: inc/shortcodes.php:7920 inc/shortcodes.php:7929 inc/shortcodes.php:8383
+#: inc/shortcodes.php:8394
+msgid "Try again:"
+msgstr ""
+
+#: inc/shortcodes.php:7929 inc/shortcodes.php:8394
+msgid "This attachment is too big:"
+msgstr ""
+
+#: inc/shortcodes.php:7929 inc/shortcodes.php:8394
+msgid "Allowed attachment size:"
+msgstr ""
+
+#: inc/shortcodes.php:8056
+msgid "Your message was sent."
+msgstr ""
+
+#: inc/shortcodes.php:8057 inc/shortcodes.php:8641 inc/shortcodes.php:8941
+msgid "View Message"
+msgstr ""
+
+#: inc/shortcodes.php:8073
+msgid "Your Question or Message"
+msgstr ""
+
+#: inc/shortcodes.php:8076 inc/shortcodes.php:8581
+msgid "Attachments (Optional)"
+msgstr ""
+
+#: inc/shortcodes.php:8077 inc/shortcodes.php:8582
+msgid "Supports"
+msgstr ""
+
+#: inc/shortcodes.php:8086
+msgid "Open in full view to add video recordings:"
+msgstr ""
+
+#: inc/shortcodes.php:8091
+msgid "Send Message"
+msgstr ""
+
+#: inc/shortcodes.php:8096
+msgid "Cost per question or message"
+msgstr ""
+
+#: inc/shortcodes.php:8199 inc/shortcodes.php:8651 inc/shortcodes.php:8949
+msgid "No Messages"
+msgstr ""
+
+#: inc/shortcodes.php:8214 inc/shortcodes.php:8847
+msgid "Login to manage messages and replies!"
+msgstr ""
+
+#: inc/shortcodes.php:8537
+msgid "Your reply was sent and you got paid."
+msgstr ""
+
+#: inc/shortcodes.php:8540
+msgid "Your reply was sent."
+msgstr ""
+
+#: inc/shortcodes.php:8564 inc/shortcodes.php:8590
+msgid "Send Reply"
+msgstr ""
+
+#: inc/shortcodes.php:8638 inc/shortcodes.php:8925
+msgid "Replied"
+msgstr ""
+
+#: inc/shortcodes.php:8646
+msgid ""
+"You receive payment for paid messages on reply. Clients can access their "
+"messages and replies from client dashboard and in messages section from "
+"webcam profile."
+msgstr ""
+
+#: inc/shortcodes.php:8668
+msgid "Questions"
+msgstr ""
+
+#: inc/shortcodes.php:8674
+msgid "Price per Question"
+msgstr ""
+
+#: inc/shortcodes.php:8702
+msgid "Login to access client features!"
+msgstr ""
+
+#: inc/shortcodes.php:8718
+msgid "Active balance"
+msgstr ""
+
+#: inc/shortcodes.php:8719
+msgid "All Balances"
+msgstr ""
+
+#: inc/shortcodes.php:8720
+msgid "Manage Wallet"
+msgstr ""
+
+#: inc/shortcodes.php:8728
+msgid "Random Mathmaking"
+msgstr ""
+
+#: inc/shortcodes.php:8729
+msgid "Match Criteria"
+msgstr ""
+
+#: inc/shortcodes.php:8730
+msgid "Random Match"
+msgstr ""
+
+#: inc/shortcodes.php:8735
+msgid "My Questions and Messages"
+msgstr ""
+
+#: inc/shortcodes.php:8740
+msgid "My Calls"
+msgstr ""
+
+#: inc/shortcodes.php:8745 inc/shortcodes.php:8832
+msgid "Add Role"
+msgstr ""
+
+#: inc/shortcodes.php:8757
+msgid "My Subscriptions"
+msgstr ""
+
+#: inc/shortcodes.php:8779
+msgid "Login to manage role!"
+msgstr ""
+
+#: inc/shortcodes.php:8813
+msgid "Your role(s)"
+msgstr ""
+
+#: inc/shortcodes.php:8817 ppv-live-webcams.php:4257
+msgid "Role"
+msgstr ""
+
+#: inc/shortcodes.php:8962
+msgid "Login to manage calls!"
+msgstr ""
+
+#: inc/shortcodes.php:9089
+msgid "New call was setup"
+msgstr ""
+
+#: inc/shortcodes.php:9093
+msgid ""
+"Error: Client was not found by email or username! User needs to register to "
+"be able to login and access the private call."
+msgstr ""
+
+#: inc/shortcodes.php:9109 inc/shortcodes.php:9115 inc/shortcodes.php:9122
+msgid "Paid"
+msgstr ""
+
+#: inc/shortcodes.php:9109 inc/shortcodes.php:9127
+msgid "Videochat"
+msgstr ""
+
+#: inc/shortcodes.php:9115 inc/shortcodes.php:9130
+msgid "Audio"
+msgstr ""
+
+#: inc/shortcodes.php:9122 inc/shortcodes.php:9134
+msgid "Text"
+msgstr ""
+
+#: inc/shortcodes.php:9142
+msgid "Private Call Chat Mode"
+msgstr ""
+
+#: inc/shortcodes.php:9143
+msgid "Client"
+msgstr ""
+
+#: inc/shortcodes.php:9143
+msgid "Username or Email"
+msgstr ""
+
+#: inc/shortcodes.php:9144
+msgid "Setup Call"
+msgstr ""
+
+#: inc/shortcodes.php:9147
+msgid "Warning: Room in audio only mode restricts call options."
+msgstr ""
+
+#: inc/shortcodes.php:9148
+msgid "Warning: Room in text only mode restricts call options."
+msgstr ""
+
+#: inc/shortcodes.php:9150
+msgid ""
+"Setup locked private calls that can only be accessed by client using "
+"dedicated call link. Clients can access their persistent calls list in "
+"client dashboard.  "
+msgstr ""
+
+#: inc/shortcodes.php:9167
+msgid "Call deleted."
+msgstr ""
+
+#: inc/shortcodes.php:9203
+msgid "Access"
+msgstr ""
+
+#: inc/shortcodes.php:9213
+msgid "No Calls"
+msgstr ""
+
+#: inc/shortcodes.php:10031
+msgid "Loading Live Webcams"
+msgstr ""
+
+#: inc/shortcodes.php:10040
+msgid "Loading your last search"
+msgstr ""
+
+#: inc/shortcodes.php:10317 inc/shortcodes.php:10321
+msgid "Loading category"
+msgstr ""
+
+#: inc/shortcodes.php:10317 inc/shortcodes.php:10585
+msgid "All Categories"
+msgstr ""
+
+#: inc/shortcodes.php:10343 inc/shortcodes.php:10345 inc/shortcodes.php:10346
+#: inc/shortcodes.php:10348 inc/shortcodes.php:10349 inc/shortcodes.php:10351
+#: inc/shortcodes.php:10352 inc/shortcodes.php:10354 inc/shortcodes.php:10355
+#: inc/shortcodes.php:10374 inc/shortcodes.php:10376 inc/shortcodes.php:10378
+#: inc/shortcodes.php:10591 inc/shortcodes.php:10732 inc/shortcodes.php:10762
+#: inc/shortcodes.php:10775 inc/shortcodes.php:10791 inc/shortcodes.php:10887
+msgid "Updating listings, please wait"
+msgstr ""
+
+#: inc/shortcodes.php:10345 inc/shortcodes.php:10595
+msgid "Online"
+msgstr ""
+
+#: inc/shortcodes.php:10346 inc/shortcodes.php:10597
+msgid "Online, Available"
+msgstr ""
+
+#: inc/shortcodes.php:10348 inc/shortcodes.php:10599
+msgid "All, Paid"
+msgstr ""
+
+#: inc/shortcodes.php:10349 inc/shortcodes.php:10601
+msgid "All, Free"
+msgstr ""
+
+#: inc/shortcodes.php:10351 inc/shortcodes.php:10603
+msgid "Available, Paid"
+msgstr ""
+
+#: inc/shortcodes.php:10352 inc/shortcodes.php:10605
+msgid "Available, Free"
+msgstr ""
+
+#: inc/shortcodes.php:10354 inc/shortcodes.php:10607
+msgid "Online, In Private"
+msgstr ""
+
+#: inc/shortcodes.php:10355 inc/shortcodes.php:10609
+msgid "Offline"
+msgstr ""
+
+#: inc/shortcodes.php:10368
+msgid "Lovense"
+msgstr ""
+
+#: inc/shortcodes.php:10374 inc/shortcodes.php:10525 inc/shortcodes.php:10735
+#: inc/shortcodes.php:10765 inc/shortcodes.php:10778 inc/shortcodes.php:10794
+#: inc/shortcodes.php:10891
+msgid "Any"
+msgstr ""
+
+#: inc/shortcodes.php:10388 inc/shortcodes.php:10620
+msgid "Default Order"
+msgstr ""
+
+#: inc/shortcodes.php:10389 inc/shortcodes.php:10622
+msgid "Current Viewers"
+msgstr ""
+
+#: inc/shortcodes.php:10390 inc/shortcodes.php:10624
+msgid "Broadcast Recently"
+msgstr ""
+
+#: inc/shortcodes.php:10391 inc/shortcodes.php:10625
+msgid "Created Recently"
+msgstr ""
+
+#: inc/shortcodes.php:10392 inc/shortcodes.php:10627
+msgid "Maximum Viewers"
+msgstr ""
+
+#: inc/shortcodes.php:10393 inc/shortcodes.php:10629
+msgid "Random"
+msgstr ""
+
+#: inc/shortcodes.php:10397 inc/shortcodes.php:10633
+msgid "Votes"
+msgstr ""
+
+#: inc/shortcodes.php:10398 inc/shortcodes.php:10402 inc/shortcodes.php:10635
+#: inc/shortcodes.php:10640
+msgid "Rating"
+msgstr ""
+
+#: inc/shortcodes.php:10399 inc/shortcodes.php:10403 inc/shortcodes.php:10636
+#: inc/shortcodes.php:10641
+msgid "Ratings Number"
+msgstr ""
+
+#: inc/shortcodes.php:10400 inc/shortcodes.php:10404 inc/shortcodes.php:10637
+#: inc/shortcodes.php:10642
+msgid "Rate Popularity"
+msgstr ""
+
+#: inc/shortcodes.php:10402 inc/shortcodes.php:10403 inc/shortcodes.php:10404
+#: inc/shortcodes.php:10640 inc/shortcodes.php:10641 inc/shortcodes.php:10642
+msgid "in Category"
+msgstr ""
+
+#: inc/shortcodes.php:10413 inc/shortcodes.php:10618
+msgid "Order By"
+msgstr ""
+
+#: inc/shortcodes.php:10420
+msgid "Ordering Rooms"
+msgstr ""
+
+#: inc/shortcodes.php:10525 inc/shortcodes.php:10553
+msgid "Filtering Rooms"
+msgstr ""
+
+#: inc/shortcodes.php:10931
+msgid "Search"
+msgstr ""
+
+#: inc/shortcodes.php:11389
+msgid "Ban This Webcam"
+msgstr ""
+
+#: inc/shortcodes.php:11575
+msgid "Enter"
+msgstr ""
+
+#: inc/shortcodes.php:11580
+msgid "Call"
+msgstr ""
+
+#: inc/shortcodes.php:11609
+msgid "Login for More"
+msgstr ""
+
+#: inc/shortcodes.php:11621 inc/shortcodes.php:11622
+msgid "Video Call"
+msgstr ""
+
+#: inc/shortcodes.php:11628 inc/shortcodes.php:11630
+msgid "Audio Call"
+msgstr ""
+
+#: inc/shortcodes.php:11638 inc/shortcodes.php:11640
+msgid "Text Chat"
+msgstr ""
+
+#: inc/shortcodes.php:11652 inc/shortcodes.php:11654
+msgid "Question"
+msgstr ""
+
+#: inc/shortcodes.php:11671
+msgid "2 Way"
+msgstr ""
+
+#: inc/shortcodes.php:11680
+msgid "Voyeur"
+msgstr ""
+
+#: inc/shortcodes.php:11726 inc/shortcodes.php:11730
+msgid ""
+"No rooms match current criteria. A room requires a picture or snapshot from "
+"live broadcast to get listed."
+msgstr ""
+
+#: inc/shortcodes.php:11773
+msgid "Previous"
+msgstr ""
+
+#: inc/shortcodes.php:11776
+msgid "Page"
+msgstr ""
+
+#: inc/shortcodes.php:11789
+msgid "Grid"
+msgstr ""
+
+#: inc/shortcodes.php:11792
+msgid "Full Row List"
+msgstr ""
+
+#: inc/shortcodes.php:11795
+msgid "Horizontal Slider"
+msgstr ""
+
+#: inc/shortcodes.php:12060
+msgid "Broadcasting not allowed: Only logged in users can broadcast!"
+msgstr ""
+
+#: inc/shortcodes.php:12371 ppv-live-webcams.php:310
+msgid "Room Page"
+msgstr ""
+
+#: inc/shortcodes.php:12372
+msgid "Room Profile Content"
+msgstr ""
+
+#: inc/shortcodes.php:12374
+msgid "Room Profile Info"
+msgstr ""
+
+#: inc/shortcodes.php:12427 inc/shortcodes.php:12590
+msgid "Reviews"
+msgstr ""
+
+#: inc/shortcodes.php:12438
+msgid "Content"
+msgstr ""
+
+#: inc/shortcodes.php:12487
+msgid "Meta"
+msgstr ""
+
+#: inc/shortcodes.php:12495
+msgid "Maximum viewers"
+msgstr ""
+
+#: inc/shortcodes.php:12508
+msgid "Paid sessions"
+msgstr ""
+
+#: inc/shortcodes.php:12508
+msgid "private"
+msgstr ""
+
+#: inc/shortcodes.php:12508
+msgid "group"
+msgstr ""
+
+#: inc/shortcodes.php:12517
+msgid "Profile Info"
+msgstr ""
+
+#: inc/shortcodes.php:12584
+msgid "My Review"
+msgstr ""
+
+#: inc/shortcodes.php:12606
+msgid "Room Content"
+msgstr ""
+
+#: inc/shortcodes.php:12623
+msgid "Room Products"
+msgstr ""
+
+#: inc/shortcodes.php:12663
+msgid "Send Question or Message"
+msgstr ""
+
+#: inc/shortcodes.php:12665
+msgid "My Previous Questions and Messages"
+msgstr ""
+
+#: inc/shortcodes.php:12888 ppv-live-webcams.php:2547
+msgid ""
+"Free chat daily time limit reached: You can only access paid group rooms "
+"today."
+msgstr ""
+
+#: inc/shortcodes.php:12889 ppv-live-webcams.php:2548
+msgid ""
+"Free chat daily time limit reached. You get unlimited free chat time if you "
+"add a minimum balance."
+msgstr ""
+
+#: inc/shortcodes.php:12908
+msgid "This is a BuddyPress group room and you are not a member!"
+msgstr ""
+
+#: inc/shortcodes.php:12989
+msgid "Login to access special chat mode!"
+msgstr ""
+
+#: inc/shortcodes.php:13002
+msgid ""
+"Group chat is disabled. This room can only be used for instant or locked "
+"calls."
+msgstr ""
+
+#: inc/shortcodes.php:13193
+msgid "Try HTML5 Videochat"
+msgstr ""
+
+#: inc/streams.php:152 ppv-live-webcams.php:2477 ppv-live-webcams.php:6002
+#: ppv-live-webcams.php:6187
+msgid "This room was suspended."
+msgstr ""
+
+#: inc/streams.php:570
+msgid "is live"
+msgstr ""
+
+#: ppv-live-webcams.php:191 ppv-live-webcams.php:257
+msgid "Connect"
+msgstr ""
+
+#: ppv-live-webcams.php:219 ppv-live-webcams.php:265
+msgid "Video Questions"
+msgstr ""
+
+#: ppv-live-webcams.php:293
+msgid "My Conversations"
+msgstr ""
+
+#: ppv-live-webcams.php:296
+msgid "Performer Dashboard"
+msgstr ""
+
+#: ppv-live-webcams.php:314
+msgid "My Video Messages"
+msgstr ""
+
+#: ppv-live-webcams.php:356
+msgid "Login to send questions!"
+msgstr ""
+
+#: ppv-live-webcams.php:385
+msgid "User does not have rooms with questions open."
+msgstr ""
+
+#: ppv-live-webcams.php:916
+msgctxt "Post Type General Name"
+msgid "Webcams"
+msgstr ""
+
+#: ppv-live-webcams.php:917
+msgctxt "Post Type Singular Name"
+msgid "Webcam"
+msgstr ""
+
+#: ppv-live-webcams.php:919
+msgid "Parent Webcam:"
+msgstr ""
+
+#: ppv-live-webcams.php:920
+msgid "All Webcams"
+msgstr ""
+
+#: ppv-live-webcams.php:921
+msgid "View Webcam"
+msgstr ""
+
+#: ppv-live-webcams.php:922
+msgid "Add New Webcam"
+msgstr ""
+
+#: ppv-live-webcams.php:923
+msgid "New Webcam"
+msgstr ""
+
+#: ppv-live-webcams.php:924
+msgid "Edit Webcam"
+msgstr ""
+
+#: ppv-live-webcams.php:925
+msgid "Update Webcam"
+msgstr ""
+
+#: ppv-live-webcams.php:926
+msgid "Search Webcams"
+msgstr ""
+
+#: ppv-live-webcams.php:927
+msgid "No webcams found"
+msgstr ""
+
+#: ppv-live-webcams.php:928
+msgid "No webcams found in Trash"
+msgstr ""
+
+#: ppv-live-webcams.php:931
+msgid "New room created"
+msgstr ""
+
+#. translators: %1$s: user name, %2$s: room link
+#: ppv-live-webcams.php:934
+#, php-format
+msgid "%1$s created a new <a href=\"%2$s\">room</a>"
+msgstr ""
+
+#. translators: %1$s: user name, %2$s: room link, %3$s: site name
+#: ppv-live-webcams.php:936
+#, php-format
+msgid "%1$s created a new <a href=\"%2$s\">room</a>, on the site %3$s"
+msgstr ""
+
+#: ppv-live-webcams.php:945
+msgid "webcam"
+msgstr ""
+
+#: ppv-live-webcams.php:946
+msgid "Live Webcams"
+msgstr ""
+
+#: ppv-live-webcams.php:1057
+msgid "Access Forbidden!"
+msgstr ""
+
+#: ppv-live-webcams.php:1106
+msgid "This content is not available in your location!"
+msgstr ""
+
+#: ppv-live-webcams.php:1177
+msgid "This is a paid room. A minimum balance required to access."
+msgstr ""
+
+#: ppv-live-webcams.php:1183
+msgid "This is a paid room. Login is required to access a paid room."
+msgstr ""
+
+#: ppv-live-webcams.php:2025
+msgid ""
+"Not enough funds left for client to continue session. Minimum required: "
+msgstr ""
+
+#: ppv-live-webcams.php:2049
+msgid "Session was already ended."
+msgstr ""
+
+#: ppv-live-webcams.php:3976
+msgid "You Were Disconnected from Chat Room"
+msgstr ""
+
+#: ppv-live-webcams.php:3979
+msgid "You have been disconnected from server."
+msgstr ""
+
+#: ppv-live-webcams.php:3980
+msgid "Free daily time limit reached: Check paid rooms!"
+msgstr ""
+
+#: ppv-live-webcams.php:3981
+msgid "Free daily visitor time limit reached: Register for more!"
+msgstr ""
+
+#: ppv-live-webcams.php:4588
+msgid "Transfer to Active Balance"
+msgstr ""
+
+#: ppv-live-webcams.php:4588 ppv-live-webcams.php:4592
+msgid "Transfer to"
+msgstr ""
+
+#: ppv-live-webcams.php:4592
+msgid "Transfer to Secondary Balance"
+msgstr ""
+
+#: ppv-live-webcams.php:4598
+msgid "Transferred to active balance."
+msgstr ""
+
+#: ppv-live-webcams.php:4604
+msgid "Transferred to secondary balance."
+msgstr ""
+
+#: ppv-live-webcams.php:5131
+msgid "PPM group"
+msgstr ""
+
+#: ppv-live-webcams.php:5131
+msgid "session in"
+msgstr ""
+
+#: ppv-live-webcams.php:5137
+msgid "Earning from PPM group"
+msgstr ""
+
+#: ppv-live-webcams.php:5137
+msgid " session with "
+msgstr ""
+
+#: ppv-live-webcams.php:5257
+msgid "Earning from PPM private session:"
+msgstr ""
+
+#: ppv-live-webcams.php:5262
+msgid "Performer cost for PPM private session:"
+msgstr ""
+
+#: ppv-live-webcams.php:6387
+msgid "Never"
+msgstr ""
+
+#: ppv-live-webcams.php:6453
+msgid "Settings"
+msgstr ""
+
+#: ppv-live-webcams.php:6487
+msgid "User not found by email or login: "
+msgstr ""
+
+#: ppv-live-webcams.php:6495
+msgid "User not found by ID: "
+msgstr ""
+
+#: ppv-live-webcams.php:6518
+msgid "Studio not found: "
+msgstr ""
+
+#: template-app.php:26
+msgid "Video Chat"
+msgstr ""
+
+#: template-webcam.php:46
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Paid Videochat Turnkey Site - HTML5 PPV Live Webcams"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://paidvideochat.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>Paid Videochat Turnkey Site - HTML5 PPV Live Webcams</strong>: pay "
+"per view / minute (PPV/PPM) videochat sites.  Includes custom registration "
+"(performers, clients, studios), live streaming webcams list, public lobby "
+"for each performer with live stream, mult-performer in show checkin, custom "
+"tips/gifts with notification, pay per minute private 2 way calls and group "
+"videochat shows, HTML5 WebRTC live video streaming, adaptive interface for "
+"mobile browsers, snapshots/pictures and videos profile, video conference "
+"mode with split view streaming, presentation/collaboration mode with file "
+"sharing and image/video display, paid questions/messages.  <a href='https://"
+"videowhisper.com/tickets_submit.php?topic=PPV-Live-Webcams'>Contact Support</"
+"a> | <a href='admin.php?page=live-webcams&tab=setup'>Setup</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VideoWhisper.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://videowhisper.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "VideoWhisper App - Full Page, without Site Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "VideoWhisper Full"
+msgstr ""

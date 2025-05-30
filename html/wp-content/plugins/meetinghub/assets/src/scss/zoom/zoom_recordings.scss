@@ -1,0 +1,241 @@
+@import '../mixins';
+
+#mhub_zoom_recordings {
+
+    padding: 40px 20px;
+
+    .zoom-recordings-wrapper {
+        margin-bottom: 30px;
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+
+            .left-align {
+                display: flex;
+                align-items: baseline;
+
+                label {
+                    margin-right: 20px;
+                    font-size: 18px;
+                    font-weight: 600;
+                    color: #1c2025;
+                    &.mrl-10 {
+                        margin-right: 10px;
+                        margin-left: 10px;
+                    }
+                }
+
+                .report-show-btn {
+                    padding: 10px 30px;
+                    margin-left: 10px;
+                    background-color: #7856fb;
+                    color: #fff;
+                    font-size: 16px;
+                    border-radius: 8px;
+                    cursor: pointer !important;
+                    border: none;
+                    outline: none;
+
+                    &:hover {
+                        background: #4f21ff;
+                    }
+                }
+
+                .react-datepicker-wrapper {
+                    .react-datepicker__input-container {
+                        input[type="text"] {
+                            width: 220px;
+                        }
+                    }
+                }
+
+                .react-datepicker__month-container {
+                    width: 400px;
+
+                    .react-datepicker__day-name,
+                    .react-datepicker__day,
+                    .react-datepicker__time-name {
+                        width: 2.7rem;
+                        line-height: 2.7rem;
+                    }
+                }
+            }
+        }
+
+        input[type="text"],
+        input[type="datetime-local"],
+        input[type="time"],
+        input[type="number"],
+        input[type="password"],
+        input[type="email"] {
+            border-radius: 8px;
+            background-color: #fff;
+            transition: all 0.3s ease;
+            border: 1px solid #d1dbe8;
+            box-sizing: border-box;
+            font-size: 15px;
+            line-height: 24px;
+            outline: none;
+            padding: 8px;
+            margin: 0;
+            height: 40px;
+            cursor: unset;
+
+            &:focus {
+                outline: none;
+                box-shadow: none;
+                border: 1px solid #997eff;
+            }
+        }
+
+    }
+
+    .mhub-recording-info {
+        border-radius: 8px;
+        border: 2px dashed rgba(151, 144, 144, 0.8117647059);
+        padding: 2rem 4rem;
+        margin-top: 2rem;
+
+        .recording-info-wrapper {
+            p {
+                font-size: 30px;
+                text-align: center;
+                color: #7a7a7a;
+                font-weight: 400;
+                line-height: 30px;
+            }
+        }
+    }
+
+    @include respond-to('xlarge') {
+        .zoom-recordings-wrapper {
+            .header {
+               display: inline-block;
+               .left-align{
+                float: left;
+               }
+               .right-align{
+                float: right;
+                margin-top: 30px;
+               }
+            }
+    
+        }
+    }
+
+    @include respond-to('medium') {
+        .mhub-recording-info{
+            padding: 2rem .6rem;
+        }
+
+        .zoom-recordings-wrapper {
+            .header {
+                .left-align {
+                    display: inline-block;
+                     width: 100%;  
+                    label {
+                        display: inline-block;
+                        margin-right: 0;
+                        margin-bottom: 20px;
+                        text-align: left;
+                       
+                        &.mrl-10 {
+                            margin-right: 10px;
+                            margin-left: 10px;
+                            margin-top: 10px;
+                            margin-bottom: 10px;
+                            text-align: center;
+                            display: block;
+                        }
+                    }
+
+                    .input-wrapper {
+                        width: 100%;
+                    
+                        span.react-time-picker__inputGroup__leadingZero {
+                          display: none;
+                        }
+                    
+                        input[type="text"],
+                        input[type="datetime-local"],
+                        input[type="time"],
+                        input[type="number"],
+                        input[type="password"],
+                        input[type="email"] {
+                          max-width: unset !important;
+                          height: 50px;
+                        }
+                    
+                        .react-datepicker-wrapper {
+                          width: 100%;
+                          .react-datepicker__input-container {
+                            input[type="text"] {
+                              width: 100%;
+                            }
+                          }
+                        }
+                    
+                        .react-datepicker__month-container {
+                          width: 100%;
+                        }
+                    
+                        select {
+                          max-width: unset;
+                          height: 50px;
+                        }
+
+                        .mhub-select2 {
+                            .css-1l9zu8y-control{
+                              width: 100% !important;
+                            }
+                          
+                            .css-2z8c8a-control{
+                              width: 100% !important;
+                            }
+                        
+                            .css-142jlnw-menu{
+                              width: 100% !important;
+                            }
+                          
+                          }
+                  
+                    }
+    
+                    .report-show-btn {
+                        margin-top: 20px;
+                        float: right;
+                    }
+    
+                }
+            }
+    
+        }
+    }
+
+    @include respond-to('xsmall') {
+        .zoom-recordings-wrapper {
+            .header {
+                .right-align {
+                    width: 100%;
+                    float: left;
+                    .mhub-select2 {
+                        .css-1l9zu8y-control{
+                            width: 100% !important;
+                        }
+                        
+                        .css-2z8c8a-control{
+                            width: 100% !important;
+                        }
+                    
+                        .css-142jlnw-menu{
+                            width: 100% !important;
+                        }
+                        
+                    }
+                }
+            }
+        }
+    }
+
+}

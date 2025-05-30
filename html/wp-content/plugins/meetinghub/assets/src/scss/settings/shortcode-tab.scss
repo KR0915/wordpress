@@ -1,0 +1,97 @@
+@import '../mixins';
+
+.shortcodes-tab {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+  
+    p {
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+  
+    .shortcodes-list{
+        width: 60%;
+        .shortcode-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            margin-top: 20px;
+        
+            h3 {
+              font-size: 18px;
+              margin: 0;
+            }
+        
+            p {
+              font-size: 14px;
+              margin: 0;
+              margin-top: 5px;
+            }
+        
+            .copy-shortcode-btn {
+              padding: 8px 12px;
+              font-size: 14px;
+              color: #ffffff;
+              background-color: #7856fb;
+              border: none;
+              border-radius: 8px;
+              cursor: pointer;
+              display: flex;
+              align-items: center;
+              width: 149px;
+              justify-content: center;
+
+              i{
+                font-size: 16px;
+                margin-right: 5px;
+                line-height: 1.4;
+              }
+        
+              &:hover {
+                background-color: #4f21ff;
+              }
+        
+            }
+          }
+
+    }
+
+    @include respond-to('large') {
+      .shortcodes-list{
+        width: 70%;
+      }
+    }
+
+    @include respond-to('medium') {
+      .shortcodes-list{
+        width: 80%;
+      }
+    }
+
+    @include respond-to('small') {
+      .shortcodes-list{
+        width: 90%;
+      }
+    }
+
+    @include respond-to('xsmall') {
+      .shortcodes-list{
+        width: 100%;
+        .shortcode-item{
+          display: block;
+          .right-content{
+            margin-top: 10px;
+          }
+        }
+      }
+    }
+  
+
+  }
+  

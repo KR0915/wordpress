@@ -1,0 +1,255 @@
+
+/* Get in touch section */
+.mhub-container {
+    width: 800px;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  /* Row styling */
+  .mhub-row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Column styling */
+  [class*="mhub-col-"] {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  /* Responsive column styling */
+  @media (min-width: 576px) {
+    .mhub-col-6 {width: 50%;}
+  }
+  
+  @media (min-width: 768px) {
+    .mhub-col-md-6 {width: 50%;}
+  }
+  
+  @media (min-width: 992px) {
+    .mhub-col-lg-6 {width: 50%;}
+  }
+  
+  @media (min-width: 1200px) {
+    .mhub-col-xl-6 {width: 50%;}
+  }
+  
+  
+  .mhub-get-in-touch-section .mhub-title{
+    text-align: center;
+    margin-top: 50px;
+    font-weight:700;
+    color: #333;
+  }
+  
+  .mhub-get-in-touch-section .mhub-box{
+    background: #fff;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .mhub-get-in-touch-section .mhub-box svg{
+    height: 100px;
+    width: 80px;
+  }
+  .mhub-get-in-touch-section .mhub-box a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    color:  #7856fb;
+    margin-top: 5px;
+  }
+
+  .mhub-get-in-touch-section .mhub-box a:focus{
+    outline: none;
+    box-shadow: none;
+  }
+
+  .mhub-get-in-touch-section .mhub-box a:focus{
+    outline: none;
+  }
+
+  .mhub-get-in-touch-section .mhub-box a:hover{
+    color: #3741e1;
+  }
+
+  .mhub-get-in-touch-section .box-row{
+    margin-top: 40px;
+  }
+
+  .mhub-get-in-touch-section .mhub-rating{
+    margin-top: 40px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left:15px;
+    margin-right: 15px;
+  
+  }
+  .mhub-get-in-touch-section .mhub-rating p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+
+.mhub-rating .rating-wrapper {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.mhub-rating .rating-wrapper:focus{
+  outline: none;
+  box-shadow: none;
+}
+
+.mhub-rating .rating-wrapper .star {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    transition: fill 0.2s;
+}
+
+.mhub-rating .rating-wrapper .star-path {
+    fill: #ccc;
+}
+
+.mhub-rating .rating-wrapper .star.filled .star-path {
+    fill: gold;
+}
+
+.rc-time-picker-panel{
+  width: 400px !important;
+}
+
+.rc-time-picker-panel-inner{
+  width: 400px !important;
+}
+.rc-time-picker-panel-select{
+  width: 133px !important;
+}
+
+.rc-time-picker-clear-icon:after{
+  font-size: 20px !important;
+}
+.rc-time-picker-clear{
+  top: 7px !important;
+}
+
+
+
+@media (max-width: 992px) {
+  .mhub-container{
+    width: 700px;
+  }
+}
+
+@media (max-width: 768px) {
+  .mhub-container{
+    width: 600px;
+  }
+
+  .mhub-container .box-row .mhub-col-6 {
+      width: 100%;
+  }
+
+  .mhub-container .box-row .mhub-col-6 .box-two{
+    margin-top: 40px;
+  }
+
+  .mhub-get-in-touch-section .box-row{
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  .mhub-container{
+    width: 550px;
+  }
+}
+
+@media (max-width: 576px) {
+  .mhub-container{
+    width: 450px;
+  }
+}
+
+@media (max-width: 470px) {
+  .mhub-container{
+    width: 380px;
+  }
+}
+
+@media (max-width: 415px) {
+  .mhub-container{
+    width:320px;
+  }
+}
+
+@media (max-width: 345px) {
+  .mhub-container{
+    width:280px;
+  }
+  .mhub-get-in-touch-section .mhub-box {
+    padding: 60px 20px;
+  }
+}
+
+
+.mce-toolbar .mce-i-dashicons {
+  font-family: dashicons !important;
+  font-size: 35px !important;
+  width: auto !important;
+  line-height: 20px !important;
+}
+
+
+/* Booking integration */
+.mhub-booking-time-duration-fields{
+  display: flex;
+  align-items: center;
+}
+
+
+.mhub-booking-time-duration-fields #_mhub_booking_meeting_hours {
+  width: 80px !important; 
+}
+
+
+.mhub-booking-time-duration-fields #_mhub_booking_meeting_minutes {
+  width: 80px !important;
+}
+
+body .woocommerce_options_panel p.form-field._mhub_booking_meeting_minutes_field {
+    padding-left: 0 !important; 
+}
+
+
+.mhub_woo_booking_warning {
+  color: #ff0000;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 10px 0px 0px 12px;
+  display: inline-block;
+}
+
+.mhub_woo_booking_warning a {
+  color: #0066cc; /* Link color */
+  text-decoration: underline; /* Underline links */
+}
+
+.mhub_woo_booking_warning a:hover {
+  text-decoration: none; /* Remove underline on hover */
+  color: #004d99; /* Darker color on hover */
+}
